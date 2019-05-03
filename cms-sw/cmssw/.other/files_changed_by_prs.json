@@ -1144,7 +1144,7 @@
         "created_at": 1556275983, 
         "number": 26545, 
         "state": "open", 
-        "updated_at": 1556891394
+        "updated_at": 1556902043
     }, 
     "26555": {
         "changed_files_names": [
@@ -1861,7 +1861,7 @@
         "created_at": 1556880936, 
         "number": 26605, 
         "state": "open", 
-        "updated_at": 1556894754
+        "updated_at": 1556902180
     }, 
     "26606": {
         "changed_files_names": [
@@ -1893,7 +1893,7 @@
         "created_at": 1556883924, 
         "number": 26607, 
         "state": "open", 
-        "updated_at": 1556897023
+        "updated_at": 1556902576
     }, 
     "26609": {
         "changed_files_names": [
@@ -2704,5 +2704,16 @@
         "number": 26619, 
         "state": "open", 
         "updated_at": 1556897171
+    }, 
+    "26620": {
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/interface/HGCalDDDConstants.h", 
+            "Geometry/HGCalCommonData/plugins/DDHGCalHEAlgo.cc", 
+            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc"
+        ], 
+        "created_at": 1556902290, 
+        "number": 26620, 
+        "state": "open", 
+        "updated_at": 1556902360
     }
 }
