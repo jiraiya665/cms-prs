@@ -1269,7 +1269,7 @@
         "created_at": 1557261898, 
         "number": 26684, 
         "state": "open", 
-        "updated_at": 1557419318
+        "updated_at": 1557487483
     }, 
     "26685": {
         "changed_files_names": [
@@ -2555,6 +2555,23 @@
         "created_at": 1557486259, 
         "number": 26739, 
         "state": "open", 
-        "updated_at": 1557486317
+        "updated_at": 1557486955
+    }, 
+    "26740": {
+        "changed_files_names": [
+            "DetectorDescription/DDCMS/data/cms-2015-muon-geometry.xml", 
+            "DetectorDescription/DDCMS/plugins/DDDefinitions2Objects.cc", 
+            "SimG4Core/DD4hepGeometry/BuildFile.xml", 
+            "SimG4Core/DD4hepGeometry/interface/DD4hep_DDDWorld.h", 
+            "SimG4Core/DD4hepGeometry/plugins/BuildFile.xml", 
+            "SimG4Core/DD4hepGeometry/plugins/DD4hep_DDTestG4Geometry.cc", 
+            "SimG4Core/DD4hepGeometry/plugins/DD4hep_GeometryESProducer.cc", 
+            "SimG4Core/DD4hepGeometry/src/DD4hep_DDDWorld.cc", 
+            "SimG4Core/DD4hepGeometry/test/python/testG4Geometry.py"
+        ], 
+        "created_at": 1557486837, 
+        "number": 26740, 
+        "state": "open", 
+        "updated_at": 1557487368
     }
 }
