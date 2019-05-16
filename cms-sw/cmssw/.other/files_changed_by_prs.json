@@ -381,7 +381,7 @@
         "created_at": 1554194946, 
         "number": 26320, 
         "state": "open", 
-        "updated_at": 1558005773
+        "updated_at": 1558011211
     }, 
     "26322": {
         "changed_files_names": [
@@ -421,7 +421,7 @@
         "created_at": 1554641399, 
         "number": 26380, 
         "state": "open", 
-        "updated_at": 1558008977
+        "updated_at": 1558011133
     }, 
     "26402": {
         "changed_files_names": [
@@ -1029,7 +1029,7 @@
         "created_at": 1557241000, 
         "number": 26683, 
         "state": "open", 
-        "updated_at": 1558005614
+        "updated_at": 1558011221
     }, 
     "26684": {
         "changed_files_names": [
@@ -1085,7 +1085,7 @@
         "created_at": 1557486837, 
         "number": 26740, 
         "state": "open", 
-        "updated_at": 1558009571
+        "updated_at": 1558011202
     }, 
     "26742": {
         "changed_files_names": [
@@ -3288,7 +3288,7 @@
         "created_at": 1557909983, 
         "number": 26784, 
         "state": "open", 
-        "updated_at": 1558009386
+        "updated_at": 1558011467
     }, 
     "26785": {
         "changed_files_names": [
@@ -4621,7 +4621,7 @@
         "created_at": 1558003834, 
         "number": 26800, 
         "state": "open", 
-        "updated_at": 1558004435
+        "updated_at": 1558011330
     }, 
     "26801": {
         "changed_files_names": [
@@ -5478,5 +5478,18 @@
         "number": 26806, 
         "state": "open", 
         "updated_at": 1558008711
+    }, 
+    "26807": {
+        "changed_files_names": [
+            "HeterogeneousCore/CUDAServices/plugins/NVProfilerService.cc", 
+            "Utilities/General/interface/ClassName.h", 
+            "Utilities/General/interface/precomputed_value_sort.h", 
+            "Utilities/General/src/ClassName.cc", 
+            "Utilities/General/test/test_precomputed_value_sort.cpp"
+        ], 
+        "created_at": 1558011392, 
+        "number": 26807, 
+        "state": "open", 
+        "updated_at": 1558011469
     }
 }
