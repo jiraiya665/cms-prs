@@ -287,7 +287,7 @@
         "created_at": 1551882954, 
         "number": 26088, 
         "state": "open", 
-        "updated_at": 1559236384
+        "updated_at": 1559288244
     }, 
     "26322": {
         "changed_files_names": [
@@ -976,55 +976,6 @@
         "state": "open", 
         "updated_at": 1559211356
     }, 
-    "26820": {
-        "changed_files_names": [
-            "DataFormats/L1THGCal/interface/HGCalClusterT.h", 
-            "L1Trigger/L1THGCal/interface/HGCalTriggerGeometryBase.h", 
-            "L1Trigger/L1THGCal/interface/HGCalTriggerGeometryGenericMapping.h", 
-            "L1Trigger/L1THGCal/interface/concentrator/HGCalConcentratorBestChoiceImpl.h", 
-            "L1Trigger/L1THGCal/interface/concentrator/HGCalConcentratorProcessorSelection.h", 
-            "L1Trigger/L1THGCal/interface/concentrator/HGCalConcentratorSelectionImpl.h", 
-            "L1Trigger/L1THGCal/interface/concentrator/HGCalConcentratorSuperTriggerCellImpl.h", 
-            "L1Trigger/L1THGCal/interface/concentrator/HGCalConcentratorThresholdImpl.h", 
-            "L1Trigger/L1THGCal/plugins/concentrator/HGCalConcentratorProcessorSelection.cc", 
-            "L1Trigger/L1THGCal/plugins/geometries/HGCalTriggerGeometryHexImp2.cc", 
-            "L1Trigger/L1THGCal/plugins/geometries/HGCalTriggerGeometryHexLayerBasedImp1.cc", 
-            "L1Trigger/L1THGCal/plugins/geometries/HGCalTriggerGeometryV9Imp1.cc", 
-            "L1Trigger/L1THGCal/plugins/geometries/HGCalTriggerGeometryV9Imp2.cc", 
-            "L1Trigger/L1THGCal/plugins/geometries/README.md", 
-            "L1Trigger/L1THGCal/python/customTriggerCellSelect.py", 
-            "L1Trigger/L1THGCal/python/customTriggerGeometry.py", 
-            "L1Trigger/L1THGCal/python/hgcalConcentratorProducer_cfi.py", 
-            "L1Trigger/L1THGCal/src/HGCalTriggerGeometryGenericMapping.cc", 
-            "L1Trigger/L1THGCal/src/concentrator/HGCalConcentratorBestChoiceImpl.cc", 
-            "L1Trigger/L1THGCal/src/concentrator/HGCalConcentratorSelectionImpl.cc", 
-            "L1Trigger/L1THGCal/src/concentrator/HGCalConcentratorThresholdImpl.cc", 
-            "L1Trigger/L1THGCal/test/HGCalTriggerGeomTesterV9.cc", 
-            "L1Trigger/L1THGCal/test/HGCalTriggerGeomTesterV9Imp2.cc", 
-            "L1Trigger/L1THGCal/test/testHGCalL1TGeometryV10Imp2_cfg.py", 
-            "L1Trigger/L1THGCal/test/testHGCalL1TGeometryV10_cfg.py", 
-            "L1Trigger/L1THGCalUtilities/BuildFile.xml", 
-            "L1Trigger/L1THGCalUtilities/plugins/BuildFile.xml", 
-            "L1Trigger/L1THGCalUtilities/plugins/CaloTruthCellsProducer.cc", 
-            "L1Trigger/L1THGCalUtilities/plugins/ntuples/HGCalTriggerNtupleHGCClusters.cc", 
-            "L1Trigger/L1THGCalUtilities/plugins/ntuples/HGCalTriggerNtupleHGCMulticlusters.cc", 
-            "L1Trigger/L1THGCalUtilities/plugins/ntuples/HGCalTriggerNtupleHGCTriggerCells.cc", 
-            "L1Trigger/L1THGCalUtilities/plugins/ntuples/HGCalTriggerNtupleTowers.cc", 
-            "L1Trigger/L1THGCalUtilities/python/caloTruthCellsNtuples_cff.py", 
-            "L1Trigger/L1THGCalUtilities/python/caloTruthCellsProducer_cfi.py", 
-            "L1Trigger/L1THGCalUtilities/python/caloTruthCells_cff.py", 
-            "L1Trigger/L1THGCalUtilities/python/concentrator.py", 
-            "L1Trigger/L1THGCalUtilities/python/hgcalTriggerNtuples_cfi.py", 
-            "L1Trigger/L1THGCalUtilities/src/classes.h", 
-            "L1Trigger/L1THGCalUtilities/src/classes_def.xml", 
-            "L1Trigger/L1THGCalUtilities/test/testHGCalL1T_RelValV9_cfg.py", 
-            "L1Trigger/L1THGCalUtilities/test/testHGCalL1T_multialgo_cfg.py"
-        ], 
-        "created_at": 1558088520, 
-        "number": 26820, 
-        "state": "open", 
-        "updated_at": 1559215157
-    }, 
     "26830": {
         "changed_files_names": [
             "Validation/Geometry/data/mtdMaterials.l0", 
@@ -1149,7 +1100,7 @@
         "created_at": 1558733506, 
         "number": 26941, 
         "state": "open", 
-        "updated_at": 1559192967
+        "updated_at": 1559277585
     }, 
     "26944": {
         "changed_files_names": [
@@ -1205,7 +1156,7 @@
         "created_at": 1558961784, 
         "number": 26960, 
         "state": "open", 
-        "updated_at": 1559066974
+        "updated_at": 1559287602
     }, 
     "26963": {
         "changed_files_names": [
@@ -1215,7 +1166,7 @@
         "created_at": 1558962685, 
         "number": 26963, 
         "state": "open", 
-        "updated_at": 1559215212
+        "updated_at": 1559281666
     }, 
     "26966": {
         "changed_files_names": [
@@ -1227,7 +1178,7 @@
         "created_at": 1558981406, 
         "number": 26966, 
         "state": "open", 
-        "updated_at": 1559215292
+        "updated_at": 1559285482
     }, 
     "26967": {
         "changed_files_names": [
@@ -1273,7 +1224,7 @@
         "created_at": 1559100257, 
         "number": 26974, 
         "state": "open", 
-        "updated_at": 1559134080
+        "updated_at": 1559289572
     }, 
     "26975": {
         "changed_files_names": [
@@ -1636,55 +1587,6 @@
         "state": "open", 
         "updated_at": 1559117058
     }, 
-    "26983": {
-        "changed_files_names": [
-            "Geometry/HGCalGeometry/interface/CaloGeometryDBHGCal.h", 
-            "Geometry/HGCalGeometry/interface/FastTimeGeometry.h", 
-            "Geometry/HGCalGeometry/interface/FastTimeGeometryLoader.h", 
-            "Geometry/HGCalGeometry/interface/HGCalGeometry.h", 
-            "Geometry/HGCalGeometry/interface/HGCalGeometryLoader.h", 
-            "Geometry/HGCalGeometry/plugins/FastTimeGeometryESProducer.cc", 
-            "Geometry/HGCalGeometry/plugins/HGCalGeometryESProducer.cc", 
-            "Geometry/HGCalGeometry/plugins/moduleDB.cc", 
-            "Geometry/HGCalGeometry/src/FastTimeGeometry.cc", 
-            "Geometry/HGCalGeometry/src/FastTimeGeometryLoader.cc", 
-            "Geometry/HGCalGeometry/src/HGCalGeometry.cc", 
-            "Geometry/HGCalGeometry/src/HGCalGeometryLoader.cc", 
-            "Geometry/HGCalGeometry/test/CaloCellGeometryTester.cc", 
-            "Geometry/HGCalGeometry/test/FastTimeGeometryTester.cc", 
-            "Geometry/HGCalGeometry/test/HGCalGeometryCheck.cc", 
-            "Geometry/HGCalGeometry/test/HGCalGeometryCornerTester.cc", 
-            "Geometry/HGCalGeometry/test/HGCalGeometryTester.cc", 
-            "Geometry/HGCalGeometry/test/HGCalSizeTester.cc", 
-            "Geometry/HGCalGeometry/test/HGCalTestNeighbor.cc", 
-            "Geometry/HGCalGeometry/test/HGCalTestRecHitTool.cc", 
-            "Geometry/MTDGeometryBuilder/interface/MTDGeomBuilderFromGeometricTimingDet.h", 
-            "Geometry/MTDGeometryBuilder/interface/MTDGeomDetType.h", 
-            "Geometry/MTDGeometryBuilder/interface/MTDGeomDetUnit.h", 
-            "Geometry/MTDGeometryBuilder/interface/MTDGeometry.h", 
-            "Geometry/MTDGeometryBuilder/interface/MTDParametersFromDD.h", 
-            "Geometry/MTDGeometryBuilder/interface/MTDTopologyBuilder.h", 
-            "Geometry/MTDGeometryBuilder/interface/PlaneBuilderFromGeometricTimingDet.h", 
-            "Geometry/MTDGeometryBuilder/interface/ProxyMTDTopology.h", 
-            "Geometry/MTDGeometryBuilder/interface/RectangularMTDTopology.h", 
-            "Geometry/MTDGeometryBuilder/plugins/MTDDigiGeometryESModule.cc", 
-            "Geometry/MTDGeometryBuilder/plugins/MTDParametersESModule.cc", 
-            "Geometry/MTDGeometryBuilder/src/ES_MTDGeometry.cc", 
-            "Geometry/MTDGeometryBuilder/src/MTDGeomBuilderFromGeometricTimingDet.cc", 
-            "Geometry/MTDGeometryBuilder/src/MTDGeomDetUnit.cc", 
-            "Geometry/MTDGeometryBuilder/src/MTDGeometry.cc", 
-            "Geometry/MTDGeometryBuilder/src/MTDParametersFromDD.cc", 
-            "Geometry/MTDGeometryBuilder/src/MTDTopologyBuilder.cc", 
-            "Geometry/MTDGeometryBuilder/src/PlaneBuilderFromGeometricTimingDet.cc", 
-            "Geometry/MTDGeometryBuilder/src/ProxyMTDTopology.cc", 
-            "Geometry/MTDGeometryBuilder/src/RectangularMTDTopology.cc", 
-            "Geometry/MTDGeometryBuilder/test/MTDDigiGeometryAnalyzer.cc"
-        ], 
-        "created_at": 1559100603, 
-        "number": 26983, 
-        "state": "open", 
-        "updated_at": 1559228269
-    }, 
     "26985": {
         "changed_files_names": [
             "L1Trigger/ME0Trigger/interface/ME0Motherboard.h", 
@@ -1977,7 +1879,7 @@
         "created_at": 1559100784, 
         "number": 26987, 
         "state": "open", 
-        "updated_at": 1559273912
+        "updated_at": 1559285245
     }, 
     "26988": {
         "changed_files_names": [
@@ -2299,21 +2201,7 @@
         "created_at": 1559100961, 
         "number": 26992, 
         "state": "open", 
-        "updated_at": 1559274167
-    }, 
-    "26994": {
-        "changed_files_names": [
-            "TrackPropagation/SteppingHelixPropagator/interface/SteppingHelixPropagator.h", 
-            "TrackPropagation/SteppingHelixPropagator/interface/SteppingHelixStateInfo.h", 
-            "TrackPropagation/SteppingHelixPropagator/plugins/SteppingHelixPropagatorESProducer.cc", 
-            "TrackPropagation/SteppingHelixPropagator/src/SteppingHelixPropagator.cc", 
-            "TrackPropagation/SteppingHelixPropagator/src/SteppingHelixStateInfo.cc", 
-            "TrackPropagation/SteppingHelixPropagator/test/SteppingHelixPropagatorAnalyzer.cc"
-        ], 
-        "created_at": 1559131656, 
-        "number": 26994, 
-        "state": "open", 
-        "updated_at": 1559228637
+        "updated_at": 1559282371
     }, 
     "26996": {
         "changed_files_names": [
@@ -2348,7 +2236,7 @@
         "created_at": 1559140015, 
         "number": 26998, 
         "state": "open", 
-        "updated_at": 1559269595
+        "updated_at": 1559286433
     }, 
     "26999": {
         "changed_files_names": [
@@ -2358,25 +2246,6 @@
         "number": 26999, 
         "state": "open", 
         "updated_at": 1559232724
-    }, 
-    "27000": {
-        "changed_files_names": [
-            "RecoBTag/ImpactParameter/plugins/IPProducer.h"
-        ], 
-        "created_at": 1559144280, 
-        "number": 27000, 
-        "state": "open", 
-        "updated_at": 1559227734
-    }, 
-    "27002": {
-        "changed_files_names": [
-            "TrackingTools/TransientTrack/plugins/TransientTrackBuilderESProducer.cc", 
-            "TrackingTools/TransientTrack/plugins/TransientTrackBuilderESProducer.h"
-        ], 
-        "created_at": 1559148316, 
-        "number": 27002, 
-        "state": "open", 
-        "updated_at": 1559228933
     }, 
     "27003": {
         "changed_files_names": [
@@ -2408,7 +2277,7 @@
         "created_at": 1559156360, 
         "number": 27003, 
         "state": "open", 
-        "updated_at": 1559217359
+        "updated_at": 1559286306
     }, 
     "27004": {
         "changed_files_names": [
@@ -2519,7 +2388,7 @@
         "created_at": 1559239957, 
         "number": 27013, 
         "state": "open", 
-        "updated_at": 1559255430
+        "updated_at": 1559274978
     }, 
     "27014": {
         "changed_files_names": [
@@ -2545,7 +2414,7 @@
         "created_at": 1559243794, 
         "number": 27015, 
         "state": "open", 
-        "updated_at": 1559265106
+        "updated_at": 1559276719
     }, 
     "27016": {
         "changed_files_names": [
@@ -2568,7 +2437,7 @@
         "created_at": 1559273744, 
         "number": 27017, 
         "state": "open", 
-        "updated_at": 1559274166
+        "updated_at": 1559288237
     }, 
     "27018": {
         "changed_files_names": [
@@ -2579,7 +2448,7 @@
         "created_at": 1559273757, 
         "number": 27018, 
         "state": "open", 
-        "updated_at": 1559274157
+        "updated_at": 1559284554
     }, 
     "27019": {
         "changed_files_names": [
@@ -2636,7 +2505,7 @@
         "created_at": 1559273792, 
         "number": 27019, 
         "state": "open", 
-        "updated_at": 1559274369
+        "updated_at": 1559284925
     }, 
     "27020": {
         "changed_files_names": [
@@ -2661,7 +2530,7 @@
         "created_at": 1559273806, 
         "number": 27020, 
         "state": "open", 
-        "updated_at": 1559274351
+        "updated_at": 1559284313
     }, 
     "27021": {
         "changed_files_names": [
@@ -2737,7 +2606,7 @@
         "created_at": 1559273830, 
         "number": 27021, 
         "state": "open", 
-        "updated_at": 1559274389
+        "updated_at": 1559289646
     }, 
     "27022": {
         "changed_files_names": [
@@ -2909,7 +2778,7 @@
         "created_at": 1559273858, 
         "number": 27022, 
         "state": "open", 
-        "updated_at": 1559274385
+        "updated_at": 1559286457
     }, 
     "27023": {
         "changed_files_names": [
@@ -2936,6 +2805,74 @@
         "created_at": 1559273876, 
         "number": 27023, 
         "state": "open", 
-        "updated_at": 1559274367
+        "updated_at": 1559285332
+    }, 
+    "27025": {
+        "changed_files_names": [
+            "Utilities/ReleaseScripts/BuildFile.xml"
+        ], 
+        "created_at": 1559283875, 
+        "number": 27025, 
+        "state": "open", 
+        "updated_at": 1559287182
+    }, 
+    "27026": {
+        "changed_files_names": [
+            "DataFormats/TICL/BuildFile.xml", 
+            "DataFormats/TICL/interface/Common.h", 
+            "DataFormats/TICL/interface/TICLLayerTile.h", 
+            "DataFormats/TICL/interface/Trackster.h", 
+            "DataFormats/TICL/src/classes.h", 
+            "DataFormats/TICL/src/classes_def.xml", 
+            "RecoHGCal/TICL/BuildFile.xml", 
+            "RecoHGCal/TICL/interface/PatternRecognitionAlgoBase.h", 
+            "RecoHGCal/TICL/plugins/BuildFile.xml", 
+            "RecoHGCal/TICL/plugins/ClusterFilterBase.h", 
+            "RecoHGCal/TICL/plugins/ClusterFilterByAlgo.h", 
+            "RecoHGCal/TICL/plugins/ClusterFilterByAlgoOrSize.h", 
+            "RecoHGCal/TICL/plugins/ClusterFilterBySize.h", 
+            "RecoHGCal/TICL/plugins/FilteredLayerClustersProducer.cc", 
+            "RecoHGCal/TICL/plugins/HGCGraph.cc", 
+            "RecoHGCal/TICL/plugins/HGCGraph.h", 
+            "RecoHGCal/TICL/plugins/MultiClustersFromTrackstersProducer.cc", 
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyCA.cc", 
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyCA.h", 
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyCAConstants.h", 
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyMultiClusters.cc", 
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyMultiClusters.h", 
+            "RecoHGCal/TICL/plugins/TICLLayerTilesProducer.cc", 
+            "RecoHGCal/TICL/plugins/TrackstersProducer.cc", 
+            "RecoHGCal/TICL/python/ticl_iterations.py", 
+            "RecoHGCal/TICL/src/BuildFile.xml", 
+            "RecoHGCal/TICL/src/classes.h", 
+            "RecoHGCal/TICL/src/classes_def.xml", 
+            "RecoLocalCalo/HGCalRecAlgos/interface/ClusterTools.h", 
+            "RecoLocalCalo/HGCalRecAlgos/interface/HGCal3DClustering.h", 
+            "RecoLocalCalo/HGCalRecAlgos/interface/HGCalDepthPreClusterer.h", 
+            "RecoLocalCalo/HGCalRecAlgos/interface/HGCalRecHitAbsAlgo.h", 
+            "RecoLocalCalo/HGCalRecAlgos/interface/HGCalRecHitSimpleAlgo.h", 
+            "RecoLocalCalo/HGCalRecAlgos/interface/HGCalUncalibRecHitRecAbsAlgo.h", 
+            "RecoLocalCalo/HGCalRecAlgos/interface/HGCalUncalibRecHitRecWeightsAlgo.h", 
+            "RecoLocalCalo/HGCalRecAlgos/interface/KDTreeLinkerAlgoT.h", 
+            "RecoLocalCalo/HGCalRecAlgos/interface/KDTreeLinkerToolsT.h", 
+            "RecoLocalCalo/HGCalRecAlgos/interface/RecHitTools.h", 
+            "RecoLocalCalo/HGCalRecAlgos/src/ClusterTools.cc", 
+            "RecoLocalCalo/HGCalRecAlgos/src/HGCal3DClustering.cc", 
+            "RecoLocalCalo/HGCalRecAlgos/src/HGCalDepthPreClusterer.cc"
+        ], 
+        "created_at": 1559285383, 
+        "number": 27026, 
+        "state": "open", 
+        "updated_at": 1559287153
+    }, 
+    "27027": {
+        "changed_files_names": [
+            "SimG4Core/Geometry/interface/SensitiveDetectorCatalog.h", 
+            "SimG4Core/Geometry/src/SensitiveDetectorCatalog.cc"
+        ], 
+        "created_at": 1559289473, 
+        "number": 27027, 
+        "state": "open", 
+        "updated_at": 1559289987
     }
 }
