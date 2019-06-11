@@ -216,7 +216,7 @@
         "created_at": 1549613953, 
         "number": 25889, 
         "state": "open", 
-        "updated_at": 1558007958
+        "updated_at": 1560165219
     }, 
     "25891": {
         "base_branch": "master", 
@@ -463,8 +463,13 @@
         "updated_at": 1557848257
     }, 
     "26402": {
-        "base_branch": "master", 
+        "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
+            "CUDADataFormats/BeamSpot/BuildFile.xml", 
+            "CUDADataFormats/BeamSpot/interface/BeamSpotCUDA.h", 
+            "CUDADataFormats/BeamSpot/src/BeamSpotCUDA.cc", 
+            "CUDADataFormats/BeamSpot/src/classes.h", 
+            "CUDADataFormats/BeamSpot/src/classes_def.xml", 
             "CUDADataFormats/Common/BuildFile.xml", 
             "CUDADataFormats/Common/interface/CUDAProduct.h", 
             "CUDADataFormats/Common/interface/CUDAProductBase.h", 
@@ -474,6 +479,7 @@
             "CUDADataFormats/Common/test/test_main.cc", 
             "CUDADataFormats/SiPixelCluster/BuildFile.xml", 
             "CUDADataFormats/SiPixelCluster/interface/SiPixelClustersCUDA.h", 
+            "CUDADataFormats/SiPixelCluster/interface/gpuClusteringConstants.h", 
             "CUDADataFormats/SiPixelCluster/src/SiPixelClustersCUDA.cc", 
             "CUDADataFormats/SiPixelCluster/src/classes.h", 
             "CUDADataFormats/SiPixelCluster/src/classes_def.xml", 
@@ -484,6 +490,14 @@
             "CUDADataFormats/SiPixelDigi/src/SiPixelDigisCUDA.cc", 
             "CUDADataFormats/SiPixelDigi/src/classes.h", 
             "CUDADataFormats/SiPixelDigi/src/classes_def.xml", 
+            "CUDADataFormats/TrackingRecHit/BuildFile.xml", 
+            "CUDADataFormats/TrackingRecHit/interface/TrackingRecHit2DCUDA.h", 
+            "CUDADataFormats/TrackingRecHit/src/TrackingRecHit2DCUDA.cc", 
+            "CUDADataFormats/TrackingRecHit/src/classes.h", 
+            "CUDADataFormats/TrackingRecHit/src/classes_def.xml", 
+            "CUDADataFormats/TrackingRecHit/test/BuildFile.xml", 
+            "CUDADataFormats/TrackingRecHit/test/TrackingRecHit2DCUDA_t.cpp", 
+            "CUDADataFormats/TrackingRecHit/test/TrackingRecHit2DCUDA_t.cu", 
             "CalibTracker/Records/interface/SiPixelGainCalibrationForHLTGPURcd.h", 
             "CalibTracker/Records/src/SiPixelGainCalibrationForHLTGPURcd.cc", 
             "CalibTracker/SiPixelESProducers/BuildFile.xml", 
@@ -495,8 +509,7 @@
             "CondFormats/SiPixelObjects/interface/SiPixelGainForHLTonGPU.h", 
             "Configuration/Applications/python/ConfigBuilder.py", 
             "Configuration/ProcessModifiers/python/gpu_cff.py", 
-            "Configuration/ProcessModifiers/python/riemannFitGPU_cff.py", 
-            "Configuration/ProcessModifiers/python/riemannFit_cff.py", 
+            "Configuration/ProcessModifiers/python/pixelNtupleFit_cff.py", 
             "Configuration/PyReleaseValidation/python/relval_2017.py", 
             "Configuration/PyReleaseValidation/python/relval_standard.py", 
             "Configuration/PyReleaseValidation/python/relval_steps.py", 
@@ -524,7 +537,11 @@
             "DataFormats/HcalDigi/test/test_hcal_digi.cu", 
             "DataFormats/HcalRecHit/test/BuildFile.xml", 
             "DataFormats/HcalRecHit/test/test_hcal_reco.cu", 
+            "DataFormats/Math/BuildFile.xml", 
+            "DataFormats/Math/interface/choleskyInversion.h", 
             "DataFormats/Math/test/BuildFile.xml", 
+            "DataFormats/Math/test/CholeskyInvert_t.cpp", 
+            "DataFormats/Math/test/CholeskyInvert_t.cu", 
             "DataFormats/Math/test/cudaAtan2Test.cu", 
             "DataFormats/Math/test/cudaMathTest.cu", 
             "DataFormats/SiPixelCluster/interface/SiPixelCluster.h", 
@@ -630,27 +647,37 @@
             "HeterogeneousCore/CUDAUtilities/interface/HistoContainer.h", 
             "HeterogeneousCore/CUDAUtilities/interface/copyAsync.h", 
             "HeterogeneousCore/CUDAUtilities/interface/cudaCheck.h", 
+            "HeterogeneousCore/CUDAUtilities/interface/cudaCompat.h", 
             "HeterogeneousCore/CUDAUtilities/interface/cuda_assert.h", 
             "HeterogeneousCore/CUDAUtilities/interface/cuda_cxx17.h", 
             "HeterogeneousCore/CUDAUtilities/interface/cudastdAlgorithm.h", 
             "HeterogeneousCore/CUDAUtilities/interface/device_unique_ptr.h", 
+            "HeterogeneousCore/CUDAUtilities/interface/eigenSoA.h", 
             "HeterogeneousCore/CUDAUtilities/interface/exitSansCUDADevices.h", 
             "HeterogeneousCore/CUDAUtilities/interface/getCudaDrvErrorString.h", 
+            "HeterogeneousCore/CUDAUtilities/interface/host_noncached_unique_ptr.h", 
             "HeterogeneousCore/CUDAUtilities/interface/host_unique_ptr.h", 
             "HeterogeneousCore/CUDAUtilities/interface/memsetAsync.h", 
             "HeterogeneousCore/CUDAUtilities/interface/prefixScan.h", 
             "HeterogeneousCore/CUDAUtilities/interface/radixSort.h", 
+            "HeterogeneousCore/CUDAUtilities/src/cudaCompat.cc", 
             "HeterogeneousCore/CUDAUtilities/src/exitSansCUDADevices.cc", 
             "HeterogeneousCore/CUDAUtilities/test/AtomicPairCounter_t.cu", 
             "HeterogeneousCore/CUDAUtilities/test/BuildFile.xml", 
             "HeterogeneousCore/CUDAUtilities/test/HistoContainer_t.cpp", 
             "HeterogeneousCore/CUDAUtilities/test/HistoContainer_t.cu", 
             "HeterogeneousCore/CUDAUtilities/test/OneHistoContainer_t.cu", 
+            "HeterogeneousCore/CUDAUtilities/test/OneToManyAssoc_t.cpp", 
             "HeterogeneousCore/CUDAUtilities/test/OneToManyAssoc_t.cu", 
+            "HeterogeneousCore/CUDAUtilities/test/OneToManyAssoc_t.h", 
             "HeterogeneousCore/CUDAUtilities/test/assert_t.cu", 
             "HeterogeneousCore/CUDAUtilities/test/copyAsync_t.cpp", 
             "HeterogeneousCore/CUDAUtilities/test/cudastdAlgorithm_t.cpp", 
             "HeterogeneousCore/CUDAUtilities/test/cudastdAlgorithm_t.cu", 
+            "HeterogeneousCore/CUDAUtilities/test/eigenSoA_t.cpp", 
+            "HeterogeneousCore/CUDAUtilities/test/eigenSoA_t.cu", 
+            "HeterogeneousCore/CUDAUtilities/test/eigenSoA_t.h", 
+            "HeterogeneousCore/CUDAUtilities/test/host_noncached_unique_ptr_t.cpp", 
             "HeterogeneousCore/CUDAUtilities/test/memsetAsync_t.cpp", 
             "HeterogeneousCore/CUDAUtilities/test/prefixScan_t.cu", 
             "HeterogeneousCore/CUDAUtilities/test/radixSort_t.cu", 
@@ -692,7 +719,6 @@
             "HeterogeneousCore/Product/test/testHeterogeneousProduct.cpp", 
             "RecoLocalTracker/Configuration/python/RecoLocalTracker_cff.py", 
             "RecoLocalTracker/SiPixelClusterizer/BuildFile.xml", 
-            "RecoLocalTracker/SiPixelClusterizer/interface/PixelTrackingGPUConstants.h", 
             "RecoLocalTracker/SiPixelClusterizer/interface/SiPixelFedCablingMapGPU.h", 
             "RecoLocalTracker/SiPixelClusterizer/interface/SiPixelFedCablingMapGPUWrapper.h", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/BuildFile.xml", 
@@ -708,12 +734,13 @@
             "RecoLocalTracker/SiPixelClusterizer/plugins/gpuClusteringConstants.h", 
             "RecoLocalTracker/SiPixelClusterizer/python/SiPixelClusterizerPreSplitting_cfi.py", 
             "RecoLocalTracker/SiPixelClusterizer/python/SiPixelClusterizer_cfi.py", 
-            "RecoLocalTracker/SiPixelClusterizer/python/siPixelClustersHeterogeneous_cfi.py", 
             "RecoLocalTracker/SiPixelClusterizer/python/siPixelClustersPreSplitting_cff.py", 
             "RecoLocalTracker/SiPixelClusterizer/src/ES_SiPixelFedCablingMapGPUWrapper.cc", 
             "RecoLocalTracker/SiPixelClusterizer/src/SiPixelFedCablingMapGPUWrapper.cc", 
             "RecoLocalTracker/SiPixelClusterizer/test/BuildFile.xml", 
-            "RecoLocalTracker/SiPixelClusterizer/test/gpuClustering.cu", 
+            "RecoLocalTracker/SiPixelClusterizer/test/cpuClustering_t.cpp", 
+            "RecoLocalTracker/SiPixelClusterizer/test/gpuClustering_t.cu", 
+            "RecoLocalTracker/SiPixelClusterizer/test/gpuClustering_t.h", 
             "RecoLocalTracker/SiPixelRecHits/BuildFile.xml", 
             "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEBase.h", 
             "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEFast.h", 
@@ -722,32 +749,32 @@
             "RecoLocalTracker/SiPixelRecHits/plugins/PixelCPEFastESProducer.cc", 
             "RecoLocalTracker/SiPixelRecHits/plugins/PixelRecHits.cu", 
             "RecoLocalTracker/SiPixelRecHits/plugins/PixelRecHits.h", 
-            "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitHeterogeneous.cc", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitCUDA.cc", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitFromSOA.cc", 
             "RecoLocalTracker/SiPixelRecHits/plugins/gpuPixelRecHits.h", 
-            "RecoLocalTracker/SiPixelRecHits/plugins/siPixelRecHitsHeterogeneousProduct.h", 
             "RecoLocalTracker/SiPixelRecHits/python/PixelCPEESProducers_cff.py", 
             "RecoLocalTracker/SiPixelRecHits/python/PixelCPEFast_cfi.py", 
+            "RecoLocalTracker/SiPixelRecHits/python/SiPixelRecHits_cfi.py", 
             "RecoLocalTracker/SiPixelRecHits/src/PixelCPEFast.cc", 
             "RecoLocalTracker/SiPixelRecHits/test/BuildFile.xml", 
             "RecoPixelVertexing/Configuration/python/RecoPixelVertexing_cff.py", 
             "RecoPixelVertexing/Configuration/python/customizePixelTracksForProfiling.py", 
             "RecoPixelVertexing/PixelTrackFitting/BuildFile.xml", 
+            "RecoPixelVertexing/PixelTrackFitting/interface/BrokenLine.h", 
             "RecoPixelVertexing/PixelTrackFitting/interface/FitResult.h", 
-            "RecoPixelVertexing/PixelTrackFitting/interface/PixelFitterByRiemannParaboloid.h", 
+            "RecoPixelVertexing/PixelTrackFitting/interface/FitUtils.h", 
+            "RecoPixelVertexing/PixelTrackFitting/interface/PixelNtupletsFitter.h", 
             "RecoPixelVertexing/PixelTrackFitting/interface/RiemannFit.h", 
             "RecoPixelVertexing/PixelTrackFitting/interface/pixelTrackHeterogeneousProduct.h", 
             "RecoPixelVertexing/PixelTrackFitting/plugins/BuildFile.xml", 
-            "RecoPixelVertexing/PixelTrackFitting/plugins/PixelFitterByRiemannParaboloidProducer.cc", 
+            "RecoPixelVertexing/PixelTrackFitting/plugins/PixelNtupletsFitterProducer.cc", 
             "RecoPixelVertexing/PixelTrackFitting/plugins/PixelTrackProducer.cc", 
             "RecoPixelVertexing/PixelTrackFitting/plugins/PixelTrackProducer.h", 
             "RecoPixelVertexing/PixelTrackFitting/plugins/PixelTrackProducerFromCUDA.cc", 
-            "RecoPixelVertexing/PixelTrackFitting/plugins/PixelTrackReconstructionGPU.cc", 
-            "RecoPixelVertexing/PixelTrackFitting/plugins/PixelTrackReconstructionGPU.cu", 
-            "RecoPixelVertexing/PixelTrackFitting/plugins/PixelTrackReconstructionGPU.h", 
             "RecoPixelVertexing/PixelTrackFitting/plugins/storeTracks.h", 
             "RecoPixelVertexing/PixelTrackFitting/python/PixelTracks_cff.py", 
-            "RecoPixelVertexing/PixelTrackFitting/python/pixelFitterByRiemannParaboloid_cfi.py", 
-            "RecoPixelVertexing/PixelTrackFitting/src/PixelFitterByRiemannParaboloid.cc", 
+            "RecoPixelVertexing/PixelTrackFitting/python/pixelNtupletsFitter_cfi.py", 
+            "RecoPixelVertexing/PixelTrackFitting/src/PixelNtupletsFitter.cc", 
             "RecoPixelVertexing/PixelTrackFitting/test/BuildFile.xml", 
             "RecoPixelVertexing/PixelTrackFitting/test/PixelTrackRiemannFit.cc", 
             "RecoPixelVertexing/PixelTrackFitting/test/testEigenGPU.cu", 
@@ -757,21 +784,23 @@
             "RecoPixelVertexing/PixelTrackFitting/test/test_common.h", 
             "RecoPixelVertexing/PixelTriplets/interface/CAHitQuadrupletGenerator.h", 
             "RecoPixelVertexing/PixelTriplets/interface/CircleEq.h", 
+            "RecoPixelVertexing/PixelTriplets/plugins/BrokenLineFitOnGPU.cu", 
             "RecoPixelVertexing/PixelTriplets/plugins/BuildFile.xml", 
             "RecoPixelVertexing/PixelTriplets/plugins/CAConstants.h", 
             "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletHeterogeneousEDProducer.cc", 
             "RecoPixelVertexing/PixelTriplets/plugins/CAHitQuadrupletGeneratorGPU.cc", 
             "RecoPixelVertexing/PixelTriplets/plugins/CAHitQuadrupletGeneratorGPU.h", 
-            "RecoPixelVertexing/PixelTriplets/plugins/CAHitQuadrupletGeneratorKernels.cc", 
             "RecoPixelVertexing/PixelTriplets/plugins/CAHitQuadrupletGeneratorKernels.cu", 
             "RecoPixelVertexing/PixelTriplets/plugins/CAHitQuadrupletGeneratorKernels.h", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitQuadrupletGeneratorKernelsAlloc.cu", 
             "RecoPixelVertexing/PixelTriplets/plugins/GPUCACell.h", 
+            "RecoPixelVertexing/PixelTriplets/plugins/HelixFitOnGPU.cc", 
+            "RecoPixelVertexing/PixelTriplets/plugins/HelixFitOnGPU.h", 
             "RecoPixelVertexing/PixelTriplets/plugins/RecHitsMap.h", 
-            "RecoPixelVertexing/PixelTriplets/plugins/RiemannFitOnGPU.cc", 
             "RecoPixelVertexing/PixelTriplets/plugins/RiemannFitOnGPU.cu", 
-            "RecoPixelVertexing/PixelTriplets/plugins/RiemannFitOnGPU.h", 
             "RecoPixelVertexing/PixelTriplets/plugins/gpuFishbone.h", 
             "RecoPixelVertexing/PixelTriplets/plugins/gpuPixelDoublets.h", 
+            "RecoPixelVertexing/PixelTriplets/plugins/gpuPixelDoubletsAlgos.h", 
             "RecoPixelVertexing/PixelTriplets/plugins/pixelTuplesHeterogeneousProduct.h", 
             "RecoPixelVertexing/PixelTriplets/python/caHitQuadrupletEDProducer_cfi.py", 
             "RecoPixelVertexing/PixelTriplets/test/BuildFile.xml", 
@@ -783,14 +812,21 @@
             "RecoPixelVertexing/PixelVertexFinding/python/PixelVertexes_cfi.py", 
             "RecoPixelVertexing/PixelVertexFinding/src/PixelVertexHeterogeneousConverter.cc", 
             "RecoPixelVertexing/PixelVertexFinding/src/PixelVertexHeterogeneousProducer.cc", 
-            "RecoPixelVertexing/PixelVertexFinding/src/gpuClusterTracks.h", 
+            "RecoPixelVertexing/PixelVertexFinding/src/gpuClusterTracksByDensity.h", 
+            "RecoPixelVertexing/PixelVertexFinding/src/gpuClusterTracksDBSCAN.h", 
+            "RecoPixelVertexing/PixelVertexFinding/src/gpuClusterTracksIterative.h", 
             "RecoPixelVertexing/PixelVertexFinding/src/gpuFitVertices.h", 
             "RecoPixelVertexing/PixelVertexFinding/src/gpuSortByPt2.h", 
             "RecoPixelVertexing/PixelVertexFinding/src/gpuSplitVertices.h", 
             "RecoPixelVertexing/PixelVertexFinding/src/gpuVertexFinder.cu", 
             "RecoPixelVertexing/PixelVertexFinding/src/gpuVertexFinder.h", 
             "RecoPixelVertexing/PixelVertexFinding/test/BuildFile.xml", 
+            "RecoPixelVertexing/PixelVertexFinding/test/VertexFinder_t.h", 
+            "RecoPixelVertexing/PixelVertexFinding/test/cpuVertexFinder_t.cpp", 
             "RecoPixelVertexing/PixelVertexFinding/test/gpuVertexFinder_t.cu", 
+            "RecoVertex/BeamSpotProducer/plugins/BeamSpotToCUDA.cc", 
+            "RecoVertex/BeamSpotProducer/plugins/BuildFile.xml", 
+            "RecoVertex/BeamSpotProducer/python/BeamSpot_cff.py", 
             "SimTracker/TrackerHitAssociation/plugins/BuildFile.xml", 
             "SimTracker/TrackerHitAssociation/plugins/ClusterSLOnGPU.cu", 
             "SimTracker/TrackerHitAssociation/plugins/ClusterSLOnGPU.h", 
@@ -801,13 +837,14 @@
             "Utilities/ReleaseScripts/python/cmsCodeRules/config.py", 
             "Validation/RecoTrack/python/PostProcessorTracker_cfi.py", 
             "Validation/RecoTrack/python/TrackValidation_cff.py", 
+            "Validation/RecoTrack/python/TrackingParticleSelectionsForEfficiency_cff.py", 
             "Validation/RecoTrack/python/plotting/html.py", 
             "Validation/RecoTrack/python/plotting/trackingPlots.py"
         ], 
         "created_at": 1554803024, 
         "number": 26402, 
         "state": "open", 
-        "updated_at": 1557848262
+        "updated_at": 1560159811
     }, 
     "26416": {
         "base_branch": "CMSSW_10_5_X", 
@@ -982,7 +1019,7 @@
         "created_at": 1556741247, 
         "number": 26592, 
         "state": "open", 
-        "updated_at": 1559928938
+        "updated_at": 1560226843
     }, 
     "26603": {
         "base_branch": "master", 
@@ -1007,23 +1044,6 @@
         "state": "open", 
         "updated_at": 1560000104
     }, 
-    "26796": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/MuonDetId/interface/MuonSubdetId.h", 
-            "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py", 
-            "RecoTauTag/RecoTau/interface/DeepTauBase.h", 
-            "RecoTauTag/RecoTau/plugins/DPFIsolation.cc", 
-            "RecoTauTag/RecoTau/plugins/DeepTauId.cc", 
-            "RecoTauTag/RecoTau/python/tools/runTauIdMVA.py", 
-            "RecoTauTag/RecoTau/src/DeepTauBase.cc", 
-            "RecoTauTag/RecoTau/test/runDeepTauIDsOnMiniAOD.py"
-        ], 
-        "created_at": 1557992884, 
-        "number": 26796, 
-        "state": "open", 
-        "updated_at": 1559897915
-    }, 
     "26806": {
         "base_branch": "master", 
         "changed_files_names": [
@@ -1038,31 +1058,6 @@
         "number": 26806, 
         "state": "open", 
         "updated_at": 1559227814
-    }, 
-    "26811": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1Trigger/L1THGCal/python/hgcalVFEProducer_cfi.py", 
-            "L1Trigger/L1THGCal/src/veryfrontend/HGCalVFESummationImpl.cc", 
-            "RecoLocalCalo/HGCalRecProducers/interface/HGCalCLUEAlgo.h", 
-            "RecoLocalCalo/HGCalRecProducers/interface/HGCalImagingAlgo.h", 
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalRecHitWorkerSimple.cc", 
-            "RecoLocalCalo/HGCalRecProducers/python/HGCalRecHit_cfi.py", 
-            "RecoLocalCalo/HGCalRecProducers/python/hgcalLayerClusters_cff.py", 
-            "SimCalorimetry/HGCalSimProducers/data/doseParams_3000fb_fluka-3.5.15.9.txt", 
-            "SimCalorimetry/HGCalSimProducers/interface/HGCHEbackDigitizer.h", 
-            "SimCalorimetry/HGCalSimProducers/python/hgcalDigitizer_cfi.py", 
-            "SimCalorimetry/HGCalSimProducers/src/HGCHEbackDigitizer.cc", 
-            "SimCalorimetry/HGCalSimProducers/test/BuildFile.xml", 
-            "SimCalorimetry/HGCalSimProducers/test/HGCHEbackSignalScalerAnalyzer.cc", 
-            "SimCalorimetry/HGCalSimProducers/test/hgchebacksignalscaler_cfg.py", 
-            "SimCalorimetry/HcalSimAlgos/test/sipmnonlinearityanalyzer_cfg.py", 
-            "SimGeneral/MixingModule/python/digitizers_cfi.py"
-        ], 
-        "created_at": 1558026961, 
-        "number": 26811, 
-        "state": "open", 
-        "updated_at": 1559909239
     }, 
     "26814": {
         "base_branch": "master", 
@@ -1106,18 +1101,6 @@
         "state": "open", 
         "updated_at": 1559897880
     }, 
-    "26864": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoParticleFlow/PFProducer/interface/PFAlgo.h", 
-            "RecoParticleFlow/PFProducer/plugins/PFProducer.cc", 
-            "RecoParticleFlow/PFProducer/src/PFAlgo.cc"
-        ], 
-        "created_at": 1558468899, 
-        "number": 26864, 
-        "state": "open", 
-        "updated_at": 1560051161
-    }, 
     "26875": {
         "base_branch": "master", 
         "changed_files_names": [
@@ -1128,7 +1111,7 @@
         "created_at": 1558495310, 
         "number": 26875, 
         "state": "open", 
-        "updated_at": 1560025948
+        "updated_at": 1560173823
     }, 
     "26880": {
         "base_branch": "CMSSW_9_4_X", 
@@ -1164,7 +1147,7 @@
         "created_at": 1558530764, 
         "number": 26892, 
         "state": "open", 
-        "updated_at": 1560000547
+        "updated_at": 1560202976
     }, 
     "26898": {
         "base_branch": "CMSSW_10_6_X", 
@@ -1175,7 +1158,7 @@
         "created_at": 1558595493, 
         "number": 26898, 
         "state": "open", 
-        "updated_at": 1559800074
+        "updated_at": 1560185837
     }, 
     "26904": {
         "base_branch": "CMSSW_9_3_X", 
@@ -1231,59 +1214,6 @@
         "state": "open", 
         "updated_at": 1559318191
     }, 
-    "27026": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/TICL/BuildFile.xml", 
-            "DataFormats/TICL/interface/Common.h", 
-            "DataFormats/TICL/interface/TICLLayerTile.h", 
-            "DataFormats/TICL/interface/Trackster.h", 
-            "DataFormats/TICL/src/classes.h", 
-            "DataFormats/TICL/src/classes_def.xml", 
-            "RecoHGCal/TICL/BuildFile.xml", 
-            "RecoHGCal/TICL/interface/PatternRecognitionAlgoBase.h", 
-            "RecoHGCal/TICL/plugins/BuildFile.xml", 
-            "RecoHGCal/TICL/plugins/ClusterFilterBase.h", 
-            "RecoHGCal/TICL/plugins/ClusterFilterByAlgo.h", 
-            "RecoHGCal/TICL/plugins/ClusterFilterByAlgoOrSize.h", 
-            "RecoHGCal/TICL/plugins/ClusterFilterBySize.h", 
-            "RecoHGCal/TICL/plugins/FilteredLayerClustersProducer.cc", 
-            "RecoHGCal/TICL/plugins/HGCDoublet.cc", 
-            "RecoHGCal/TICL/plugins/HGCDoublet.h", 
-            "RecoHGCal/TICL/plugins/HGCGraph.cc", 
-            "RecoHGCal/TICL/plugins/HGCGraph.h", 
-            "RecoHGCal/TICL/plugins/MultiClustersFromTrackstersProducer.cc", 
-            "RecoHGCal/TICL/plugins/PatternRecognitionbyCA.cc", 
-            "RecoHGCal/TICL/plugins/PatternRecognitionbyCA.h", 
-            "RecoHGCal/TICL/plugins/PatternRecognitionbyCAConstants.h", 
-            "RecoHGCal/TICL/plugins/PatternRecognitionbyMultiClusters.cc", 
-            "RecoHGCal/TICL/plugins/PatternRecognitionbyMultiClusters.h", 
-            "RecoHGCal/TICL/plugins/TICLLayerTilesProducer.cc", 
-            "RecoHGCal/TICL/plugins/TrackstersProducer.cc", 
-            "RecoHGCal/TICL/python/ticl_iterations.py", 
-            "RecoHGCal/TICL/src/BuildFile.xml", 
-            "RecoHGCal/TICL/src/classes.h", 
-            "RecoHGCal/TICL/src/classes_def.xml", 
-            "RecoLocalCalo/HGCalRecAlgos/interface/ClusterTools.h", 
-            "RecoLocalCalo/HGCalRecAlgos/interface/HGCal3DClustering.h", 
-            "RecoLocalCalo/HGCalRecAlgos/interface/HGCalDepthPreClusterer.h", 
-            "RecoLocalCalo/HGCalRecAlgos/interface/HGCalRecHitAbsAlgo.h", 
-            "RecoLocalCalo/HGCalRecAlgos/interface/HGCalRecHitSimpleAlgo.h", 
-            "RecoLocalCalo/HGCalRecAlgos/interface/HGCalUncalibRecHitRecAbsAlgo.h", 
-            "RecoLocalCalo/HGCalRecAlgos/interface/HGCalUncalibRecHitRecWeightsAlgo.h", 
-            "RecoLocalCalo/HGCalRecAlgos/interface/KDTreeLinkerAlgoT.h", 
-            "RecoLocalCalo/HGCalRecAlgos/interface/KDTreeLinkerToolsT.h", 
-            "RecoLocalCalo/HGCalRecAlgos/interface/RecHitTools.h", 
-            "RecoLocalCalo/HGCalRecAlgos/src/ClusterTools.cc", 
-            "RecoLocalCalo/HGCalRecAlgos/src/HGCal3DClustering.cc", 
-            "RecoLocalCalo/HGCalRecAlgos/src/HGCalDepthPreClusterer.cc", 
-            "RecoLocalCalo/HGCalRecAlgos/src/RecHitTools.cc"
-        ], 
-        "created_at": 1559285383, 
-        "number": 27026, 
-        "state": "open", 
-        "updated_at": 1559920587
-    }, 
     "27043": {
         "base_branch": "master", 
         "changed_files_names": [
@@ -1304,7 +1234,7 @@
         "created_at": 1559324734, 
         "number": 27044, 
         "state": "open", 
-        "updated_at": 1559397552
+        "updated_at": 1560171668
     }, 
     "27045": {
         "base_branch": "master", 
@@ -1318,7 +1248,7 @@
         "created_at": 1559327667, 
         "number": 27045, 
         "state": "open", 
-        "updated_at": 1559660986
+        "updated_at": 1560187568
     }, 
     "27048": {
         "base_branch": "master", 
@@ -1410,7 +1340,7 @@
         "created_at": 1559615128, 
         "number": 27089, 
         "state": "open", 
-        "updated_at": 1560011998
+        "updated_at": 1560202983
     }, 
     "27094": {
         "base_branch": "CMSSW_10_2_X", 
@@ -1420,7 +1350,7 @@
         "created_at": 1559656529, 
         "number": 27094, 
         "state": "open", 
-        "updated_at": 1559984382
+        "updated_at": 1560188253
     }, 
     "27096": {
         "base_branch": "CMSSW_9_4_X", 
@@ -1430,17 +1360,7 @@
         "created_at": 1559659984, 
         "number": 27096, 
         "state": "open", 
-        "updated_at": 1559983033
-    }, 
-    "27097": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/PluginManager/interface/PluginFactory.h"
-        ], 
-        "created_at": 1559663586, 
-        "number": 27097, 
-        "state": "open", 
-        "updated_at": 1560081273
+        "updated_at": 1560188227
     }, 
     "27098": {
         "base_branch": "master", 
@@ -1489,7 +1409,7 @@
         "created_at": 1559695015, 
         "number": 27098, 
         "state": "open", 
-        "updated_at": 1559832839
+        "updated_at": 1560182505
     }, 
     "27099": {
         "base_branch": "master", 
@@ -1515,47 +1435,7 @@
         "created_at": 1559716845, 
         "number": 27101, 
         "state": "open", 
-        "updated_at": 1559800001
-    }, 
-    "27102": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondFormats/JetMETObjects/bin/JetResolution_t.cc", 
-            "CondFormats/JetMETObjects/interface/FFTJetCorrTypes.h", 
-            "CondFormats/JetMETObjects/interface/FFTJetCorrectorParameters.h", 
-            "CondFormats/JetMETObjects/interface/FFTJetLUTTypes.h", 
-            "CondFormats/JetMETObjects/interface/FactorizedJetCorrector.h", 
-            "CondFormats/JetMETObjects/interface/FactorizedJetCorrectorCalculator.h", 
-            "CondFormats/JetMETObjects/interface/JetCorrectionUncertainty.h", 
-            "CondFormats/JetMETObjects/interface/JetCorrectorParameters.h", 
-            "CondFormats/JetMETObjects/interface/JetCorrectorParametersHelper.h", 
-            "CondFormats/JetMETObjects/interface/JetResolution.h", 
-            "CondFormats/JetMETObjects/interface/JetResolutionObject.h", 
-            "CondFormats/JetMETObjects/interface/METCorrectorParameters.h", 
-            "CondFormats/JetMETObjects/interface/MEtXYcorrectParameters.h", 
-            "CondFormats/JetMETObjects/interface/QGLikelihoodObject.h", 
-            "CondFormats/JetMETObjects/interface/SimpleJetCorrectionUncertainty.h", 
-            "CondFormats/JetMETObjects/interface/SimpleJetCorrector.h", 
-            "CondFormats/JetMETObjects/interface/Utilities.h", 
-            "CondFormats/JetMETObjects/src/FactorizedJetCorrector.cc", 
-            "CondFormats/JetMETObjects/src/FactorizedJetCorrectorCalculator.cc", 
-            "CondFormats/JetMETObjects/src/JetCorrectionUncertainty.cc", 
-            "CondFormats/JetMETObjects/src/JetCorrectorParameters.cc", 
-            "CondFormats/JetMETObjects/src/JetCorrectorParametersHelper.cc", 
-            "CondFormats/JetMETObjects/src/JetResolution.cc", 
-            "CondFormats/JetMETObjects/src/JetResolutionObject.cc", 
-            "CondFormats/JetMETObjects/src/METCorrectorParameters.cc", 
-            "CondFormats/JetMETObjects/src/MEtXYcorrectParameters.cc", 
-            "CondFormats/JetMETObjects/src/SimpleJetCorrectionUncertainty.cc", 
-            "CondFormats/JetMETObjects/src/SimpleJetCorrector.cc", 
-            "CondFormats/JetMETObjects/src/classes.h", 
-            "CondFormats/JetMETObjects/test/JetCorrectorParameters_t.cpp", 
-            "CondFormats/JetMETObjects/test/testSerializationJetMETObjects.cpp"
-        ], 
-        "created_at": 1559723051, 
-        "number": 27102, 
-        "state": "open", 
-        "updated_at": 1559798743
+        "updated_at": 1560167656
     }, 
     "27115": {
         "base_branch": "master", 
@@ -1782,7 +1662,7 @@
         "created_at": 1559725398, 
         "number": 27115, 
         "state": "open", 
-        "updated_at": 1560090168
+        "updated_at": 1560233875
     }, 
     "27116": {
         "base_branch": "master", 
@@ -1794,7 +1674,7 @@
         "created_at": 1559734273, 
         "number": 27116, 
         "state": "open", 
-        "updated_at": 1559908453
+        "updated_at": 1560165132
     }, 
     "27120": {
         "base_branch": "master", 
@@ -1809,7 +1689,7 @@
         "created_at": 1559739378, 
         "number": 27120, 
         "state": "open", 
-        "updated_at": 1559894446
+        "updated_at": 1560164475
     }, 
     "27121": {
         "base_branch": "master", 
@@ -1823,7 +1703,7 @@
         "created_at": 1559742202, 
         "number": 27121, 
         "state": "open", 
-        "updated_at": 1559827841
+        "updated_at": 1560169960
     }, 
     "27122": {
         "base_branch": "master", 
@@ -1852,7 +1732,7 @@
         "created_at": 1559759414, 
         "number": 27122, 
         "state": "open", 
-        "updated_at": 1559935006
+        "updated_at": 1560173169
     }, 
     "27126": {
         "base_branch": "master", 
@@ -1868,7 +1748,7 @@
         "created_at": 1559815336, 
         "number": 27126, 
         "state": "open", 
-        "updated_at": 1559882703
+        "updated_at": 1560173445
     }, 
     "27128": {
         "base_branch": "master", 
@@ -1887,7 +1767,7 @@
         "created_at": 1559827666, 
         "number": 27128, 
         "state": "open", 
-        "updated_at": 1560036144
+        "updated_at": 1560231733
     }, 
     "27129": {
         "base_branch": "master", 
@@ -1906,7 +1786,7 @@
         "created_at": 1559837594, 
         "number": 27129, 
         "state": "open", 
-        "updated_at": 1559937744
+        "updated_at": 1560233670
     }, 
     "27130": {
         "base_branch": "CMSSW_10_6_X", 
@@ -1936,7 +1816,7 @@
         "created_at": 1559850493, 
         "number": 27131, 
         "state": "open", 
-        "updated_at": 1559867676
+        "updated_at": 1560182806
     }, 
     "27132": {
         "base_branch": "master", 
@@ -1948,265 +1828,6 @@
         "state": "open", 
         "updated_at": 1559908945
     }, 
-    "27134": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoLocalMuon/GEMCSCSegment/plugins/GEMCSCSegAlgoRR.cc", 
-            "RecoLocalMuon/GEMCSCSegment/plugins/GEMCSCSegAlgoRR.h", 
-            "RecoLocalMuon/GEMCSCSegment/plugins/GEMCSCSegFit.cc", 
-            "RecoLocalMuon/GEMCSCSegment/plugins/GEMCSCSegFit.h", 
-            "RecoLocalMuon/GEMCSCSegment/plugins/GEMCSCSegmentAlgorithm.h", 
-            "RecoLocalMuon/GEMCSCSegment/plugins/GEMCSCSegmentBuilder.h", 
-            "RecoLocalMuon/GEMCSCSegment/plugins/GEMCSCSegmentBuilderPluginFactory.cc", 
-            "RecoLocalMuon/GEMCSCSegment/plugins/GEMCSCSegmentBuilderPluginFactory.h", 
-            "RecoLocalMuon/GEMCSCSegment/plugins/GEMCSCSegmentProducer.cc", 
-            "RecoLocalMuon/GEMCSCSegment/plugins/GEMCSCSegmentProducer.h", 
-            "RecoLocalMuon/GEMCSCSegment/test/TestGEMCSCSegmentAnalyzer.cc"
-        ], 
-        "created_at": 1559882195, 
-        "number": 27134, 
-        "state": "open", 
-        "updated_at": 1559895356
-    }, 
-    "27135": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimG4Core/DD4hepGeometry/interface/DD4hep_DDDWorld.h", 
-            "SimG4Core/DD4hepGeometry/src/DD4hep_DDDWorld.cc", 
-            "SimG4Core/DD4hepGeometry/test/plugins/DD4hepTestDDDWorld.cc", 
-            "SimG4Core/DD4hepGeometry/test/plugins/DD4hepTestG4Geometry.cc"
-        ], 
-        "created_at": 1559882212, 
-        "number": 27135, 
-        "state": "open", 
-        "updated_at": 1559898944
-    }, 
-    "27136": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/L1TrackTrigger/interface/TTCluster.h", 
-            "DataFormats/L1TrackTrigger/interface/TTStub.h", 
-            "DataFormats/L1TrackTrigger/interface/TTTrack.h", 
-            "DataFormats/L1TrackTrigger/interface/TTTypes.h", 
-            "DataFormats/L1TrackTrigger/src/TTCluster.cc"
-        ], 
-        "created_at": 1559882237, 
-        "number": 27136, 
-        "state": "open", 
-        "updated_at": 1559899813
-    }, 
-    "27137": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimTracker/SiPhase2Digitizer/plugins/DigitizerUtility.h", 
-            "SimTracker/SiPhase2Digitizer/plugins/PSPDigitizerAlgorithm.cc", 
-            "SimTracker/SiPhase2Digitizer/plugins/PSPDigitizerAlgorithm.h", 
-            "SimTracker/SiPhase2Digitizer/plugins/PSSDigitizerAlgorithm.cc", 
-            "SimTracker/SiPhase2Digitizer/plugins/PSSDigitizerAlgorithm.h", 
-            "SimTracker/SiPhase2Digitizer/plugins/Phase2TrackerDigitizer.cc", 
-            "SimTracker/SiPhase2Digitizer/plugins/Phase2TrackerDigitizer.h", 
-            "SimTracker/SiPhase2Digitizer/plugins/Phase2TrackerDigitizerAlgorithm.cc", 
-            "SimTracker/SiPhase2Digitizer/plugins/Phase2TrackerDigitizerAlgorithm.h", 
-            "SimTracker/SiPhase2Digitizer/plugins/Phase2TrackerDigitizerFwd.h", 
-            "SimTracker/SiPhase2Digitizer/plugins/PixelDigitizerAlgorithm.cc", 
-            "SimTracker/SiPhase2Digitizer/plugins/PixelDigitizerAlgorithm.h", 
-            "SimTracker/SiPhase2Digitizer/plugins/PreMixingPhase2TrackerWorker.cc", 
-            "SimTracker/SiPhase2Digitizer/plugins/SSDigitizerAlgorithm.cc", 
-            "SimTracker/SiPhase2Digitizer/plugins/SSDigitizerAlgorithm.h", 
-            "SimTracker/SiPhase2Digitizer/test/Phase2TrackerMonitorDigi.cc", 
-            "SimTracker/SiPhase2Digitizer/test/Phase2TrackerMonitorDigi.h", 
-            "SimTracker/SiPhase2Digitizer/test/Phase2TrackerValidateDigi.cc", 
-            "SimTracker/SiPhase2Digitizer/test/Phase2TrackerValidateDigi.h", 
-            "SimTracker/SiPhase2Digitizer/test/TBeamTest.cc"
-        ], 
-        "created_at": 1559882257, 
-        "number": 27137, 
-        "state": "open", 
-        "updated_at": 1559896599
-    }, 
-    "27138": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondFormats/SiStripObjects/interface/ApvLatencyAnalysis.h", 
-            "CondFormats/SiStripObjects/interface/ApvTimingAnalysis.h", 
-            "CondFormats/SiStripObjects/interface/CalibrationAnalysis.h", 
-            "CondFormats/SiStripObjects/interface/CalibrationScanAnalysis.h", 
-            "CondFormats/SiStripObjects/interface/CommissioningAnalysis.h", 
-            "CondFormats/SiStripObjects/interface/DaqScopeModeAnalysis.h", 
-            "CondFormats/SiStripObjects/interface/FastFedCablingAnalysis.h", 
-            "CondFormats/SiStripObjects/interface/FedCablingAnalysis.h", 
-            "CondFormats/SiStripObjects/interface/FedChannelConnection.h", 
-            "CondFormats/SiStripObjects/interface/FedTimingAnalysis.h", 
-            "CondFormats/SiStripObjects/interface/NoiseAnalysis.h", 
-            "CondFormats/SiStripObjects/interface/OptoScanAnalysis.h", 
-            "CondFormats/SiStripObjects/interface/PedestalsAnalysis.h", 
-            "CondFormats/SiStripObjects/interface/PedsFullNoiseAnalysis.h", 
-            "CondFormats/SiStripObjects/interface/PedsOnlyAnalysis.h", 
-            "CondFormats/SiStripObjects/interface/Phase2TrackerCabling.h", 
-            "CondFormats/SiStripObjects/interface/Phase2TrackerModule.h", 
-            "CondFormats/SiStripObjects/interface/SamplingAnalysis.h", 
-            "CondFormats/SiStripObjects/interface/SiStripApvGain.h", 
-            "CondFormats/SiStripObjects/interface/SiStripBackPlaneCorrection.h", 
-            "CondFormats/SiStripObjects/interface/SiStripBadStrip.h", 
-            "CondFormats/SiStripObjects/interface/SiStripBaseDelay.h", 
-            "CondFormats/SiStripObjects/interface/SiStripConfObject.h", 
-            "CondFormats/SiStripObjects/interface/SiStripDetSummary.h", 
-            "CondFormats/SiStripObjects/interface/SiStripDetVOff.h", 
-            "CondFormats/SiStripObjects/interface/SiStripFedCabling.h", 
-            "CondFormats/SiStripObjects/interface/SiStripLatency.h", 
-            "CondFormats/SiStripObjects/interface/SiStripLorentzAngle.h", 
-            "CondFormats/SiStripObjects/interface/SiStripNoises.h", 
-            "CondFormats/SiStripObjects/interface/SiStripPedestals.h", 
-            "CondFormats/SiStripObjects/interface/SiStripRunSummary.h", 
-            "CondFormats/SiStripObjects/interface/SiStripSummary.h", 
-            "CondFormats/SiStripObjects/interface/SiStripThreshold.h", 
-            "CondFormats/SiStripObjects/interface/VpspScanAnalysis.h", 
-            "CondFormats/SiStripObjects/src/ApvLatencyAnalysis.cc", 
-            "CondFormats/SiStripObjects/src/ApvTimingAnalysis.cc", 
-            "CondFormats/SiStripObjects/src/CalibrationAnalysis.cc", 
-            "CondFormats/SiStripObjects/src/CalibrationScanAnalysis.cc", 
-            "CondFormats/SiStripObjects/src/CommissioningAnalysis.cc", 
-            "CondFormats/SiStripObjects/src/DaqScopeModeAnalysis.cc", 
-            "CondFormats/SiStripObjects/src/EventSetup_Registration.cc", 
-            "CondFormats/SiStripObjects/src/FastFedCablingAnalysis.cc", 
-            "CondFormats/SiStripObjects/src/FedCablingAnalysis.cc", 
-            "CondFormats/SiStripObjects/src/FedChannelConnection.cc", 
-            "CondFormats/SiStripObjects/src/FedTimingAnalysis.cc", 
-            "CondFormats/SiStripObjects/src/NoiseAnalysis.cc", 
-            "CondFormats/SiStripObjects/src/OptoScanAnalysis.cc", 
-            "CondFormats/SiStripObjects/src/PedestalsAnalysis.cc", 
-            "CondFormats/SiStripObjects/src/PedsFullNoiseAnalysis.cc", 
-            "CondFormats/SiStripObjects/src/PedsOnlyAnalysis.cc", 
-            "CondFormats/SiStripObjects/src/Phase2TrackerCabling.cc", 
-            "CondFormats/SiStripObjects/src/Phase2TrackerModule.cc", 
-            "CondFormats/SiStripObjects/src/SamplingAnalysis.cc", 
-            "CondFormats/SiStripObjects/src/SiStripApvGain.cc", 
-            "CondFormats/SiStripObjects/src/SiStripBackPlaneCorrection.cc", 
-            "CondFormats/SiStripObjects/src/SiStripBadStrip.cc", 
-            "CondFormats/SiStripObjects/src/SiStripBaseDelay.cc", 
-            "CondFormats/SiStripObjects/src/SiStripConfObject.cc", 
-            "CondFormats/SiStripObjects/src/SiStripDetSummary.cc", 
-            "CondFormats/SiStripObjects/src/SiStripDetVOff.cc", 
-            "CondFormats/SiStripObjects/src/SiStripFedCabling.cc", 
-            "CondFormats/SiStripObjects/src/SiStripLatency.cc", 
-            "CondFormats/SiStripObjects/src/SiStripLorentzAngle.cc", 
-            "CondFormats/SiStripObjects/src/SiStripNoises.cc", 
-            "CondFormats/SiStripObjects/src/SiStripPedestals.cc", 
-            "CondFormats/SiStripObjects/src/SiStripSummary.cc", 
-            "CondFormats/SiStripObjects/src/SiStripThreshold.cc", 
-            "CondFormats/SiStripObjects/src/VpspScanAnalysis.cc", 
-            "CondFormats/SiStripObjects/src/classes.h", 
-            "CondFormats/SiStripObjects/test/TestSiStripLatency.cc", 
-            "CondFormats/SiStripObjects/test/UnitTests/TestSiStripBaseDelay.cc", 
-            "CondFormats/SiStripObjects/test/UnitTests/TestSiStripConfObject.cc", 
-            "CondFormats/SiStripObjects/test/testSerializationSiStripObjects.cpp"
-        ], 
-        "created_at": 1559882261, 
-        "number": 27138, 
-        "state": "open", 
-        "updated_at": 1559903775
-    }, 
-    "27141": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Alignment/TrackerAlignment/interface/AlignableSiStripDet.h", 
-            "Alignment/TrackerAlignment/interface/AlignableTracker.h", 
-            "Alignment/TrackerAlignment/interface/AlignableTrackerBuilder.h", 
-            "Alignment/TrackerAlignment/interface/TrackerAlignableId.h", 
-            "Alignment/TrackerAlignment/interface/TrackerAlignableIndexer.h", 
-            "Alignment/TrackerAlignment/interface/TrackerAlignment.h", 
-            "Alignment/TrackerAlignment/interface/TrackerAlignmentLevelBuilder.h", 
-            "Alignment/TrackerAlignment/interface/TrackerNameSpace.h", 
-            "Alignment/TrackerAlignment/interface/TrackerScenarioBuilder.h", 
-            "Alignment/TrackerAlignment/interface/TrackerTreeVariables.h", 
-            "Alignment/TrackerAlignment/plugins/AlignmentPrescaler.cc", 
-            "Alignment/TrackerAlignment/plugins/AlignmentPrescaler.h", 
-            "Alignment/TrackerAlignment/plugins/CosmicRateAnalyzer.cc", 
-            "Alignment/TrackerAlignment/plugins/CreateTrackerAlignmentRcds.cc", 
-            "Alignment/TrackerAlignment/plugins/MCMisalignmentScaler.cc", 
-            "Alignment/TrackerAlignment/plugins/MisalignedTrackerESProducer.cc", 
-            "Alignment/TrackerAlignment/plugins/TkAlCaOverlapTagger.cc", 
-            "Alignment/TrackerAlignment/plugins/TkAlCaSkimTreeMerger.cc", 
-            "Alignment/TrackerAlignment/plugins/TrackerSystematicMisalignments.cc", 
-            "Alignment/TrackerAlignment/plugins/TrackerSystematicMisalignments.h", 
-            "Alignment/TrackerAlignment/plugins/TrackerTreeGenerator.cc", 
-            "Alignment/TrackerAlignment/src/AlignableSiStripDet.cc", 
-            "Alignment/TrackerAlignment/src/AlignableTracker.cc", 
-            "Alignment/TrackerAlignment/src/AlignableTrackerBuilder.cc", 
-            "Alignment/TrackerAlignment/src/TrackerAlignableId.cc", 
-            "Alignment/TrackerAlignment/src/TrackerAlignableIndexer.cc", 
-            "Alignment/TrackerAlignment/src/TrackerAlignment.cc", 
-            "Alignment/TrackerAlignment/src/TrackerAlignmentLevelBuilder.cc", 
-            "Alignment/TrackerAlignment/src/TrackerNameSpace.cc", 
-            "Alignment/TrackerAlignment/src/TrackerScenarioBuilder.cc", 
-            "Alignment/TrackerAlignment/test/ApeAdder.cpp", 
-            "Alignment/TrackerAlignment/test/TestAnalyzer.cpp", 
-            "Alignment/TrackerAlignment/test/TestReader.cpp", 
-            "Alignment/TrackerAlignment/test/TestTrackerHierarchy.cpp", 
-            "Alignment/TrackerAlignment/test/TrackerGeometryAnalyzer.cc", 
-            "Alignment/TrackerAlignment/test/TrackerGeometryAnalyzer.h", 
-            "CalibTracker/SiStripCommon/interface/Book.h", 
-            "CalibTracker/SiStripCommon/interface/ShallowClustersProducer.h", 
-            "CalibTracker/SiStripCommon/interface/ShallowDigisProducer.h", 
-            "CalibTracker/SiStripCommon/interface/ShallowEventDataProducer.h", 
-            "CalibTracker/SiStripCommon/interface/ShallowGainCalibration.h", 
-            "CalibTracker/SiStripCommon/interface/ShallowRechitClustersProducer.h", 
-            "CalibTracker/SiStripCommon/interface/ShallowSimhitClustersProducer.h", 
-            "CalibTracker/SiStripCommon/interface/ShallowTools.h", 
-            "CalibTracker/SiStripCommon/interface/ShallowTrackClustersProducer.h", 
-            "CalibTracker/SiStripCommon/interface/ShallowTracksProducer.h", 
-            "CalibTracker/SiStripCommon/interface/ShallowTree.h", 
-            "CalibTracker/SiStripCommon/interface/SiStripDCSStatus.h", 
-            "CalibTracker/SiStripCommon/interface/SiStripDetInfoFileReader.h", 
-            "CalibTracker/SiStripCommon/interface/SiStripFedIdListReader.h", 
-            "CalibTracker/SiStripCommon/interface/TTREE_FOREACH_ENTRY.hh", 
-            "CalibTracker/SiStripCommon/interface/TkDetMap.h", 
-            "CalibTracker/SiStripCommon/interface/poly.h", 
-            "CalibTracker/SiStripCommon/plugins/PrescaleEventFilter.cc", 
-            "CalibTracker/SiStripCommon/plugins/SealModules.cc", 
-            "CalibTracker/SiStripCommon/plugins/ShallowClustersProducer.cc", 
-            "CalibTracker/SiStripCommon/plugins/ShallowDigisProducer.cc", 
-            "CalibTracker/SiStripCommon/plugins/ShallowEventDataProducer.cc", 
-            "CalibTracker/SiStripCommon/plugins/ShallowGainCalibration.cc", 
-            "CalibTracker/SiStripCommon/plugins/ShallowRechitClustersProducer.cc", 
-            "CalibTracker/SiStripCommon/plugins/ShallowSimTracksProducer.cc", 
-            "CalibTracker/SiStripCommon/plugins/ShallowSimTracksProducer.h", 
-            "CalibTracker/SiStripCommon/plugins/ShallowSimhitClustersProducer.cc", 
-            "CalibTracker/SiStripCommon/plugins/ShallowTrackClustersProducer.cc", 
-            "CalibTracker/SiStripCommon/plugins/ShallowTracksProducer.cc", 
-            "CalibTracker/SiStripCommon/plugins/ShallowTree.cc", 
-            "CalibTracker/SiStripCommon/plugins/SiStripBFieldFilter.cc", 
-            "CalibTracker/SiStripCommon/plugins/SiStripDCSFilter.cc", 
-            "CalibTracker/SiStripCommon/plugins/SiStripDetInfoFileWriter.cc", 
-            "CalibTracker/SiStripCommon/plugins/SiStripDetInfoFileWriter.h", 
-            "CalibTracker/SiStripCommon/plugins/TkDetMapESProducer.cc", 
-            "CalibTracker/SiStripCommon/src/ShallowTools.cc", 
-            "CalibTracker/SiStripCommon/src/SiStripDCSStatus.cc", 
-            "CalibTracker/SiStripCommon/src/SiStripDetInfoFileReader.cc", 
-            "CalibTracker/SiStripCommon/src/SiStripFedIdListReader.cc", 
-            "CalibTracker/SiStripCommon/src/TkDetMap.cc", 
-            "CalibTracker/SiStripCommon/test/testCalibTrackerSiStripCommon.cpp", 
-            "CalibTracker/SiStripLorentzAngle/interface/LA_Filler_Fitter.h", 
-            "CalibTracker/SiStripLorentzAngle/interface/SiStripCalibLorentzAngle.h", 
-            "CalibTracker/SiStripLorentzAngle/interface/SiStripLAProfileBooker.h", 
-            "CalibTracker/SiStripLorentzAngle/interface/SymmetryFit.h", 
-            "CalibTracker/SiStripLorentzAngle/plugins/EnsembleCalibrationLA.cc", 
-            "CalibTracker/SiStripLorentzAngle/plugins/EnsembleCalibrationLA.h", 
-            "CalibTracker/SiStripLorentzAngle/plugins/MeasureLA.cc", 
-            "CalibTracker/SiStripLorentzAngle/plugins/MeasureLA.h", 
-            "CalibTracker/SiStripLorentzAngle/plugins/SiStripCalibLorentzAngle.cc", 
-            "CalibTracker/SiStripLorentzAngle/plugins/SiStripLAProfileBooker.cc", 
-            "CalibTracker/SiStripLorentzAngle/plugins/modules.cc", 
-            "CalibTracker/SiStripLorentzAngle/src/LA_Filler.cc", 
-            "CalibTracker/SiStripLorentzAngle/src/LA_Fitter.cc", 
-            "CalibTracker/SiStripLorentzAngle/src/LA_Results.cc", 
-            "CalibTracker/SiStripLorentzAngle/src/SymmetryFit.cc"
-        ], 
-        "created_at": 1559882372, 
-        "number": 27141, 
-        "state": "open", 
-        "updated_at": 1559905285
-    }, 
     "27142": {
         "base_branch": "master", 
         "changed_files_names": [
@@ -2215,62 +1836,7 @@
         "created_at": 1559892701, 
         "number": 27142, 
         "state": "open", 
-        "updated_at": 1559915853
-    }, 
-    "27143": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondFormats/SiPixelTransient/interface/SiPixelGenError.h", 
-            "CondFormats/SiPixelTransient/interface/SiPixelTemplate.h", 
-            "DataFormats/Luminosity/src/LumiSummary.cc", 
-            "DataFormats/MuonReco/interface/MuonSegmentMatch.h", 
-            "DataFormats/MuonReco/interface/MuonSelectors.h", 
-            "DataFormats/MuonReco/src/MuonSelectors.cc", 
-            "DataFormats/TauReco/interface/PFTau.h", 
-            "DataFormats/TauReco/interface/PFTauDecayMode.h", 
-            "EventFilter/CSCRawToDigi/src/CSCDigiToRaw.cc", 
-            "EventFilter/GEMRawToDigi/interface/AMCdata.h", 
-            "EventFilter/GEMRawToDigi/interface/VFATdata.h", 
-            "EventFilter/SiStripRawToDigi/test/plugins/SiStripDigiAnalyzer.h", 
-            "GeneratorInterface/RivetInterface/plugins/GenParticles2HepMCConverter.cc", 
-            "RecoCTPPS/PixelLocal/src/RPixPlaneCombinatoryTracking.cc", 
-            "RecoEcal/EgammaCoreTools/src/EcalClusterPUCleaningTools.cc", 
-            "RecoMET/METProducers/src/HcalNoiseInfoProducer.cc", 
-            "RecoMuon/MuonSeedGenerator/src/MuonSeedCreator.cc", 
-            "RecoMuon/MuonSeedGenerator/src/RPCSeedPattern.cc", 
-            "RecoMuon/MuonSeedGenerator/src/SETPatternRecognition.cc", 
-            "RecoMuon/MuonSeedGenerator/src/SETSeedFinder.cc", 
-            "RecoParticleFlow/PFTracking/plugins/GoodSeedProducer.cc", 
-            "RecoParticleFlow/PFTracking/test/PreIdAnalyzer.cc", 
-            "RecoTracker/ConversionSeedGenerators/plugins/PhotonConversionTrajectorySeedProducerFromQuadrupletsAlgo.cc", 
-            "RecoTracker/SpecialSeedGenerators/src/BeamHaloPairGenerator.cc", 
-            "RecoTracker/SpecialSeedGenerators/src/CosmicRegionalSeedGenerator.cc", 
-            "RecoTracker/SpecialSeedGenerators/src/CosmicSeedCreator.cc", 
-            "RecoTracker/SpecialSeedGenerators/src/CtfSpecialSeedGenerator.cc", 
-            "RecoTracker/TkNavigation/test/NavigationSchoolAnalyzer.cc", 
-            "RecoTracker/TrackProducer/interface/TrackProducerAlgorithm.icc", 
-            "RecoTracker/TrackProducer/test/FakeCPEFiller.cc", 
-            "TrackingTools/TrackFitters/interface/KFTrajectorySmoother.h", 
-            "TrackingTools/TrackFitters/plugins/KFFittingSmoother.h"
-        ], 
-        "created_at": 1559893688, 
-        "number": 27143, 
-        "state": "open", 
-        "updated_at": 1560050961
-    }, 
-    "27144": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Alignment/MillePedeAlignmentAlgorithm/scripts/mps_fire.py", 
-            "Alignment/MillePedeAlignmentAlgorithm/scripts/mps_scriptm.pl", 
-            "Alignment/MillePedeAlignmentAlgorithm/scripts/mps_setup.py", 
-            "Alignment/MillePedeAlignmentAlgorithm/scripts/mps_update.py", 
-            "Alignment/MillePedeAlignmentAlgorithm/templates/alignment_config.ini"
-        ], 
-        "created_at": 1559893771, 
-        "number": 27144, 
-        "state": "open", 
-        "updated_at": 1559894322
+        "updated_at": 1560233286
     }, 
     "27146": {
         "base_branch": "CMSSW_10_6_X", 
@@ -2287,7 +1853,7 @@
         "created_at": 1559903651, 
         "number": 27146, 
         "state": "open", 
-        "updated_at": 1559915105
+        "updated_at": 1560231103
     }, 
     "27147": {
         "base_branch": "master", 
@@ -2299,7 +1865,7 @@
         "created_at": 1559904149, 
         "number": 27147, 
         "state": "open", 
-        "updated_at": 1559924669
+        "updated_at": 1560160323
     }, 
     "27148": {
         "base_branch": "CMSSW_10_2_X", 
@@ -2315,7 +1881,7 @@
         "created_at": 1559905878, 
         "number": 27148, 
         "state": "open", 
-        "updated_at": 1559921734
+        "updated_at": 1560152455
     }, 
     "27149": {
         "base_branch": "master", 
@@ -2334,7 +1900,7 @@
         "created_at": 1559920153, 
         "number": 27149, 
         "state": "open", 
-        "updated_at": 1559992017
+        "updated_at": 1560174662
     }, 
     "27151": {
         "base_branch": "master", 
@@ -2354,7 +1920,7 @@
         "created_at": 1559926056, 
         "number": 27151, 
         "state": "open", 
-        "updated_at": 1559939728
+        "updated_at": 1560182280
     }, 
     "27152": {
         "base_branch": "CMSSW_10_6_X", 
@@ -2415,7 +1981,7 @@
         "created_at": 1559930571, 
         "number": 27152, 
         "state": "open", 
-        "updated_at": 1559993956
+        "updated_at": 1560174230
     }, 
     "27153": {
         "base_branch": "master", 
@@ -2427,5 +1993,149 @@
         "number": 27153, 
         "state": "open", 
         "updated_at": 1560068811
+    }, 
+    "27154": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoParticleFlow/PFClusterTools/interface/PFSCEnergyCalibration.h", 
+            "RecoParticleFlow/PFClusterTools/src/PFSCEnergyCalibration.cc", 
+            "RecoParticleFlow/PFProducer/interface/PFAlgo.h", 
+            "RecoParticleFlow/PFProducer/interface/PFEGammaAlgo.h", 
+            "RecoParticleFlow/PFProducer/plugins/PFEGammaProducer.cc", 
+            "RecoParticleFlow/PFProducer/plugins/PFProducer.cc", 
+            "RecoParticleFlow/PFProducer/python/particleFlow_cfi.py", 
+            "RecoParticleFlow/PFProducer/src/PFAlgo.cc", 
+            "RecoParticleFlow/PFProducer/src/PFEGammaAlgo.cc", 
+            "RecoParticleFlow/PFProducer/test/PFEGCandidateTreeMaker.cc"
+        ], 
+        "created_at": 1560148391, 
+        "number": 27154, 
+        "state": "open", 
+        "updated_at": 1560194339
+    }, 
+    "27155": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/Generator/python/ZTT_All_hadronic_14TeV_TuneCUETP8M1_cfi.py", 
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py"
+        ], 
+        "created_at": 1560154345, 
+        "number": 27155, 
+        "state": "open", 
+        "updated_at": 1560233129
+    }, 
+    "27156": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimG4CMS/Calo/test/BuildFile.xml", 
+            "SimG4CMS/Calo/test/CaloSimHitAnalysis.cc", 
+            "SimG4CMS/Calo/test/python/calostepAnalysis_cfg.py"
+        ], 
+        "created_at": 1560182296, 
+        "number": 27156, 
+        "state": "open", 
+        "updated_at": 1560205216
+    }, 
+    "27157": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FastSimulation/Configuration/python/Geometries_cff.py", 
+            "FastSimulation/SimplifiedGeometryPropagator/plugins/FastSimGeometryESProducer.cc", 
+            "FastSimulation/SimplifiedGeometryPropagator/plugins/FastSimGeometryESProducer.h", 
+            "FastSimulation/SimplifiedGeometryPropagator/python/FastSimGeometryESProducer_cfi.py", 
+            "FastSimulation/SimplifiedGeometryPropagator/src/ES_Geometry.cc"
+        ], 
+        "created_at": 1560183073, 
+        "number": 27157, 
+        "state": "open", 
+        "updated_at": 1560194009
+    }, 
+    "27158": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/Framework/src/LuminosityBlockProcessingStatus.h"
+        ], 
+        "created_at": 1560185095, 
+        "number": 27158, 
+        "state": "open", 
+        "updated_at": 1560198471
+    }, 
+    "27159": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoParticleFlow/PFProducer/plugins/PFCandidateChecker.cc", 
+            "RecoParticleFlow/PFProducer/plugins/PFCandidateChecker.h", 
+            "RecoParticleFlow/PFProducer/plugins/PFConcretePFCandidateProducer.cc", 
+            "RecoParticleFlow/PFProducer/plugins/PFConcretePFCandidateProducer.h", 
+            "RecoParticleFlow/PFProducer/plugins/PFElectronTranslator.cc", 
+            "RecoParticleFlow/PFProducer/plugins/PFElectronTranslator.h", 
+            "RecoParticleFlow/PFProducer/plugins/PFLinker.cc", 
+            "RecoParticleFlow/PFProducer/plugins/PFLinker.h", 
+            "RecoParticleFlow/PFProducer/plugins/PFPhotonTranslator.cc", 
+            "RecoParticleFlow/PFProducer/plugins/PFPhotonTranslator.h", 
+            "RecoParticleFlow/PFProducer/plugins/kdtrees/KDTreeLinkerPSEcal.cc", 
+            "RecoParticleFlow/PFProducer/plugins/kdtrees/KDTreeLinkerPSEcal.h", 
+            "RecoParticleFlow/PFProducer/plugins/kdtrees/KDTreeLinkerTrackEcal.cc", 
+            "RecoParticleFlow/PFProducer/plugins/kdtrees/KDTreeLinkerTrackEcal.h", 
+            "RecoParticleFlow/PFProducer/plugins/kdtrees/KDTreeLinkerTrackHcal.cc", 
+            "RecoParticleFlow/PFProducer/plugins/kdtrees/KDTreeLinkerTrackHcal.h"
+        ], 
+        "created_at": 1560196480, 
+        "number": 27159, 
+        "state": "open", 
+        "updated_at": 1560230171
+    }, 
+    "27160": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/TICL/BuildFile.xml", 
+            "DataFormats/TICL/interface/Common.h", 
+            "DataFormats/TICL/interface/TICLLayerTile.h", 
+            "DataFormats/TICL/interface/Trackster.h", 
+            "DataFormats/TICL/src/classes.h", 
+            "DataFormats/TICL/src/classes_def.xml", 
+            "RecoHGCal/TICL/BuildFile.xml", 
+            "RecoHGCal/TICL/interface/PatternRecognitionAlgoBase.h", 
+            "RecoHGCal/TICL/plugins/BuildFile.xml", 
+            "RecoHGCal/TICL/plugins/ClusterFilterBase.h", 
+            "RecoHGCal/TICL/plugins/ClusterFilterByAlgo.h", 
+            "RecoHGCal/TICL/plugins/ClusterFilterByAlgoOrSize.h", 
+            "RecoHGCal/TICL/plugins/ClusterFilterBySize.h", 
+            "RecoHGCal/TICL/plugins/FilteredLayerClustersProducer.cc", 
+            "RecoHGCal/TICL/plugins/HGCDoublet.cc", 
+            "RecoHGCal/TICL/plugins/HGCDoublet.h", 
+            "RecoHGCal/TICL/plugins/HGCGraph.cc", 
+            "RecoHGCal/TICL/plugins/HGCGraph.h", 
+            "RecoHGCal/TICL/plugins/MultiClustersFromTrackstersProducer.cc", 
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyCA.cc", 
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyCA.h", 
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyCAConstants.h", 
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyMultiClusters.cc", 
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyMultiClusters.h", 
+            "RecoHGCal/TICL/plugins/TICLLayerTilesProducer.cc", 
+            "RecoHGCal/TICL/plugins/TrackstersProducer.cc", 
+            "RecoHGCal/TICL/python/ticl_iterations.py", 
+            "RecoHGCal/TICL/src/BuildFile.xml", 
+            "RecoHGCal/TICL/src/classes.h", 
+            "RecoHGCal/TICL/src/classes_def.xml", 
+            "RecoLocalCalo/HGCalRecAlgos/interface/ClusterTools.h", 
+            "RecoLocalCalo/HGCalRecAlgos/interface/HGCal3DClustering.h", 
+            "RecoLocalCalo/HGCalRecAlgos/interface/HGCalDepthPreClusterer.h", 
+            "RecoLocalCalo/HGCalRecAlgos/interface/HGCalRecHitAbsAlgo.h", 
+            "RecoLocalCalo/HGCalRecAlgos/interface/HGCalRecHitSimpleAlgo.h", 
+            "RecoLocalCalo/HGCalRecAlgos/interface/HGCalUncalibRecHitRecAbsAlgo.h", 
+            "RecoLocalCalo/HGCalRecAlgos/interface/HGCalUncalibRecHitRecWeightsAlgo.h", 
+            "RecoLocalCalo/HGCalRecAlgos/interface/KDTreeLinkerAlgoT.h", 
+            "RecoLocalCalo/HGCalRecAlgos/interface/KDTreeLinkerToolsT.h", 
+            "RecoLocalCalo/HGCalRecAlgos/interface/RecHitTools.h", 
+            "RecoLocalCalo/HGCalRecAlgos/src/ClusterTools.cc", 
+            "RecoLocalCalo/HGCalRecAlgos/src/HGCal3DClustering.cc", 
+            "RecoLocalCalo/HGCalRecAlgos/src/HGCalDepthPreClusterer.cc", 
+            "RecoLocalCalo/HGCalRecAlgos/src/RecHitTools.cc"
+        ], 
+        "created_at": 1560233674, 
+        "number": 27160, 
+        "state": "open", 
+        "updated_at": 1560233730
     }
 }
