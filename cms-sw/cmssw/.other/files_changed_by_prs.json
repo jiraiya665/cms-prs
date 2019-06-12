@@ -1743,34 +1743,6 @@
         "state": "open", 
         "updated_at": 1560337167
     }, 
-    "27167": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimCalorimetry/HGCalSimProducers/interface/HFNoseDigitizer.h", 
-            "SimCalorimetry/HGCalSimProducers/interface/HGCDigitizer.h", 
-            "SimCalorimetry/HGCalSimProducers/interface/HGCDigitizerBase.h", 
-            "SimCalorimetry/HGCalSimProducers/interface/HGCDigitizerTypes.h", 
-            "SimCalorimetry/HGCalSimProducers/interface/HGCEEDigitizer.h", 
-            "SimCalorimetry/HGCalSimProducers/interface/HGCFEElectronics.h", 
-            "SimCalorimetry/HGCalSimProducers/interface/HGCHEbackDigitizer.h", 
-            "SimCalorimetry/HGCalSimProducers/interface/HGCHEfrontDigitizer.h", 
-            "SimCalorimetry/HGCalSimProducers/plugins/HGCDigiProducer.cc", 
-            "SimCalorimetry/HGCalSimProducers/plugins/HGCDigiProducer.h", 
-            "SimCalorimetry/HGCalSimProducers/plugins/PreMixingHGCalWorker.cc", 
-            "SimCalorimetry/HGCalSimProducers/src/HFNoseDigitizer.cc", 
-            "SimCalorimetry/HGCalSimProducers/src/HGCDigitizer.cc", 
-            "SimCalorimetry/HGCalSimProducers/src/HGCDigitizerBase.cc", 
-            "SimCalorimetry/HGCalSimProducers/src/HGCEEDigitizer.cc", 
-            "SimCalorimetry/HGCalSimProducers/src/HGCFEElectronics.cc", 
-            "SimCalorimetry/HGCalSimProducers/src/HGCHEbackDigitizer.cc", 
-            "SimCalorimetry/HGCalSimProducers/src/HGCHEfrontDigitizer.cc", 
-            "SimCalorimetry/HGCalSimProducers/test/HGCHEbackSignalScalerAnalyzer.cc"
-        ], 
-        "created_at": 1560234650, 
-        "number": 27167, 
-        "state": "open", 
-        "updated_at": 1560345423
-    }, 
     "27168": {
         "base_branch": "master", 
         "changed_files_names": [
