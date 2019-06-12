@@ -1621,18 +1621,6 @@
         "state": "open", 
         "updated_at": 1560349065
     }, 
-    "27156": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimG4CMS/Calo/test/BuildFile.xml", 
-            "SimG4CMS/Calo/test/CaloSimHitAnalysis.cc", 
-            "SimG4CMS/Calo/test/python/calostepAnalysis_cfg.py"
-        ], 
-        "created_at": 1560182296, 
-        "number": 27156, 
-        "state": "open", 
-        "updated_at": 1560338269
-    }, 
     "27157": {
         "base_branch": "master", 
         "changed_files_names": [
