@@ -2554,6 +2554,16 @@
         "state": "open", 
         "updated_at": 1560360497
     }, 
+    "27195": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimGeneral/MixingModule/src/DigiAccumulatorMixModFactory.cc"
+        ], 
+        "created_at": 1560364948, 
+        "number": 27195, 
+        "state": "open", 
+        "updated_at": 1560365008
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
