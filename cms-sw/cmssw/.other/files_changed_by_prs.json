@@ -3022,6 +3022,20 @@
         "state": "open", 
         "updated_at": 1560354911
     }, 
+    "27193": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "PhysicsTools/IsolationAlgos/plugins/CandIsoDepositProducer.cc", 
+            "PhysicsTools/UtilAlgos/interface/Selections.h", 
+            "PhysicsTools/UtilAlgos/plugins/ConfigurableAnalysis.cc", 
+            "PhysicsTools/UtilAlgos/plugins/NTuplingDevice.cc", 
+            "PhysicsTools/UtilAlgos/plugins/PlottingDevice.cc"
+        ], 
+        "created_at": 1560357355, 
+        "number": 27193, 
+        "state": "open", 
+        "updated_at": 1560357410
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
