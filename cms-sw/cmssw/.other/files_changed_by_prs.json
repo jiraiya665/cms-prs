@@ -7,7 +7,7 @@
         "created_at": 1560347247, 
         "number": 27190, 
         "state": "open", 
-        "updated_at": 1560347279
+        "updated_at": 1560347861
     }, 
     "21478": {
         "base_branch": "master", 
@@ -2974,6 +2974,16 @@
         "number": 27188, 
         "state": "open", 
         "updated_at": 1560345786
+    }, 
+    "27190": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Utilities/ReleaseScripts/BuildFile.xml"
+        ], 
+        "created_at": 1560347247, 
+        "number": 27190, 
+        "state": "open", 
+        "updated_at": 1560347279
     }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
