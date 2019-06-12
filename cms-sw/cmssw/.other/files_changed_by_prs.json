@@ -1530,26 +1530,6 @@
         "state": "open", 
         "updated_at": 1560315248
     }, 
-    "27151": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Validation/HGCalValidation/python/HFNoseDigiClient_cfi.py", 
-            "Validation/HGCalValidation/python/HFNoseDigiValidation_cfi.py", 
-            "Validation/HGCalValidation/python/HFNoseRecHitClient_cfi.py", 
-            "Validation/HGCalValidation/python/HFNoseRecHitValidation_cfi.py", 
-            "Validation/HGCalValidation/python/HFNoseSimHitClient_cfi.py", 
-            "Validation/HGCalValidation/python/HFNoseSimHitValidation_cfi.py", 
-            "Validation/HGCalValidation/python/hfnoseRecHitStudy_cfi.py", 
-            "Validation/HGCalValidation/python/hgcalRecHitStudy_cff.py", 
-            "Validation/HGCalValidation/test/HGCalRecHitStudy.cc", 
-            "Validation/HGCalValidation/test/runHFNoseRecHitStudy_cfg.py", 
-            "Validation/HGCalValidation/test/runHGCalRecHitStudy_cfg.py"
-        ], 
-        "created_at": 1559926056, 
-        "number": 27151, 
-        "state": "open", 
-        "updated_at": 1560338321
-    }, 
     "27152": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
