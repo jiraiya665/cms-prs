@@ -1621,20 +1621,6 @@
         "state": "open", 
         "updated_at": 1560349065
     }, 
-    "27157": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FastSimulation/Configuration/python/Geometries_cff.py", 
-            "FastSimulation/SimplifiedGeometryPropagator/plugins/FastSimGeometryESProducer.cc", 
-            "FastSimulation/SimplifiedGeometryPropagator/plugins/FastSimGeometryESProducer.h", 
-            "FastSimulation/SimplifiedGeometryPropagator/python/FastSimGeometryESProducer_cfi.py", 
-            "FastSimulation/SimplifiedGeometryPropagator/src/ES_Geometry.cc"
-        ], 
-        "created_at": 1560183073, 
-        "number": 27157, 
-        "state": "open", 
-        "updated_at": 1560322396
-    }, 
     "27159": {
         "base_branch": "master", 
         "changed_files_names": [
