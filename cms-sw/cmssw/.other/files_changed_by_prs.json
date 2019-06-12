@@ -1713,40 +1713,6 @@
         "state": "open", 
         "updated_at": 1560346510
     }, 
-    "27162": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FastSimulation/Tracking/interface/FastTrackerRecHitSplitter.h", 
-            "FastSimulation/Tracking/interface/FastTrackingUtilities.h", 
-            "FastSimulation/Tracking/interface/SeedFinder.h", 
-            "FastSimulation/Tracking/interface/SeedFinderSelector.h", 
-            "FastSimulation/Tracking/interface/SeedMatcher.h", 
-            "FastSimulation/Tracking/interface/SeedingTree.h", 
-            "FastSimulation/Tracking/interface/TrackingLayer.h", 
-            "FastSimulation/Tracking/interface/TrajectorySeedHitCandidate.h", 
-            "FastSimulation/Tracking/plugins/ConversionTrackRefFix.cc", 
-            "FastSimulation/Tracking/plugins/ConversionTrackRefFix.h", 
-            "FastSimulation/Tracking/plugins/ElectronSeedTrackRefFix.cc", 
-            "FastSimulation/Tracking/plugins/ElectronSeedTrackRefFix.h", 
-            "FastSimulation/Tracking/plugins/FastTrackerRecHitCombiner.cc", 
-            "FastSimulation/Tracking/plugins/FastTrackerRecHitMaskProducer.cc", 
-            "FastSimulation/Tracking/plugins/PixelTracksProducer.cc", 
-            "FastSimulation/Tracking/plugins/PixelTracksProducer.h", 
-            "FastSimulation/Tracking/plugins/RecoTrackAccumulator.cc", 
-            "FastSimulation/Tracking/plugins/RecoTrackAccumulator.h", 
-            "FastSimulation/Tracking/plugins/TrackCandidateProducer.cc", 
-            "FastSimulation/Tracking/plugins/TrajectorySeedProducer.cc", 
-            "FastSimulation/Tracking/src/SeedFinderSelector.cc", 
-            "FastSimulation/Tracking/src/SeedMatcher.cc", 
-            "FastSimulation/Tracking/src/TrackingLayer.cc", 
-            "FastSimulation/Tracking/src/TrajectorySeedHitCandidate.cc", 
-            "FastSimulation/Tracking/test/testGeneralTracks.cc"
-        ], 
-        "created_at": 1560234485, 
-        "number": 27162, 
-        "state": "open", 
-        "updated_at": 1560348215
-    }, 
     "27165": {
         "base_branch": "master", 
         "changed_files_names": [
