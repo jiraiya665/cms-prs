@@ -1759,42 +1759,6 @@
         "state": "open", 
         "updated_at": 1560348215
     }, 
-    "27164": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SUSYBSMAnalysis/HSCP/interface/BetaCalculatorECAL.h", 
-            "SUSYBSMAnalysis/HSCP/interface/BetaCalculatorMUON.h", 
-            "SUSYBSMAnalysis/HSCP/interface/BetaCalculatorRPC.h", 
-            "SUSYBSMAnalysis/HSCP/interface/BetaCalculatorTK.h", 
-            "SUSYBSMAnalysis/HSCP/interface/CandidateSelector.h", 
-            "SUSYBSMAnalysis/HSCP/plugins/HSCPDeDxInfoProducer.cc", 
-            "SUSYBSMAnalysis/HSCP/plugins/HSCPDeDxInfoProducer.h", 
-            "SUSYBSMAnalysis/HSCP/plugins/HSCPHLTFilter.cc", 
-            "SUSYBSMAnalysis/HSCP/plugins/HSCPTreeBuilder.cc", 
-            "SUSYBSMAnalysis/HSCP/plugins/HSCPValidator.cc", 
-            "SUSYBSMAnalysis/HSCP/plugins/HSCPValidator.h", 
-            "SUSYBSMAnalysis/HSCP/plugins/HSCParticleProducer.cc", 
-            "SUSYBSMAnalysis/HSCP/plugins/HSCParticleProducer.h", 
-            "SUSYBSMAnalysis/HSCP/plugins/HSCParticleSelector.cc", 
-            "SUSYBSMAnalysis/HSCP/plugins/MuonSegmentProducer.cc", 
-            "SUSYBSMAnalysis/HSCP/plugins/SimHitShifter.cc", 
-            "SUSYBSMAnalysis/HSCP/plugins/Skim_HSCPFilter.cc", 
-            "SUSYBSMAnalysis/HSCP/plugins/Skim_HighPtTrackEcalDetIdProducer.cc", 
-            "SUSYBSMAnalysis/HSCP/plugins/Skim_MonoPhotonSkimmer.cc", 
-            "SUSYBSMAnalysis/HSCP/plugins/Skim_ProduceIsolationMap.cc", 
-            "SUSYBSMAnalysis/HSCP/plugins/Skim_ReduceHcalRecHitCollectionProducer.cc", 
-            "SUSYBSMAnalysis/HSCP/plugins/Skim_UpdatedMuonInnerTrackRef.cc", 
-            "SUSYBSMAnalysis/HSCP/src/BetaCalculatorECAL.cc", 
-            "SUSYBSMAnalysis/HSCP/src/BetaCalculatorMUON.cc", 
-            "SUSYBSMAnalysis/HSCP/src/BetaCalculatorRPC.cc", 
-            "SUSYBSMAnalysis/HSCP/src/BetaCalculatorTK.cc", 
-            "SUSYBSMAnalysis/HSCP/src/CandidateSelector.cc"
-        ], 
-        "created_at": 1560234508, 
-        "number": 27164, 
-        "state": "open", 
-        "updated_at": 1560334875
-    }, 
     "27165": {
         "base_branch": "master", 
         "changed_files_names": [
