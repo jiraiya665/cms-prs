@@ -2469,12 +2469,13 @@
             "FWCore/ParameterSet/src/ParameterSetDescription.cc", 
             "FWCore/ParameterSet/src/ParameterWildcardBase.cc", 
             "FWCore/ParameterSet/src/XORGroupDescription.cc", 
-            "PhysicsTools/PatAlgos/python/tools/helpers.py"
+            "PhysicsTools/PatAlgos/python/tools/helpers.py", 
+            "RecoTauTag/RecoTau/test/rerunTauRecoOnMiniAOD.py"
         ], 
         "created_at": 1560349159, 
         "number": 27191, 
         "state": "open", 
-        "updated_at": 1560383052
+        "updated_at": 1560384190
     }, 
     "27192": {
         "base_branch": "master", 
