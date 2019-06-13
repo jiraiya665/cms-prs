@@ -1368,24 +1368,6 @@
         "state": "open", 
         "updated_at": 1560248525
     }, 
-    "27130": {
-        "base_branch": "CMSSW_10_6_X", 
-        "changed_files_names": [
-            "CalibTracker/SiPixelQuality/plugins/BuildFile.xml", 
-            "CalibTracker/SiPixelQuality/plugins/SiPixelStatusHarvester.cc", 
-            "CalibTracker/SiPixelQuality/plugins/SiPixelStatusHarvester.h", 
-            "CalibTracker/SiPixelQuality/plugins/SiPixelStatusProducer.cc", 
-            "CalibTracker/SiPixelQuality/plugins/SiPixelStatusProducer.h", 
-            "CalibTracker/SiPixelQuality/python/SiPixelStatusHarvester_cfi.py", 
-            "CalibTracker/SiPixelQuality/src/SiPixelStatusManager.cc", 
-            "CalibTracker/SiPixelQuality/test/step3_SiPixelCalZeroBias_RAW2DIGI_RECO_ALCA.py", 
-            "CalibTracker/SiPixelQuality/test/step4_harvest_ALCAHARVEST.py"
-        ], 
-        "created_at": 1559844344, 
-        "number": 27130, 
-        "state": "open", 
-        "updated_at": 1560019025
-    }, 
     "27131": {
         "base_branch": "master", 
         "changed_files_names": [
