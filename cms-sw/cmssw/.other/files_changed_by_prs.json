@@ -2522,6 +2522,17 @@
         "state": "open", 
         "updated_at": 1560424495
     }, 
+    "27200": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "Configuration/StandardSequences/python/Mixing.py", 
+            "SimGeneral/MixingModule/python/mix_2018_25ns_UltraLegacy_PoissonOOTPU_cfi.py"
+        ], 
+        "created_at": 1560424910, 
+        "number": 27200, 
+        "state": "open", 
+        "updated_at": 1560427212
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
