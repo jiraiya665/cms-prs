@@ -1162,17 +1162,6 @@
         "state": "open", 
         "updated_at": 1560272368
     }, 
-    "27044": {
-        "base_branch": "CMSSW_10_6_X", 
-        "changed_files_names": [
-            "CalibTracker/SiPixelESProducers/plugins/SiPixel2DTemplateDBObjectESProducer.cc", 
-            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEClusterRepair.cc"
-        ], 
-        "created_at": 1559324734, 
-        "number": 27044, 
-        "state": "open", 
-        "updated_at": 1560274311
-    }, 
     "27048": {
         "base_branch": "master", 
         "changed_files_names": [
