@@ -2468,12 +2468,13 @@
             "FWCore/ParameterSet/src/ParameterDescriptionBase.cc", 
             "FWCore/ParameterSet/src/ParameterSetDescription.cc", 
             "FWCore/ParameterSet/src/ParameterWildcardBase.cc", 
-            "FWCore/ParameterSet/src/XORGroupDescription.cc"
+            "FWCore/ParameterSet/src/XORGroupDescription.cc", 
+            "PhysicsTools/PatAlgos/python/tools/helpers.py"
         ], 
         "created_at": 1560349159, 
         "number": 27191, 
         "state": "open", 
-        "updated_at": 1560382429
+        "updated_at": 1560383052
     }, 
     "27192": {
         "base_branch": "master", 
