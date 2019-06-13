@@ -2442,6 +2442,7 @@
     "27191": {
         "base_branch": "master", 
         "changed_files_names": [
+            "Configuration/StandardSequences/python/earlyDeleteSettings_cff.py", 
             "FWCore/Integration/test/unit_test_outputs/testProducerWithPsetDesc_cfi.py", 
             "FWCore/ParameterSet/interface/ANDGroupDescription.h", 
             "FWCore/ParameterSet/interface/AllowedLabelsDescriptionBase.h", 
@@ -2472,7 +2473,7 @@
         "created_at": 1560349159, 
         "number": 27191, 
         "state": "open", 
-        "updated_at": 1560373109
+        "updated_at": 1560382429
     }, 
     "27192": {
         "base_branch": "master", 
