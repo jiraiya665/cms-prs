@@ -2266,16 +2266,6 @@
         "state": "open", 
         "updated_at": 1560347141
     }, 
-    "27189": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoTauTag/RecoTau/python/tools/runTauIdMVA.py"
-        ], 
-        "created_at": 1560346912, 
-        "number": 27189, 
-        "state": "open", 
-        "updated_at": 1560348225
-    }, 
     "27191": {
         "base_branch": "master", 
         "changed_files_names": [
