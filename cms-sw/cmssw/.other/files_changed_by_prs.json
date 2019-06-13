@@ -2256,16 +2256,6 @@
         "state": "open", 
         "updated_at": 1560260320
     }, 
-    "27173": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoTauTag/RecoTau/plugins/DeepTauId.cc"
-        ], 
-        "created_at": 1560256879, 
-        "number": 27173, 
-        "state": "open", 
-        "updated_at": 1560348253
-    }, 
     "27174": {
         "base_branch": "master", 
         "changed_files_names": [
