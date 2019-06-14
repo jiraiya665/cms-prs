@@ -2296,6 +2296,23 @@
         "state": "open", 
         "updated_at": 1560525400
     }, 
+    "27215": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Validation/CaloTowers/test/CaloScan/batch_HTCondor.csh", 
+            "Validation/CaloTowers/test/CaloScan/template_2018_since_1010pre2.py", 
+            "Validation/CaloTowers/test/macros/SinglePi.C", 
+            "Validation/CaloTowers/test/macros/html_indices/SinglePiScan.html", 
+            "Validation/Configuration/python/globalValidation_cff.py", 
+            "Validation/RecoParticleFlow/plugins/PFClusterValidation.cc", 
+            "Validation/RecoParticleFlow/plugins/PFClusterValidation.h", 
+            "Validation/RecoParticleFlow/python/PFCluster_cfi.py"
+        ], 
+        "created_at": 1560531097, 
+        "number": 27215, 
+        "state": "open", 
+        "updated_at": 1560531129
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
