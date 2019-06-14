@@ -2147,31 +2147,6 @@
         "state": "open", 
         "updated_at": 1560427435
     }, 
-    "27203": {
-        "base_branch": "CMSSW_10_6_X", 
-        "changed_files_names": [
-            "Configuration/Eras/python/Era_Run2_2016_cff.py", 
-            "Configuration/Eras/python/Era_Run2_2017_cff.py", 
-            "Configuration/Eras/python/Era_Run2_2018_cff.py", 
-            "Configuration/Eras/python/Modifier_run2_egamma_2016_cff.py", 
-            "Configuration/Eras/python/Modifier_run2_egamma_2017_cff.py", 
-            "Configuration/Eras/python/Modifier_run2_egamma_2018_cff.py", 
-            "DataFormats/EgammaCandidates/interface/GsfElectron.h", 
-            "RecoEgamma/EgammaElectronProducers/python/gedGsfElectronFinalizer_cfi.py", 
-            "RecoEgamma/EgammaPhotonProducers/python/gedPhotons_cfi.py", 
-            "RecoEgamma/EgammaTools/interface/EgammaRegressionContainer.h", 
-            "RecoEgamma/EgammaTools/plugins/EGRegressionModifierV1.cc", 
-            "RecoEgamma/EgammaTools/plugins/EGRegressionModifierV2.cc", 
-            "RecoEgamma/EgammaTools/plugins/EGRegressionModifierV3.cc", 
-            "RecoEgamma/EgammaTools/python/calibratedEgammas_cff.py", 
-            "RecoEgamma/EgammaTools/python/regressionModifier_cfi.py", 
-            "RecoEgamma/EgammaTools/src/EgammaRegressionContainer.cc"
-        ], 
-        "created_at": 1560431112, 
-        "number": 27203, 
-        "state": "open", 
-        "updated_at": 1560431112
-    }, 
     "27204": {
         "base_branch": "master", 
         "changed_files_names": [
