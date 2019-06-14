@@ -1380,23 +1380,6 @@
         "state": "open", 
         "updated_at": 1560182806
     }, 
-    "27146": {
-        "base_branch": "CMSSW_10_6_X", 
-        "changed_files_names": [
-            "DataFormats/MuonDetId/interface/MuonSubdetId.h", 
-            "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py", 
-            "RecoTauTag/RecoTau/interface/DeepTauBase.h", 
-            "RecoTauTag/RecoTau/plugins/DPFIsolation.cc", 
-            "RecoTauTag/RecoTau/plugins/DeepTauId.cc", 
-            "RecoTauTag/RecoTau/python/tools/runTauIdMVA.py", 
-            "RecoTauTag/RecoTau/src/DeepTauBase.cc", 
-            "RecoTauTag/RecoTau/test/runDeepTauIDsOnMiniAOD.py"
-        ], 
-        "created_at": 1559903651, 
-        "number": 27146, 
-        "state": "open", 
-        "updated_at": 1560346991
-    }, 
     "27148": {
         "base_branch": "CMSSW_10_2_X", 
         "changed_files_names": [
