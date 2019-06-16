@@ -1761,16 +1761,6 @@
         "state": "open", 
         "updated_at": 1560284911
     }, 
-    "27181": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimGeneral/MixingModule/python/SiPixelSimParameters_cfi.py"
-        ], 
-        "created_at": 1560331212, 
-        "number": 27181, 
-        "state": "open", 
-        "updated_at": 1560342623
-    }, 
     "27182": {
         "base_branch": "master", 
         "changed_files_names": [
