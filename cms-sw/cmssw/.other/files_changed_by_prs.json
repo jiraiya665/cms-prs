@@ -1911,16 +1911,6 @@
         "state": "open", 
         "updated_at": 1560360497
     }, 
-    "27198": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQMServices/FileIO/scripts/blacklist.py"
-        ], 
-        "created_at": 1560421884, 
-        "number": 27198, 
-        "state": "open", 
-        "updated_at": 1560421936
-    }, 
     "27199": {
         "base_branch": "master", 
         "changed_files_names": [
