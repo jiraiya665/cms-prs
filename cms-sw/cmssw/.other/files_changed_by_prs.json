@@ -1274,18 +1274,6 @@
         "state": "open", 
         "updated_at": 1559741398
     }, 
-    "27116": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Validation/EventGenerator/plugins/TauValidation.cc", 
-            "Validation/EventGenerator/src/HepMCValidationHelper.cc", 
-            "Validation/MuonGEMHits/plugins/MuonGEMHitsHarvestor.cc"
-        ], 
-        "created_at": 1559734273, 
-        "number": 27116, 
-        "state": "open", 
-        "updated_at": 1560320654
-    }, 
     "27128": {
         "base_branch": "master", 
         "changed_files_names": [
