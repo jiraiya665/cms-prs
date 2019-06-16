@@ -1807,16 +1807,6 @@
         "state": "open", 
         "updated_at": 1560344159
     }, 
-    "27188": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/Framework/src/InputSourceFactory.cc"
-        ], 
-        "created_at": 1560344501, 
-        "number": 27188, 
-        "state": "open", 
-        "updated_at": 1560347141
-    }, 
     "27191": {
         "base_branch": "master", 
         "changed_files_names": [
