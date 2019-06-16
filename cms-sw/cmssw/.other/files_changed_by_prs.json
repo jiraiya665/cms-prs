@@ -1442,31 +1442,6 @@
         "state": "open", 
         "updated_at": 1560418780
     }, 
-    "27159": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoParticleFlow/PFProducer/plugins/PFCandidateChecker.cc", 
-            "RecoParticleFlow/PFProducer/plugins/PFCandidateChecker.h", 
-            "RecoParticleFlow/PFProducer/plugins/PFConcretePFCandidateProducer.cc", 
-            "RecoParticleFlow/PFProducer/plugins/PFConcretePFCandidateProducer.h", 
-            "RecoParticleFlow/PFProducer/plugins/PFElectronTranslator.cc", 
-            "RecoParticleFlow/PFProducer/plugins/PFElectronTranslator.h", 
-            "RecoParticleFlow/PFProducer/plugins/PFLinker.cc", 
-            "RecoParticleFlow/PFProducer/plugins/PFLinker.h", 
-            "RecoParticleFlow/PFProducer/plugins/PFPhotonTranslator.cc", 
-            "RecoParticleFlow/PFProducer/plugins/PFPhotonTranslator.h", 
-            "RecoParticleFlow/PFProducer/plugins/kdtrees/KDTreeLinkerPSEcal.cc", 
-            "RecoParticleFlow/PFProducer/plugins/kdtrees/KDTreeLinkerPSEcal.h", 
-            "RecoParticleFlow/PFProducer/plugins/kdtrees/KDTreeLinkerTrackEcal.cc", 
-            "RecoParticleFlow/PFProducer/plugins/kdtrees/KDTreeLinkerTrackEcal.h", 
-            "RecoParticleFlow/PFProducer/plugins/kdtrees/KDTreeLinkerTrackHcal.cc", 
-            "RecoParticleFlow/PFProducer/plugins/kdtrees/KDTreeLinkerTrackHcal.h"
-        ], 
-        "created_at": 1560196480, 
-        "number": 27159, 
-        "state": "open", 
-        "updated_at": 1560347631
-    }, 
     "27160": {
         "base_branch": "master", 
         "changed_files_names": [
