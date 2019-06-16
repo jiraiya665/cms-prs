@@ -1732,17 +1732,6 @@
         "state": "open", 
         "updated_at": 1560260320
     }, 
-    "27174": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoVertex/NuclearInteractionProducer/src/NuclearLikelihood.cc", 
-            "RecoVertex/V0Producer/src/V0Fitter.cc"
-        ], 
-        "created_at": 1560263100, 
-        "number": 27174, 
-        "state": "open", 
-        "updated_at": 1560326845
-    }, 
     "27175": {
         "base_branch": "master", 
         "changed_files_names": [
