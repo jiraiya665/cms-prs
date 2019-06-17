@@ -2140,6 +2140,17 @@
         "state": "open", 
         "updated_at": 1560754355
     }, 
+    "27221": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQMOffline/Trigger/python/EgammaMonitoring_cff.py", 
+            "DQMOffline/Trigger/python/HLTEGTnPMonitor_cfi.py"
+        ], 
+        "created_at": 1560754870, 
+        "number": 27221, 
+        "state": "open", 
+        "updated_at": 1560754900
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
