@@ -180,30 +180,6 @@
         "state": "open", 
         "updated_at": 1548884629
     }, 
-    "25889": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQMServices/Core/src/ROOTFilePB.pb.cc", 
-            "DQMServices/Core/src/ROOTFilePB.pb.h", 
-            "PhysicsTools/TensorFlow/BuildFile.xml", 
-            "PhysicsTools/TensorFlow/interface/TensorFlow.h", 
-            "PhysicsTools/TensorFlow/src/NTSession.cc", 
-            "PhysicsTools/TensorFlow/src/NTSession.h", 
-            "PhysicsTools/TensorFlow/src/TBBSession.cc", 
-            "PhysicsTools/TensorFlow/src/TBBSession.h", 
-            "PhysicsTools/TensorFlow/src/TensorFlow.cc", 
-            "PhysicsTools/TensorFlow/test/BuildFile.xml", 
-            "PhysicsTools/TensorFlow/test/testGraphLoading.cc", 
-            "PhysicsTools/TensorFlow/test/testHelloWorld.cc", 
-            "PhysicsTools/TensorFlow/test/testLoading.cc", 
-            "PhysicsTools/TensorFlow/test/testMetaGraphLoading.cc", 
-            "PhysicsTools/TensorFlow/test/tfadd_t.cpp"
-        ], 
-        "created_at": 1549613953, 
-        "number": 25889, 
-        "state": "open", 
-        "updated_at": 1560275631
-    }, 
     "25891": {
         "base_branch": "master", 
         "changed_files_names": [
