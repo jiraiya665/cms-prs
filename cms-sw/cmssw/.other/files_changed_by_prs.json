@@ -1648,19 +1648,6 @@
         "state": "open", 
         "updated_at": 1560360497
     }, 
-    "27212": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/MessageService/test/BuildFile.xml", 
-            "FWCore/MessageService/test/standAloneTest.cpp", 
-            "FWCore/MessageService/test/testRunner.cpp", 
-            "FWCore/MessageService/test/unit_test_outputs/standAloneWithMessageLogger.cerr"
-        ], 
-        "created_at": 1560519225, 
-        "number": 27212, 
-        "state": "open", 
-        "updated_at": 1560519255
-    }, 
     "27213": {
         "base_branch": "master", 
         "changed_files_names": [
