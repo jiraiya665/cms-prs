@@ -1396,25 +1396,6 @@
         "state": "open", 
         "updated_at": 1560174230
     }, 
-    "27154": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoParticleFlow/PFClusterTools/interface/PFSCEnergyCalibration.h", 
-            "RecoParticleFlow/PFClusterTools/src/PFSCEnergyCalibration.cc", 
-            "RecoParticleFlow/PFProducer/interface/PFAlgo.h", 
-            "RecoParticleFlow/PFProducer/interface/PFEGammaAlgo.h", 
-            "RecoParticleFlow/PFProducer/plugins/PFEGammaProducer.cc", 
-            "RecoParticleFlow/PFProducer/plugins/PFProducer.cc", 
-            "RecoParticleFlow/PFProducer/python/particleFlow_cfi.py", 
-            "RecoParticleFlow/PFProducer/src/PFAlgo.cc", 
-            "RecoParticleFlow/PFProducer/src/PFEGammaAlgo.cc", 
-            "RecoParticleFlow/PFProducer/test/PFEGCandidateTreeMaker.cc"
-        ], 
-        "created_at": 1560148391, 
-        "number": 27154, 
-        "state": "open", 
-        "updated_at": 1560418780
-    }, 
     "27160": {
         "base_branch": "master", 
         "changed_files_names": [
