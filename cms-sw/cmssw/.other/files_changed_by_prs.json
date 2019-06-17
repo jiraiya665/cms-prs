@@ -2153,16 +2153,6 @@
         "state": "open", 
         "updated_at": 1560756699
     }, 
-    "27225": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/BTauReco/interface/BaseTagInfo.h"
-        ], 
-        "created_at": 1560759981, 
-        "number": 27225, 
-        "state": "open", 
-        "updated_at": 1560764794
-    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
