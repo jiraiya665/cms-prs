@@ -1177,11 +1177,8 @@
             "RecoLocalCalo/HGCalRecProducers/interface/HGCalImagingAlgo.h", 
             "RecoLocalCalo/HGCalRecProducers/plugins/HGCalImagingAlgo.cc", 
             "RecoParticleFlow/PFProducer/plugins/kdtrees/KDTreeLinkerPSEcal.cc", 
-            "RecoParticleFlow/PFProducer/plugins/kdtrees/KDTreeLinkerPSEcal.h", 
             "RecoParticleFlow/PFProducer/plugins/kdtrees/KDTreeLinkerTrackEcal.cc", 
-            "RecoParticleFlow/PFProducer/plugins/kdtrees/KDTreeLinkerTrackEcal.h", 
             "RecoParticleFlow/PFProducer/plugins/kdtrees/KDTreeLinkerTrackHcal.cc", 
-            "RecoParticleFlow/PFProducer/plugins/kdtrees/KDTreeLinkerTrackHcal.h", 
             "RecoPixelVertexing/PixelTriplets/plugins/PixelTripletHLTGenerator.cc", 
             "RecoPixelVertexing/PixelTriplets/plugins/PixelTripletLargeTipGenerator.cc", 
             "RecoTracker/TkSeedGenerator/plugins/MultiHitGeneratorFromChi2.cc"
@@ -1189,7 +1186,7 @@
         "created_at": 1559385387, 
         "number": 27049, 
         "state": "open", 
-        "updated_at": 1560083783
+        "updated_at": 1560753739
     }, 
     "27094": {
         "base_branch": "CMSSW_10_2_X", 
