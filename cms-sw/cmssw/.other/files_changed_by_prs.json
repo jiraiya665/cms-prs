@@ -1500,12 +1500,13 @@
     "27183": {
         "base_branch": "master", 
         "changed_files_names": [
+            "Configuration/AlCa/python/autoCond.py", 
             "RecoLocalTracker/SiPixelRecHits/python/PixelCPEGeneric_cfi.py"
         ], 
         "created_at": 1560332511, 
         "number": 27183, 
         "state": "open", 
-        "updated_at": 1560452478
+        "updated_at": 1560791592
     }, 
     "27184": {
         "base_branch": "master", 
