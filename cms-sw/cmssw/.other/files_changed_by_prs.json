@@ -1141,29 +1141,6 @@
         "state": "open", 
         "updated_at": 1560339018
     }, 
-    "27049": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CommonTools/RecoAlgos/interface/KDTreeLinkerAlgo.h", 
-            "CommonTools/RecoAlgos/interface/KDTreeLinkerTools.h", 
-            "RecoLocalCalo/HGCalRecAlgos/interface/HGCal3DClustering.h", 
-            "RecoLocalCalo/HGCalRecAlgos/interface/KDTreeLinkerAlgoT.h", 
-            "RecoLocalCalo/HGCalRecAlgos/interface/KDTreeLinkerToolsT.h", 
-            "RecoLocalCalo/HGCalRecAlgos/src/HGCal3DClustering.cc", 
-            "RecoLocalCalo/HGCalRecProducers/interface/HGCalImagingAlgo.h", 
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalImagingAlgo.cc", 
-            "RecoParticleFlow/PFProducer/plugins/kdtrees/KDTreeLinkerPSEcal.cc", 
-            "RecoParticleFlow/PFProducer/plugins/kdtrees/KDTreeLinkerTrackEcal.cc", 
-            "RecoParticleFlow/PFProducer/plugins/kdtrees/KDTreeLinkerTrackHcal.cc", 
-            "RecoPixelVertexing/PixelTriplets/plugins/PixelTripletHLTGenerator.cc", 
-            "RecoPixelVertexing/PixelTriplets/plugins/PixelTripletLargeTipGenerator.cc", 
-            "RecoTracker/TkSeedGenerator/plugins/MultiHitGeneratorFromChi2.cc"
-        ], 
-        "created_at": 1559385387, 
-        "number": 27049, 
-        "state": "open", 
-        "updated_at": 1560753739
-    }, 
     "27094": {
         "base_branch": "CMSSW_10_2_X", 
         "changed_files_names": [
