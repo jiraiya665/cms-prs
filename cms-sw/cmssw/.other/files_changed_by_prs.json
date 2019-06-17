@@ -2143,6 +2143,17 @@
         "state": "open", 
         "updated_at": 1560756699
     }, 
+    "27226": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "PhysicsTools/NanoAOD/python/nanoDQM_cfi.py", 
+            "PhysicsTools/NanoAOD/python/taus_cff.py"
+        ], 
+        "created_at": 1560779670, 
+        "number": 27226, 
+        "state": "open", 
+        "updated_at": 1560779697
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
