@@ -1062,17 +1062,6 @@
         "state": "open", 
         "updated_at": 1560280343
     }, 
-    "27025": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HGCalGeometry/BuildFile.xml", 
-            "Utilities/ReleaseScripts/BuildFile.xml"
-        ], 
-        "created_at": 1559283875, 
-        "number": 27025, 
-        "state": "open", 
-        "updated_at": 1559318191
-    }, 
     "27043": {
         "base_branch": "master", 
         "changed_files_names": [
