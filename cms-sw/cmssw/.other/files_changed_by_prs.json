@@ -1921,17 +1921,6 @@
         "state": "open", 
         "updated_at": 1560427435
     }, 
-    "27204": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimG4Core/CustomPhysics/interface/CustomPhysicsListSS.h", 
-            "SimG4Core/CustomPhysics/src/CustomPhysicsListSS.cc"
-        ], 
-        "created_at": 1560433322, 
-        "number": 27204, 
-        "state": "open", 
-        "updated_at": 1560433392
-    }, 
     "27210": {
         "base_branch": "master", 
         "changed_files_names": [
