@@ -1932,16 +1932,6 @@
         "state": "open", 
         "updated_at": 1560433392
     }, 
-    "27209": {
-        "base_branch": "CMSSW_10_6_X", 
-        "changed_files_names": [
-            "RecoTauTag/RecoTau/python/tools/runTauIdMVA.py"
-        ], 
-        "created_at": 1560503354, 
-        "number": 27209, 
-        "state": "open", 
-        "updated_at": 1560503422
-    }, 
     "27210": {
         "base_branch": "master", 
         "changed_files_names": [
