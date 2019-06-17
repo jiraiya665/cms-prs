@@ -1918,16 +1918,6 @@
         "state": "open", 
         "updated_at": 1560427435
     }, 
-    "27210": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/PyReleaseValidation/python/relval_steps.py"
-        ], 
-        "created_at": 1560507930, 
-        "number": 27210, 
-        "state": "open", 
-        "updated_at": 1560507984
-    }, 
     "27211": {
         "base_branch": "master", 
         "changed_files_names": [
