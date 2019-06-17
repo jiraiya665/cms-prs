@@ -1932,18 +1932,6 @@
         "state": "open", 
         "updated_at": 1560433392
     }, 
-    "27208": {
-        "base_branch": "CMSSW_10_6_X", 
-        "changed_files_names": [
-            "RecoParticleFlow/PFClusterProducer/interface/PFClusterEMEnergyCorrector.h", 
-            "RecoParticleFlow/PFClusterProducer/plugins/CorrectedECALPFClusterProducer.cc", 
-            "RecoParticleFlow/PFClusterProducer/src/PFClusterEMEnergyCorrector.cc"
-        ], 
-        "created_at": 1560497308, 
-        "number": 27208, 
-        "state": "open", 
-        "updated_at": 1560497365
-    }, 
     "27209": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
