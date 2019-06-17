@@ -1647,16 +1647,6 @@
         "state": "open", 
         "updated_at": 1560360497
     }, 
-    "27202": {
-        "base_branch": "CMSSW_10_6_X", 
-        "changed_files_names": [
-            "DQMServices/FileIO/scripts/blacklist.py"
-        ], 
-        "created_at": 1560427294, 
-        "number": 27202, 
-        "state": "open", 
-        "updated_at": 1560427435
-    }, 
     "27211": {
         "base_branch": "master", 
         "changed_files_names": [
