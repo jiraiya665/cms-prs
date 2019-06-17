@@ -1009,18 +1009,6 @@
         "state": "open", 
         "updated_at": 1559227814
     }, 
-    "26875": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/PyReleaseValidation/python/relval_pileup.py", 
-            "Configuration/PyReleaseValidation/python/relval_standard.py", 
-            "Configuration/PyReleaseValidation/python/relval_steps.py"
-        ], 
-        "created_at": 1558495310, 
-        "number": 26875, 
-        "state": "open", 
-        "updated_at": 1560342817
-    }, 
     "26880": {
         "base_branch": "CMSSW_9_4_X", 
         "changed_files_names": [
