@@ -1464,20 +1464,6 @@
         "state": "open", 
         "updated_at": 1560343277
     }, 
-    "27185": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Alignment/CommonAlignmentProducer/interface/AlignmentProducerBase.h", 
-            "Alignment/CommonAlignmentProducer/src/AlignmentProducerBase.cc", 
-            "Alignment/MillePedeAlignmentAlgorithm/plugins/MillePedeAlignmentAlgorithm.cc", 
-            "CalibMuon/DTCalibration/plugins/DTTPAnalyzer.cc", 
-            "CalibMuon/DTCalibration/plugins/DTTTrigCalibration.cc"
-        ], 
-        "created_at": 1560341690, 
-        "number": 27185, 
-        "state": "open", 
-        "updated_at": 1560342302
-    }, 
     "27187": {
         "base_branch": "master", 
         "changed_files_names": [
