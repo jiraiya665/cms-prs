@@ -1222,19 +1222,6 @@
         "state": "open", 
         "updated_at": 1560838739
     }, 
-    "27131": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/ParticleFlowReco/interface/PFTrajectoryPoint.h", 
-            "DataFormats/ParticleFlowReco/src/PFTrack.cc", 
-            "RecoParticleFlow/PFTracking/interface/PFTrackTransformer.h", 
-            "RecoParticleFlow/PFTracking/src/PFTrackTransformer.cc"
-        ], 
-        "created_at": 1559850493, 
-        "number": 27131, 
-        "state": "open", 
-        "updated_at": 1560517750
-    }, 
     "27148": {
         "base_branch": "CMSSW_10_2_X", 
         "changed_files_names": [
