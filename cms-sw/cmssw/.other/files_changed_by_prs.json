@@ -1484,28 +1484,6 @@
         "state": "open", 
         "updated_at": 1560862326
     }, 
-    "27213": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/ForwardDetId/interface/HFNoseDetId.h", 
-            "DataFormats/ForwardDetId/src/HFNoseDetId.cc", 
-            "Geometry/HGCalCommonData/interface/HGCalDDDConstants.h", 
-            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc", 
-            "Geometry/HGCalCommonData/src/HGCalGeomTools.cc", 
-            "SimCalorimetry/HGCalSimProducers/python/hgcalDigitizer_cfi.py", 
-            "SimCalorimetry/HGCalSimProducers/src/HGCDigitizer.cc", 
-            "SimCalorimetry/HGCalSimProducers/src/HGCHEbackDigitizer.cc", 
-            "SimG4CMS/Calo/interface/HFNoseNumberingScheme.h", 
-            "SimG4CMS/Calo/src/HFNoseNumberingScheme.cc", 
-            "SimG4CMS/Calo/src/HFShowerParam.cc", 
-            "SimG4CMS/Calo/src/HGCalNumberingScheme.cc", 
-            "SimG4CMS/Calo/src/HcalTestNS.cc"
-        ], 
-        "created_at": 1560524430, 
-        "number": 27213, 
-        "state": "open", 
-        "updated_at": 1560524482
-    }, 
     "27214": {
         "base_branch": "master", 
         "changed_files_names": [
