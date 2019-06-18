@@ -1222,25 +1222,6 @@
         "state": "open", 
         "updated_at": 1560838739
     }, 
-    "27129": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoLocalCalo/HGCalRecAlgos/interface/HGCalRecHitSimpleAlgo.h", 
-            "RecoLocalCalo/HGCalRecProducers/interface/HGCalUncalibRecHitWorkerBaseClass.h", 
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalRecHitProducer.cc", 
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalRecHitWorkerSimple.cc", 
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalRecHitWorkerSimple.h", 
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalUncalibRecHitProducer.cc", 
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalUncalibRecHitProducer.h", 
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalUncalibRecHitWorkerWeights.cc", 
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalUncalibRecHitWorkerWeights.h", 
-            "RecoLocalCalo/HGCalRecProducers/python/HGCalUncalibRecHit_cfi.py"
-        ], 
-        "created_at": 1559837594, 
-        "number": 27129, 
-        "state": "open", 
-        "updated_at": 1560534910
-    }, 
     "27131": {
         "base_branch": "master", 
         "changed_files_names": [
