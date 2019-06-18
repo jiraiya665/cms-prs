@@ -1204,6 +1204,24 @@
     "27128": {
         "base_branch": "master", 
         "changed_files_names": [
+            "DQMServices/Core/src/ROOTFilePB.pb.cc", 
+            "DQMServices/Core/src/ROOTFilePB.pb.h", 
+            "FWCore/Framework/bin/BuildFile.xml", 
+            "FWCore/PyDevParameterSet/BuildFile.xml", 
+            "FWCore/PythonParameterSet/BuildFile.xml", 
+            "PhysicsTools/TensorFlow/BuildFile.xml", 
+            "PhysicsTools/TensorFlow/interface/TensorFlow.h", 
+            "PhysicsTools/TensorFlow/src/NTSession.cc", 
+            "PhysicsTools/TensorFlow/src/NTSession.h", 
+            "PhysicsTools/TensorFlow/src/TBBSession.cc", 
+            "PhysicsTools/TensorFlow/src/TBBSession.h", 
+            "PhysicsTools/TensorFlow/src/TensorFlow.cc", 
+            "PhysicsTools/TensorFlow/test/BuildFile.xml", 
+            "PhysicsTools/TensorFlow/test/testGraphLoading.cc", 
+            "PhysicsTools/TensorFlow/test/testHelloWorld.cc", 
+            "PhysicsTools/TensorFlow/test/testLoading.cc", 
+            "PhysicsTools/TensorFlow/test/testMetaGraphLoading.cc", 
+            "PhysicsTools/TensorFlow/test/tfadd_t.cpp", 
             "RecoEgamma/EgammaTools/interface/EgammaPCAHelper.h", 
             "RecoEgamma/EgammaTools/src/EgammaPCAHelper.cc", 
             "RecoLocalCalo/HGCalRecAlgos/interface/HGCal3DClustering.h", 
@@ -1216,14 +1234,21 @@
             "RecoLocalCalo/HGCalRecProducers/interface/HGCalCLUEAlgo.h", 
             "RecoLocalCalo/HGCalRecProducers/interface/HGCalClusteringAlgoBase.h", 
             "RecoLocalCalo/HGCalRecProducers/interface/HGCalImagingAlgo.h", 
+            "RecoLocalCalo/HGCalRecProducers/interface/HGCalUncalibRecHitWorkerBaseClass.h", 
             "RecoLocalCalo/HGCalRecProducers/plugins/HGCalCLUEAlgo.cc", 
             "RecoLocalCalo/HGCalRecProducers/plugins/HGCalImagingAlgo.cc", 
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalRecHitWorkerSimple.cc"
+            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalRecHitProducer.cc", 
+            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalRecHitWorkerSimple.cc", 
+            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalRecHitWorkerSimple.h", 
+            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalUncalibRecHitProducer.cc", 
+            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalUncalibRecHitProducer.h", 
+            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalUncalibRecHitWorkerWeights.cc", 
+            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalUncalibRecHitWorkerWeights.h"
         ], 
         "created_at": 1559827666, 
         "number": 27128, 
         "state": "open", 
-        "updated_at": 1560854169
+        "updated_at": 1560860260
     }, 
     "27148": {
         "base_branch": "CMSSW_10_2_X", 
