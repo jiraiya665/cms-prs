@@ -2139,6 +2139,17 @@
         "state": "open", 
         "updated_at": 1560824546
     }, 
+    "27235": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibFormats/HcalObjects/interface/HcalDbService.h", 
+            "CalibFormats/HcalObjects/src/HcalDbService.cc"
+        ], 
+        "created_at": 1560848278, 
+        "number": 27235, 
+        "state": "open", 
+        "updated_at": 1560848334
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
