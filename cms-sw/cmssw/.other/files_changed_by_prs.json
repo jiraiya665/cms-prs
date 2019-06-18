@@ -1176,20 +1176,6 @@
         "state": "open", 
         "updated_at": 1560182505
     }, 
-    "27099": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibTracker/SiStripESProducers/plugins/real/SiStripBackPlaneCorrectionDepESProducer.cc", 
-            "CalibTracker/SiStripESProducers/plugins/real/SiStripBackPlaneCorrectionDepESProducer.h", 
-            "CalibTracker/SiStripESProducers/plugins/real/SiStripLorentzAngleDepESProducer.cc", 
-            "CalibTracker/SiStripESProducers/plugins/real/SiStripLorentzAngleDepESProducer.h", 
-            "CalibTracker/SiStripESProducers/plugins/real/modules.cc"
-        ], 
-        "created_at": 1559695094, 
-        "number": 27099, 
-        "state": "open", 
-        "updated_at": 1559741398
-    }, 
     "27128": {
         "base_branch": "master", 
         "changed_files_names": [
