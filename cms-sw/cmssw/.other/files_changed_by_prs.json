@@ -1742,17 +1742,6 @@
         "state": "open", 
         "updated_at": 1560791031
     }, 
-    "27229": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/Integration/test/run_TestSwitchProducer.sh", 
-            "FWCore/Integration/test/testSwitchProducerMerge_cfg.py"
-        ], 
-        "created_at": 1560783456, 
-        "number": 27229, 
-        "state": "open", 
-        "updated_at": 1560783493
-    }, 
     "27230": {
         "base_branch": "master", 
         "changed_files_names": [
