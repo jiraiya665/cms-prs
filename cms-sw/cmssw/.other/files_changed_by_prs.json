@@ -2175,6 +2175,25 @@
         "state": "open", 
         "updated_at": 1560867186
     }, 
+    "27242": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "L1Trigger/L1THGCal/interface/HGCalTriggerGeometryBase.h", 
+            "L1Trigger/L1THGCal/plugins/HGCalTriggerGeometryESProducer.cc", 
+            "L1Trigger/L1THGCal/plugins/geometries/HGCalTriggerGeometryHexImp1.cc", 
+            "L1Trigger/L1THGCal/plugins/geometries/HGCalTriggerGeometryHexImp2.cc", 
+            "L1Trigger/L1THGCal/plugins/geometries/HGCalTriggerGeometryHexLayerBasedImp1.cc", 
+            "L1Trigger/L1THGCal/plugins/geometries/HGCalTriggerGeometryImp1.cc", 
+            "L1Trigger/L1THGCal/plugins/geometries/HGCalTriggerGeometryV9Imp1.cc", 
+            "L1Trigger/L1THGCal/plugins/geometries/HGCalTriggerGeometryV9Imp2.cc", 
+            "L1Trigger/L1THGCal/plugins/geometries/NullGeometry.cc", 
+            "L1Trigger/L1THGCal/plugins/geometries/TrivialGeometry.cc"
+        ], 
+        "created_at": 1560874466, 
+        "number": 27242, 
+        "state": "open", 
+        "updated_at": 1560874495
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
