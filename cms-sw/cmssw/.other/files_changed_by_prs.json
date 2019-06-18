@@ -2193,6 +2193,42 @@
         "state": "open", 
         "updated_at": 1560824058
     }, 
+    "27233": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/EgammaCandidates/interface/Conversion.h", 
+            "DataFormats/EgammaCandidates/interface/ConversionFwd.h", 
+            "DataFormats/EgammaCandidates/interface/Electron.h", 
+            "DataFormats/EgammaCandidates/interface/ElectronFwd.h", 
+            "DataFormats/EgammaCandidates/interface/ElectronIsolationAssociation.h", 
+            "DataFormats/EgammaCandidates/interface/GsfElectron.h", 
+            "DataFormats/EgammaCandidates/interface/GsfElectronCore.h", 
+            "DataFormats/EgammaCandidates/interface/GsfElectronCoreFwd.h", 
+            "DataFormats/EgammaCandidates/interface/GsfElectronFwd.h", 
+            "DataFormats/EgammaCandidates/interface/GsfElectronIsoCollection.h", 
+            "DataFormats/EgammaCandidates/interface/GsfElectronIsoNumCollection.h", 
+            "DataFormats/EgammaCandidates/interface/HIPhotonIsolation.h", 
+            "DataFormats/EgammaCandidates/interface/Photon.h", 
+            "DataFormats/EgammaCandidates/interface/PhotonCandidateAssociation.h", 
+            "DataFormats/EgammaCandidates/interface/PhotonCore.h", 
+            "DataFormats/EgammaCandidates/interface/PhotonCoreFwd.h", 
+            "DataFormats/EgammaCandidates/interface/PhotonFwd.h", 
+            "DataFormats/EgammaCandidates/interface/PhotonIsolationAssociation.h", 
+            "DataFormats/EgammaCandidates/interface/PhotonPi0DiscriminatorAssociation.h", 
+            "DataFormats/EgammaCandidates/interface/SiStripElectron.h", 
+            "DataFormats/EgammaCandidates/interface/SiStripElectronFwd.h", 
+            "DataFormats/EgammaCandidates/src/Conversion.cc", 
+            "DataFormats/EgammaCandidates/src/Electron.cc", 
+            "DataFormats/EgammaCandidates/src/GsfElectron.cc", 
+            "DataFormats/EgammaCandidates/src/GsfElectronCore.cc", 
+            "DataFormats/EgammaCandidates/src/Photon.cc", 
+            "DataFormats/EgammaCandidates/src/SiStripElectron.cc"
+        ], 
+        "created_at": 1560824039, 
+        "number": 27233, 
+        "state": "open", 
+        "updated_at": 1560824068
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
