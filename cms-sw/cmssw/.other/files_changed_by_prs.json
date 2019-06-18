@@ -1223,25 +1223,6 @@
         "state": "open", 
         "updated_at": 1560346781
     }, 
-    "27149": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/HcalCommon/src/DetectorQuantity.cc", 
-            "DQM/HcalTasks/interface/DigiTask.h", 
-            "DQM/HcalTasks/interface/LEDTask.h", 
-            "DQM/HcalTasks/interface/LaserTask.h", 
-            "DQM/HcalTasks/interface/PedestalTask.h", 
-            "DQM/HcalTasks/plugins/DigiTask.cc", 
-            "DQM/HcalTasks/plugins/LEDTask.cc", 
-            "DQM/HcalTasks/plugins/LaserTask.cc", 
-            "DQM/HcalTasks/plugins/PedestalTask.cc", 
-            "DQM/Integration/python/clients/hcal_dqm_sourceclient-live_cfg.py"
-        ], 
-        "created_at": 1559920153, 
-        "number": 27149, 
-        "state": "open", 
-        "updated_at": 1560315248
-    }, 
     "27152": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
