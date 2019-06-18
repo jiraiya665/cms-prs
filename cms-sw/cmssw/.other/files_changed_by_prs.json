@@ -1207,6 +1207,8 @@
             "RecoEgamma/EgammaTools/interface/EgammaPCAHelper.h", 
             "RecoEgamma/EgammaTools/src/EgammaPCAHelper.cc", 
             "RecoLocalCalo/HGCalRecAlgos/interface/HGCal3DClustering.h", 
+            "RecoLocalCalo/HGCalRecAlgos/interface/HGCalRecHitAbsAlgo.h", 
+            "RecoLocalCalo/HGCalRecAlgos/interface/HGCalRecHitSimpleAlgo.h", 
             "RecoLocalCalo/HGCalRecAlgos/interface/RecHitTools.h", 
             "RecoLocalCalo/HGCalRecAlgos/src/HGCal3DClustering.cc", 
             "RecoLocalCalo/HGCalRecAlgos/src/HGCalDepthPreClusterer.cc", 
@@ -1215,12 +1217,13 @@
             "RecoLocalCalo/HGCalRecProducers/interface/HGCalClusteringAlgoBase.h", 
             "RecoLocalCalo/HGCalRecProducers/interface/HGCalImagingAlgo.h", 
             "RecoLocalCalo/HGCalRecProducers/plugins/HGCalCLUEAlgo.cc", 
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalImagingAlgo.cc"
+            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalImagingAlgo.cc", 
+            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalRecHitWorkerSimple.cc"
         ], 
         "created_at": 1559827666, 
         "number": 27128, 
         "state": "open", 
-        "updated_at": 1560838739
+        "updated_at": 1560854169
     }, 
     "27148": {
         "base_branch": "CMSSW_10_2_X", 
