@@ -1406,18 +1406,6 @@
         "state": "open", 
         "updated_at": 1560343277
     }, 
-    "27187": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "EventFilter/L1TRawToDigi/plugins/PackingSetupFactory.cc", 
-            "L1Trigger/L1THGCal/plugins/HGCalTowerProducer.cc", 
-            "L1Trigger/L1THGCal/plugins/HGCalTriggerDigiFEReproducer.cc"
-        ], 
-        "created_at": 1560343564, 
-        "number": 27187, 
-        "state": "open", 
-        "updated_at": 1560344159
-    }, 
     "27192": {
         "base_branch": "master", 
         "changed_files_names": [
