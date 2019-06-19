@@ -1533,18 +1533,6 @@
         "state": "open", 
         "updated_at": 1560859210
     }, 
-    "27217": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1TriggerConfig/DTTPGConfigProducers/src/DTConfigDBProducer.cc", 
-            "L1TriggerConfig/DTTPGConfigProducers/src/DTConfigDBProducer.h", 
-            "L1TriggerConfig/DTTPGConfigProducers/src/SealModule.cc"
-        ], 
-        "created_at": 1560541875, 
-        "number": 27217, 
-        "state": "open", 
-        "updated_at": 1560541925
-    }, 
     "27220": {
         "base_branch": "master", 
         "changed_files_names": [
