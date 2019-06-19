@@ -1882,16 +1882,6 @@
         "state": "open", 
         "updated_at": 1560848929
     }, 
-    "27237": {
-        "base_branch": "CMSSW_10_6_X", 
-        "changed_files_names": [
-            "DQM/TrackingMonitorClient/src/TrackingQualityChecker.cc"
-        ], 
-        "created_at": 1560865866, 
-        "number": 27237, 
-        "state": "open", 
-        "updated_at": 1560865935
-    }, 
     "27238": {
         "base_branch": "master", 
         "changed_files_names": [
