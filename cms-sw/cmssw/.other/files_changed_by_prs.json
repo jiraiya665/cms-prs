@@ -1812,16 +1812,6 @@
         "state": "open", 
         "updated_at": 1560924203
     }, 
-    "27249": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/CaloTopology/interface/HcalTopology.h"
-        ], 
-        "created_at": 1560924927, 
-        "number": 27249, 
-        "state": "open", 
-        "updated_at": 1560926245
-    }, 
     "27250": {
         "base_branch": "master", 
         "changed_files_names": [
