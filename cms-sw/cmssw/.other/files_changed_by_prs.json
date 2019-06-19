@@ -1938,12 +1938,13 @@
     "27249": {
         "base_branch": "master", 
         "changed_files_names": [
+            "CommonTools/RecoAlgos/plugins/BuildFile.xml", 
             "Geometry/CaloTopology/interface/HcalTopology.h"
         ], 
         "created_at": 1560924927, 
         "number": 27249, 
         "state": "open", 
-        "updated_at": 1560924955
+        "updated_at": 1560926063
     }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
