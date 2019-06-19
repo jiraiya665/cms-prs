@@ -2493,6 +2493,16 @@
         "state": "open", 
         "updated_at": 1560936890
     }, 
+    "27272": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Fireworks/Core/src/FWGeometryTableManager.cc"
+        ], 
+        "created_at": 1560936973, 
+        "number": 27272, 
+        "state": "open", 
+        "updated_at": 1560936999
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
