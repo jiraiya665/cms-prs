@@ -2015,6 +2015,17 @@
         "state": "open", 
         "updated_at": 1560931449
     }, 
+    "27257": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondCore/AlignmentPlugins/plugins/TrackerAlignment_PayloadInspector.cc", 
+            "CondCore/AlignmentPlugins/test/testTrackerAlignment.sh"
+        ], 
+        "created_at": 1560932168, 
+        "number": 27257, 
+        "state": "open", 
+        "updated_at": 1560932196
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
