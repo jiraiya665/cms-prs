@@ -1898,12 +1898,13 @@
             "L1Trigger/L1THGCal/plugins/geometries/HGCalTriggerGeometryV9Imp1.cc", 
             "L1Trigger/L1THGCal/plugins/geometries/HGCalTriggerGeometryV9Imp2.cc", 
             "L1Trigger/L1THGCal/plugins/geometries/NullGeometry.cc", 
-            "L1Trigger/L1THGCal/plugins/geometries/TrivialGeometry.cc"
+            "L1Trigger/L1THGCal/plugins/geometries/TrivialGeometry.cc", 
+            "L1Trigger/L1THGCal/python/hgcalTriggerGeometryESProducer_cfi.py"
         ], 
         "created_at": 1560874466, 
         "number": 27242, 
         "state": "open", 
-        "updated_at": 1560874495
+        "updated_at": 1560946404
     }, 
     "27244": {
         "base_branch": "master", 
