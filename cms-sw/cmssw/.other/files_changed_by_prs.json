@@ -112,16 +112,6 @@
         "state": "open", 
         "updated_at": 1559711298
     }, 
-    "25566": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/GlobalTrackingGeometryBuilder/test/BuildFile.xml"
-        ], 
-        "created_at": 1545469672, 
-        "number": 25566, 
-        "state": "open", 
-        "updated_at": 1557848235
-    }, 
     "25605": {
         "base_branch": "CMSSW_10_2_X", 
         "changed_files_names": [
