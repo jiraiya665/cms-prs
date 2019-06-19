@@ -2469,6 +2469,19 @@
         "state": "open", 
         "updated_at": 1560936712
     }, 
+    "27270": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/SiStripDetId/interface/SiStripDetId.h", 
+            "SimG4CMS/Calo/src/HFNoseNumberingScheme.cc", 
+            "SimG4CMS/Calo/src/HcalTestNS.cc", 
+            "SimG4CMS/Calo/test/CaloSimHitAnalysis.cc"
+        ], 
+        "created_at": 1560936709, 
+        "number": 27270, 
+        "state": "open", 
+        "updated_at": 1560936756
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
