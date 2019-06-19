@@ -1311,18 +1311,6 @@
         "state": "open", 
         "updated_at": 1560343277
     }, 
-    "27192": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FastSimulation/Tracking/plugins/PixelTracksProducer.cc", 
-            "FastSimulation/Tracking/plugins/TrajectorySeedProducer.cc", 
-            "FastSimulation/Tracking/src/SeedFinderSelector.cc"
-        ], 
-        "created_at": 1560354859, 
-        "number": 27192, 
-        "state": "open", 
-        "updated_at": 1560863354
-    }, 
     "27194": {
         "base_branch": "master", 
         "changed_files_names": [
