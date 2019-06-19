@@ -150,16 +150,6 @@
         "state": "open", 
         "updated_at": 1550838263
     }, 
-    "25672": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibMuon/DTCalibration/src/DTT0CorrectionFactory.cc"
-        ], 
-        "created_at": 1547566638, 
-        "number": 25672, 
-        "state": "open", 
-        "updated_at": 1559089042
-    }, 
     "25780": {
         "base_branch": "CMSSW_10_2_X", 
         "changed_files_names": [
