@@ -2014,17 +2014,6 @@
         "state": "open", 
         "updated_at": 1560936487
     }, 
-    "27274": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibMuon/DTCalibration/BuildFile.xml", 
-            "CalibMuon/DTCalibration/plugins/BuildFile.xml"
-        ], 
-        "created_at": 1560939746, 
-        "number": 27274, 
-        "state": "open", 
-        "updated_at": 1560939777
-    }, 
     "27276": {
         "base_branch": "master", 
         "changed_files_names": [
