@@ -1868,16 +1868,6 @@
         "state": "open", 
         "updated_at": 1560975728
     }, 
-    "27283": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "TopQuarkAnalysis/TopEventSelection/BuildFile.xml"
-        ], 
-        "created_at": 1561011192, 
-        "number": 27283, 
-        "state": "open", 
-        "updated_at": 1561012162
-    }, 
     "27285": {
         "base_branch": "master", 
         "changed_files_names": [
