@@ -1865,17 +1865,6 @@
         "state": "open", 
         "updated_at": 1560935786
     }, 
-    "27261": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Validation/EventGenerator/plugins/TauValidation.cc", 
-            "Validation/EventGenerator/src/HepMCValidationHelper.cc"
-        ], 
-        "created_at": 1560936135, 
-        "number": 27261, 
-        "state": "open", 
-        "updated_at": 1560936190
-    }, 
     "27262": {
         "base_branch": "master", 
         "changed_files_names": [
