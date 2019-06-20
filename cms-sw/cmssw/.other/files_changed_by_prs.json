@@ -1865,21 +1865,6 @@
         "state": "open", 
         "updated_at": 1560935786
     }, 
-    "27259": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/HcalTasks/interface/LEDTask.h", 
-            "DQM/HcalTasks/plugins/DigiTask.cc", 
-            "DQM/HcalTasks/plugins/LEDTask.cc", 
-            "DQM/HcalTasks/plugins/LaserTask.cc", 
-            "Validation/HGCalValidation/test/HGCalRecHitStudy.cc", 
-            "Validation/SiOuterTrackerV/plugins/OuterTrackerMonitorTrackingParticles.cc"
-        ], 
-        "created_at": 1560936005, 
-        "number": 27259, 
-        "state": "open", 
-        "updated_at": 1560936059
-    }, 
     "27260": {
         "base_branch": "master", 
         "changed_files_names": [
