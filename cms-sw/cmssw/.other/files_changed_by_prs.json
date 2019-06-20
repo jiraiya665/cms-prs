@@ -1782,16 +1782,6 @@
         "state": "open", 
         "updated_at": 1560924119
     }, 
-    "27254": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/RPCMonitorDigi/BuildFile.xml"
-        ], 
-        "created_at": 1560930696, 
-        "number": 27254, 
-        "state": "open", 
-        "updated_at": 1560930725
-    }, 
     "27255": {
         "base_branch": "master", 
         "changed_files_names": [
