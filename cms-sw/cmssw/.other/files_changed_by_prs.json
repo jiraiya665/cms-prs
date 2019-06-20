@@ -1521,35 +1521,6 @@
         "state": "open", 
         "updated_at": 1561029691
     }, 
-    "27278": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondCore/ESSources/interface/DataProxy.h", 
-            "CondCore/ESSources/interface/ProxyFactory.h", 
-            "CondCore/ESSources/interface/registration_macros.h", 
-            "CondCore/ESSources/plugins/CondDBESSource.cc", 
-            "CondCore/ESSources/plugins/CondDBESSource.h", 
-            "CondCore/ESSources/src/ProxyFactory.cc", 
-            "CondCore/ESSources/test/SiStripTest/noiseanalyzer.cc", 
-            "CondCore/ESSources/test/stubs/EfficiencyByLabelAnalyzer.cc", 
-            "CondCore/ESSources/test/stubs/PedestalsAnalyzer.cc", 
-            "CondCore/ESSources/test/stubs/PedestalsByLabelAnalyzer.cc", 
-            "PhysicsTools/CondLiteIO/interface/RecordWriter.h", 
-            "PhysicsTools/CondLiteIO/plugins/FWLiteESRecordWriterAnalyzer.cc", 
-            "PhysicsTools/CondLiteIO/plugins/FWLiteESSource.cc", 
-            "PhysicsTools/CondLiteIO/src/RecordWriter.cc", 
-            "PhysicsTools/CondLiteIO/test/EventSetupIntProductAnalyzer.cc", 
-            "PhysicsTools/CondLiteIO/test/IntProductESSource.cc", 
-            "PhysicsTools/CondLiteIO/test/IntProductRecord.cc", 
-            "PhysicsTools/CondLiteIO/test/IntProductRecord.h", 
-            "PhysicsTools/CondLiteIO/test/record.cppunit.cpp", 
-            "PhysicsTools/CondLiteIO/test/recordwriter.cppunit.cpp"
-        ], 
-        "created_at": 1560951809, 
-        "number": 27278, 
-        "state": "open", 
-        "updated_at": 1560951837
-    }, 
     "27279": {
         "base_branch": "master", 
         "changed_files_names": [
