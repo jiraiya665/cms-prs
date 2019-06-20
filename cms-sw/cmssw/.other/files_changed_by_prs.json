@@ -2106,17 +2106,6 @@
         "state": "open", 
         "updated_at": 1560936487
     }, 
-    "27271": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Fireworks/Calo/interface/FWHeatmapProxyBuilderTemplate.h", 
-            "Fireworks/SimData/plugins/FWECaloParticleProxyBuilder.cc"
-        ], 
-        "created_at": 1560936829, 
-        "number": 27271, 
-        "state": "open", 
-        "updated_at": 1560936890
-    }, 
     "27272": {
         "base_branch": "master", 
         "changed_files_names": [
