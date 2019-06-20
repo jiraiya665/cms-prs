@@ -2133,17 +2133,6 @@
         "state": "open", 
         "updated_at": 1560936517
     }, 
-    "27267": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/HGCRecHit/interface/HGCRecHit.h", 
-            "DataFormats/HGCRecHit/src/HGCRecHit.cc"
-        ], 
-        "created_at": 1560936559, 
-        "number": 27267, 
-        "state": "open", 
-        "updated_at": 1560936581
-    }, 
     "27268": {
         "base_branch": "master", 
         "changed_files_names": [
