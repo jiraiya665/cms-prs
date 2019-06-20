@@ -1773,20 +1773,6 @@
         "state": "open", 
         "updated_at": 1561029691
     }, 
-    "27265": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HGCalCommonData/interface/HGCalGeomTools.h", 
-            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc", 
-            "Geometry/HGCalCommonData/src/HGCalGeomTools.cc", 
-            "Geometry/HGCalGeometry/test/CaloCellGeometryTester.cc", 
-            "Geometry/HGCalGeometry/test/HGCalTestRecHitTool.cc"
-        ], 
-        "created_at": 1560936459, 
-        "number": 27265, 
-        "state": "open", 
-        "updated_at": 1560936487
-    }, 
     "27276": {
         "base_branch": "master", 
         "changed_files_names": [
