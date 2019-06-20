@@ -1865,28 +1865,6 @@
         "state": "open", 
         "updated_at": 1560935786
     }, 
-    "27260": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/EcalMonitorTasks/src/RecoSummaryTask.cc", 
-            "DQM/HcalCommon/src/DetectorQuantity.cc", 
-            "DQM/SiStripCommissioningSources/plugins/tracking/SiStripFineDelayHit.cc", 
-            "DQM/SiStripMonitorTrack/interface/SiStripMonitorTrack.h", 
-            "DQM/SiStripMonitorTrack/src/SiStripMonitorTrack.cc", 
-            "DQMOffline/Hcal/src/HcalRecHitsAnalyzer.cc", 
-            "Validation/HcalHits/src/HcalSimHitStudy.cc", 
-            "Validation/HcalHits/src/HcalSimHitsValidation.cc", 
-            "Validation/HcalHits/src/SimG4HcalValidation.cc", 
-            "Validation/HcalHits/src/SimHitsValidationHcal.cc", 
-            "Validation/HcalHits/test/HcalGeomCheck.cc", 
-            "Validation/HcalRecHits/test/HcalDumpHits.cc", 
-            "Validation/RecoEgamma/plugins/PhotonValidator.cc"
-        ], 
-        "created_at": 1560936033, 
-        "number": 27260, 
-        "state": "open", 
-        "updated_at": 1560936083
-    }, 
     "27261": {
         "base_branch": "master", 
         "changed_files_names": [
