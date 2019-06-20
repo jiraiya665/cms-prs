@@ -1782,16 +1782,6 @@
         "state": "open", 
         "updated_at": 1560924119
     }, 
-    "27253": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQMOffline/RecoB/BuildFile.xml"
-        ], 
-        "created_at": 1560930034, 
-        "number": 27253, 
-        "state": "open", 
-        "updated_at": 1560930062
-    }, 
     "27254": {
         "base_branch": "master", 
         "changed_files_names": [
