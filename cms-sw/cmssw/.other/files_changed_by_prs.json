@@ -1782,16 +1782,6 @@
         "state": "open", 
         "updated_at": 1560924119
     }, 
-    "27252": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "JetMETCorrections/Type1MET/plugins/BuildFile.xml"
-        ], 
-        "created_at": 1560929365, 
-        "number": 27252, 
-        "state": "open", 
-        "updated_at": 1560929417
-    }, 
     "27253": {
         "base_branch": "master", 
         "changed_files_names": [
