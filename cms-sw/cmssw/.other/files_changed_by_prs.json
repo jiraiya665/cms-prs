@@ -1904,6 +1904,7 @@
             "CalibTracker/SiStripESProducers/plugins/fake/SiStripNoisesFakeESSource.cc", 
             "CalibTracker/SiStripESProducers/plugins/fake/SiStripPedestalsFakeESSource.cc", 
             "CalibTracker/SiStripESProducers/plugins/fake/SiStripThresholdFakeESSource.cc", 
+            "CalibTracker/SiStripESProducers/plugins/fake/modules.cc", 
             "CalibTracker/SiStripESProducers/test/python/DummyCondDBWriter_SiStripApvGain_cfg.py", 
             "CalibTracker/SiStripESProducers/test/python/DummyCondDBWriter_SiStripBackPlaneCorrection_cfg.py", 
             "CalibTracker/SiStripESProducers/test/python/DummyCondDBWriter_SiStripBadModule_cfg.py", 
@@ -1989,7 +1990,7 @@
         "created_at": 1561039116, 
         "number": 27292, 
         "state": "open", 
-        "updated_at": 1561040039
+        "updated_at": 1561056794
     }, 
     "27294": {
         "base_branch": "master", 
