@@ -1782,16 +1782,6 @@
         "state": "open", 
         "updated_at": 1560924119
     }, 
-    "27251": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1Trigger/L1TCommon/plugins/BuildFile.xml"
-        ], 
-        "created_at": 1560928085, 
-        "number": 27251, 
-        "state": "open", 
-        "updated_at": 1560928135
-    }, 
     "27252": {
         "base_branch": "master", 
         "changed_files_names": [
