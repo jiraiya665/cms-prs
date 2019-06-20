@@ -2106,33 +2106,6 @@
         "state": "open", 
         "updated_at": 1560936487
     }, 
-    "27266": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/L1DTTrackFinder/interface/L1MuDTChambPhContainer.h", 
-            "DataFormats/L1DTTrackFinder/interface/L1MuDTChambPhDigi.h", 
-            "DataFormats/L1DTTrackFinder/interface/L1MuDTChambThContainer.h", 
-            "DataFormats/L1DTTrackFinder/interface/L1MuDTChambThDigi.h", 
-            "DataFormats/L1DTTrackFinder/interface/L1MuDTTrackCand.h", 
-            "DataFormats/L1DTTrackFinder/interface/L1MuDTTrackContainer.h", 
-            "DataFormats/L1DTTrackFinder/interface/L1Phase2MuDTPhContainer.h", 
-            "DataFormats/L1DTTrackFinder/interface/L1Phase2MuDTPhDigi.h", 
-            "DataFormats/L1DTTrackFinder/src/L1MuDTChambPhContainer.cc", 
-            "DataFormats/L1DTTrackFinder/src/L1MuDTChambPhDigi.cc", 
-            "DataFormats/L1DTTrackFinder/src/L1MuDTChambThContainer.cc", 
-            "DataFormats/L1DTTrackFinder/src/L1MuDTChambThDigi.cc", 
-            "DataFormats/L1DTTrackFinder/src/L1MuDTTrackCand.cc", 
-            "DataFormats/L1DTTrackFinder/src/L1MuDTTrackContainer.cc", 
-            "DataFormats/L1DTTrackFinder/src/L1Phase2MuDTPhContainer.cc", 
-            "DataFormats/L1DTTrackFinder/src/L1Phase2MuDTPhDigi.cc", 
-            "DataFormats/L1DTTrackFinder/src/classes.h", 
-            "L1TriggerConfig/DTTPGConfigProducers/src/DTConfigDBProducer.cc"
-        ], 
-        "created_at": 1560936489, 
-        "number": 27266, 
-        "state": "open", 
-        "updated_at": 1560936517
-    }, 
     "27271": {
         "base_branch": "master", 
         "changed_files_names": [
