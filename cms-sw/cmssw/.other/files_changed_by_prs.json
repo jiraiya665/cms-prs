@@ -2133,18 +2133,6 @@
         "state": "open", 
         "updated_at": 1560936517
     }, 
-    "27268": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/ParticleFlowReco/interface/PFTrajectoryPoint.h", 
-            "DataFormats/ParticleFlowReco/src/PFTrack.cc", 
-            "TrackingTools/Producers/src/TrajectoryCleanerESProducer.cc"
-        ], 
-        "created_at": 1560936632, 
-        "number": 27268, 
-        "state": "open", 
-        "updated_at": 1560936692
-    }, 
     "27269": {
         "base_branch": "master", 
         "changed_files_names": [
