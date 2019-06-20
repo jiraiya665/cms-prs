@@ -2076,16 +2076,6 @@
         "state": "open", 
         "updated_at": 1560936487
     }, 
-    "27273": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibTracker/SiStripCommon/BuildFile.xml"
-        ], 
-        "created_at": 1560937801, 
-        "number": 27273, 
-        "state": "open", 
-        "updated_at": 1560937827
-    }, 
     "27274": {
         "base_branch": "master", 
         "changed_files_names": [
