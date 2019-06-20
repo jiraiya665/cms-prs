@@ -1380,30 +1380,6 @@
         "state": "open", 
         "updated_at": 1560936751
     }, 
-    "27222": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/Geometry/python/DD4hep_GeometrySim_cff.py", 
-            "Configuration/StandardSequences/python/DD4hep_GeometrySim_cff.py", 
-            "Configuration/StandardSequences/python/DD4hep_SimIdeal_cff.py", 
-            "DetectorDescription/DDCMS/interface/DDCompactView.h", 
-            "SimG4Core/Application/BuildFile.xml", 
-            "SimG4Core/Application/interface/OscarMTMasterThread.h", 
-            "SimG4Core/Application/interface/RunManagerMT.h", 
-            "SimG4Core/Application/python/g4SimHits_cfi.py", 
-            "SimG4Core/Application/src/OscarMTMasterThread.cc", 
-            "SimG4Core/Application/src/RunManagerMT.cc", 
-            "SimG4Core/Configuration/python/DD4hep_SimG4Core_cff.py", 
-            "SimG4Core/DD4hepGeometry/test/python/testZMM_13TeV_TuneCUETP8M1_cfi_GEN_SIM.py", 
-            "SimG4Core/Geometry/BuildFile.xml", 
-            "SimG4Core/Geometry/interface/DDDWorld.h", 
-            "SimG4Core/Geometry/src/DDDWorld.cc"
-        ], 
-        "created_at": 1560754974, 
-        "number": 27222, 
-        "state": "open", 
-        "updated_at": 1560924847
-    }, 
     "27224": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
