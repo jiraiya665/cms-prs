@@ -2092,21 +2092,6 @@
         "state": "open", 
         "updated_at": 1560936350
     }, 
-    "27263": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "GeneratorInterface/GenFilters/interface/HTXSFilter.h", 
-            "GeneratorInterface/GenFilters/src/HTXSFilter.cc", 
-            "GeneratorInterface/Herwig7Interface/interface/Herwig7Interface.h", 
-            "GeneratorInterface/Herwig7Interface/plugins/Herwig7Hadronizer.cc", 
-            "GeneratorInterface/Herwig7Interface/src/Herwig7Interface.cc", 
-            "GeneratorInterface/PhotosInterface/plugins/PhotosppInterface.cc"
-        ], 
-        "created_at": 1560936355, 
-        "number": 27263, 
-        "state": "open", 
-        "updated_at": 1560936381
-    }, 
     "27265": {
         "base_branch": "master", 
         "changed_files_names": [
