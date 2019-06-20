@@ -1782,16 +1782,6 @@
         "state": "open", 
         "updated_at": 1560924119
     }, 
-    "27247": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/MuonDetId/test/BuildFile.xml"
-        ], 
-        "created_at": 1560924176, 
-        "number": 27247, 
-        "state": "open", 
-        "updated_at": 1560924203
-    }, 
     "27250": {
         "base_branch": "master", 
         "changed_files_names": [
