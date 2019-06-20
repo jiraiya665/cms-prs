@@ -2173,20 +2173,6 @@
         "state": "open", 
         "updated_at": 1560972315
     }, 
-    "27280": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/HcalDetId/src/HcalCalibDetId.cc", 
-            "Geometry/CaloTopology/interface/HcalTopology.h", 
-            "Geometry/CaloTopology/src/HcalTopology.cc", 
-            "Geometry/CaloTopology/test/HcalDetId2DenseTester.cc", 
-            "Geometry/CaloTopology/test/testHcalDetId2DenseTester_cfg.py"
-        ], 
-        "created_at": 1560965449, 
-        "number": 27280, 
-        "state": "open", 
-        "updated_at": 1560965477
-    }, 
     "27281": {
         "base_branch": "master", 
         "changed_files_names": [
