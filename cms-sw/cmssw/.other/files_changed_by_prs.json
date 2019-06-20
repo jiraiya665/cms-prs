@@ -2222,16 +2222,6 @@
         "state": "open", 
         "updated_at": 1561012162
     }, 
-    "27284": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "TopQuarkAnalysis/TopEventSelection/BuildFile.xml"
-        ], 
-        "created_at": 1561016229, 
-        "number": 27284, 
-        "state": "open", 
-        "updated_at": 1561016286
-    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
