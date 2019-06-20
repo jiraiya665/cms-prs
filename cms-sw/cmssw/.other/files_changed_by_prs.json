@@ -1500,16 +1500,6 @@
         "state": "open", 
         "updated_at": 1560924119
     }, 
-    "27255": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondCore/Utilities/scripts/conddb"
-        ], 
-        "created_at": 1560931113, 
-        "number": 27255, 
-        "state": "open", 
-        "updated_at": 1560931143
-    }, 
     "27257": {
         "base_branch": "master", 
         "changed_files_names": [
