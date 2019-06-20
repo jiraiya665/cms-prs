@@ -1782,16 +1782,6 @@
         "state": "open", 
         "updated_at": 1560924119
     }, 
-    "27250": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CommonTools/RecoAlgos/plugins/BuildFile.xml"
-        ], 
-        "created_at": 1560926394, 
-        "number": 27250, 
-        "state": "open", 
-        "updated_at": 1560926451
-    }, 
     "27251": {
         "base_branch": "master", 
         "changed_files_names": [
