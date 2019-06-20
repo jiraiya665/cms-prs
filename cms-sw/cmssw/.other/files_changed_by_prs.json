@@ -1792,16 +1792,6 @@
         "state": "open", 
         "updated_at": 1560931143
     }, 
-    "27256": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/DataScouting/plugins/BuildFile.xml"
-        ], 
-        "created_at": 1560931449, 
-        "number": 27256, 
-        "state": "open", 
-        "updated_at": 1560931449
-    }, 
     "27257": {
         "base_branch": "master", 
         "changed_files_names": [
