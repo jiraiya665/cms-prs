@@ -1446,16 +1446,6 @@
         "state": "open", 
         "updated_at": 1560946404
     }, 
-    "27246": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/TrackingMonitorClient/src/TrackingQualityChecker.cc"
-        ], 
-        "created_at": 1560924090, 
-        "number": 27246, 
-        "state": "open", 
-        "updated_at": 1560924119
-    }, 
     "27257": {
         "base_branch": "master", 
         "changed_files_names": [
