@@ -2439,6 +2439,23 @@
         "state": "open", 
         "updated_at": 1561110857
     }, 
+    "27304": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Fireworks/Calo/plugins/BuildFile.xml", 
+            "Fireworks/Calo/plugins/FWHGCalTriggerCellProxyBuilder.cc", 
+            "Fireworks/Calo/plugins/FWHGCalTriggerClusterProxyBuilder.cc", 
+            "Fireworks/Calo/plugins/FWItemTriggerCellAccessors.cc", 
+            "Fireworks/Calo/plugins/FWL1THGCalProxyTemplate.cc", 
+            "Fireworks/Core/interface/FWItemRandomAccessor.h", 
+            "Fireworks/Core/src/FWItemValueGetter.cc", 
+            "Fireworks/Core/src/FWTableViewManager.cc"
+        ], 
+        "created_at": 1561116708, 
+        "number": 27304, 
+        "state": "open", 
+        "updated_at": 1561116738
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
