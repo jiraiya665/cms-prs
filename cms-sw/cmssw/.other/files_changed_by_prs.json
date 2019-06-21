@@ -1497,18 +1497,6 @@
         "state": "open", 
         "updated_at": 1560972315
     }, 
-    "27281": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1Trigger/RPCTrigger/interface/RPCConeBuilder.h", 
-            "L1Trigger/RPCTrigger/plugins/RPCConeBuilder.cc", 
-            "L1Trigger/RPCTrigger/plugins/SealModule.cc"
-        ], 
-        "created_at": 1560972340, 
-        "number": 27281, 
-        "state": "open", 
-        "updated_at": 1560973699
-    }, 
     "27285": {
         "base_branch": "master", 
         "changed_files_names": [
