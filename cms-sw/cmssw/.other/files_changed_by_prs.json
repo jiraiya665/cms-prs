@@ -1992,19 +1992,6 @@
         "state": "open", 
         "updated_at": 1561058257
     }, 
-    "27295": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimG4Core/Application/python/g4SimHits_cfi.py", 
-            "SimG4Core/Application/src/OscarMTMasterThread.cc", 
-            "SimG4Core/Application/src/RunManagerMT.cc", 
-            "SimG4Core/Geometry/interface/DDDWorld.h"
-        ], 
-        "created_at": 1561056602, 
-        "number": 27295, 
-        "state": "open", 
-        "updated_at": 1561056633
-    }, 
     "27296": {
         "base_branch": "master", 
         "changed_files_names": [
