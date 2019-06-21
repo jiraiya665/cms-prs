@@ -1509,17 +1509,6 @@
         "state": "open", 
         "updated_at": 1560973699
     }, 
-    "27282": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1Trigger/TrackTrigger/interface/TTStubAlgorithm_cbc3.h", 
-            "L1Trigger/TrackTrigger/interface/TTStubAlgorithm_official.h"
-        ], 
-        "created_at": 1560975670, 
-        "number": 27282, 
-        "state": "open", 
-        "updated_at": 1560975728
-    }, 
     "27285": {
         "base_branch": "master", 
         "changed_files_names": [
