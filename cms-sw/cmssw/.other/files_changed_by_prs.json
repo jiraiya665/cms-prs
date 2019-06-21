@@ -1684,13 +1684,20 @@
             "IOPool/Streamer/src/StreamerInputSource.cc", 
             "IOPool/Streamer/src/StreamerOutputModuleBase.cc", 
             "IOPool/Streamer/src/StreamerOutputModuleCommon.cc", 
+            "IOPool/Streamer/test/BuildFile.xml", 
+            "IOPool/Streamer/test/NewStreamOut_cfg.py", 
+            "IOPool/Streamer/test/RunLZMA.sh", 
+            "IOPool/Streamer/test/RunSimple_NewStreamer.sh", 
+            "IOPool/Streamer/test/RunUNCOMPRESSED.sh", 
+            "IOPool/Streamer/test/RunZLIB.sh", 
+            "IOPool/Streamer/test/RunZSTD.sh", 
             "IOPool/Streamer/test/StreamThingAnalyzer.h", 
             "IOPool/Streamer/test/StreamThingProducer.h"
         ], 
         "created_at": 1561026959, 
         "number": 27288, 
         "state": "open", 
-        "updated_at": 1561026986
+        "updated_at": 1561103294
     }, 
     "27289": {
         "base_branch": "master", 
