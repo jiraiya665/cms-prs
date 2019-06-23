@@ -2166,16 +2166,6 @@
         "state": "open", 
         "updated_at": 1561205630
     }, 
-    "27317": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "PhysicsTools/PatUtils/BuildFile.xml"
-        ], 
-        "created_at": 1561206872, 
-        "number": 27317, 
-        "state": "open", 
-        "updated_at": 1561206912
-    }, 
     "27318": {
         "base_branch": "master", 
         "changed_files_names": [
