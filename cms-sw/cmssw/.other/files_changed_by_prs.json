@@ -1457,25 +1457,6 @@
         "state": "open", 
         "updated_at": 1561029691
     }, 
-    "27279": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/Geometry/README.md", 
-            "Configuration/Geometry/python/GeometryExtended2023D43Reco_cff.py", 
-            "Configuration/Geometry/python/GeometryExtended2023D43_cff.py", 
-            "Configuration/Geometry/python/dict2023Geometry.py", 
-            "Configuration/PyReleaseValidation/python/relval_2023.py", 
-            "Configuration/PyReleaseValidation/python/relval_steps.py", 
-            "Configuration/PyReleaseValidation/python/relval_upgrade.py", 
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
-            "Configuration/StandardSequences/python/GeometryConf.py", 
-            "Geometry/CMSCommonData/python/cmsExtendedGeometry2023D43XML_cfi.py"
-        ], 
-        "created_at": 1560964914, 
-        "number": 27279, 
-        "state": "open", 
-        "updated_at": 1560972315
-    }, 
     "27287": {
         "base_branch": "master", 
         "changed_files_names": [
