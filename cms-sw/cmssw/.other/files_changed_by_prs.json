@@ -2126,16 +2126,6 @@
         "state": "open", 
         "updated_at": 1561193416
     }, 
-    "27313": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "TrackingTools/GsfTracking/BuildFile.xml"
-        ], 
-        "created_at": 1561195926, 
-        "number": 27313, 
-        "state": "open", 
-        "updated_at": 1561195980
-    }, 
     "27314": {
         "base_branch": "master", 
         "changed_files_names": [
