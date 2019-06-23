@@ -2207,16 +2207,6 @@
         "state": "open", 
         "updated_at": 1561213048
     }, 
-    "27322": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/Physics/BuildFile.xml"
-        ], 
-        "created_at": 1561212986, 
-        "number": 27322, 
-        "state": "open", 
-        "updated_at": 1561213051
-    }, 
     "27323": {
         "base_branch": "master", 
         "changed_files_names": [
