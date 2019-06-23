@@ -2147,16 +2147,6 @@
         "state": "open", 
         "updated_at": 1561210448
     }, 
-    "27320": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "EventFilter/EcalRawToDigi/plugins/BuildFile.xml"
-        ], 
-        "created_at": 1561211882, 
-        "number": 27320, 
-        "state": "open", 
-        "updated_at": 1561211882
-    }, 
     "27325": {
         "base_branch": "master", 
         "changed_files_names": [
