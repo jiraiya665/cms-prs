@@ -2126,16 +2126,6 @@
         "state": "open", 
         "updated_at": 1561193416
     }, 
-    "27314": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoTracker/TrackProducer/BuildFile.xml"
-        ], 
-        "created_at": 1561201290, 
-        "number": 27314, 
-        "state": "open", 
-        "updated_at": 1561201290
-    }, 
     "27315": {
         "base_branch": "master", 
         "changed_files_names": [
