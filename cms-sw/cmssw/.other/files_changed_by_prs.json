@@ -2136,16 +2136,6 @@
         "state": "open", 
         "updated_at": 1561201812
     }, 
-    "27316": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoJets/JetProducers/BuildFile.xml"
-        ], 
-        "created_at": 1561205586, 
-        "number": 27316, 
-        "state": "open", 
-        "updated_at": 1561205630
-    }, 
     "27318": {
         "base_branch": "master", 
         "changed_files_names": [
