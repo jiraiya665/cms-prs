@@ -2197,16 +2197,6 @@
         "state": "open", 
         "updated_at": 1561211882
     }, 
-    "27321": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQMOffline/JetMET/BuildFile.xml"
-        ], 
-        "created_at": 1561212954, 
-        "number": 27321, 
-        "state": "open", 
-        "updated_at": 1561213048
-    }, 
     "27323": {
         "base_branch": "master", 
         "changed_files_names": [
