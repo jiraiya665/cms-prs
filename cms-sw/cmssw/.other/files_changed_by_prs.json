@@ -2126,16 +2126,6 @@
         "state": "open", 
         "updated_at": 1561193416
     }, 
-    "27315": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoMuon/TrackerSeedGenerator/BuildFile.xml"
-        ], 
-        "created_at": 1561201783, 
-        "number": 27315, 
-        "state": "open", 
-        "updated_at": 1561201812
-    }, 
     "27318": {
         "base_branch": "master", 
         "changed_files_names": [
