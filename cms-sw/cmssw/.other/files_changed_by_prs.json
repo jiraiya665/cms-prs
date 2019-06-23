@@ -2197,16 +2197,6 @@
         "state": "open", 
         "updated_at": 1561211882
     }, 
-    "27323": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/EcalPreshowerMonitorModule/BuildFile.xml"
-        ], 
-        "created_at": 1561213618, 
-        "number": 27323, 
-        "state": "open", 
-        "updated_at": 1561213642
-    }, 
     "27324": {
         "base_branch": "master", 
         "changed_files_names": [
