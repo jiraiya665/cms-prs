@@ -2003,8 +2003,6 @@
     "27301": {
         "base_branch": "master", 
         "changed_files_names": [
-            "SimG4Core/Application/python/NeutronBGforMuons_cff.py", 
-            "SimG4Core/Application/python/g4SimHits_cfi.py", 
             "SimG4Core/Application/src/RunManagerMTWorker.cc", 
             "SimG4Core/CheckSecondary/test/python/runCuModel_cfg.py", 
             "SimG4Core/DD4hepGeometry/test/plugins/DD4hepTestDDDWorld.cc", 
@@ -2016,7 +2014,7 @@
         "created_at": 1561102224, 
         "number": 27301, 
         "state": "open", 
-        "updated_at": 1561109287
+        "updated_at": 1561377785
     }, 
     "27303": {
         "base_branch": "master", 
