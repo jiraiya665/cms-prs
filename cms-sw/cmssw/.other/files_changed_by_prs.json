@@ -1785,18 +1785,6 @@
         "state": "open", 
         "updated_at": 1561297832
     }, 
-    "27294": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Validation/CaloTowers/interface/CaloTowersValidation.h", 
-            "Validation/CaloTowers/python/CaloTowersParam_cfi.py", 
-            "Validation/CaloTowers/src/CaloTowersValidation.cc"
-        ], 
-        "created_at": 1561056369, 
-        "number": 27294, 
-        "state": "open", 
-        "updated_at": 1561122330
-    }, 
     "27299": {
         "base_branch": "master", 
         "changed_files_names": [
