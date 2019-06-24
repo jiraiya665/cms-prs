@@ -2182,6 +2182,18 @@
         "state": "open", 
         "updated_at": 1561374904
     }, 
+    "27332": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoCTPPS/TotemRPLocal/interface/CTPPSDiamondRecHitProducerAlgorithm.h", 
+            "RecoCTPPS/TotemRPLocal/plugins/CTPPSDiamondRecHitProducer.cc", 
+            "RecoCTPPS/TotemRPLocal/src/CTPPSDiamondRecHitProducerAlgorithm.cc"
+        ], 
+        "created_at": 1561381390, 
+        "number": 27332, 
+        "state": "open", 
+        "updated_at": 1561381552
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
