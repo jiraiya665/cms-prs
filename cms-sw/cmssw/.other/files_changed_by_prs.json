@@ -1904,34 +1904,6 @@
         "state": "open", 
         "updated_at": 1561382528
     }, 
-    "27303": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibTracker/SiPixelQuality/src/SiPixelStatusManager.cc", 
-            "CommonTools/RecoAlgos/interface/CosmicTrackingParticleSelector.h", 
-            "CommonTools/RecoAlgos/interface/RecoTrackSelectorBase.h", 
-            "CondCore/ESSources/interface/DataProxy.h", 
-            "CondFormats/SiPixelObjects/interface/SiPixelGainCalibration.h", 
-            "CondFormats/SiPixelObjects/interface/SiPixelGainCalibrationForHLT.h", 
-            "CondFormats/SiPixelObjects/interface/SiPixelGainCalibrationOffline.h", 
-            "CondFormats/SiPixelObjects/src/SiPixelQuality.cc", 
-            "DQMServices/Core/src/QTest.cc", 
-            "DataFormats/EgammaCandidates/interface/GsfElectron.h", 
-            "Geometry/CSCGeometryBuilder/src/CSCGeometryBuilder.cc", 
-            "Geometry/CSCGeometryBuilder/src/CSCGeometryBuilder.h", 
-            "Geometry/CSCGeometryBuilder/src/CSCGeometryParsFromDD.cc", 
-            "Geometry/CommonTopologies/src/TwoBowedSurfacesDeformation.cc", 
-            "Geometry/TrackerNumberingBuilder/test/ModuleNumbering.cc", 
-            "RecoEgamma/ElectronIdentification/interface/EBEECutValues.h", 
-            "RecoEgamma/ElectronIdentification/test/VIDUsageExample.cc", 
-            "RecoEgamma/PhotonIdentification/src/PhotonMIPHaloTagger.cc", 
-            "Validation/SiOuterTrackerV/plugins/OuterTrackerMonitorTrackingParticles.cc"
-        ], 
-        "created_at": 1561110824, 
-        "number": 27303, 
-        "state": "open", 
-        "updated_at": 1561110857
-    }, 
     "27305": {
         "base_branch": "master", 
         "changed_files_names": [
