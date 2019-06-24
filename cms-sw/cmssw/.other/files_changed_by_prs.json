@@ -2070,14 +2070,18 @@
             "FWCore/Framework/src/global/EDProducerBase.cc", 
             "FWCore/Framework/src/limited/EDFilterBase.cc", 
             "FWCore/Framework/src/limited/EDProducerBase.cc", 
-            "FWCore/Framework/test/global_module_t.cppunit.cc", 
-            "FWCore/Framework/test/limited_module_t.cppunit.cc", 
-            "FWCore/Framework/test/stream_module_t.cppunit.cc"
+            "FWCore/Framework/test/BuildFile.xml", 
+            "FWCore/Framework/test/global_filter_t.cppunit.cc", 
+            "FWCore/Framework/test/global_producer_t.cppunit.cc", 
+            "FWCore/Framework/test/limited_filter_t.cppunit.cc", 
+            "FWCore/Framework/test/limited_producer_t.cppunit.cc", 
+            "FWCore/Framework/test/stream_filter_t.cppunit.cc", 
+            "FWCore/Framework/test/stream_producer_t.cppunit.cc"
         ], 
         "created_at": 1561121455, 
         "number": 27306, 
         "state": "open", 
-        "updated_at": 1561121509
+        "updated_at": 1561398383
     }, 
     "27307": {
         "base_branch": "master", 
