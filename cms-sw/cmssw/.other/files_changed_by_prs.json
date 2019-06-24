@@ -1141,37 +1141,6 @@
         "state": "open", 
         "updated_at": 1560182505
     }, 
-    "27128": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoEgamma/EgammaTools/interface/EgammaPCAHelper.h", 
-            "RecoEgamma/EgammaTools/src/EgammaPCAHelper.cc", 
-            "RecoLocalCalo/HGCalRecAlgos/interface/HGCal3DClustering.h", 
-            "RecoLocalCalo/HGCalRecAlgos/interface/HGCalRecHitAbsAlgo.h", 
-            "RecoLocalCalo/HGCalRecAlgos/interface/HGCalRecHitSimpleAlgo.h", 
-            "RecoLocalCalo/HGCalRecAlgos/interface/RecHitTools.h", 
-            "RecoLocalCalo/HGCalRecAlgos/src/HGCal3DClustering.cc", 
-            "RecoLocalCalo/HGCalRecAlgos/src/HGCalDepthPreClusterer.cc", 
-            "RecoLocalCalo/HGCalRecAlgos/src/RecHitTools.cc", 
-            "RecoLocalCalo/HGCalRecProducers/interface/HGCalCLUEAlgo.h", 
-            "RecoLocalCalo/HGCalRecProducers/interface/HGCalClusteringAlgoBase.h", 
-            "RecoLocalCalo/HGCalRecProducers/interface/HGCalImagingAlgo.h", 
-            "RecoLocalCalo/HGCalRecProducers/interface/HGCalUncalibRecHitWorkerBaseClass.h", 
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalCLUEAlgo.cc", 
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalImagingAlgo.cc", 
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalRecHitProducer.cc", 
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalRecHitWorkerSimple.cc", 
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalRecHitWorkerSimple.h", 
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalUncalibRecHitProducer.cc", 
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalUncalibRecHitProducer.h", 
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalUncalibRecHitWorkerWeights.cc", 
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalUncalibRecHitWorkerWeights.h"
-        ], 
-        "created_at": 1559827666, 
-        "number": 27128, 
-        "state": "open", 
-        "updated_at": 1561044046
-    }, 
     "27148": {
         "base_branch": "CMSSW_10_2_X", 
         "changed_files_names": [
