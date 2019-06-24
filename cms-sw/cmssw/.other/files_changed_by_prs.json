@@ -2172,6 +2172,18 @@
         "state": "open", 
         "updated_at": 1561373493
     }, 
+    "27331": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/HLT/python/autoCondHLT.py", 
+            "Configuration/HLT/python/autoHLT.py", 
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py"
+        ], 
+        "created_at": 1561374794, 
+        "number": 27331, 
+        "state": "open", 
+        "updated_at": 1561374904
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
