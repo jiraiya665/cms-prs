@@ -1937,17 +1937,6 @@
         "state": "open", 
         "updated_at": 1561341436
     }, 
-    "27318": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1Trigger/L1THGCal/interface/concentrator/HGCalConcentratorBestChoiceImpl.h", 
-            "L1Trigger/L1THGCal/src/concentrator/HGCalConcentratorBestChoiceImpl.cc"
-        ], 
-        "created_at": 1561207964, 
-        "number": 27318, 
-        "state": "open", 
-        "updated_at": 1561210448
-    }, 
     "27328": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
