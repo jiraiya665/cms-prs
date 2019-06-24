@@ -1912,22 +1912,6 @@
         "state": "open", 
         "updated_at": 1561122330
     }, 
-    "27298": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/EcalTestBeam/python/iguana_TBH4_2007_cfg.py", 
-            "Geometry/HcalCommonData/test/python/runI_cfg.py", 
-            "Geometry/HcalTestBeamData/test/python/runI_cfg.py", 
-            "Geometry/TrackerCommonData/test/python/runI_cfg.py", 
-            "RecoLocalMuon/CSCEfficiency/test/run_IP_MC_cfg.py", 
-            "RecoLocalMuon/CSCEfficiency/test/run_craft_cfg.py", 
-            "SimG4CMS/HcalTestBeam/test/python/runI_cfg.py"
-        ], 
-        "created_at": 1561063769, 
-        "number": 27298, 
-        "state": "open", 
-        "updated_at": 1561063823
-    }, 
     "27299": {
         "base_branch": "master", 
         "changed_files_names": [
