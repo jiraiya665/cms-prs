@@ -1836,12 +1836,13 @@
             "FWCore/Services/src/SiteLocalConfigService.cc", 
             "FWCore/Services/test/BuildFile.xml", 
             "FWCore/Services/test/full-site-local-config.testfile", 
-            "FWCore/Services/test/test_catch2_SiteLocalConfigService.cc"
+            "FWCore/Services/test/test_catch2_SiteLocalConfigService.cc", 
+            "L1TriggerConfig/L1GtConfigProducers/BuildFile.xml"
         ], 
         "created_at": 1561466231, 
         "number": 27339, 
         "state": "open", 
-        "updated_at": 1561467128
+        "updated_at": 1561481828
     }, 
     "27340": {
         "base_branch": "master", 
