@@ -1727,16 +1727,6 @@
         "state": "open", 
         "updated_at": 1561398383
     }, 
-    "27307": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/AlCa/python/autoAlca.py"
-        ], 
-        "created_at": 1561126713, 
-        "number": 27307, 
-        "state": "open", 
-        "updated_at": 1561126764
-    }, 
     "27308": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
