@@ -1167,7 +1167,9 @@
             "DataFormats/RecoHGCal/src/classes.h", 
             "DataFormats/RecoHGCal/src/classes_def.xml", 
             "RecoHGCal/TICL/BuildFile.xml", 
+            "RecoHGCal/TICL/interface/Common.h", 
             "RecoHGCal/TICL/interface/PatternRecognitionAlgoBase.h", 
+            "RecoHGCal/TICL/interface/Trackster.h", 
             "RecoHGCal/TICL/plugins/BuildFile.xml", 
             "RecoHGCal/TICL/plugins/ClusterFilterBase.h", 
             "RecoHGCal/TICL/plugins/ClusterFilterByAlgo.h", 
@@ -1184,7 +1186,7 @@
             "RecoHGCal/TICL/plugins/PatternRecognitionbyCAConstants.h", 
             "RecoHGCal/TICL/plugins/PatternRecognitionbyMultiClusters.cc", 
             "RecoHGCal/TICL/plugins/PatternRecognitionbyMultiClusters.h", 
-            "RecoHGCal/TICL/plugins/TICLLayerTilesProducer.cc", 
+            "RecoHGCal/TICL/plugins/TICLLayerTileProducer.cc", 
             "RecoHGCal/TICL/plugins/TrackstersProducer.cc", 
             "RecoHGCal/TICL/python/ticl_iterations.py", 
             "RecoHGCal/TICL/src/BuildFile.xml", 
@@ -1199,7 +1201,7 @@
         "created_at": 1560233674, 
         "number": 27160, 
         "state": "open", 
-        "updated_at": 1561442571
+        "updated_at": 1561462341
     }, 
     "27175": {
         "base_branch": "master", 
