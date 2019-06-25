@@ -1647,27 +1647,6 @@
         "state": "open", 
         "updated_at": 1561119862
     }, 
-    "27306": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/Framework/interface/stream/ProducingModuleAdaptor.h", 
-            "FWCore/Framework/src/global/EDFilterBase.cc", 
-            "FWCore/Framework/src/global/EDProducerBase.cc", 
-            "FWCore/Framework/src/limited/EDFilterBase.cc", 
-            "FWCore/Framework/src/limited/EDProducerBase.cc", 
-            "FWCore/Framework/test/BuildFile.xml", 
-            "FWCore/Framework/test/global_filter_t.cppunit.cc", 
-            "FWCore/Framework/test/global_producer_t.cppunit.cc", 
-            "FWCore/Framework/test/limited_filter_t.cppunit.cc", 
-            "FWCore/Framework/test/limited_producer_t.cppunit.cc", 
-            "FWCore/Framework/test/stream_filter_t.cppunit.cc", 
-            "FWCore/Framework/test/stream_producer_t.cppunit.cc"
-        ], 
-        "created_at": 1561121455, 
-        "number": 27306, 
-        "state": "open", 
-        "updated_at": 1561398383
-    }, 
     "27308": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
