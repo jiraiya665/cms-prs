@@ -1789,6 +1789,28 @@
         "state": "open", 
         "updated_at": 1561442931
     }, 
+    "27337": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Validation/HGCalValidation/interface/HGCalValidator.h", 
+            "Validation/HGCalValidation/interface/HGVHistoProducerAlgo.h", 
+            "Validation/HGCalValidation/plugins/HGCalDigiValidation.cc", 
+            "Validation/HGCalValidation/plugins/HGCalRecHitValidation.cc", 
+            "Validation/HGCalValidation/plugins/HGCalSimHitValidation.cc", 
+            "Validation/HGCalValidation/plugins/HGCalValidator.cc", 
+            "Validation/HGCalValidation/python/HGCalPostProcessor_cff.py", 
+            "Validation/HGCalValidation/python/HGCalValidator_cfi.py", 
+            "Validation/HGCalValidation/python/HGVHistoProducerAlgoBlock_cfi.py", 
+            "Validation/HGCalValidation/python/PostProcessorHGCAL_cfi.py", 
+            "Validation/HGCalValidation/python/hgcalPlots.py", 
+            "Validation/HGCalValidation/scripts/makeHGCalValidationPlots.py", 
+            "Validation/HGCalValidation/src/HGVHistoProducerAlgo.cc"
+        ], 
+        "created_at": 1561455952, 
+        "number": 27337, 
+        "state": "open", 
+        "updated_at": 1561456003
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
