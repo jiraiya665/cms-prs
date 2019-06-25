@@ -1191,22 +1191,15 @@
             "RecoHGCal/TICL/src/classes.h", 
             "RecoHGCal/TICL/src/classes_def.xml", 
             "RecoLocalCalo/HGCalRecAlgos/interface/ClusterTools.h", 
-            "RecoLocalCalo/HGCalRecAlgos/interface/HGCal3DClustering.h", 
             "RecoLocalCalo/HGCalRecAlgos/interface/HGCalDepthPreClusterer.h", 
-            "RecoLocalCalo/HGCalRecAlgos/interface/HGCalRecHitAbsAlgo.h", 
-            "RecoLocalCalo/HGCalRecAlgos/interface/HGCalRecHitSimpleAlgo.h", 
             "RecoLocalCalo/HGCalRecAlgos/interface/HGCalUncalibRecHitRecAbsAlgo.h", 
             "RecoLocalCalo/HGCalRecAlgos/interface/HGCalUncalibRecHitRecWeightsAlgo.h", 
-            "RecoLocalCalo/HGCalRecAlgos/interface/RecHitTools.h", 
-            "RecoLocalCalo/HGCalRecAlgos/src/ClusterTools.cc", 
-            "RecoLocalCalo/HGCalRecAlgos/src/HGCal3DClustering.cc", 
-            "RecoLocalCalo/HGCalRecAlgos/src/HGCalDepthPreClusterer.cc", 
-            "RecoLocalCalo/HGCalRecAlgos/src/RecHitTools.cc"
+            "RecoLocalCalo/HGCalRecAlgos/src/ClusterTools.cc"
         ], 
         "created_at": 1560233674, 
         "number": 27160, 
         "state": "open", 
-        "updated_at": 1561024478
+        "updated_at": 1561438213
     }, 
     "27175": {
         "base_branch": "master", 
