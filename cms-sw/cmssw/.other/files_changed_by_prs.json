@@ -1737,16 +1737,6 @@
         "state": "open", 
         "updated_at": 1561126794
     }, 
-    "27312": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondFormats/HcalObjects/BuildFile.xml"
-        ], 
-        "created_at": 1561193380, 
-        "number": 27312, 
-        "state": "open", 
-        "updated_at": 1561341436
-    }, 
     "27328": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
