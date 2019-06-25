@@ -1160,12 +1160,12 @@
     "27160": {
         "base_branch": "master", 
         "changed_files_names": [
-            "DataFormats/RecoHGCal/BuildFile.xml", 
-            "DataFormats/RecoHGCal/interface/Common.h", 
-            "DataFormats/RecoHGCal/interface/TICLLayerTile.h", 
-            "DataFormats/RecoHGCal/interface/Trackster.h", 
-            "DataFormats/RecoHGCal/src/classes.h", 
-            "DataFormats/RecoHGCal/src/classes_def.xml", 
+            "DataFormats/HGCalReco/BuildFile.xml", 
+            "DataFormats/HGCalReco/interface/Common.h", 
+            "DataFormats/HGCalReco/interface/TICLLayerTile.h", 
+            "DataFormats/HGCalReco/interface/Trackster.h", 
+            "DataFormats/HGCalReco/src/classes.h", 
+            "DataFormats/HGCalReco/src/classes_def.xml", 
             "RecoHGCal/TICL/BuildFile.xml", 
             "RecoHGCal/TICL/interface/Common.h", 
             "RecoHGCal/TICL/interface/PatternRecognitionAlgoBase.h", 
@@ -1201,7 +1201,7 @@
         "created_at": 1560233674, 
         "number": 27160, 
         "state": "open", 
-        "updated_at": 1561462341
+        "updated_at": 1561463915
     }, 
     "27175": {
         "base_branch": "master", 
