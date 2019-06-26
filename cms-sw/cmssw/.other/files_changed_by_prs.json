@@ -2277,6 +2277,34 @@
         "state": "open", 
         "updated_at": 1561549900
     }, 
+    "27351": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/ParameterSet/interface/ANDGroupDescription.h", 
+            "FWCore/ParameterSet/interface/AllowedLabelsDescriptionBase.h", 
+            "FWCore/ParameterSet/interface/EmptyGroupDescription.h", 
+            "FWCore/ParameterSet/interface/IfExistsDescription.h", 
+            "FWCore/ParameterSet/interface/ORGroupDescription.h", 
+            "FWCore/ParameterSet/interface/ParameterDescriptionBase.h", 
+            "FWCore/ParameterSet/interface/ParameterDescriptionNode.h", 
+            "FWCore/ParameterSet/interface/ParameterSwitch.h", 
+            "FWCore/ParameterSet/interface/ParameterWildcardBase.h", 
+            "FWCore/ParameterSet/interface/PluginDescription.h", 
+            "FWCore/ParameterSet/interface/XORGroupDescription.h", 
+            "FWCore/ParameterSet/src/ANDGroupDescription.cc", 
+            "FWCore/ParameterSet/src/AllowedLabelsDescriptionBase.cc", 
+            "FWCore/ParameterSet/src/EmptyGroupDescription.cc", 
+            "FWCore/ParameterSet/src/IfExistsDescription.cc", 
+            "FWCore/ParameterSet/src/ORGroupDescription.cc", 
+            "FWCore/ParameterSet/src/ParameterDescriptionBase.cc", 
+            "FWCore/ParameterSet/src/ParameterWildcardBase.cc", 
+            "FWCore/ParameterSet/src/XORGroupDescription.cc"
+        ], 
+        "created_at": 1561550180, 
+        "number": 27351, 
+        "state": "open", 
+        "updated_at": 1561550237
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
