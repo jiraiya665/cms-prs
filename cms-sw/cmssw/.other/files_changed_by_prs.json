@@ -2465,6 +2465,35 @@
         "state": "open", 
         "updated_at": 1561556441
     }, 
+    "27355": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibTracker/SiStripESProducers/interface/Phase2TrackerCablingESProducer.h", 
+            "CalibTracker/SiStripESProducers/plugins/DBWriter/DummyCondDBWriter.h", 
+            "CalibTracker/SiStripESProducers/plugins/DBWriter/DummyCondObjPrinter.h", 
+            "CalibTracker/SiStripESProducers/plugins/DBWriter/SiStripFedCablingManipulator.cc", 
+            "CalibTracker/SiStripESProducers/plugins/DBWriter/SiStripFedCablingManipulator.h", 
+            "CalibTracker/SiStripESProducers/plugins/DBWriter/modules.cc", 
+            "CalibTracker/SiStripESProducers/plugins/fake/Phase2TrackerCablingCfgESSource.cc", 
+            "CalibTracker/SiStripESProducers/plugins/fake/Phase2TrackerCablingCfgESSource.h", 
+            "CalibTracker/SiStripESProducers/plugins/fake/SiStripConfObjectFakeESSource.cc", 
+            "CalibTracker/SiStripESProducers/plugins/fake/SiStripFakeAPVParameters.h", 
+            "CalibTracker/SiStripESProducers/plugins/fake/SiStripQualityFakeESSource.cc", 
+            "CalibTracker/SiStripESProducers/src/Phase2TrackerCablingESProducer.cc", 
+            "CalibTracker/SiStripESProducers/src/SiStripFedCablingESProducer.cc", 
+            "CalibTracker/SiStripESProducers/src/SiStripGainESSource.cc", 
+            "CalibTracker/SiStripESProducers/src/SiStripNoiseESSource.cc", 
+            "CalibTracker/SiStripESProducers/src/SiStripPedestalsESSource.cc", 
+            "CalibTracker/SiStripESProducers/test/CheckPhase2Cabling.cc", 
+            "CalibTracker/SiStripESProducers/test/SealModules.cc", 
+            "CalibTracker/SiStripESProducers/test/testSiStripQualityESProducer.cc", 
+            "CalibTracker/SiStripESProducers/test/testSiStripQualityESProducer.h"
+        ], 
+        "created_at": 1561556423, 
+        "number": 27355, 
+        "state": "open", 
+        "updated_at": 1561556469
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
