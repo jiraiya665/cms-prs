@@ -2687,6 +2687,17 @@
         "state": "open", 
         "updated_at": 1561556576
     }, 
+    "27359": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/Framework/src/TransitionProcessors.icc", 
+            "FWCore/Utilities/interface/ReusableObjectHolder.h"
+        ], 
+        "created_at": 1561556632, 
+        "number": 27359, 
+        "state": "open", 
+        "updated_at": 1561556656
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
