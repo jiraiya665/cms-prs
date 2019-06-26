@@ -1053,12 +1053,19 @@
             "Validation/RecoParticleFlow/test/QCDPU.jdl", 
             "Validation/RecoParticleFlow/test/ZMM.jdl", 
             "Validation/RecoParticleFlow/test/compare.py", 
+            "Validation/RecoParticleFlow/test/crab/multicrab.py", 
+            "Validation/RecoParticleFlow/test/crab/multicrab_phase2.py", 
             "Validation/RecoParticleFlow/test/datasets.py", 
             "Validation/RecoParticleFlow/test/filelist_QCD.txt", 
             "Validation/RecoParticleFlow/test/getHists.py", 
             "Validation/RecoParticleFlow/test/offsetStack.py", 
             "Validation/RecoParticleFlow/test/run_relval.sh", 
             "Validation/RecoParticleFlow/test/setup_cmssw.sh", 
+            "Validation/RecoParticleFlow/test/tmp/das_cache/MinBias.txt", 
+            "Validation/RecoParticleFlow/test/tmp/das_cache/NuGun_PU.txt", 
+            "Validation/RecoParticleFlow/test/tmp/das_cache/QCD_PU.txt", 
+            "Validation/RecoParticleFlow/test/tmp/das_cache/QCD_noPU.txt", 
+            "Validation/RecoParticleFlow/test/tmp/das_cache/ZMM.txt", 
             "Validation/RecoParticleFlow/tmp/das_cache/MinBias.txt", 
             "Validation/RecoParticleFlow/tmp/das_cache/NuGun_PU.txt", 
             "Validation/RecoParticleFlow/tmp/das_cache/QCD_PU.txt", 
@@ -1070,7 +1077,7 @@
         "created_at": 1559332946, 
         "number": 27048, 
         "state": "open", 
-        "updated_at": 1561444181
+        "updated_at": 1561556098
     }, 
     "27094": {
         "base_branch": "CMSSW_10_2_X", 
