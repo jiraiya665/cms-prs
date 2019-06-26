@@ -1037,8 +1037,6 @@
             "Validation/RecoParticleFlow/README.md", 
             "Validation/RecoParticleFlow/bin/BuildFile.xml", 
             "Validation/RecoParticleFlow/bin/offsetStack.cc", 
-            "Validation/RecoParticleFlow/crab/multicrab.py", 
-            "Validation/RecoParticleFlow/crab/multicrab_phase2.py", 
             "Validation/RecoParticleFlow/plugins/BuildFile.xml", 
             "Validation/RecoParticleFlow/plugins/OffsetAnalyzerDQM.cc", 
             "Validation/RecoParticleFlow/plugins/OffsetDQMPostProcessor.cc", 
@@ -1066,18 +1064,13 @@
             "Validation/RecoParticleFlow/test/tmp/das_cache/QCD_PU.txt", 
             "Validation/RecoParticleFlow/test/tmp/das_cache/QCD_noPU.txt", 
             "Validation/RecoParticleFlow/test/tmp/das_cache/ZMM.txt", 
-            "Validation/RecoParticleFlow/tmp/das_cache/MinBias.txt", 
-            "Validation/RecoParticleFlow/tmp/das_cache/NuGun_PU.txt", 
-            "Validation/RecoParticleFlow/tmp/das_cache/QCD_PU.txt", 
-            "Validation/RecoParticleFlow/tmp/das_cache/QCD_noPU.txt", 
-            "Validation/RecoParticleFlow/tmp/das_cache/ZMM.txt", 
             "Validation/RecoTrack/python/plotting/html.py", 
             "Validation/RecoTrack/python/plotting/plotting.py"
         ], 
         "created_at": 1559332946, 
         "number": 27048, 
         "state": "open", 
-        "updated_at": 1561556098
+        "updated_at": 1561557040
     }, 
     "27094": {
         "base_branch": "CMSSW_10_2_X", 
