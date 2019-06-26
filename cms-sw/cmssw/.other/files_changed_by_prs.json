@@ -1929,16 +1929,6 @@
         "state": "open", 
         "updated_at": 1561544040
     }, 
-    "27346": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Validation/RecoEgamma/plugins/PhotonValidator.cc"
-        ], 
-        "created_at": 1561548073, 
-        "number": 27346, 
-        "state": "open", 
-        "updated_at": 1561548228
-    }, 
     "27347": {
         "base_branch": "master", 
         "changed_files_names": [
