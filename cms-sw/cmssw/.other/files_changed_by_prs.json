@@ -2039,6 +2039,23 @@
         "state": "open", 
         "updated_at": 1561548228
     }, 
+    "27347": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimCalorimetry/EcalEBTrigPrimAlgos/interface/EcalFenixAmplitudeFilter.h", 
+            "SimCalorimetry/EcalEBTrigPrimAlgos/interface/EcalFenixLinearizer.h", 
+            "SimCalorimetry/EcalEBTrigPrimAlgos/interface/EcalFenixPeakFinder.h", 
+            "SimCalorimetry/EcalEBTrigPrimAlgos/interface/EcalFenixStripFormatEB.h", 
+            "SimCalorimetry/EcalEBTrigPrimAlgos/interface/EcalFenixTcpFormat.h", 
+            "SimCalorimetry/EcalEBTrigPrimAlgos/src/EcalFenixAmplitudeFilter.cc", 
+            "SimCalorimetry/EcalEBTrigPrimAlgos/src/EcalFenixPeakFinder.cc", 
+            "SimCalorimetry/EcalEBTrigPrimAlgos/src/EcalFenixStripFormatEB.cc"
+        ], 
+        "created_at": 1561549498, 
+        "number": 27347, 
+        "state": "open", 
+        "updated_at": 1561549528
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
