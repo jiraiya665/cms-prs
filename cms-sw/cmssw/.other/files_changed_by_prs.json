@@ -2723,6 +2723,16 @@
         "state": "open", 
         "updated_at": 1561575900
     }, 
+    "27368": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondCore/SiStripPlugins/plugins/BuildFile.xml"
+        ], 
+        "created_at": 1561576698, 
+        "number": 27368, 
+        "state": "open", 
+        "updated_at": 1561576828
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
