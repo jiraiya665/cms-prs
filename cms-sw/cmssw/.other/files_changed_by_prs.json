@@ -2436,6 +2436,35 @@
         "state": "open", 
         "updated_at": 1561556429
     }, 
+    "27354": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimDataFormats/GeneratorProducts/interface/GenFilterInfo.h", 
+            "SimDataFormats/GeneratorProducts/interface/GenLumiInfoHeader.h", 
+            "SimDataFormats/GeneratorProducts/interface/GenLumiInfoProduct.h", 
+            "SimDataFormats/GeneratorProducts/interface/GenRunInfoProduct.h", 
+            "SimDataFormats/GeneratorProducts/interface/HepMCProduct.h", 
+            "SimDataFormats/GeneratorProducts/interface/LHECommonBlocks.h", 
+            "SimDataFormats/GeneratorProducts/interface/LHERunInfoProduct.h", 
+            "SimDataFormats/GeneratorProducts/interface/LHEXMLStringProduct.h", 
+            "SimDataFormats/GeneratorProducts/interface/LesHouches.h", 
+            "SimDataFormats/GeneratorProducts/interface/PdfInfo.h", 
+            "SimDataFormats/GeneratorProducts/interface/WeightsInfo.h", 
+            "SimDataFormats/GeneratorProducts/src/GenEventInfoProduct.cc", 
+            "SimDataFormats/GeneratorProducts/src/GenFilterInfo.cc", 
+            "SimDataFormats/GeneratorProducts/src/GenLumiInfoProduct.cc", 
+            "SimDataFormats/GeneratorProducts/src/GenRunInfoProduct.cc", 
+            "SimDataFormats/GeneratorProducts/src/HepMCProduct.cc", 
+            "SimDataFormats/GeneratorProducts/src/LHEEventProduct.cc", 
+            "SimDataFormats/GeneratorProducts/src/LHERunInfoProduct.cc", 
+            "SimDataFormats/GeneratorProducts/src/LHEXMLStringProduct.cc", 
+            "SimDataFormats/GeneratorProducts/src/classes.h"
+        ], 
+        "created_at": 1561556416, 
+        "number": 27354, 
+        "state": "open", 
+        "updated_at": 1561556441
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
