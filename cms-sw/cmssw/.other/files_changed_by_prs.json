@@ -2118,16 +2118,6 @@
         "state": "open", 
         "updated_at": 1561558124
     }, 
-    "27361": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Validation/RecoMuon/BuildFile.xml"
-        ], 
-        "created_at": 1561569730, 
-        "number": 27361, 
-        "state": "open", 
-        "updated_at": 1561569831
-    }, 
     "27362": {
         "base_branch": "master", 
         "changed_files_names": [
