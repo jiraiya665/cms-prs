@@ -1610,16 +1610,6 @@
         "state": "open", 
         "updated_at": 1561556595
     }, 
-    "27362": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "PhysicsTools/PatAlgos/BuildFile.xml"
-        ], 
-        "created_at": 1561571818, 
-        "number": 27362, 
-        "state": "open", 
-        "updated_at": 1561571933
-    }, 
     "27363": {
         "base_branch": "master", 
         "changed_files_names": [
