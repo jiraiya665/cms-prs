@@ -2178,16 +2178,6 @@
         "state": "open", 
         "updated_at": 1561575057
     }, 
-    "27368": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondCore/SiStripPlugins/plugins/BuildFile.xml"
-        ], 
-        "created_at": 1561576698, 
-        "number": 27368, 
-        "state": "open", 
-        "updated_at": 1561576853
-    }, 
     "27369": {
         "base_branch": "master", 
         "changed_files_names": [
