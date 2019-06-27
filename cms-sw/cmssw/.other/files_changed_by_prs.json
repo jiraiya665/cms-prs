@@ -1610,16 +1610,6 @@
         "state": "open", 
         "updated_at": 1561556595
     }, 
-    "27369": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CommonTools/ParticleFlow/plugins/BuildFile.xml"
-        ], 
-        "created_at": 1561576736, 
-        "number": 27369, 
-        "state": "open", 
-        "updated_at": 1561576853
-    }, 
     "27370": {
         "base_branch": "master", 
         "changed_files_names": [
