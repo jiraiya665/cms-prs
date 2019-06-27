@@ -1008,16 +1008,10 @@
         "changed_files_names": [
             "L1Trigger/RPCTriggerPrimitives/BuildFile.xml", 
             "L1Trigger/RPCTriggerPrimitives/README.md", 
-            "L1Trigger/RPCTriggerPrimitives/interface/PrimitiveAlgoFactory.h", 
-            "L1Trigger/RPCTriggerPrimitives/interface/PrimitivePreprocess.h", 
-            "L1Trigger/RPCTriggerPrimitives/interface/RPCProcessor.h", 
             "L1Trigger/RPCTriggerPrimitives/plugins/BuildFile.xml", 
             "L1Trigger/RPCTriggerPrimitives/plugins/L1TMuonRPCTriggerPrimitivesProducer.cc", 
             "L1Trigger/RPCTriggerPrimitives/plugins/L1TMuonRPCTriggerPrimitivesProducer.h", 
             "L1Trigger/RPCTriggerPrimitives/python/primitiveRPCProducer_cfi.py", 
-            "L1Trigger/RPCTriggerPrimitives/src/PrimitiveAlgoFactory.cc", 
-            "L1Trigger/RPCTriggerPrimitives/src/PrimitivePreprocess.cc", 
-            "L1Trigger/RPCTriggerPrimitives/src/RPCProcessor.cc", 
             "L1Trigger/RPCTriggerPrimitives/test/rpcprimitive_MC.py", 
             "L1Trigger/RPCTriggerPrimitives/test/rpcprimitive_PhaseII_RAW.py", 
             "L1Trigger/RPCTriggerPrimitives/test/rpcprimitive_RAW.py"
@@ -1025,7 +1019,7 @@
         "created_at": 1559042616, 
         "number": 26967, 
         "state": "open", 
-        "updated_at": 1560873078
+        "updated_at": 1561637910
     }, 
     "27048": {
         "base_branch": "master", 
