@@ -1610,16 +1610,6 @@
         "state": "open", 
         "updated_at": 1561556595
     }, 
-    "27366": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "ElectroWeakAnalysis/ZEE/BuildFile.xml"
-        ], 
-        "created_at": 1561575006, 
-        "number": 27366, 
-        "state": "open", 
-        "updated_at": 1561575057
-    }, 
     "27369": {
         "base_branch": "master", 
         "changed_files_names": [
