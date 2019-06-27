@@ -2352,17 +2352,12 @@
             "Geometry/EcalCommonData/plugins/DDEcalEndcapAlgo.cc", 
             "Geometry/EcalCommonData/plugins/DDEcalEndcapTrap.cc", 
             "Geometry/EcalCommonData/plugins/DDEcalPreshowerAlgo.cc", 
-            "Geometry/EcalCommonData/plugins/module.cc", 
-            "Geometry/EcalCommonData/src/DDEcalAPDAlgo.cc", 
-            "Geometry/EcalCommonData/src/DDEcalBarrelAlgo.cc", 
-            "Geometry/EcalCommonData/src/DDEcalBarrelNewAlgo.cc", 
-            "Geometry/EcalCommonData/src/DDEcalEndcapAlgo.cc", 
-            "Geometry/EcalCommonData/src/DDEcalPreshowerAlgo.cc"
+            "Geometry/EcalCommonData/plugins/module.cc"
         ], 
         "created_at": 1561639377, 
         "number": 27383, 
         "state": "open", 
-        "updated_at": 1561639426
+        "updated_at": 1561641380
     }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
