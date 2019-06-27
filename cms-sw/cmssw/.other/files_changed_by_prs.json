@@ -2138,16 +2138,6 @@
         "state": "open", 
         "updated_at": 1561571935
     }, 
-    "27364": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "HLTrigger/special/plugins/BuildFile.xml"
-        ], 
-        "created_at": 1561573717, 
-        "number": 27364, 
-        "state": "open", 
-        "updated_at": 1561573775
-    }, 
     "27365": {
         "base_branch": "master", 
         "changed_files_names": [
