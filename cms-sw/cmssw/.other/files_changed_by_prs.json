@@ -1094,15 +1094,9 @@
             "CalibTracker/SiStripESProducers/interface/SiStripHashedDetIdESProducer.h", 
             "CalibTracker/SiStripESProducers/interface/SiStripNoiseESSource.h", 
             "CalibTracker/SiStripESProducers/interface/SiStripPedestalsESSource.h", 
-            "CalibTracker/SiStripESProducers/plugins/fake/SiStripBackPlaneCorrectionFakeESSource.cc", 
-            "CalibTracker/SiStripESProducers/plugins/fake/SiStripBadModuleConfigurableFakeESSource.cc", 
-            "CalibTracker/SiStripESProducers/plugins/fake/SiStripHashedDetIdFakeESSource.cc", 
-            "CalibTracker/SiStripESProducers/plugins/fake/SiStripHashedDetIdFakeESSource.h", 
-            "CalibTracker/SiStripESProducers/plugins/fake/SiStripLorentzAngleFakeESSource.cc", 
             "CalibTracker/SiStripESProducers/plugins/fake/SiStripNoisesFakeESSource.cc", 
             "CalibTracker/SiStripESProducers/plugins/fake/SiStripQualityFakeESSource.h", 
             "CalibTracker/SiStripESProducers/plugins/fake/SiStripTemplateEmptyFakeESSource.h", 
-            "CalibTracker/SiStripESProducers/plugins/fake/modules.cc", 
             "CalibTracker/SiStripESProducers/plugins/geom/SiStripConnectivity.cc", 
             "CalibTracker/SiStripESProducers/plugins/geom/SiStripConnectivity.h", 
             "CalibTracker/SiStripESProducers/plugins/geom/SiStripHashedDetIdESModule.cc", 
@@ -1133,7 +1127,7 @@
         "created_at": 1559695015, 
         "number": 27098, 
         "state": "open", 
-        "updated_at": 1560182505
+        "updated_at": 1561640218
     }, 
     "27148": {
         "base_branch": "CMSSW_10_2_X", 
