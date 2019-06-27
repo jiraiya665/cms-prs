@@ -2202,6 +2202,16 @@
         "state": "open", 
         "updated_at": 1561577699
     }, 
+    "27373": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalCLUEAlgo.cc"
+        ], 
+        "created_at": 1561622460, 
+        "number": 27373, 
+        "state": "open", 
+        "updated_at": 1561622511
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
