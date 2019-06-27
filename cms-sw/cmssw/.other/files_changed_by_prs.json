@@ -1610,16 +1610,6 @@
         "state": "open", 
         "updated_at": 1561556595
     }, 
-    "27363": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "MuonAnalysis/MuonAssociators/plugins/BuildFile.xml"
-        ], 
-        "created_at": 1561571846, 
-        "number": 27363, 
-        "state": "open", 
-        "updated_at": 1561571935
-    }, 
     "27366": {
         "base_branch": "master", 
         "changed_files_names": [
