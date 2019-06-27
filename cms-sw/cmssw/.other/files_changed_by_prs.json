@@ -2178,16 +2178,6 @@
         "state": "open", 
         "updated_at": 1561575057
     }, 
-    "27367": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/CastorMonitor/BuildFile.xml"
-        ], 
-        "created_at": 1561575873, 
-        "number": 27367, 
-        "state": "open", 
-        "updated_at": 1561575900
-    }, 
     "27368": {
         "base_branch": "master", 
         "changed_files_names": [
