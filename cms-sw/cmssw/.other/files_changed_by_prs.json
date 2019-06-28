@@ -1649,17 +1649,6 @@
         "state": "open", 
         "updated_at": 1561637815
     }, 
-    "27382": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoHGCal/TICL/plugins/PatternRecognitionbyCA.cc", 
-            "RecoHGCal/TICL/python/ticl_iterations.py"
-        ], 
-        "created_at": 1561638969, 
-        "number": 27382, 
-        "state": "open", 
-        "updated_at": 1561639008
-    }, 
     "27383": {
         "base_branch": "master", 
         "changed_files_names": [
