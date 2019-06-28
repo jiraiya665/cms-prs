@@ -1782,16 +1782,6 @@
         "state": "open", 
         "updated_at": 1561647872
     }, 
-    "27390": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DetectorDescription/RegressionTest/test/run_DOMCount.sh"
-        ], 
-        "created_at": 1561662611, 
-        "number": 27390, 
-        "state": "open", 
-        "updated_at": 1561662663
-    }, 
     "27392": {
         "base_branch": "master", 
         "changed_files_names": [
