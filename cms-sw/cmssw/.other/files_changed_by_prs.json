@@ -1513,16 +1513,6 @@
         "state": "open", 
         "updated_at": 1561577699
     }, 
-    "27373": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalCLUEAlgo.cc"
-        ], 
-        "created_at": 1561622460, 
-        "number": 27373, 
-        "state": "open", 
-        "updated_at": 1561639871
-    }, 
     "27375": {
         "base_branch": "master", 
         "changed_files_names": [
