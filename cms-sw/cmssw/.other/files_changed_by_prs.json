@@ -1606,17 +1606,6 @@
         "state": "open", 
         "updated_at": 1561635310
     }, 
-    "27379": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Calibration/HcalCalibAlgos/plugins/BuildFile.xml", 
-            "Calibration/HcalCalibAlgos/test/BuildFile.xml"
-        ], 
-        "created_at": 1561636532, 
-        "number": 27379, 
-        "state": "open", 
-        "updated_at": 1561636578
-    }, 
     "27380": {
         "base_branch": "master", 
         "changed_files_names": [
