@@ -1011,6 +1011,12 @@
             "L1Trigger/RPCTriggerPrimitives/plugins/BuildFile.xml", 
             "L1Trigger/RPCTriggerPrimitives/plugins/L1TMuonRPCTriggerPrimitivesProducer.cc", 
             "L1Trigger/RPCTriggerPrimitives/plugins/L1TMuonRPCTriggerPrimitivesProducer.h", 
+            "L1Trigger/RPCTriggerPrimitives/plugins/PrimitiveAlgoFactory.cc", 
+            "L1Trigger/RPCTriggerPrimitives/plugins/PrimitiveAlgoFactory.h", 
+            "L1Trigger/RPCTriggerPrimitives/plugins/PrimitivePreprocess.cc", 
+            "L1Trigger/RPCTriggerPrimitives/plugins/PrimitivePreprocess.h", 
+            "L1Trigger/RPCTriggerPrimitives/plugins/RPCProcessor.cc", 
+            "L1Trigger/RPCTriggerPrimitives/plugins/RPCProcessor.h", 
             "L1Trigger/RPCTriggerPrimitives/python/primitiveRPCProducer_cfi.py", 
             "L1Trigger/RPCTriggerPrimitives/test/rpcprimitive_MC.py", 
             "L1Trigger/RPCTriggerPrimitives/test/rpcprimitive_PhaseII_RAW.py", 
@@ -1019,7 +1025,7 @@
         "created_at": 1559042616, 
         "number": 26967, 
         "state": "open", 
-        "updated_at": 1561637932
+        "updated_at": 1561721628
     }, 
     "27048": {
         "base_branch": "master", 
