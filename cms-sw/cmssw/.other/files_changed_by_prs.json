@@ -1908,6 +1908,19 @@
         "state": "open", 
         "updated_at": 1561700683
     }, 
+    "27392": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/Generator/python/CloseByParticle_Photon_ERZRanges_cfi.py", 
+            "Configuration/PyReleaseValidation/python/relval_steps.py", 
+            "Configuration/PyReleaseValidation/python/relval_upgrade.py", 
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py"
+        ], 
+        "created_at": 1561700923, 
+        "number": 27392, 
+        "state": "open", 
+        "updated_at": 1561700955
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
