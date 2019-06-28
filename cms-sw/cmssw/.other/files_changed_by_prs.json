@@ -1662,20 +1662,6 @@
         "state": "open", 
         "updated_at": 1561641380
     }, 
-    "27384": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Alignment/CommonAlignment/interface/AlignableObjectId.h", 
-            "Alignment/CommonAlignment/src/AlignableObjectId.cc", 
-            "Alignment/MillePedeAlignmentAlgorithm/src/PedeLabelerBase.cc", 
-            "Alignment/SurveyAnalysis/BuildFile.xml", 
-            "Alignment/TrackerAlignment/plugins/BuildFile.xml"
-        ], 
-        "created_at": 1561642802, 
-        "number": 27384, 
-        "state": "open", 
-        "updated_at": 1561642858
-    }, 
     "27386": {
         "base_branch": "master", 
         "changed_files_names": [
