@@ -1697,16 +1697,6 @@
         "state": "open", 
         "updated_at": 1561642858
     }, 
-    "27385": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/EgammaReco/test/testSuperCluster.cppunit.cc"
-        ], 
-        "created_at": 1561644287, 
-        "number": 27385, 
-        "state": "open", 
-        "updated_at": 1561644337
-    }, 
     "27386": {
         "base_branch": "master", 
         "changed_files_names": [
