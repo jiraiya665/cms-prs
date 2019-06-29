@@ -1813,6 +1813,7 @@
             "RecoTauTag/RecoTau/plugins/TauDiscriminationAgainstMuon.cc", 
             "RecoTauTag/RecoTau/python/TauDiscriminatorTools.py", 
             "RecoTauTag/RecoTau/src/TauDiscriminationProducerBase.cc", 
+            "TopQuarkAnalysis/TopEventProducers/src/TtDilepEvtSolutionMaker.cc", 
             "Validation/RecoTau/interface/TauTagValidation.h", 
             "Validation/RecoTau/python/ValidationOptions_cff.py", 
             "Validation/RecoTau/python/ValidationUtils.py", 
@@ -1821,7 +1822,7 @@
         "created_at": 1561725180, 
         "number": 27400, 
         "state": "open", 
-        "updated_at": 1561725233
+        "updated_at": 1561759986
     }, 
     "27402": {
         "base_branch": "master", 
