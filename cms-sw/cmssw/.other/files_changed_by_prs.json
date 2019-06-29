@@ -1920,6 +1920,17 @@
         "state": "open", 
         "updated_at": 1561805543
     }, 
+    "27410": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/CSCMonitorModule/plugins/CSCDQM_Detector.cc", 
+            "DQM/CSCMonitorModule/plugins/CSCDQM_Detector.h"
+        ], 
+        "created_at": 1561806872, 
+        "number": 27410, 
+        "state": "open", 
+        "updated_at": 1561806928
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
