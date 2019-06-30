@@ -1962,6 +1962,17 @@
         "state": "open", 
         "updated_at": 1561899241
     }, 
+    "27415": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/relval_standard.py", 
+            "Configuration/PyReleaseValidation/python/relval_steps.py"
+        ], 
+        "created_at": 1561906001, 
+        "number": 27415, 
+        "state": "open", 
+        "updated_at": 1561906032
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
