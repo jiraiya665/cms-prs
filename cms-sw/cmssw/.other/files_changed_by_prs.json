@@ -1952,6 +1952,17 @@
         "state": "open", 
         "updated_at": 1561894349
     }, 
+    "27413": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "MagneticField/GeomBuilder/plugins/AutoMagneticFieldESProducer.cc", 
+            "MagneticField/GeomBuilder/plugins/AutoMagneticFieldESProducer.h"
+        ], 
+        "created_at": 1561894621, 
+        "number": 27413, 
+        "state": "open", 
+        "updated_at": 1561894649
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
