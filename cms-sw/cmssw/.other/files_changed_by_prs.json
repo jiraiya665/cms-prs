@@ -1768,16 +1768,6 @@
         "state": "open", 
         "updated_at": 1561955953
     }, 
-    "27408": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/DTGeometryBuilder/plugins/BuildFile.xml"
-        ], 
-        "created_at": 1561804643, 
-        "number": 27408, 
-        "state": "open", 
-        "updated_at": 1561804697
-    }, 
     "27409": {
         "base_branch": "master", 
         "changed_files_names": [
