@@ -1691,17 +1691,6 @@
         "state": "open", 
         "updated_at": 1561716298
     }, 
-    "27399": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/ParameterSet/python/Mixins.py", 
-            "FWCore/ParameterSet/python/Types.py"
-        ], 
-        "created_at": 1561722465, 
-        "number": 27399, 
-        "state": "open", 
-        "updated_at": 1561722512
-    }, 
     "27400": {
         "base_branch": "master", 
         "changed_files_names": [
