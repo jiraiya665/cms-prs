@@ -1528,17 +1528,6 @@
         "state": "open", 
         "updated_at": 1561807058
     }, 
-    "27410": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/CSCMonitorModule/plugins/CSCDQM_Detector.cc", 
-            "DQM/CSCMonitorModule/plugins/CSCDQM_Detector.h"
-        ], 
-        "created_at": 1561806872, 
-        "number": 27410, 
-        "state": "open", 
-        "updated_at": 1561808150
-    }, 
     "27412": {
         "base_branch": "master", 
         "changed_files_names": [
