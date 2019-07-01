@@ -1768,16 +1768,6 @@
         "state": "open", 
         "updated_at": 1561955953
     }, 
-    "27405": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Alignment/CommonAlignmentProducer/BuildFile.xml"
-        ], 
-        "created_at": 1561803418, 
-        "number": 27405, 
-        "state": "open", 
-        "updated_at": 1561803466
-    }, 
     "27406": {
         "base_branch": "master", 
         "changed_files_names": [
