@@ -1768,16 +1768,6 @@
         "state": "open", 
         "updated_at": 1561955953
     }, 
-    "27407": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/SiPixelPhase1Common/BuildFile.xml"
-        ], 
-        "created_at": 1561804467, 
-        "number": 27407, 
-        "state": "open", 
-        "updated_at": 1561804495
-    }, 
     "27408": {
         "base_branch": "master", 
         "changed_files_names": [
