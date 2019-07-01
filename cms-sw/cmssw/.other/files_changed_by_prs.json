@@ -1799,16 +1799,6 @@
         "state": "open", 
         "updated_at": 1561808150
     }, 
-    "27411": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "IOPool/TFileAdaptor/src/ReadRepacker.cc"
-        ], 
-        "created_at": 1561815888, 
-        "number": 27411, 
-        "state": "open", 
-        "updated_at": 1561815939
-    }, 
     "27412": {
         "base_branch": "master", 
         "changed_files_names": [
