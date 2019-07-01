@@ -1768,16 +1768,6 @@
         "state": "open", 
         "updated_at": 1561955953
     }, 
-    "27406": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Alignment/LaserAlignment/BuildFile.xml"
-        ], 
-        "created_at": 1561803970, 
-        "number": 27406, 
-        "state": "open", 
-        "updated_at": 1561804000
-    }, 
     "27407": {
         "base_branch": "master", 
         "changed_files_names": [
