@@ -986,24 +986,6 @@
         "state": "open", 
         "updated_at": 1559049534
     }, 
-    "26904": {
-        "base_branch": "CMSSW_9_3_X", 
-        "changed_files_names": [
-            "GeneratorInterface/GenFilters/interface/HTXSFilter.h", 
-            "GeneratorInterface/GenFilters/src/HTXSFilter.cc", 
-            "GeneratorInterface/RivetInterface/data/HiggsTemplateCrossSections.info", 
-            "GeneratorInterface/RivetInterface/plugins/HTXSRivetProducer.cc", 
-            "GeneratorInterface/RivetInterface/src/HiggsTemplateCrossSections.cc", 
-            "SimDataFormats/HTXS/BuildFile.xml", 
-            "SimDataFormats/HTXS/interface/HiggsTemplateCrossSections.h", 
-            "SimDataFormats/HTXS/src/classes.h", 
-            "SimDataFormats/HTXS/src/classes_def.xml"
-        ], 
-        "created_at": 1558616096, 
-        "number": 26904, 
-        "state": "open", 
-        "updated_at": 1559285256
-    }, 
     "26967": {
         "base_branch": "master", 
         "changed_files_names": [
