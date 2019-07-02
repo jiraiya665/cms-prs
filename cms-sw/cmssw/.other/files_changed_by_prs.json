@@ -1311,17 +1311,6 @@
         "state": "open", 
         "updated_at": 1561634152
     }, 
-    "27381": {
-        "base_branch": "CMSSW_10_6_X", 
-        "changed_files_names": [
-            "CondFormats/SiPixelTransient/interface/SiPixelGenError.h", 
-            "CondFormats/SiPixelTransient/src/SiPixelGenError.cc"
-        ], 
-        "created_at": 1561637783, 
-        "number": 27381, 
-        "state": "open", 
-        "updated_at": 1561637815
-    }, 
     "27386": {
         "base_branch": "master", 
         "changed_files_names": [
