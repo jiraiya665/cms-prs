@@ -1343,16 +1343,6 @@
         "state": "open", 
         "updated_at": 1561955953
     }, 
-    "27409": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/TrajectoryState/test/PTraj_t.cpp"
-        ], 
-        "created_at": 1561805492, 
-        "number": 27409, 
-        "state": "open", 
-        "updated_at": 1561807058
-    }, 
     "27412": {
         "base_branch": "master", 
         "changed_files_names": [
