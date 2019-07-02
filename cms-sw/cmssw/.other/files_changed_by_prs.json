@@ -1107,19 +1107,6 @@
         "state": "open", 
         "updated_at": 1561966946
     }, 
-    "27330": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/TrackingMonitor/interface/TrackAnalyzer.h", 
-            "DQM/TrackingMonitor/interface/TrackingMonitor.h", 
-            "DQM/TrackingMonitor/src/TrackAnalyzer.cc", 
-            "DQM/TrackingMonitor/src/TrackingMonitor.cc"
-        ], 
-        "created_at": 1561373425, 
-        "number": 27330, 
-        "state": "open", 
-        "updated_at": 1561926520
-    }, 
     "27331": {
         "base_branch": "master", 
         "changed_files_names": [
