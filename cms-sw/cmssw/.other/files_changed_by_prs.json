@@ -1343,16 +1343,6 @@
         "state": "open", 
         "updated_at": 1561955953
     }, 
-    "27414": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "MagneticField/ParametrizedEngine/plugins/AutoParametrizedMagneticFieldProducer.cc"
-        ], 
-        "created_at": 1561899187, 
-        "number": 27414, 
-        "state": "open", 
-        "updated_at": 1561899241
-    }, 
     "27415": {
         "base_branch": "master", 
         "changed_files_names": [
