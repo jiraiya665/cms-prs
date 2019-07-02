@@ -1309,17 +1309,6 @@
         "state": "open", 
         "updated_at": 1561711309
     }, 
-    "27396": {
-        "base_branch": "CMSSW_10_6_X", 
-        "changed_files_names": [
-            "SimG4Core/CustomPhysics/interface/CustomPhysicsListSS.h", 
-            "SimG4Core/CustomPhysics/src/CustomPhysicsListSS.cc"
-        ], 
-        "created_at": 1561713720, 
-        "number": 27396, 
-        "state": "open", 
-        "updated_at": 1561713866
-    }, 
     "27400": {
         "base_branch": "master", 
         "changed_files_names": [
