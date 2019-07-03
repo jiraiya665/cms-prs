@@ -1107,19 +1107,6 @@
         "state": "open", 
         "updated_at": 1561966946
     }, 
-    "27331": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/HLT/python/addOnTestsHLT.py", 
-            "Configuration/HLT/python/autoCondHLT.py", 
-            "Configuration/HLT/python/autoHLT.py", 
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py"
-        ], 
-        "created_at": 1561374794, 
-        "number": 27331, 
-        "state": "open", 
-        "updated_at": 1561385585
-    }, 
     "27340": {
         "base_branch": "master", 
         "changed_files_names": [
