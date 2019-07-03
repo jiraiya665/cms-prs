@@ -1468,6 +1468,16 @@
         "state": "open", 
         "updated_at": 1562131932
     }, 
+    "27432": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "Configuration/Applications/python/ConfigBuilder.py"
+        ], 
+        "created_at": 1562140215, 
+        "number": 27432, 
+        "state": "open", 
+        "updated_at": 1562140247
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
