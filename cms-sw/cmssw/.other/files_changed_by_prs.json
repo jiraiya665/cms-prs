@@ -989,7 +989,6 @@
     "26967": {
         "base_branch": "master", 
         "changed_files_names": [
-            "L1Trigger/RPCTriggerPrimitives/BuildFile.xml", 
             "L1Trigger/RPCTriggerPrimitives/README.md", 
             "L1Trigger/RPCTriggerPrimitives/plugins/BuildFile.xml", 
             "L1Trigger/RPCTriggerPrimitives/plugins/L1TMuonRPCTriggerPrimitivesProducer.cc", 
@@ -1008,7 +1007,7 @@
         "created_at": 1559042616, 
         "number": 26967, 
         "state": "open", 
-        "updated_at": 1561721628
+        "updated_at": 1562181336
     }, 
     "27094": {
         "base_branch": "CMSSW_10_2_X", 
