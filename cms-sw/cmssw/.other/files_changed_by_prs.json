@@ -1432,7 +1432,7 @@
         "created_at": 1562074390, 
         "number": 27428, 
         "state": "open", 
-        "updated_at": 1562155487
+        "updated_at": 1562161554
     }, 
     "27430": {
         "base_branch": "master", 
