@@ -1478,6 +1478,17 @@
         "state": "open", 
         "updated_at": 1562140247
     }, 
+    "27433": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/relval_steps.py", 
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py"
+        ], 
+        "created_at": 1562141862, 
+        "number": 27433, 
+        "state": "open", 
+        "updated_at": 1562141892
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
