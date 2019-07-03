@@ -1339,16 +1339,6 @@
         "state": "open", 
         "updated_at": 1562052967
     }, 
-    "27421": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/GeometrySurface/interface/Surface.h"
-        ], 
-        "created_at": 1562044745, 
-        "number": 27421, 
-        "state": "open", 
-        "updated_at": 1562076562
-    }, 
     "27422": {
         "base_branch": "master", 
         "changed_files_names": [
