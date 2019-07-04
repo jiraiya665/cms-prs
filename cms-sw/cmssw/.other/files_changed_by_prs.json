@@ -1507,6 +1507,20 @@
         "state": "open", 
         "updated_at": 1562226045
     }, 
+    "27440": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/Eras/python/Era_Run2_2017_cff.py", 
+            "Configuration/Eras/python/Era_Run2_2018_cff.py", 
+            "Configuration/Eras/python/Modifier_ctpps_2017_cff.py", 
+            "Configuration/Eras/python/Modifier_ctpps_2018_cff.py", 
+            "RecoCTPPS/ProtonReconstruction/python/ctppsProtons_cff.py"
+        ], 
+        "created_at": 1562226742, 
+        "number": 27440, 
+        "state": "open", 
+        "updated_at": 1562226795
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
