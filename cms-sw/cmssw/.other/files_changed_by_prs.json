@@ -1454,6 +1454,16 @@
         "state": "open", 
         "updated_at": 1562162268
     }, 
+    "27436": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/MatrixInjector.py"
+        ], 
+        "created_at": 1562211344, 
+        "number": 27436, 
+        "state": "open", 
+        "updated_at": 1562211371
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
