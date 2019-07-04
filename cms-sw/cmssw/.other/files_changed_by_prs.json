@@ -1553,7 +1553,6 @@
             "DataFormats/Math/interface/GeantUnits.h", 
             "DetectorDescription/DDCMS/interface/DDAlgoArguments.h", 
             "DetectorDescription/DDCMS/src/DDAlgoArguments.cc", 
-            "DetectorDescription/DDCMS/src/DDDetector.cc", 
             "Geometry/EcalAlgo/test/python/testEcalGeometry.py", 
             "Geometry/EcalCommonData/data/dd4hep/cms-ecal-geometry.xml", 
             "Geometry/EcalCommonData/data/ebalgo/2021/v1/ebalgo.xml", 
@@ -1570,7 +1569,7 @@
         "created_at": 1562250076, 
         "number": 27444, 
         "state": "open", 
-        "updated_at": 1562250231
+        "updated_at": 1562251375
     }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
