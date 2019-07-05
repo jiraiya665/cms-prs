@@ -1455,17 +1455,6 @@
         "state": "open", 
         "updated_at": 1562211397
     }, 
-    "27438": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimG4Core/Application/plugins/OscarMTProducer.cc", 
-            "SimG4Core/Application/plugins/OscarProducer.cc"
-        ], 
-        "created_at": 1562221964, 
-        "number": 27438, 
-        "state": "open", 
-        "updated_at": 1562222016
-    }, 
     "27439": {
         "base_branch": "master", 
         "changed_files_names": [
