@@ -1547,19 +1547,16 @@
             "Geometry/EcalCommonData/data/dd4hep/cms-ecal-geometry.xml", 
             "Geometry/EcalCommonData/data/ebalgo/2021/v1/ebalgo.xml", 
             "Geometry/EcalCommonData/plugins/BuildFile.xml", 
-            "Geometry/EcalCommonData/plugins/DDEcalBarrelAlgo.cc", 
-            "Geometry/EcalCommonData/plugins/DDEcalBarrelNewAlgo.cc", 
             "Geometry/EcalCommonData/plugins/DDEcalEndcapAlgo.cc", 
             "Geometry/EcalCommonData/plugins/DDEcalEndcapTrap.cc", 
             "Geometry/EcalCommonData/plugins/DDEcalEndcapTrap.h", 
-            "Geometry/EcalCommonData/plugins/DDEcalPreshowerAlgo.cc", 
             "Geometry/EcalCommonData/plugins/dd4hep/DDEcalBarrelNewAlgo.cc", 
             "Geometry/EcalCommonData/src/DDEcalEndcapTrap.cc"
         ], 
         "created_at": 1562250076, 
         "number": 27444, 
         "state": "open", 
-        "updated_at": 1562255247
+        "updated_at": 1562329081
     }, 
     "27445": {
         "base_branch": "master", 
