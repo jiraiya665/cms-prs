@@ -1603,6 +1603,7 @@
     "27449": {
         "base_branch": "master", 
         "changed_files_names": [
+            "Configuration/Eras/python/Era_Phase2C6_timing_layer_bar_cff.py", 
             "Configuration/Geometry/README.md", 
             "Configuration/Geometry/python/GeometryExtended2023D17Reco_cff.py", 
             "Configuration/Geometry/python/GeometryExtended2023D17_cff.py", 
@@ -1642,6 +1643,7 @@
             "Configuration/PyReleaseValidation/python/relval_upgrade.py", 
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
             "Configuration/PyReleaseValidation/scripts/runTheMatrix.py", 
+            "Configuration/StandardSequences/python/Eras.py", 
             "Configuration/StandardSequences/python/GeometryConf.py", 
             "Geometry/CMSCommonData/python/cmsExtendedGeometry2023D17XML_cfi.py", 
             "Geometry/CMSCommonData/python/cmsExtendedGeometry2023D19XML_cfi.py", 
@@ -1663,7 +1665,7 @@
         "created_at": 1562339123, 
         "number": 27449, 
         "state": "open", 
-        "updated_at": 1562339177
+        "updated_at": 1562346923
     }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
