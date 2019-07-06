@@ -1667,6 +1667,21 @@
         "state": "open", 
         "updated_at": 1562346947
     }, 
+    "27452": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimG4Core/Application/BuildFile.xml", 
+            "SimG4Core/Application/src/ElectronLimiter.cc", 
+            "SimG4Core/GFlash/BuildFile.xml", 
+            "SimG4Core/PhysicsLists/interface/CMSTrackingCutModel.h", 
+            "SimG4Core/PhysicsLists/interface/G4Version.h", 
+            "SimG4Core/PhysicsLists/src/CMSTrackingCutModel.cc"
+        ], 
+        "created_at": 1562420656, 
+        "number": 27452, 
+        "state": "open", 
+        "updated_at": 1562420709
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
