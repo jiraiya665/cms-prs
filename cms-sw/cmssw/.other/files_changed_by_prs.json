@@ -1641,6 +1641,16 @@
         "state": "open", 
         "updated_at": 1562504854
     }, 
+    "27455": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "SimG4Core/PhysicsLists/src/CMSmplIonisationWithDeltaModel.cc"
+        ], 
+        "created_at": 1562507256, 
+        "number": 27455, 
+        "state": "open", 
+        "updated_at": 1562507309
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
