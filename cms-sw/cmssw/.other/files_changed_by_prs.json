@@ -1326,40 +1326,6 @@
         "state": "open", 
         "updated_at": 1562161554
     }, 
-    "27430": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoBTag/CTagging/interface/CharmTagger.h", 
-            "RecoBTag/CTagging/src/CharmTagger.cc", 
-            "RecoBTag/Combined/interface/CandidateChargeBTagComputer.h", 
-            "RecoBTag/Combined/interface/CombinedMVAV2JetTagComputer.h", 
-            "RecoBTag/Combined/src/CandidateChargeBTagComputer.cc", 
-            "RecoBTag/Combined/src/CombinedMVAV2JetTagComputer.cc", 
-            "RecoBTag/ImpactParameter/interface/PromptTrackCountingComputer.h", 
-            "RecoBTag/ImpactParameter/interface/TemplatedJetBProbabilityComputer.h", 
-            "RecoBTag/ImpactParameter/interface/TemplatedJetProbabilityComputer.h", 
-            "RecoBTag/ImpactParameter/interface/TemplatedTrackCountingComputer.h", 
-            "RecoBTag/SecondaryVertex/interface/CandidateBoostedDoubleSecondaryVertexComputer.h", 
-            "RecoBTag/SecondaryVertex/interface/TemplatedSimpleSecondaryVertexComputer.h", 
-            "RecoBTag/SecondaryVertex/src/CandidateBoostedDoubleSecondaryVertexComputer.cc", 
-            "RecoBTag/SoftLepton/interface/ElectronTagger.h", 
-            "RecoBTag/SoftLepton/interface/LeptonTaggerByIP.h", 
-            "RecoBTag/SoftLepton/interface/LeptonTaggerByPt.h", 
-            "RecoBTag/SoftLepton/interface/LeptonTaggerDistance.h", 
-            "RecoBTag/SoftLepton/interface/MuonTagger.h", 
-            "RecoBTag/SoftLepton/interface/MuonTaggerNoIP.h", 
-            "RecoBTag/SoftLepton/src/ElectronTagger.cc", 
-            "RecoBTag/SoftLepton/src/MuonTagger.cc", 
-            "RecoBTau/JetTagComputer/interface/GenericMVAJetTagComputer.h", 
-            "RecoBTau/JetTagComputer/interface/GenericMVAJetTagComputerWrapper.h", 
-            "RecoBTau/JetTagComputer/interface/JetTagComputerESProducer.h", 
-            "RecoBTau/JetTagComputer/src/GenericMVAJetTagComputer.cc"
-        ], 
-        "created_at": 1562131490, 
-        "number": 27430, 
-        "state": "open", 
-        "updated_at": 1562400466
-    }, 
     "27433": {
         "base_branch": "master", 
         "changed_files_names": [
