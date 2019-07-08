@@ -1582,16 +1582,6 @@
         "state": "open", 
         "updated_at": 1562346947
     }, 
-    "27454": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/ParameterSet/python/Types.py"
-        ], 
-        "created_at": 1562504804, 
-        "number": 27454, 
-        "state": "open", 
-        "updated_at": 1562504854
-    }, 
     "27455": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
