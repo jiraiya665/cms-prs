@@ -1188,16 +1188,6 @@
         "state": "open", 
         "updated_at": 1561918660
     }, 
-    "27418": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoLocalCalo/Configuration/python/RecoLocalCalo_EventContent_cff.py"
-        ], 
-        "created_at": 1561977582, 
-        "number": 27418, 
-        "state": "open", 
-        "updated_at": 1562581890
-    }, 
     "27419": {
         "base_branch": "master", 
         "changed_files_names": [
