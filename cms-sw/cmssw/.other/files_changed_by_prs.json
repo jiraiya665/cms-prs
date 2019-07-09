@@ -1238,21 +1238,6 @@
         "state": "open", 
         "updated_at": 1562591826
     }, 
-    "27423": {
-        "base_branch": "CMSSW_10_6_X", 
-        "changed_files_names": [
-            "DataFormats/L1DTTrackFinder/interface/L1Phase2MuDTPhContainer.h", 
-            "DataFormats/L1DTTrackFinder/interface/L1Phase2MuDTPhDigi.h", 
-            "DataFormats/L1DTTrackFinder/src/L1Phase2MuDTPhContainer.cc", 
-            "DataFormats/L1DTTrackFinder/src/L1Phase2MuDTPhDigi.cc", 
-            "DataFormats/L1DTTrackFinder/src/classes.h", 
-            "DataFormats/L1DTTrackFinder/src/classes_def.xml"
-        ], 
-        "created_at": 1562064414, 
-        "number": 27423, 
-        "state": "open", 
-        "updated_at": 1562064464
-    }, 
     "27425": {
         "base_branch": "master", 
         "changed_files_names": [
