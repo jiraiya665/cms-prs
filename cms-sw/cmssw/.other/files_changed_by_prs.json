@@ -1694,6 +1694,19 @@
         "state": "open", 
         "updated_at": 1562678049
     }, 
+    "27465": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "PhysicsTools/NanoAOD/python/taus_cff.py", 
+            "PhysicsTools/NanoAOD/python/taus_updatedMVAIds_cff.py", 
+            "RecoTauTag/Configuration/python/HPSPFTaus_cff.py", 
+            "RecoTauTag/RecoTau/test/rerunMVAIsolationOnMiniAOD.py"
+        ], 
+        "created_at": 1562678738, 
+        "number": 27465, 
+        "state": "open", 
+        "updated_at": 1562678771
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
