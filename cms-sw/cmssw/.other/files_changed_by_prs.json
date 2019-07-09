@@ -1497,17 +1497,6 @@
         "state": "open", 
         "updated_at": 1562610292
     }, 
-    "27459": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Fireworks/Geometry/interface/TGeoMgrFromDdd.h", 
-            "Fireworks/Geometry/src/TGeoMgrFromDdd.cc"
-        ], 
-        "created_at": 1562589815, 
-        "number": 27459, 
-        "state": "open", 
-        "updated_at": 1562590545
-    }, 
     "27461": {
         "base_branch": "master", 
         "changed_files_names": [
