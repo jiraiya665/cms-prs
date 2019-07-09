@@ -1604,19 +1604,6 @@
         "state": "open", 
         "updated_at": 1562590545
     }, 
-    "27460": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "GeneratorInterface/GenFilters/interface/PythiaFilterIsolatedTrack.h", 
-            "GeneratorInterface/GenFilters/python/PythiaFilterIsolatedTrack_cfi.py", 
-            "GeneratorInterface/GenFilters/src/PythiaFilterIsolatedTrack.cc", 
-            "GeneratorInterface/GenFilters/test/test_isotrack_cfg.py"
-        ], 
-        "created_at": 1562608076, 
-        "number": 27460, 
-        "state": "open", 
-        "updated_at": 1562608949
-    }, 
     "27461": {
         "base_branch": "master", 
         "changed_files_names": [
