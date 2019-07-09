@@ -1617,6 +1617,23 @@
         "state": "open", 
         "updated_at": 1562608949
     }, 
+    "27461": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondCore/SiStripPlugins/plugins/SiStripApvGain_PayloadInspector.cc", 
+            "CondCore/SiStripPlugins/plugins/SiStripBadStrip_PayloadInspector.cc", 
+            "CondCore/SiStripPlugins/plugins/SiStripNoises_PayloadInspector.cc", 
+            "CondCore/SiStripPlugins/plugins/SiStripPedestals_PayloadInspector.cc", 
+            "CondCore/SiStripPlugins/test/testGainsPayloadInspector.sh", 
+            "CondCore/SiStripPlugins/test/testNoisePayloadInspector.sh", 
+            "CondCore/SiStripPlugins/test/testPedestalsPayloadInspector.sh", 
+            "CondCore/SiStripPlugins/test/testSiStripPayloadInspector.cpp"
+        ], 
+        "created_at": 1562652133, 
+        "number": 27461, 
+        "state": "open", 
+        "updated_at": 1562652193
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
