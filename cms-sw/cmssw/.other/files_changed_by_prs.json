@@ -986,29 +986,6 @@
         "state": "open", 
         "updated_at": 1559049534
     }, 
-    "26967": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1Trigger/RPCTriggerPrimitives/README.md", 
-            "L1Trigger/RPCTriggerPrimitives/plugins/BuildFile.xml", 
-            "L1Trigger/RPCTriggerPrimitives/plugins/L1TMuonRPCTriggerPrimitivesProducer.cc", 
-            "L1Trigger/RPCTriggerPrimitives/plugins/L1TMuonRPCTriggerPrimitivesProducer.h", 
-            "L1Trigger/RPCTriggerPrimitives/plugins/PrimitiveAlgoFactory.cc", 
-            "L1Trigger/RPCTriggerPrimitives/plugins/PrimitiveAlgoFactory.h", 
-            "L1Trigger/RPCTriggerPrimitives/plugins/PrimitivePreprocess.cc", 
-            "L1Trigger/RPCTriggerPrimitives/plugins/PrimitivePreprocess.h", 
-            "L1Trigger/RPCTriggerPrimitives/plugins/RPCProcessor.cc", 
-            "L1Trigger/RPCTriggerPrimitives/plugins/RPCProcessor.h", 
-            "L1Trigger/RPCTriggerPrimitives/python/primitiveRPCProducer_cfi.py", 
-            "L1Trigger/RPCTriggerPrimitives/test/rpcprimitive_MC.py", 
-            "L1Trigger/RPCTriggerPrimitives/test/rpcprimitive_PhaseII_RAW.py", 
-            "L1Trigger/RPCTriggerPrimitives/test/rpcprimitive_RAW.py"
-        ], 
-        "created_at": 1559042616, 
-        "number": 26967, 
-        "state": "open", 
-        "updated_at": 1562240966
-    }, 
     "27094": {
         "base_branch": "CMSSW_10_2_X", 
         "changed_files_names": [
