@@ -1320,12 +1320,13 @@
         "changed_files_names": [
             "DataFormats/PatCandidates/interface/Jet.h", 
             "DataFormats/PatCandidates/interface/JetCorrFactors.h", 
-            "DataFormats/PatCandidates/src/Jet.cc"
+            "DataFormats/PatCandidates/src/Jet.cc", 
+            "DataFormats/PatCandidates/src/JetCorrFactors.cc"
         ], 
         "created_at": 1562074390, 
         "number": 27428, 
         "state": "open", 
-        "updated_at": 1562655433
+        "updated_at": 1562665790
     }, 
     "27433": {
         "base_branch": "master", 
