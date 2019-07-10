@@ -2627,6 +2627,25 @@
         "state": "open", 
         "updated_at": 1562787178
     }, 
+    "27484": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "TrackingTools/KalmanUpdators/interface/KFSwitching1DUpdator.h", 
+            "TrackingTools/KalmanUpdators/interface/KFSwitching1DUpdatorESProducer.h", 
+            "TrackingTools/KalmanUpdators/interface/KFUpdatorESProducer.h", 
+            "TrackingTools/KalmanUpdators/interface/TrackingRecHitPropagatorESProducer.h", 
+            "TrackingTools/KalmanUpdators/plugins/Chi2MeasurementEstimatorESProducer.cc", 
+            "TrackingTools/KalmanUpdators/plugins/KFSwitching1DUpdatorESProducer.cc", 
+            "TrackingTools/KalmanUpdators/plugins/KFUpdatorESProducer.cc", 
+            "TrackingTools/KalmanUpdators/plugins/MRHChi2MeasurementEstimatorESProducer.cc", 
+            "TrackingTools/KalmanUpdators/plugins/TrackingRecHitPropagatorESProducer.cc", 
+            "TrackingTools/KalmanUpdators/plugins/module.cc"
+        ], 
+        "created_at": 1562789255, 
+        "number": 27484, 
+        "state": "open", 
+        "updated_at": 1562789311
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
