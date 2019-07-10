@@ -1331,13 +1331,14 @@
         "base_branch": "master", 
         "changed_files_names": [
             "Configuration/PyReleaseValidation/python/relval_steps.py", 
+            "DQM/Physics/python/DQMPhysics_cff.py", 
             "DQMOffline/Configuration/python/DQMOffline_cff.py", 
             "DQMOffline/Trigger/python/DQMOffline_Trigger_cosmics_cff.py"
         ], 
         "created_at": 1562687793, 
         "number": 27467, 
         "state": "open", 
-        "updated_at": 1562739750
+        "updated_at": 1562789926
     }, 
     "27469": {
         "base_branch": "master", 
