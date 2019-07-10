@@ -1068,17 +1068,6 @@
         "state": "open", 
         "updated_at": 1561544040
     }, 
-    "27377": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimCalorimetry/HGCalSimProducers/python/hgcalDigitizer_cfi.py", 
-            "SimCalorimetry/HGCalSimProducers/src/HGCHEbackDigitizer.cc"
-        ], 
-        "created_at": 1561634097, 
-        "number": 27377, 
-        "state": "open", 
-        "updated_at": 1561634152
-    }, 
     "27416": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
