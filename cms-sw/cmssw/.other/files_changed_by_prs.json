@@ -1546,16 +1546,6 @@
         "state": "open", 
         "updated_at": 1562697819
     }, 
-    "27470": {
-        "base_branch": "CMSSW_9_4_X", 
-        "changed_files_names": [
-            "DQM/HcalTasks/plugins/DigiPhase1Task.cc"
-        ], 
-        "created_at": 1562699784, 
-        "number": 27470, 
-        "state": "open", 
-        "updated_at": 1562699784
-    }, 
     "27471": {
         "base_branch": "master", 
         "changed_files_names": [
