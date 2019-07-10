@@ -1268,21 +1268,6 @@
         "state": "open", 
         "updated_at": 1562297083
     }, 
-    "27448": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/CommonDetUnit/interface/GeomDetEnumerators.h", 
-            "Geometry/CommonDetUnit/interface/GeomDetType.h", 
-            "Geometry/CommonDetUnit/src/GeomDetEnumerators.cc", 
-            "Geometry/CommonDetUnit/src/GeomDetType.cc", 
-            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEBase.cc", 
-            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEClusterRepair.cc"
-        ], 
-        "created_at": 1562337545, 
-        "number": 27448, 
-        "state": "open", 
-        "updated_at": 1562499251
-    }, 
     "27461": {
         "base_branch": "master", 
         "changed_files_names": [
