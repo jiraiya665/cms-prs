@@ -1043,16 +1043,6 @@
         "state": "open", 
         "updated_at": 1560756699
     }, 
-    "27329": {
-        "base_branch": "CMSSW_10_2_X", 
-        "changed_files_names": [
-            "RecoBTag/SecondaryVertex/plugins/BoostedDoubleSVProducer.cc"
-        ], 
-        "created_at": 1561369072, 
-        "number": 27329, 
-        "state": "open", 
-        "updated_at": 1561966946
-    }, 
     "27340": {
         "base_branch": "master", 
         "changed_files_names": [
