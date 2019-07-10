@@ -1372,16 +1372,6 @@
         "state": "open", 
         "updated_at": 1562739750
     }, 
-    "27468": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/Framework/src/Path.cc"
-        ], 
-        "created_at": 1562693988, 
-        "number": 27468, 
-        "state": "open", 
-        "updated_at": 1562694038
-    }, 
     "27469": {
         "base_branch": "master", 
         "changed_files_names": [
