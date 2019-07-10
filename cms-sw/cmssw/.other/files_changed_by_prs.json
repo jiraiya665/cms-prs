@@ -2611,6 +2611,22 @@
         "state": "open", 
         "updated_at": 1562786168
     }, 
+    "27483": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "Configuration/StandardSequences/python/Validation_cff.py", 
+            "Validation/Configuration/python/autoValidation.py", 
+            "Validation/EcalDigis/src/EcalSelectiveReadoutValidation.cc", 
+            "Validation/EcalRecHits/interface/EcalRecHitsValidation.h", 
+            "Validation/EcalRecHits/python/ecalRecHitsValidationSequence_cff.py", 
+            "Validation/EcalRecHits/python/ecalRecHitsValidation_cfi.py", 
+            "Validation/EcalRecHits/src/EcalRecHitsValidation.cc"
+        ], 
+        "created_at": 1562787094, 
+        "number": 27483, 
+        "state": "open", 
+        "updated_at": 1562787178
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
