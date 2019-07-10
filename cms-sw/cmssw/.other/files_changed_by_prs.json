@@ -2652,6 +2652,32 @@
         "state": "open", 
         "updated_at": 1562770451
     }, 
+    "27479": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimG4Core/Application/interface/RunManager.h", 
+            "SimG4Core/Application/interface/RunManagerMT.h", 
+            "SimG4Core/Application/src/CustomUIsessionThreadPrefix.cc", 
+            "SimG4Core/Application/src/OscarMTMasterThread.cc", 
+            "SimG4Core/Application/src/ParametrisedEMPhysics.cc", 
+            "SimG4Core/Application/src/RunManager.cc", 
+            "SimG4Core/Application/src/RunManagerMT.cc", 
+            "SimG4Core/Geometry/interface/DDDWorld.h", 
+            "SimG4Core/Geometry/interface/DDG4ProductionCuts.h", 
+            "SimG4Core/Geometry/src/DDDWorld.cc", 
+            "SimG4Core/Geometry/src/DDG4ProductionCuts.cc", 
+            "SimG4Core/PhysicsLists/src/CMSEmNoDeltaRay.cc", 
+            "SimG4Core/PhysicsLists/src/CMSEmStandardPhysics.cc", 
+            "SimG4Core/PhysicsLists/src/CMSEmStandardPhysics95.cc", 
+            "SimG4Core/PhysicsLists/src/CMSEmStandardPhysics95msc93.cc", 
+            "SimG4Core/PhysicsLists/src/CMSEmStandardPhysicsLPM.cc", 
+            "SimG4Core/PhysicsLists/src/CMSEmStandardPhysicsXS.cc"
+        ], 
+        "created_at": 1562770527, 
+        "number": 27479, 
+        "state": "open", 
+        "updated_at": 1562770559
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
