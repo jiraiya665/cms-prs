@@ -2600,6 +2600,17 @@
         "state": "open", 
         "updated_at": 1562775366
     }, 
+    "27482": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "TrackingTools/MaterialEffects/plugins/PropagatorWithMaterialESProducer.cc", 
+            "TrackingTools/MaterialEffects/plugins/PropagatorWithMaterialESProducer.h"
+        ], 
+        "created_at": 1562786116, 
+        "number": 27482, 
+        "state": "open", 
+        "updated_at": 1562786147
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
