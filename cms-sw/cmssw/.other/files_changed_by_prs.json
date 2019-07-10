@@ -975,16 +975,6 @@
         "state": "open", 
         "updated_at": 1560000104
     }, 
-    "27094": {
-        "base_branch": "CMSSW_10_2_X", 
-        "changed_files_names": [
-            "PhysicsTools/JetMCAlgos/plugins/HadronAndPartonSelector.cc"
-        ], 
-        "created_at": 1559656529, 
-        "number": 27094, 
-        "state": "open", 
-        "updated_at": 1560188253
-    }, 
     "27148": {
         "base_branch": "CMSSW_10_2_X", 
         "changed_files_names": [
