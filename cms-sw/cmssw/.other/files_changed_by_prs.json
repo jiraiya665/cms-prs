@@ -2650,6 +2650,21 @@
         "state": "open", 
         "updated_at": 1562789311
     }, 
+    "27485": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoLocalCalo/HGCalRecAlgos/interface/RecHitTools.h", 
+            "RecoLocalCalo/HGCalRecAlgos/src/RecHitTools.cc", 
+            "RecoLocalCalo/HGCalRecProducers/interface/HGCalCLUEAlgo.h", 
+            "RecoLocalCalo/HGCalRecProducers/interface/HGCalLayerTiles.h", 
+            "RecoLocalCalo/HGCalRecProducers/interface/HGCalTilesConstants.h", 
+            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalCLUEAlgo.cc"
+        ], 
+        "created_at": 1562798016, 
+        "number": 27485, 
+        "state": "open", 
+        "updated_at": 1562798075
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
