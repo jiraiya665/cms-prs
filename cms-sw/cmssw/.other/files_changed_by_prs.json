@@ -2836,6 +2836,19 @@
         "state": "open", 
         "updated_at": 1562855147
     }, 
+    "27502": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "TrackingTools/GsfTools/plugins/CloseComponentsMergerESProducer.h", 
+            "TrackingTools/GsfTools/plugins/CloseComponentsMergerESProducer.icc", 
+            "TrackingTools/GsfTools/plugins/DistanceBetweenComponentsESProducer.h", 
+            "TrackingTools/GsfTools/plugins/DistanceBetweenComponentsESProducer.icc"
+        ], 
+        "created_at": 1562861284, 
+        "number": 27502, 
+        "state": "open", 
+        "updated_at": 1562861333
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
