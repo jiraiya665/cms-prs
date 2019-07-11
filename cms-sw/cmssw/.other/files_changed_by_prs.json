@@ -2780,16 +2780,6 @@
         "state": "open", 
         "updated_at": 1562834887
     }, 
-    "27499": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SLHCUpgradeSimulations/Geometry/test/phase2_digi_reco_pixelntuple_cfg.py"
-        ], 
-        "created_at": 1562844286, 
-        "number": 27499, 
-        "state": "open", 
-        "updated_at": 1562844314
-    }, 
     "27500": {
         "base_branch": "master", 
         "changed_files_names": [
