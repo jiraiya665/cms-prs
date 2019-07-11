@@ -2849,6 +2849,16 @@
         "state": "open", 
         "updated_at": 1562861333
     }, 
+    "27503": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoLocalCalo/HGCalRecAlgos/src/RecHitTools.cc"
+        ], 
+        "created_at": 1562861609, 
+        "number": 27503, 
+        "state": "open", 
+        "updated_at": 1562861653
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
