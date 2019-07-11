@@ -975,22 +975,6 @@
         "state": "open", 
         "updated_at": 1560000104
     }, 
-    "27148": {
-        "base_branch": "CMSSW_10_2_X", 
-        "changed_files_names": [
-            "DataFormats/MuonDetId/interface/MuonSubdetId.h", 
-            "RecoTauTag/RecoTau/interface/DeepTauBase.h", 
-            "RecoTauTag/RecoTau/plugins/DPFIsolation.cc", 
-            "RecoTauTag/RecoTau/plugins/DeepTauId.cc", 
-            "RecoTauTag/RecoTau/python/tools/runTauIdMVA.py", 
-            "RecoTauTag/RecoTau/src/DeepTauBase.cc", 
-            "RecoTauTag/RecoTau/test/runDeepTauIDsOnMiniAOD.py"
-        ], 
-        "created_at": 1559905878, 
-        "number": 27148, 
-        "state": "open", 
-        "updated_at": 1560346781
-    }, 
     "27175": {
         "base_branch": "master", 
         "changed_files_names": [
