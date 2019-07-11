@@ -2665,6 +2665,16 @@
         "state": "open", 
         "updated_at": 1562799100
     }, 
+    "27486": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/GEM/plugins/GEMDQMStatusDigi.cc"
+        ], 
+        "created_at": 1562800567, 
+        "number": 27486, 
+        "state": "open", 
+        "updated_at": 1562800621
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
