@@ -2751,20 +2751,6 @@
         "state": "open", 
         "updated_at": 1562829630
     }, 
-    "27495": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DetectorDescription/RegressionTest/test/BuildFile.xml", 
-            "Geometry/CMSCommonData/test/BuildFile.xml", 
-            "Geometry/CMSCommonData/test/TestIntegration.cpp", 
-            "Geometry/CMSCommonData/test/run_DOMCount.py", 
-            "Geometry/CMSCommonData/test/run_DOMCount.sh"
-        ], 
-        "created_at": 1562832646, 
-        "number": 27495, 
-        "state": "open", 
-        "updated_at": 1562832743
-    }, 
     "27496": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
