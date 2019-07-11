@@ -2602,7 +2602,7 @@
         "created_at": 1562789255, 
         "number": 27484, 
         "state": "open", 
-        "updated_at": 1562789311
+        "updated_at": 1562854536
     }, 
     "27485": {
         "base_branch": "master", 
