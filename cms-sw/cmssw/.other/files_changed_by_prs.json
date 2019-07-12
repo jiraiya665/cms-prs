@@ -2690,6 +2690,7 @@
             "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D43XML_cfi.py", 
             "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D44XML_cfi.py", 
             "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D45XML_cfi.py", 
+            "Geometry/CMSCommonData/test/run_DOMCount.sh", 
             "Geometry/CaloEventSetup/python/CaloGeometry2026DBWriter_cfi.py", 
             "Geometry/EcalCommonData/data/dd4hep/cms-ecal-geometry.xml", 
             "Geometry/EcalCommonData/data/ectkcable/2026/v1/ectkcable.xml", 
@@ -2733,12 +2734,13 @@
             "Geometry/RPCGeometryBuilder/data/2026/v1/RPCSpecs.xml", 
             "Geometry/TrackerCommonData/data/dd4hep/cms-tracker-geometry.xml", 
             "L1Trigger/TrackTrigger/python/TkOnlyFlatGeom_cff.py", 
-            "L1Trigger/TrackTrigger/python/TkOnlyTiltedGeom_cff.py"
+            "L1Trigger/TrackTrigger/python/TkOnlyTiltedGeom_cff.py", 
+            "SLHCUpgradeSimulations/Geometry/test/phase2_digi_reco_pixelntuple_cfg.py"
         ], 
         "created_at": 1562809211, 
         "number": 27488, 
         "state": "open", 
-        "updated_at": 1562856994
+        "updated_at": 1562897877
     }, 
     "27492": {
         "base_branch": "master", 
