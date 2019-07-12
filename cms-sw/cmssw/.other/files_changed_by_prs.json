@@ -2071,7 +2071,6 @@
             "DQMServices/Components/plugins/DQMDcsInfoClient.h", 
             "DQMServices/Components/plugins/DQMEventInfo.h", 
             "DQMServices/Components/plugins/DQMFEDIntegrityClient.h", 
-            "DQMServices/Components/plugins/DQMFileReader.cc", 
             "DQMServices/Components/plugins/DQMFileReader.h", 
             "DQMServices/Components/plugins/DQMFileSaver.cc", 
             "DQMServices/Components/plugins/DQMFileSaver.h", 
@@ -2424,7 +2423,7 @@
         "created_at": 1562748865, 
         "number": 27476, 
         "state": "open", 
-        "updated_at": 1562849462
+        "updated_at": 1562921445
     }, 
     "27477": {
         "base_branch": "master", 
