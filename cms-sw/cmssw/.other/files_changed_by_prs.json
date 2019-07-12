@@ -1307,13 +1307,12 @@
             "RecoLocalCalo/Configuration/python/hcalLocalRecoNZS_cff.py", 
             "RecoLocalCalo/Configuration/python/hcalLocalReco_cff.py", 
             "RecoLocalCalo/Configuration/python/hgcalLocalReco_cff.py", 
-            "RecoLocalCalo/HGCalRecProducers/python/HGCalLocalRecoTestBeamSequence_cff.py", 
-            "RecoParticleFlow/PFClusterProducer/python/particleFlowRecHitHGC_cff.py"
+            "RecoLocalCalo/HGCalRecProducers/python/HGCalLocalRecoTestBeamSequence_cff.py"
         ], 
         "created_at": 1562731332, 
         "number": 27474, 
         "state": "open", 
-        "updated_at": 1562926301
+        "updated_at": 1562926465
     }, 
     "27475": {
         "base_branch": "CMSSW_10_6_X", 
