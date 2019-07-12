@@ -2826,6 +2826,19 @@
         "state": "open", 
         "updated_at": 1562899874
     }, 
+    "27506": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "DataFormats/PatCandidates/interface/Jet.h", 
+            "DataFormats/PatCandidates/interface/JetCorrFactors.h", 
+            "DataFormats/PatCandidates/src/Jet.cc", 
+            "DataFormats/PatCandidates/src/JetCorrFactors.cc"
+        ], 
+        "created_at": 1562917697, 
+        "number": 27506, 
+        "state": "open", 
+        "updated_at": 1562917778
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
