@@ -2730,17 +2730,6 @@
         "state": "open", 
         "updated_at": 1562897877
     }, 
-    "27492": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Alignment/MillePedeAlignmentAlgorithm/scripts/mps_check.py", 
-            "Alignment/MillePedeAlignmentAlgorithm/templates/mps_runPede_rfcp_template.sh"
-        ], 
-        "created_at": 1562829488, 
-        "number": 27492, 
-        "state": "open", 
-        "updated_at": 1562829630
-    }, 
     "27496": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
