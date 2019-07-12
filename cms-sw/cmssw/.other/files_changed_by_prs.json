@@ -2857,6 +2857,18 @@
         "state": "open", 
         "updated_at": 1562941425
     }, 
+    "27510": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoTracker/TransientTrackingRecHit/plugins/TkTransientTrackingRecHitBuilderESProducer.cc", 
+            "RecoTracker/TransientTrackingRecHit/plugins/TkTransientTrackingRecHitBuilderESProducer.h", 
+            "RecoTracker/TransientTrackingRecHit/plugins/module.cc"
+        ], 
+        "created_at": 1562941595, 
+        "number": 27510, 
+        "state": "open", 
+        "updated_at": 1562941625
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
