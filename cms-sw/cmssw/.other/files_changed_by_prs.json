@@ -2878,6 +2878,20 @@
         "state": "open", 
         "updated_at": 1563042843
     }, 
+    "27517": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/AlCa/python/autoCond.py", 
+            "Configuration/AlCa/python/autoCondPhase2.py", 
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
+            "RecoLocalTracker/SiPixelRecHits/python/PixelCPEGeneric_cfi.py", 
+            "SimTracker/SiPhase2Digitizer/python/phase2TrackerDigitizer_cfi.py"
+        ], 
+        "created_at": 1563042787, 
+        "number": 27517, 
+        "state": "open", 
+        "updated_at": 1563042835
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
