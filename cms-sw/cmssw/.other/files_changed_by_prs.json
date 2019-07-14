@@ -2482,18 +2482,6 @@
         "state": "open", 
         "updated_at": 1562761273
     }, 
-    "27478": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Validation/HGCalValidation/interface/HGVHistoProducerAlgo.h", 
-            "Validation/HGCalValidation/plugins/HGCalValidator.cc", 
-            "Validation/HGCalValidation/src/HGVHistoProducerAlgo.cc"
-        ], 
-        "created_at": 1562770400, 
-        "number": 27478, 
-        "state": "open", 
-        "updated_at": 1563003770
-    }, 
     "27483": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
