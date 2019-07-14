@@ -2789,16 +2789,6 @@
         "state": "open", 
         "updated_at": 1562967767
     }, 
-    "27515": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/CSCMonitorModule/plugins/CSCDQM_Lock.h"
-        ], 
-        "created_at": 1563018001, 
-        "number": 27515, 
-        "state": "open", 
-        "updated_at": 1563018055
-    }, 
     "27516": {
         "base_branch": "master", 
         "changed_files_names": [
