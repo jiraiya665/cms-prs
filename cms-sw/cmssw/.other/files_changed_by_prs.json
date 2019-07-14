@@ -2723,16 +2723,6 @@
         "state": "open", 
         "updated_at": 1562917778
     }, 
-    "27508": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Fireworks/Core/src/FWItemValueGetter.cc"
-        ], 
-        "created_at": 1562932003, 
-        "number": 27508, 
-        "state": "open", 
-        "updated_at": 1562932051
-    }, 
     "27509": {
         "base_branch": "master", 
         "changed_files_names": [
