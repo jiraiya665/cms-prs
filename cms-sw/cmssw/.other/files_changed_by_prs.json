@@ -2708,26 +2708,6 @@
         "state": "open", 
         "updated_at": 1562861631
     }, 
-    "27501": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DetectorDescription/DDCMS/data/testPosParts.xml", 
-            "DetectorDescription/DDCMS/data/testRotations.xml", 
-            "DetectorDescription/DDCMS/interface/DDXMLTags.h", 
-            "DetectorDescription/DDCMS/plugins/DDDefinitions2Objects.cc", 
-            "DetectorDescription/DDCMS/src/DDAlgoArguments.cc", 
-            "Geometry/EcalCommonData/data/dd4hep/cms-ecal-geometry.xml", 
-            "Geometry/EcalCommonData/interface/DDEcalEndcapTrap.h", 
-            "Geometry/EcalCommonData/plugins/DDEcalEndcapAlgo.cc", 
-            "Geometry/EcalCommonData/plugins/dd4hep/DDEcalBarrelNewAlgo.cc", 
-            "Geometry/EcalCommonData/plugins/dd4hep/DDEcalEndcapAlgo.cc", 
-            "Geometry/EcalCommonData/src/DDEcalEndcapTrap.cc"
-        ], 
-        "created_at": 1562855117, 
-        "number": 27501, 
-        "state": "open", 
-        "updated_at": 1562936003
-    }, 
     "27502": {
         "base_branch": "master", 
         "changed_files_names": [
