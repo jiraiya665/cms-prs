@@ -2902,6 +2902,17 @@
         "state": "open", 
         "updated_at": 1563203048
     }, 
+    "27524": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoTracker/TkHitPairs/interface/LayerHitMapCache.h", 
+            "RecoTracker/TkHitPairs/src/HitPairGeneratorFromLayerPair.cc"
+        ], 
+        "created_at": 1563210409, 
+        "number": 27524, 
+        "state": "open", 
+        "updated_at": 1563210488
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
