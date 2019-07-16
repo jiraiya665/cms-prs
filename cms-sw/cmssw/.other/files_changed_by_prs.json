@@ -2996,6 +2996,23 @@
         "state": "open", 
         "updated_at": 1563296188
     }, 
+    "27537": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "Configuration/DataProcessing/python/Impl/cosmicsEra_Run3_2021.py", 
+            "Configuration/DataProcessing/python/Impl/hcalnzsEra_Run3_2021.py", 
+            "Configuration/DataProcessing/python/Impl/ppEra_Run3_2021.py", 
+            "Configuration/DataProcessing/python/Impl/trackingOnlyEra_Run3_2021.py", 
+            "Configuration/DataProcessing/python/RecoTLR.py", 
+            "Configuration/DataProcessing/test/cosmicsEra_Run3_2021_t.py", 
+            "Configuration/DataProcessing/test/ppEra_Run3_2021_t.py", 
+            "Configuration/DataProcessing/test/run_CfgTest.sh"
+        ], 
+        "created_at": 1563296753, 
+        "number": 27537, 
+        "state": "open", 
+        "updated_at": 1563296796
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
