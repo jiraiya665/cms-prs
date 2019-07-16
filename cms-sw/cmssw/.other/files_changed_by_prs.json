@@ -2797,14 +2797,24 @@
     "27518": {
         "base_branch": "master", 
         "changed_files_names": [
+            "DetectorDescription/DDCMS/data/testPosParts.xml", 
+            "DetectorDescription/DDCMS/data/testRotations.xml", 
+            "DetectorDescription/DDCMS/interface/DDXMLTags.h", 
+            "DetectorDescription/DDCMS/plugins/DDDefinitions2Objects.cc", 
+            "DetectorDescription/DDCMS/src/DDAlgoArguments.cc", 
             "Geometry/EcalCommonData/data/dd4hep/cms-ecal-geometry.xml", 
             "Geometry/EcalCommonData/data/esalgo/2021/v1/esalgo.xml", 
-            "Geometry/EcalCommonData/plugins/dd4hep/DDEcalPreshowerAlgo.cc"
+            "Geometry/EcalCommonData/interface/DDEcalEndcapTrap.h", 
+            "Geometry/EcalCommonData/plugins/DDEcalEndcapAlgo.cc", 
+            "Geometry/EcalCommonData/plugins/dd4hep/DDEcalBarrelNewAlgo.cc", 
+            "Geometry/EcalCommonData/plugins/dd4hep/DDEcalEndcapAlgo.cc", 
+            "Geometry/EcalCommonData/plugins/dd4hep/DDEcalPreshowerAlgo.cc", 
+            "Geometry/EcalCommonData/src/DDEcalEndcapTrap.cc"
         ], 
         "created_at": 1563103058, 
         "number": 27518, 
         "state": "open", 
-        "updated_at": 1563130061
+        "updated_at": 1563275229
     }, 
     "27520": {
         "base_branch": "master", 
