@@ -2714,25 +2714,6 @@
         "state": "open", 
         "updated_at": 1563167457
     }, 
-    "27509": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HGCalCommonData/data/TB181/Oct183/hgcal.xml", 
-            "SimG4CMS/Calo/data/APD1ProdCuts.xml", 
-            "SimG4CMS/Calo/data/APD1sens.xml", 
-            "SimG4CMS/Calo/python/GeometryAPD1XML_cfi.py", 
-            "SimG4CMS/Calo/test/python/runWithAPDTest_cfg.py", 
-            "SimG4CMS/Calo/test/python/runWithGun_cfg.py", 
-            "SimG4CMS/HGCalTestBeam/test/HGCalTBCERN181Oct1_cfg.py", 
-            "SimG4CMS/HGCalTestBeam/test/HGCalTBCERN181Oct2_cfg.py", 
-            "SimG4CMS/HGCalTestBeam/test/HGCalTBCERN181Oct3_cfg.py", 
-            "SimG4CMS/HGCalTestBeam/test/dumpTBGeometry_cfg.py"
-        ], 
-        "created_at": 1562941373, 
-        "number": 27509, 
-        "state": "open", 
-        "updated_at": 1562941425
-    }, 
     "27510": {
         "base_branch": "master", 
         "changed_files_names": [
