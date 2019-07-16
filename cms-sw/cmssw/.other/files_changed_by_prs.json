@@ -2597,7 +2597,6 @@
             "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D45XML_cfi.py", 
             "Geometry/CMSCommonData/test/run_DOMCount.sh", 
             "Geometry/CaloEventSetup/python/CaloGeometry2026DBWriter_cfi.py", 
-            "Geometry/EcalCommonData/data/dd4hep/cms-ecal-geometry.xml", 
             "Geometry/EcalCommonData/data/ectkcable/2026/v1/ectkcable.xml", 
             "Geometry/EcalCommonData/data/ectkcablemat/2026/v1/ectkcablemat.xml", 
             "Geometry/EcalCommonData/data/eregalgo/2026/v1/eregalgo.xml", 
@@ -2645,7 +2644,7 @@
         "created_at": 1562809211, 
         "number": 27488, 
         "state": "open", 
-        "updated_at": 1562897877
+        "updated_at": 1563281404
     }, 
     "27496": {
         "base_branch": "CMSSW_10_6_X", 
