@@ -1260,22 +1260,6 @@
         "state": "open", 
         "updated_at": 1563271214
     }, 
-    "27467": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/PyReleaseValidation/python/relval_steps.py", 
-            "DQM/Physics/python/DQMPhysics_cff.py", 
-            "DQMOffline/Configuration/python/DQMOfflineHeavyIons_cff.py", 
-            "DQMOffline/Configuration/python/DQMOffline_Certification_cff.py", 
-            "DQMOffline/Configuration/python/DQMOffline_SecondStep_cff.py", 
-            "DQMOffline/Configuration/python/DQMOffline_cff.py", 
-            "DQMOffline/Configuration/python/autoDQM.py"
-        ], 
-        "created_at": 1562687793, 
-        "number": 27467, 
-        "state": "open", 
-        "updated_at": 1562932675
-    }, 
     "27469": {
         "base_branch": "master", 
         "changed_files_names": [
