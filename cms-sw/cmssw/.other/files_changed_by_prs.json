@@ -2422,9 +2422,11 @@
             "RecoEgamma/EgammaElectronAlgos/src/SiStripElectronSeedGenerator.cc", 
             "RecoEgamma/EgammaElectronProducers/interface/LowPtGsfElectronIDHeavyObjectCache.h", 
             "RecoEgamma/EgammaElectronProducers/plugins/GEDGsfElectronCoreProducer.cc", 
+            "RecoEgamma/EgammaElectronProducers/plugins/GEDGsfElectronCoreProducer.h", 
             "RecoEgamma/EgammaElectronProducers/plugins/GsfElectronBaseProducer.cc", 
             "RecoEgamma/EgammaElectronProducers/plugins/GsfElectronBaseProducer.h", 
             "RecoEgamma/EgammaElectronProducers/plugins/GsfElectronCoreBaseProducer.cc", 
+            "RecoEgamma/EgammaElectronProducers/plugins/GsfElectronCoreBaseProducer.h", 
             "RecoEgamma/EgammaElectronProducers/plugins/GsfElectronCoreEcalDrivenProducer.cc", 
             "RecoEgamma/EgammaElectronProducers/plugins/GsfElectronCoreEcalDrivenProducer.h", 
             "RecoEgamma/EgammaElectronProducers/plugins/GsfElectronCoreProducer.cc", 
@@ -2435,6 +2437,7 @@
             "RecoEgamma/EgammaElectronProducers/plugins/GsfElectronFull5x5Filler.h", 
             "RecoEgamma/EgammaElectronProducers/plugins/LowPtGSFToTrackLinker.cc", 
             "RecoEgamma/EgammaElectronProducers/plugins/LowPtGsfElectronCoreProducer.cc", 
+            "RecoEgamma/EgammaElectronProducers/plugins/LowPtGsfElectronCoreProducer.h", 
             "RecoEgamma/EgammaElectronProducers/plugins/LowPtGsfElectronIDProducer.cc", 
             "RecoEgamma/EgammaElectronProducers/plugins/LowPtGsfElectronIDProducer.h", 
             "RecoEgamma/EgammaElectronProducers/plugins/LowPtGsfElectronProducer.cc", 
@@ -2486,7 +2489,7 @@
         "created_at": 1562760568, 
         "number": 27477, 
         "state": "open", 
-        "updated_at": 1563282879
+        "updated_at": 1563283691
     }, 
     "27483": {
         "base_branch": "CMSSW_10_6_X", 
