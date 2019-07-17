@@ -2847,16 +2847,6 @@
         "state": "open", 
         "updated_at": 1563372444
     }, 
-    "27535": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/TrackingMonitor/src/TrackAnalyzer.cc"
-        ], 
-        "created_at": 1563286080, 
-        "number": 27535, 
-        "state": "open", 
-        "updated_at": 1563286159
-    }, 
     "27538": {
         "base_branch": "master", 
         "changed_files_names": [
