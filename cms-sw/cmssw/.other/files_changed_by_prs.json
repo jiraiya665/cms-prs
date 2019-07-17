@@ -994,16 +994,6 @@
         "state": "open", 
         "updated_at": 1563197568
     }, 
-    "27179": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/PythonUtilities/python/LumiList.py"
-        ], 
-        "created_at": 1560284474, 
-        "number": 27179, 
-        "state": "open", 
-        "updated_at": 1563208317
-    }, 
     "27184": {
         "base_branch": "master", 
         "changed_files_names": [
