@@ -2774,18 +2774,6 @@
         "state": "open", 
         "updated_at": 1563042835
     }, 
-    "27518": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/EcalCommonData/data/dd4hep/cms-ecal-geometry.xml", 
-            "Geometry/EcalCommonData/data/esalgo/2021/v1/esalgo.xml", 
-            "Geometry/EcalCommonData/plugins/dd4hep/DDEcalPreshowerAlgo.cc"
-        ], 
-        "created_at": 1563103058, 
-        "number": 27518, 
-        "state": "open", 
-        "updated_at": 1563275434
-    }, 
     "27520": {
         "base_branch": "master", 
         "changed_files_names": [
