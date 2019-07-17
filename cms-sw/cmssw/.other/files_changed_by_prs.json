@@ -2975,6 +2975,22 @@
         "state": "open", 
         "updated_at": 1563345610
     }, 
+    "27542": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/CaloEventSetup/interface/CaloGeometryEP.h", 
+            "Geometry/CaloEventSetup/interface/CaloGeometryLoader.h", 
+            "Geometry/CaloEventSetup/interface/CaloGeometryLoader.icc", 
+            "Geometry/EcalAlgo/plugins/EcalBarrelGeometryLoaderFromDDD.cc", 
+            "Geometry/EcalAlgo/plugins/EcalEndcapGeometryLoaderFromDDD.cc", 
+            "Geometry/EcalAlgo/plugins/EcalPreshowerGeometryLoaderFromDDD.cc", 
+            "Geometry/EcalAlgo/plugins/module.cc"
+        ], 
+        "created_at": 1563370664, 
+        "number": 27542, 
+        "state": "open", 
+        "updated_at": 1563370704
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
