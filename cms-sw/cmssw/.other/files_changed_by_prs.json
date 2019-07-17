@@ -2951,16 +2951,6 @@
         "state": "open", 
         "updated_at": 1563271800
     }, 
-    "27532": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "IOPool/TFileAdaptor/src/TStorageFactoryFile.cc"
-        ], 
-        "created_at": 1563278413, 
-        "number": 27532, 
-        "state": "open", 
-        "updated_at": 1563278471
-    }, 
     "27535": {
         "base_branch": "master", 
         "changed_files_names": [
