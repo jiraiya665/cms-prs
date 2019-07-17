@@ -2672,13 +2672,15 @@
     "27505": {
         "base_branch": "master", 
         "changed_files_names": [
+            "RecoParticleFlow/PFProducer/interface/PFAlgo.h", 
             "RecoParticleFlow/PFProducer/plugins/PFProducer.cc", 
-            "RecoParticleFlow/PFProducer/src/PFAlgo.cc"
+            "RecoParticleFlow/PFProducer/src/PFAlgo.cc", 
+            "RecoParticleFlow/PFProducer/src/PFCandConnector.cc"
         ], 
         "created_at": 1562899824, 
         "number": 27505, 
         "state": "open", 
-        "updated_at": 1563243661
+        "updated_at": 1563326367
     }, 
     "27506": {
         "base_branch": "CMSSW_10_6_X", 
