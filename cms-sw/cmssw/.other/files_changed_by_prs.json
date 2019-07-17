@@ -3011,6 +3011,16 @@
         "state": "open", 
         "updated_at": 1563373177
     }, 
+    "27545": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "L1Trigger/RPCTrigger/src/RPCTBMuon.cc"
+        ], 
+        "created_at": 1563374345, 
+        "number": 27545, 
+        "state": "open", 
+        "updated_at": 1563374374
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
