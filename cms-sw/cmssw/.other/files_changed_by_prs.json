@@ -2961,16 +2961,6 @@
         "state": "open", 
         "updated_at": 1563278471
     }, 
-    "27534": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/FEDRawData/src/FEDRawData.cc"
-        ], 
-        "created_at": 1563284753, 
-        "number": 27534, 
-        "state": "open", 
-        "updated_at": 1563284814
-    }, 
     "27535": {
         "base_branch": "master", 
         "changed_files_names": [
