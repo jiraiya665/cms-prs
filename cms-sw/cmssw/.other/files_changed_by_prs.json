@@ -3021,6 +3021,20 @@
         "state": "open", 
         "updated_at": 1563374397
     }, 
+    "27546": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc", 
+            "Geometry/HGCalGeometry/src/HGCalGeometry.cc", 
+            "Geometry/HGCalGeometry/test/HGCalGeometryTester.cc", 
+            "Geometry/HGCalGeometry/test/HGCalWaferCheck.cc", 
+            "Geometry/HGCalGeometry/test/python/testHGCalWafer_cfg.py"
+        ], 
+        "created_at": 1563380937, 
+        "number": 27546, 
+        "state": "open", 
+        "updated_at": 1563380991
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
