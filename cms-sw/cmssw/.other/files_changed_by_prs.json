@@ -1221,10 +1221,10 @@
     "27462": {
         "base_branch": "master", 
         "changed_files_names": [
-            "EventFilter/CTPPSRawToDigi/interface/CTPPSElectronicIndex.h", 
             "EventFilter/CTPPSRawToDigi/interface/CTPPSPixelDataFormatter.h", 
             "EventFilter/CTPPSRawToDigi/interface/CTPPSTotemDataFormatter.h", 
             "EventFilter/CTPPSRawToDigi/interface/CounterChecker.h", 
+            "EventFilter/CTPPSRawToDigi/interface/ElectronicIndex.h", 
             "EventFilter/CTPPSRawToDigi/interface/RawDataUnpacker.h", 
             "EventFilter/CTPPSRawToDigi/interface/TotemSampicFrame.h", 
             "EventFilter/CTPPSRawToDigi/interface/VFATFrame.h", 
@@ -1245,7 +1245,7 @@
         "created_at": 1562669956, 
         "number": 27462, 
         "state": "open", 
-        "updated_at": 1562856686
+        "updated_at": 1563373529
     }, 
     "27465": {
         "base_branch": "master", 
