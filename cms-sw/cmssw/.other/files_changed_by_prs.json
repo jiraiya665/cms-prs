@@ -2914,6 +2914,16 @@
         "state": "open", 
         "updated_at": 1563468255
     }, 
+    "27558": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/TrajectorySeed/interface/TrajectorySeed.h"
+        ], 
+        "created_at": 1563470239, 
+        "number": 27558, 
+        "state": "open", 
+        "updated_at": 1563470305
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
