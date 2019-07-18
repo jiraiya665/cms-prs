@@ -2834,6 +2834,22 @@
         "state": "open", 
         "updated_at": 1563405382
     }, 
+    "27549": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/StandardSequences/python/Validation_cff.py", 
+            "Validation/Configuration/python/autoValidation.py", 
+            "Validation/EcalDigis/src/EcalSelectiveReadoutValidation.cc", 
+            "Validation/EcalRecHits/interface/EcalRecHitsValidation.h", 
+            "Validation/EcalRecHits/python/ecalRecHitsValidationSequence_cff.py", 
+            "Validation/EcalRecHits/python/ecalRecHitsValidation_cfi.py", 
+            "Validation/EcalRecHits/src/EcalRecHitsValidation.cc"
+        ], 
+        "created_at": 1563432345, 
+        "number": 27549, 
+        "state": "open", 
+        "updated_at": 1563432405
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
