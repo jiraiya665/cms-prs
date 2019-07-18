@@ -1139,6 +1139,7 @@
             "SimMuon/GEMDigitizer/interface/GEMPadDigiProducer.h", 
             "SimMuon/GEMDigitizer/interface/GEMSignalModel.h", 
             "SimMuon/GEMDigitizer/interface/GEMSimpleModel.h", 
+            "SimMuon/GEMDigitizer/interface/GEMTrivialModel.h", 
             "SimMuon/GEMDigitizer/interface/ME0DigiPreRecoProducer.h", 
             "SimMuon/GEMDigitizer/interface/ME0DigiProducer.h", 
             "SimMuon/GEMDigitizer/interface/ME0PadDigiClusterProducer.h", 
@@ -1171,7 +1172,7 @@
         "created_at": 1562258446, 
         "number": 27445, 
         "state": "open", 
-        "updated_at": 1563433712
+        "updated_at": 1563461936
     }, 
     "27446": {
         "base_branch": "CMSSW_10_2_X", 
