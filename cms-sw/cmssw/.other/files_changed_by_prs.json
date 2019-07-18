@@ -2924,6 +2924,37 @@
         "state": "open", 
         "updated_at": 1563470305
     }, 
+    "27559": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimPPS/PPSPixelDigiProducer/BuildFile.xml", 
+            "SimPPS/PPSPixelDigiProducer/interface/RPixChargeShare.h", 
+            "SimPPS/PPSPixelDigiProducer/interface/RPixDetDigitizer.h", 
+            "SimPPS/PPSPixelDigiProducer/interface/RPixDummyROCSimulator.h", 
+            "SimPPS/PPSPixelDigiProducer/interface/RPixEnergyDepositUnit.h", 
+            "SimPPS/PPSPixelDigiProducer/interface/RPixHitChargeConverter.h", 
+            "SimPPS/PPSPixelDigiProducer/interface/RPixLinearChargeCollectionDrifter.h", 
+            "SimPPS/PPSPixelDigiProducer/interface/RPixLinearChargeDivider.h", 
+            "SimPPS/PPSPixelDigiProducer/interface/RPixPileUpSignals.h", 
+            "SimPPS/PPSPixelDigiProducer/interface/RPixSignalPoint.h", 
+            "SimPPS/PPSPixelDigiProducer/plugins/BuildFile.xml", 
+            "SimPPS/PPSPixelDigiProducer/plugins/PPSPixelDigiAnalyzer.cc", 
+            "SimPPS/PPSPixelDigiProducer/plugins/PPSPixelDigiProducer.cc", 
+            "SimPPS/PPSPixelDigiProducer/plugins/RPixDetDigitizer.cc", 
+            "SimPPS/PPSPixelDigiProducer/src/RPixChargeShare.cc", 
+            "SimPPS/PPSPixelDigiProducer/src/RPixDummyROCSimulator.cc", 
+            "SimPPS/PPSPixelDigiProducer/src/RPixHitChargeConverter.cc", 
+            "SimPPS/PPSPixelDigiProducer/src/RPixLinearChargeCollectionDrifter.cc", 
+            "SimPPS/PPSPixelDigiProducer/src/RPixLinearChargeDivider.cc", 
+            "SimPPS/PPSPixelDigiProducer/src/RPixPileUpSignals.cc", 
+            "SimPPS/PPSPixelDigiProducer/test/FromGun2DigiAnal_.py", 
+            "SimPPS/PPSPixelDigiProducer/test/testDigi3.py"
+        ], 
+        "created_at": 1563472360, 
+        "number": 27559, 
+        "state": "open", 
+        "updated_at": 1563472415
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
