@@ -2627,34 +2627,6 @@
         "state": "open", 
         "updated_at": 1563459215
     }, 
-    "27526": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoTauTag/RecoTau/interface/PFRecoTauChargedHadronPlugins.h", 
-            "RecoTauTag/RecoTau/interface/RecoTauBuilderPlugins.h", 
-            "RecoTauTag/RecoTau/interface/RecoTauConstructor.h", 
-            "RecoTauTag/RecoTau/interface/RecoTauPiZeroPlugins.h", 
-            "RecoTauTag/RecoTau/interface/RecoTauQualityCuts.h", 
-            "RecoTauTag/RecoTau/plugins/PFRecoTauChargedHadronFromGenericTrackPlugin.cc", 
-            "RecoTauTag/RecoTau/plugins/PFRecoTauChargedHadronFromPFCandidatePlugin.cc", 
-            "RecoTauTag/RecoTau/plugins/PFRecoTauChargedHadronProducer.cc", 
-            "RecoTauTag/RecoTau/plugins/PFRecoTauDiscriminationByIsolation.cc", 
-            "RecoTauTag/RecoTau/plugins/PFTauSelectorDefinition.h", 
-            "RecoTauTag/RecoTau/plugins/RecoTauBuilderCombinatoricPlugin.cc", 
-            "RecoTauTag/RecoTau/plugins/RecoTauBuilderConePlugin.cc", 
-            "RecoTauTag/RecoTau/plugins/RecoTauPiZeroProducer.cc", 
-            "RecoTauTag/RecoTau/plugins/RecoTauPiZeroStripPlugin.cc", 
-            "RecoTauTag/RecoTau/plugins/RecoTauPiZeroStripPlugin2.cc", 
-            "RecoTauTag/RecoTau/plugins/RecoTauPiZeroStripPlugin3.cc", 
-            "RecoTauTag/RecoTau/plugins/RecoTauPiZeroTrivialPlugin.cc", 
-            "RecoTauTag/RecoTau/src/RecoTauConstructor.cc", 
-            "RecoTauTag/RecoTau/src/RecoTauQualityCuts.cc"
-        ], 
-        "created_at": 1563215179, 
-        "number": 27526, 
-        "state": "open", 
-        "updated_at": 1563215239
-    }, 
     "27538": {
         "base_branch": "master", 
         "changed_files_names": [
