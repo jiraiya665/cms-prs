@@ -3037,6 +3037,31 @@
         "state": "open", 
         "updated_at": 1563535076
     }, 
+    "27565": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibTracker/SiStripESProducers/interface/SiStripQualityHelpers.h", 
+            "CalibTracker/SiStripESProducers/plugins/real/SiStripBadModuleFedErrESSource.cc", 
+            "CalibTracker/SiStripESProducers/python/SiStripBadModuleFedErrESSource_cfi.py", 
+            "CalibTracker/SiStripESProducers/src/SiStripQualityHelpers.cc", 
+            "CalibTracker/SiStripESProducers/test/fedBadChannelFromNoiseRun_cfg.py", 
+            "CalibTracker/SiStripESProducers/test/mergeBadChannel_cfg.py", 
+            "CalibTracker/SiStripQuality/plugins/BuildFile.xml", 
+            "CalibTracker/SiStripQuality/plugins/SiStripQualityStatistics.cc", 
+            "CalibTracker/SiStripQuality/plugins/SiStripQualityStatistics.h", 
+            "DQM/SiStripMonitorClient/plugins/BuildFile.xml", 
+            "DQM/SiStripMonitorClient/plugins/SiStripBadComponentInfo.cc", 
+            "DQM/SiStripMonitorClient/plugins/SiStripBadComponentInfo.h", 
+            "DQM/SiStripMonitorClient/python/SiStripClientConfig_Tier0_Cosmic_cff.py", 
+            "DQM/SiStripMonitorClient/python/SiStripClientConfig_Tier0_HeavyIons_cff.py", 
+            "DQM/SiStripMonitorClient/python/SiStripClientConfig_Tier0_cff.py", 
+            "DQM/SiStripMonitorClient/test/mergeBadChannel_Template_cfg.py"
+        ], 
+        "created_at": 1563535088, 
+        "number": 27565, 
+        "state": "open", 
+        "updated_at": 1563535117
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
