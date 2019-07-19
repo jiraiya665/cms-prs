@@ -2948,13 +2948,18 @@
     "27560": {
         "base_branch": "master", 
         "changed_files_names": [
+            "DQMOffline/EGamma/python/electronDataDiscovery.py", 
             "Validation/RecoEgamma/plugins/ElectronMcFakeValidator.cc", 
-            "Validation/RecoEgamma/plugins/ElectronMcSignalValidator.cc"
+            "Validation/RecoEgamma/plugins/ElectronMcSignalValidator.cc", 
+            "Validation/RecoEgamma/test/ElectronMcSignalValidation_gedGsfElectrons_cfg.py", 
+            "Validation/RecoEgamma/test/OvalFile", 
+            "Validation/RecoEgamma/test/electronValidationCheck_Env.py", 
+            "Validation/RecoEgamma/test/relval_gedGsfE.tcsh"
         ], 
         "created_at": 1563514937, 
         "number": 27560, 
         "state": "open", 
-        "updated_at": 1563514994
+        "updated_at": 1563516565
     }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
