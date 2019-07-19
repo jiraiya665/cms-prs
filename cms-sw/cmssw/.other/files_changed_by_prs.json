@@ -2710,16 +2710,6 @@
         "state": "open", 
         "updated_at": 1563304295
     }, 
-    "27544": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/ParticleFlowReco/interface/PFRecHit.h"
-        ], 
-        "created_at": 1563373147, 
-        "number": 27544, 
-        "state": "open", 
-        "updated_at": 1563373177
-    }, 
     "27545": {
         "base_branch": "master", 
         "changed_files_names": [
