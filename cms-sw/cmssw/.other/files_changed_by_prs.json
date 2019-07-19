@@ -3072,6 +3072,16 @@
         "state": "open", 
         "updated_at": 1563545364
     }, 
+    "27568": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "PhysicsTools/PatAlgos/plugins/PATIsolatedTrackProducer.cc"
+        ], 
+        "created_at": 1563554145, 
+        "number": 27568, 
+        "state": "open", 
+        "updated_at": 1563554175
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
