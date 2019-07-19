@@ -2943,6 +2943,16 @@
         "state": "open", 
         "updated_at": 1563559955
     }, 
+    "27570": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "DQMOffline/Configuration/python/DQMOffline_cff.py"
+        ], 
+        "created_at": 1563562970, 
+        "number": 27570, 
+        "state": "open", 
+        "updated_at": 1563563000
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
