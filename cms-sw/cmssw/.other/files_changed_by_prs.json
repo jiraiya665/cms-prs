@@ -2548,16 +2548,6 @@
         "state": "open", 
         "updated_at": 1563167457
     }, 
-    "27512": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoLocalMuon/GEMSegment/plugins/ME0SegAlgoRU.cc"
-        ], 
-        "created_at": 1562953975, 
-        "number": 27512, 
-        "state": "open", 
-        "updated_at": 1562954023
-    }, 
     "27516": {
         "base_branch": "master", 
         "changed_files_names": [
