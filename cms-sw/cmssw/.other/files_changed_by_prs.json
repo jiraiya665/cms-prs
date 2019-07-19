@@ -2627,16 +2627,6 @@
         "state": "open", 
         "updated_at": 1563459215
     }, 
-    "27525": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoParticleFlow/PFTracking/src/PFDisplacedVertexCandidateFinder.cc"
-        ], 
-        "created_at": 1563213122, 
-        "number": 27525, 
-        "state": "open", 
-        "updated_at": 1563213177
-    }, 
     "27526": {
         "base_branch": "master", 
         "changed_files_names": [
