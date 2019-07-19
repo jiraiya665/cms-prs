@@ -2548,19 +2548,6 @@
         "state": "open", 
         "updated_at": 1563167457
     }, 
-    "27511": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DetectorDescription/DDCMS/data/cms-test-ddhgcalwafer8-algorithm.xml", 
-            "DetectorDescription/DDCMS/data/testDDHGCalWafer8Algorithm.xml", 
-            "DetectorDescription/DDCMS/plugins/DDHGCalWafer8.cc", 
-            "DetectorDescription/DDCMS/test/python/testDDHGCalWafer8Algorithm.py"
-        ], 
-        "created_at": 1562946840, 
-        "number": 27511, 
-        "state": "open", 
-        "updated_at": 1562947503
-    }, 
     "27512": {
         "base_branch": "master", 
         "changed_files_names": [
