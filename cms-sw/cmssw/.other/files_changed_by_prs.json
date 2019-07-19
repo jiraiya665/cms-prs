@@ -2710,26 +2710,6 @@
         "state": "open", 
         "updated_at": 1563304295
     }, 
-    "27543": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimG4Core/Application/interface/OscarMTMasterThread.h", 
-            "SimG4Core/Application/interface/RunManagerMT.h", 
-            "SimG4Core/Application/src/OscarMTMasterThread.cc", 
-            "SimG4Core/Application/src/RunManager.cc", 
-            "SimG4Core/Application/src/RunManagerMT.cc", 
-            "SimG4Core/Application/src/RunManagerMTWorker.cc", 
-            "SimG4Core/Geometry/interface/DDDWorld.h", 
-            "SimG4Core/Geometry/interface/DDG4ProductionCuts.h", 
-            "SimG4Core/Geometry/src/DDDWorld.cc", 
-            "SimG4Core/Geometry/src/DDG4Builder.cc", 
-            "SimG4Core/Geometry/src/DDG4ProductionCuts.cc"
-        ], 
-        "created_at": 1563372146, 
-        "number": 27543, 
-        "state": "open", 
-        "updated_at": 1563373718
-    }, 
     "27544": {
         "base_branch": "master", 
         "changed_files_names": [
