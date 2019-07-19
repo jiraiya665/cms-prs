@@ -3024,6 +3024,19 @@
         "state": "open", 
         "updated_at": 1563519957
     }, 
+    "27564": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DetectorDescription/DDCMS/data/cms-test-cuttubsfrompoints-algorithm.xml", 
+            "DetectorDescription/DDCMS/data/testDDCutTubsFromPointsAlgorithm.xml", 
+            "DetectorDescription/DDCMS/plugins/DDCutTubsFromPoints.cc", 
+            "DetectorDescription/DDCMS/test/python/testDDCutTubsFromPointsAlgorithm.py"
+        ], 
+        "created_at": 1563535047, 
+        "number": 27564, 
+        "state": "open", 
+        "updated_at": 1563535076
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
