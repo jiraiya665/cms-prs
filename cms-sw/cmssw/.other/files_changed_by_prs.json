@@ -2575,16 +2575,6 @@
         "state": "open", 
         "updated_at": 1563304295
     }, 
-    "27545": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1Trigger/RPCTrigger/src/RPCTBMuon.cc"
-        ], 
-        "created_at": 1563374345, 
-        "number": 27545, 
-        "state": "open", 
-        "updated_at": 1563374397
-    }, 
     "27548": {
         "base_branch": "master", 
         "changed_files_names": [
