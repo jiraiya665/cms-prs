@@ -2682,17 +2682,6 @@
         "state": "open", 
         "updated_at": 1563472415
     }, 
-    "27561": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Validation/RecoEgamma/plugins/ElectronMcFakeValidator.cc", 
-            "Validation/RecoEgamma/plugins/ElectronMcSignalValidator.cc"
-        ], 
-        "created_at": 1563517384, 
-        "number": 27561, 
-        "state": "open", 
-        "updated_at": 1563518045
-    }, 
     "27562": {
         "base_branch": "master", 
         "changed_files_names": [
