@@ -2435,22 +2435,6 @@
         "state": "open", 
         "updated_at": 1562834887
     }, 
-    "27500": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "TrackingTools/GsfTracking/plugins/GsfMaterialEffectsESProducer.cc", 
-            "TrackingTools/GsfTracking/plugins/GsfMaterialEffectsESProducer.h", 
-            "TrackingTools/GsfTracking/plugins/GsfTrajectoryFitterESProducer.cc", 
-            "TrackingTools/GsfTracking/plugins/GsfTrajectoryFitterESProducer.h", 
-            "TrackingTools/GsfTracking/plugins/GsfTrajectorySmootherESProducer.cc", 
-            "TrackingTools/GsfTracking/plugins/GsfTrajectorySmootherESProducer.h", 
-            "TrackingTools/GsfTracking/plugins/module.cc"
-        ], 
-        "created_at": 1562854209, 
-        "number": 27500, 
-        "state": "open", 
-        "updated_at": 1562861631
-    }, 
     "27502": {
         "base_branch": "master", 
         "changed_files_names": [
