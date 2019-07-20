@@ -2601,19 +2601,6 @@
         "state": "open", 
         "updated_at": 1563439989
     }, 
-    "27551": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DetectorDescription/DDCMS/data/cms-tracker-2021.xml", 
-            "DetectorDescription/DDCMS/plugins/DDDefinitions2Objects.cc", 
-            "DetectorDescription/DDCMS/src/DDNamespace.cc", 
-            "DetectorDescription/DDCMS/test/python/testTracker2021Geometry.py"
-        ], 
-        "created_at": 1563440276, 
-        "number": 27551, 
-        "state": "open", 
-        "updated_at": 1563440645
-    }, 
     "27552": {
         "base_branch": "master", 
         "changed_files_names": [
