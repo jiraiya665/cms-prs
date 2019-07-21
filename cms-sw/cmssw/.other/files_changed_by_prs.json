@@ -2720,16 +2720,6 @@
         "state": "open", 
         "updated_at": 1563619710
     }, 
-    "27567": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CommonTools/Utils/interface/DynArray.h"
-        ], 
-        "created_at": 1563545308, 
-        "number": 27567, 
-        "state": "open", 
-        "updated_at": 1563545364
-    }, 
     "27568": {
         "base_branch": "master", 
         "changed_files_names": [
