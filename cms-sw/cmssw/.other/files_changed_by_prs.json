@@ -2740,18 +2740,6 @@
         "state": "open", 
         "updated_at": 1563563317
     }, 
-    "27572": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "PhysicsTools/MVAComputer/interface/BitSet.h", 
-            "PhysicsTools/MVAComputer/test/BuildFile.xml", 
-            "PhysicsTools/MVAComputer/test/testBitSet.cppunit.cc"
-        ], 
-        "created_at": 1563566182, 
-        "number": 27572, 
-        "state": "open", 
-        "updated_at": 1563566233
-    }, 
     "27574": {
         "base_branch": "master", 
         "changed_files_names": [
