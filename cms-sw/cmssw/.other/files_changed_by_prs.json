@@ -1722,6 +1722,20 @@
         "state": "open", 
         "updated_at": 1563806674
     }, 
+    "27585": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc", 
+            "Geometry/HGCalCommonData/src/HGCalWaferType.cc", 
+            "RecoLocalCalo/HGCalRecAlgos/interface/HGCalUncalibRecHitRecWeightsAlgo.h", 
+            "SimCalorimetry/HGCalSimProducers/interface/HGCDigitizerBase.h", 
+            "SimCalorimetry/HGCalSimProducers/src/HGCDigitizer.cc"
+        ], 
+        "created_at": 1563825907, 
+        "number": 27585, 
+        "state": "open", 
+        "updated_at": 1563825938
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
