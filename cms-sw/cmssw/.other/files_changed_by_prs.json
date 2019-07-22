@@ -284,16 +284,6 @@
         "state": "open", 
         "updated_at": 1557848242
     }, 
-    "25978": {
-        "base_branch": "CMSSW_10_4_X", 
-        "changed_files_names": [
-            "RecoLocalCalo/HGCalRecProducers/python/HGCalRecHit_cfi.py"
-        ], 
-        "created_at": 1550596114, 
-        "number": 25978, 
-        "state": "open", 
-        "updated_at": 1551127025
-    }, 
     "25994": {
         "base_branch": "master", 
         "changed_files_names": [
