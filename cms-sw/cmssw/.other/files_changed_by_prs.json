@@ -824,17 +824,6 @@
         "state": "open", 
         "updated_at": 1555086629
     }, 
-    "26441": {
-        "base_branch": "CMSSW_10_5_X", 
-        "changed_files_names": [
-            "DataFormats/HcalDigi/interface/QIE11DataFrame.h", 
-            "EventFilter/HcalRawToDigi/src/HcalUnpacker.cc"
-        ], 
-        "created_at": 1554992169, 
-        "number": 26441, 
-        "state": "open", 
-        "updated_at": 1555239587
-    }, 
     "26446": {
         "base_branch": "master", 
         "changed_files_names": [
