@@ -2806,6 +2806,18 @@
         "state": "open", 
         "updated_at": 1563806196
     }, 
+    "27584": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DetectorDescription/DDCMS/interface/DDNamespace.h", 
+            "DetectorDescription/DDCMS/plugins/DDDefinitions2Objects.cc", 
+            "DetectorDescription/DDCMS/src/DDNamespace.cc"
+        ], 
+        "created_at": 1563806631, 
+        "number": 27584, 
+        "state": "open", 
+        "updated_at": 1563806663
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
