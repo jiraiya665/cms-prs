@@ -1647,17 +1647,6 @@
         "state": "open", 
         "updated_at": 1563617013
     }, 
-    "27576": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/StandardSequences/python/HarvestingCosmics_cff.py", 
-            "DQMOffline/Configuration/python/DQMOfflineCosmics_SecondStep_cff.py"
-        ], 
-        "created_at": 1563617575, 
-        "number": 27576, 
-        "state": "open", 
-        "updated_at": 1563617606
-    }, 
     "27577": {
         "base_branch": "master", 
         "changed_files_names": [
