@@ -1485,18 +1485,6 @@
         "state": "open", 
         "updated_at": 1563439989
     }, 
-    "27552": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoTauTag/RecoTau/plugins/PFRecoTauChargedHadronFromGenericTrackPlugin.cc", 
-            "RecoTauTag/RecoTau/plugins/PFRecoTauDiscriminationAgainstMuon2.cc", 
-            "RecoTauTag/RecoTau/plugins/PFRecoTauDiscriminationAgainstMuonSimple.cc"
-        ], 
-        "created_at": 1563455693, 
-        "number": 27552, 
-        "state": "open", 
-        "updated_at": 1563535835
-    }, 
     "27555": {
         "base_branch": "master", 
         "changed_files_names": [
