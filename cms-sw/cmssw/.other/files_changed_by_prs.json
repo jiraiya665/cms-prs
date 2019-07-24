@@ -1744,6 +1744,21 @@
         "state": "open", 
         "updated_at": 1563967460
     }, 
+    "27596": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoPixelVertexing/PixelLowPtUtilities/interface/ClusterShapeHitFilterESProducer.h", 
+            "RecoPixelVertexing/PixelLowPtUtilities/plugins/ClusterShapeHitFilterESProducer.cc", 
+            "RecoPixelVertexing/PixelLowPtUtilities/plugins/TrackCleanerESProducer.cc", 
+            "RecoPixelVertexing/PixelLowPtUtilities/plugins/modules.cc", 
+            "RecoPixelVertexing/PixelLowPtUtilities/src/ClusterShapeHitFilterESProducer.cc", 
+            "RecoTracker/Record/interface/CkfComponentsRecord.h"
+        ], 
+        "created_at": 1563973282, 
+        "number": 27596, 
+        "state": "open", 
+        "updated_at": 1563973336
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
