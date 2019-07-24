@@ -1680,6 +1680,8 @@
             "SimG4Core/Application/interface/CustomUIsessionThreadPrefix.h", 
             "SimG4Core/Application/interface/CustomUIsessionToFile.h", 
             "SimG4Core/Application/interface/G4RegionReporter.h", 
+            "SimG4Core/Application/interface/OscarProducer.h", 
+            "SimG4Core/Application/src/OscarMTMasterThread.cc", 
             "SimG4Core/Application/src/RunManager.cc", 
             "SimG4Core/Application/src/RunManagerMT.cc", 
             "SimG4Core/Application/src/RunManagerMTWorker.cc", 
@@ -1702,7 +1704,7 @@
         "created_at": 1563952610, 
         "number": 27592, 
         "state": "open", 
-        "updated_at": 1563954752
+        "updated_at": 1563957318
     }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
