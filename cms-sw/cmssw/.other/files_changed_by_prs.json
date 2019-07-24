@@ -1674,6 +1674,36 @@
         "state": "open", 
         "updated_at": 1563944678
     }, 
+    "27592": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimG4Core/Application/interface/CustomUIsessionThreadPrefix.h", 
+            "SimG4Core/Application/interface/CustomUIsessionToFile.h", 
+            "SimG4Core/Application/interface/G4RegionReporter.h", 
+            "SimG4Core/Application/src/RunManager.cc", 
+            "SimG4Core/Application/src/RunManagerMT.cc", 
+            "SimG4Core/Application/src/RunManagerMTWorker.cc", 
+            "SimG4Core/Geometry/interface/CMSG4CheckOverlap.h", 
+            "SimG4Core/Geometry/interface/CMSG4RegionReporter.h", 
+            "SimG4Core/Geometry/interface/CustomUIsession.h", 
+            "SimG4Core/Geometry/interface/G4CheckOverlap.h", 
+            "SimG4Core/Geometry/src/CMSG4CheckOverlap.cc", 
+            "SimG4Core/Geometry/src/CMSG4RegionReporter.cc", 
+            "SimG4Core/Geometry/src/CustomUIsession.cc", 
+            "SimG4Core/Geometry/src/G4CheckOverlap.cc", 
+            "SimG4Core/PrintGeomInfo/test/python/g4DumpGeometry_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/g4OverlapCheckCalo_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/g4OverlapCheckEcal_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/g4OverlapCheckHGCal_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/g4OverlapCheckMuon_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/g4OverlapCheckTracker_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/g4OverlapCheck_cfg.py"
+        ], 
+        "created_at": 1563952610, 
+        "number": 27592, 
+        "state": "open", 
+        "updated_at": 1563952639
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
