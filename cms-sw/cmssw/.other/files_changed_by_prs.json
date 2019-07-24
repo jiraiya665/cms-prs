@@ -1513,16 +1513,6 @@
         "state": "open", 
         "updated_at": 1563913117
     }, 
-    "27575": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py"
-        ], 
-        "created_at": 1563616965, 
-        "number": 27575, 
-        "state": "open", 
-        "updated_at": 1563617013
-    }, 
     "27582": {
         "base_branch": "master", 
         "changed_files_names": [
