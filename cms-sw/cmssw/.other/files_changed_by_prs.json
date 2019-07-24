@@ -1427,20 +1427,6 @@
         "state": "open", 
         "updated_at": 1563460010
     }, 
-    "27557": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HGCalCommonData/src/HGCalGeomTools.cc", 
-            "Geometry/HGCalCommonData/test/testHGCGeometry_cfg.py", 
-            "Geometry/HGCalCommonData/test/testHGCalNumbering_cfg.py", 
-            "Geometry/HGCalCommonData/test/testHGCalParameters_cfg.py", 
-            "Geometry/HGCalCommonData/test/testHGCalWafer_cfg.py"
-        ], 
-        "created_at": 1563468198, 
-        "number": 27557, 
-        "state": "open", 
-        "updated_at": 1563710646
-    }, 
     "27559": {
         "base_branch": "master", 
         "changed_files_names": [
