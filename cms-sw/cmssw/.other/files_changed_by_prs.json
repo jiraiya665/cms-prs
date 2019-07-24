@@ -1759,7 +1759,7 @@
         "created_at": 1563973282, 
         "number": 27596, 
         "state": "open", 
-        "updated_at": 1563985815
+        "updated_at": 1563985873
     }, 
     "27597": {
         "base_branch": "master", 
