@@ -1692,6 +1692,16 @@
         "state": "open", 
         "updated_at": 1563912342
     }, 
+    "27591": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "DQM/CTPPS/plugins/CTPPSDiamondDQMSource.cc"
+        ], 
+        "created_at": 1563944610, 
+        "number": 27591, 
+        "state": "open", 
+        "updated_at": 1563944678
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
