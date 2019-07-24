@@ -1821,6 +1821,18 @@
         "state": "open", 
         "updated_at": 1563991895
     }, 
+    "27603": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoLocalTracker/SiStripRecHitConverter/plugins/SealModules.cc", 
+            "RecoLocalTracker/SiStripRecHitConverter/plugins/StripCPEESProducer.cc", 
+            "RecoLocalTracker/SiStripRecHitConverter/plugins/StripCPEESProducer.h"
+        ], 
+        "created_at": 1563993810, 
+        "number": 27603, 
+        "state": "open", 
+        "updated_at": 1563993934
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
