@@ -1536,21 +1536,6 @@
         "state": "open", 
         "updated_at": 1564037513
     }, 
-    "27588": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DetectorDescription/DDCMS/interface/DDCompactView.h", 
-            "DetectorDescription/DDCMS/interface/Filter.h", 
-            "DetectorDescription/DDCMS/src/Filter.cc", 
-            "SimG4Core/Geometry/interface/DDG4ProductionCuts.h", 
-            "SimG4Core/Geometry/src/DDDWorld.cc", 
-            "SimG4Core/Geometry/src/DDG4ProductionCuts.cc"
-        ], 
-        "created_at": 1563887089, 
-        "number": 27588, 
-        "state": "open", 
-        "updated_at": 1563887354
-    }, 
     "27589": {
         "base_branch": "master", 
         "changed_files_names": [
