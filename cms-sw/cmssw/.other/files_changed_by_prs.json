@@ -1184,8 +1184,9 @@
     "27483": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
-            "Configuration/StandardSequences/python/Validation_cff.py", 
             "Validation/Configuration/python/autoValidation.py", 
+            "Validation/Configuration/python/ecalSimValid_cff.py", 
+            "Validation/Configuration/python/globalValidation_cff.py", 
             "Validation/EcalDigis/src/EcalSelectiveReadoutValidation.cc", 
             "Validation/EcalRecHits/interface/EcalRecHitsValidation.h", 
             "Validation/EcalRecHits/python/ecalRecHitsValidationSequence_cff.py", 
@@ -1195,7 +1196,7 @@
         "created_at": 1562787094, 
         "number": 27483, 
         "state": "open", 
-        "updated_at": 1563452868
+        "updated_at": 1564083904
     }, 
     "27485": {
         "base_branch": "master", 
