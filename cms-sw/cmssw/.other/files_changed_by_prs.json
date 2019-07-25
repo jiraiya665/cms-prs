@@ -1897,6 +1897,25 @@
         "state": "open", 
         "updated_at": 1564059577
     }, 
+    "27612": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimG4CMS/Calo/plugins/BuildFile.xml", 
+            "SimG4CMS/Calo/plugins/CaloSimHitAnalysis.cc", 
+            "SimG4CMS/Calo/plugins/CaloSimHitStudy.cc", 
+            "SimG4CMS/Calo/plugins/EcalSimHitStudy.cc", 
+            "SimG4CMS/Calo/plugins/HFPMTHitAnalyzer.cc", 
+            "SimG4CMS/Calo/plugins/HOSimHitStudy.cc", 
+            "SimG4CMS/Calo/plugins/HcalSimHitDump.cc", 
+            "SimG4CMS/Calo/plugins/HcalTestNumberingTest.cc", 
+            "SimG4CMS/Calo/plugins/HitParentTest.cc", 
+            "SimG4CMS/Calo/test/BuildFile.xml"
+        ], 
+        "created_at": 1564061278, 
+        "number": 27612, 
+        "state": "open", 
+        "updated_at": 1564061305
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
