@@ -1675,6 +1675,7 @@
             "HLTrigger/Configuration/python/HLT_HIon_cff.py", 
             "HLTrigger/Configuration/python/HLT_PIon_cff.py", 
             "HLTrigger/Configuration/python/HLT_PRef_cff.py", 
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
             "HLTrigger/Configuration/test/OnLine_HLT_FULL.py", 
             "HLTrigger/Configuration/test/OnLine_HLT_Fake.py", 
             "HLTrigger/Configuration/test/OnLine_HLT_Fake1.py", 
@@ -1687,7 +1688,7 @@
         "created_at": 1563967333, 
         "number": 27595, 
         "state": "open", 
-        "updated_at": 1564037356
+        "updated_at": 1564037539
     }, 
     "27596": {
         "base_branch": "master", 
