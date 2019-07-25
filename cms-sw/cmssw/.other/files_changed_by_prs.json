@@ -1929,6 +1929,20 @@
         "state": "open", 
         "updated_at": 1564080460
     }, 
+    "27616": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimCalorimetry/HGCalSimProducers/interface/HGCDigitizerBase.h", 
+            "SimCalorimetry/HGCalSimProducers/interface/HGCFEElectronics.h", 
+            "SimCalorimetry/HGCalSimProducers/src/HGCDigitizer.cc", 
+            "SimCalorimetry/HGCalSimProducers/src/HGCDigitizerBase.cc", 
+            "SimCalorimetry/HGCalSimProducers/src/HGCFEElectronics.cc"
+        ], 
+        "created_at": 1564081278, 
+        "number": 27616, 
+        "state": "open", 
+        "updated_at": 1564081311
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
