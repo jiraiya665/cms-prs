@@ -1912,12 +1912,13 @@
             "RecoLocalTracker/SiPixelRecHits/plugins/PixelCPEClusterRepairESProducer.cc", 
             "RecoLocalTracker/SiPixelRecHits/plugins/PixelCPEGenericESProducer.cc", 
             "RecoLocalTracker/SiPixelRecHits/plugins/PixelCPETemplateRecoESProducer.cc", 
-            "RecoLocalTracker/SiPixelRecHits/plugins/SealModules.cc"
+            "RecoLocalTracker/SiPixelRecHits/plugins/SealModules.cc", 
+            "RecoLocalTracker/SiPixelRecHits/src/SealModules.cc"
         ], 
         "created_at": 1564072711, 
         "number": 27614, 
         "state": "open", 
-        "updated_at": 1564080235
+        "updated_at": 1564083028
     }, 
     "27615": {
         "base_branch": "master", 
