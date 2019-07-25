@@ -1471,19 +1471,6 @@
         "state": "open", 
         "updated_at": 1563563317
     }, 
-    "27574": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DetectorDescription/DDCMS/interface/DDFilteredView.h", 
-            "DetectorDescription/DDCMS/interface/DDShapes.h", 
-            "DetectorDescription/DDCMS/src/DDFilteredView.cc", 
-            "DetectorDescription/DDCMS/src/DDShapes.cc"
-        ], 
-        "created_at": 1563569964, 
-        "number": 27574, 
-        "state": "open", 
-        "updated_at": 1563913117
-    }, 
     "27582": {
         "base_branch": "master", 
         "changed_files_names": [
