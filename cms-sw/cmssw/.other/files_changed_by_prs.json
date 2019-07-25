@@ -1846,6 +1846,26 @@
         "state": "open", 
         "updated_at": 1564055295
     }, 
+    "27609": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondFormats/GeometryObjects/interface/HcalSimParameters.h", 
+            "CondFormats/GeometryObjects/src/T_EventSetup_HcalParameters.cc", 
+            "CondFormats/GeometryObjects/src/classes.h", 
+            "CondFormats/GeometryObjects/src/classes_def.xml", 
+            "CondFormats/GeometryObjects/test/testSerializationGeometryObjects.cpp", 
+            "Geometry/HcalCommonData/interface/HcalSimParametersFromDD.h", 
+            "Geometry/HcalCommonData/plugins/HcalSimParametersESModule.cc", 
+            "Geometry/HcalCommonData/python/hcalDDConstants_cff.py", 
+            "Geometry/HcalCommonData/src/HcalSimParametersFromDD.cc", 
+            "Geometry/HcalCommonData/test/HcalParametersAnalyzer.cc", 
+            "Geometry/HcalCommonData/test/python/runHcalParametersFromDDAnalyzer_cfg.py"
+        ], 
+        "created_at": 1564057180, 
+        "number": 27609, 
+        "state": "open", 
+        "updated_at": 1564057232
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
