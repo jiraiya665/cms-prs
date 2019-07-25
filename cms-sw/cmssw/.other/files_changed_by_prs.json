@@ -1678,16 +1678,6 @@
         "state": "open", 
         "updated_at": 1563985873
     }, 
-    "27597": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimG4Core/Geometry/src/DDG4ProductionCuts.cc"
-        ], 
-        "created_at": 1563976419, 
-        "number": 27597, 
-        "state": "open", 
-        "updated_at": 1564039567
-    }, 
     "27598": {
         "base_branch": "master", 
         "changed_files_names": [
