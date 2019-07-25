@@ -1853,6 +1853,19 @@
         "state": "open", 
         "updated_at": 1564002058
     }, 
+    "27606": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "Configuration/AlCa/python/autoCond.py", 
+            "Configuration/Eras/python/Era_Run2_2016_cff.py", 
+            "Configuration/Eras/python/Modifier_pixel_2016_cff.py", 
+            "SimGeneral/MixingModule/python/SiPixelSimParameters_cfi.py"
+        ], 
+        "created_at": 1564032786, 
+        "number": 27606, 
+        "state": "open", 
+        "updated_at": 1564032815
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
