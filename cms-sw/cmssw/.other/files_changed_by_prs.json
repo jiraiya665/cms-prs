@@ -1805,6 +1805,7 @@
     "27614": {
         "base_branch": "master", 
         "changed_files_names": [
+            "RecoLocalTracker/Records/interface/TkPixelCPERecord.h", 
             "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEClusterRepairESProducer.h", 
             "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEGenericESProducer.h", 
             "RecoLocalTracker/SiPixelRecHits/interface/PixelCPETemplateRecoESProducer.h", 
@@ -1817,7 +1818,7 @@
         "created_at": 1564072711, 
         "number": 27614, 
         "state": "open", 
-        "updated_at": 1564136433
+        "updated_at": 1564151021
     }, 
     "27615": {
         "base_branch": "master", 
