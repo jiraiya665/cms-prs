@@ -1822,14 +1822,12 @@
         "changed_files_names": [
             "SimCalorimetry/HGCalSimProducers/interface/HGCDigitizerBase.h", 
             "SimCalorimetry/HGCalSimProducers/interface/HGCFEElectronics.h", 
-            "SimCalorimetry/HGCalSimProducers/src/HGCDigitizer.cc", 
-            "SimCalorimetry/HGCalSimProducers/src/HGCDigitizerBase.cc", 
-            "SimCalorimetry/HGCalSimProducers/src/HGCFEElectronics.cc"
+            "SimCalorimetry/HGCalSimProducers/src/HGCDigitizerBase.cc"
         ], 
         "created_at": 1564081278, 
         "number": 27616, 
         "state": "open", 
-        "updated_at": 1564081331
+        "updated_at": 1564154218
     }, 
     "27617": {
         "base_branch": "master", 
