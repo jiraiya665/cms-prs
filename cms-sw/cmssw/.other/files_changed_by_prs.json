@@ -1492,16 +1492,6 @@
         "state": "open", 
         "updated_at": 1563989054
     }, 
-    "27586": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/CTPPS/plugins/CTPPSDiamondDQMSource.cc"
-        ], 
-        "created_at": 1563877723, 
-        "number": 27586, 
-        "state": "open", 
-        "updated_at": 1563877779
-    }, 
     "27587": {
         "base_branch": "master", 
         "changed_files_names": [
