@@ -1878,6 +1878,18 @@
         "state": "open", 
         "updated_at": 1564082771
     }, 
+    "27618": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalGeometry/test/HGCGeomAnalyzer.cc", 
+            "Geometry/HGCalGeometry/test/python/drawGeomPlots.py", 
+            "Geometry/HGCalGeometry/test/python/hgcGeomAnalyzer_cfg.py"
+        ], 
+        "created_at": 1564125092, 
+        "number": 27618, 
+        "state": "open", 
+        "updated_at": 1564125149
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
