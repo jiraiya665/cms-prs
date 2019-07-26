@@ -1492,19 +1492,6 @@
         "state": "open", 
         "updated_at": 1563989054
     }, 
-    "27587": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DetectorDescription/DDCMS/data/cms-test-pixbarlayerupgrade-algorithm.xml", 
-            "DetectorDescription/DDCMS/data/testDDPixBarLayerUpgradeAlgorithm.xml", 
-            "DetectorDescription/DDCMS/plugins/DDPixBarLayerUpgradeAlgo.cc", 
-            "DetectorDescription/DDCMS/test/python/testDDPixBarLayerUpgradeAlgorithm.py"
-        ], 
-        "created_at": 1563884893, 
-        "number": 27587, 
-        "state": "open", 
-        "updated_at": 1564037513
-    }, 
     "27589": {
         "base_branch": "master", 
         "changed_files_names": [
