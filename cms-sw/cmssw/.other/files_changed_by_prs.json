@@ -1601,19 +1601,6 @@
         "state": "open", 
         "updated_at": 1563985873
     }, 
-    "27598": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimG4Core/Geometry/interface/SensitiveDetectorCatalog.h", 
-            "SimG4Core/Geometry/src/SensitiveDetectorCatalog.cc", 
-            "SimG4Core/SensitiveDetector/src/AttachSD.cc", 
-            "SimG4Core/SensitiveDetector/src/SensitiveDetector.cc"
-        ], 
-        "created_at": 1563978938, 
-        "number": 27598, 
-        "state": "open", 
-        "updated_at": 1563978987
-    }, 
     "27600": {
         "base_branch": "master", 
         "changed_files_names": [
