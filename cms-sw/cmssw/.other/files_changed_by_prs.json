@@ -1890,6 +1890,18 @@
         "state": "open", 
         "updated_at": 1564125149
     }, 
+    "27619": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQMOffline/Configuration/python/DQMOffline_SecondStep_cff.py", 
+            "DQMOffline/Configuration/python/DQMOffline_cff.py", 
+            "DQMOffline/Configuration/python/autoDQM.py"
+        ], 
+        "created_at": 1564136581, 
+        "number": 27619, 
+        "state": "open", 
+        "updated_at": 1564136627
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
