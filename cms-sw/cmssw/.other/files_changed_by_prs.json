@@ -1766,16 +1766,6 @@
         "state": "open", 
         "updated_at": 1564163221
     }, 
-    "27615": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoLocalTracker/Phase2TrackerRecHits/plugins/Phase2StripCPEESProducer.cc"
-        ], 
-        "created_at": 1564080429, 
-        "number": 27615, 
-        "state": "open", 
-        "updated_at": 1564080460
-    }, 
     "27616": {
         "base_branch": "master", 
         "changed_files_names": [
