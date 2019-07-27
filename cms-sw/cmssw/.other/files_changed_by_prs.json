@@ -1585,18 +1585,6 @@
         "state": "open", 
         "updated_at": 1563982289
     }, 
-    "27602": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoMuon/DetLayers/plugins/MuonDetLayerGeometryESProducer.cc", 
-            "RecoMuon/DetLayers/plugins/MuonDetLayerGeometryESProducer.h", 
-            "RecoMuon/DetLayers/plugins/SealModule.cc"
-        ], 
-        "created_at": 1563991843, 
-        "number": 27602, 
-        "state": "open", 
-        "updated_at": 1563991895
-    }, 
     "27604": {
         "base_branch": "master", 
         "changed_files_names": [
