@@ -1842,8 +1842,7 @@
     "27622": {
         "base_branch": "master", 
         "changed_files_names": [
-            "Geometry/HGCalCommonData/plugins/DDHGCalEEAlgo.cc", 
-            "Geometry/HGCalCommonData/plugins/DDHGCalHEAlgo.cc", 
+            "Geometry/HGCalCommonData/src/HGCalGeomParameters.cc", 
             "Geometry/HGCalCommonData/test/dumpHGCalGeometry_cfg.py", 
             "Validation/HGCalValidation/test/runHFNoseDigiStudy_cfg.py", 
             "Validation/HGCalValidation/test/runHFNoseRecHitStudy_cfg.py", 
@@ -1864,7 +1863,7 @@
         "created_at": 1564167631, 
         "number": 27622, 
         "state": "open", 
-        "updated_at": 1564167689
+        "updated_at": 1564236948
     }, 
     "27623": {
         "base_branch": "master", 
