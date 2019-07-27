@@ -1552,16 +1552,6 @@
         "state": "open", 
         "updated_at": 1563982289
     }, 
-    "27604": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/AlCa/python/autoCond.py"
-        ], 
-        "created_at": 1564001942, 
-        "number": 27604, 
-        "state": "open", 
-        "updated_at": 1564001992
-    }, 
     "27605": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
