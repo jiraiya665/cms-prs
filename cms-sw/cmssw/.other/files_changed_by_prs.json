@@ -1671,7 +1671,7 @@
     "27609": {
         "base_branch": "master", 
         "changed_files_names": [
-            "CondFormats/GeometryObjects/interface/HcalSimParameters.h", 
+            "CondFormats/GeometryObjects/interface/HcalSimulationParameters.h", 
             "CondFormats/GeometryObjects/src/T_EventSetup_HcalParameters.cc", 
             "CondFormats/GeometryObjects/src/classes.h", 
             "CondFormats/GeometryObjects/src/classes_def.xml", 
@@ -1686,7 +1686,7 @@
         "created_at": 1564057180, 
         "number": 27609, 
         "state": "open", 
-        "updated_at": 1564057824
+        "updated_at": 1564237675
     }, 
     "27610": {
         "base_branch": "master", 
