@@ -1741,29 +1741,6 @@
         "state": "open", 
         "updated_at": 1564319656
     }, 
-    "27623": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Alignment/OfflineValidation/python/TkAlAllInOneTool/betterConfigParser.py", 
-            "Alignment/OfflineValidation/python/TkAlAllInOneTool/configTemplates.py", 
-            "Alignment/OfflineValidation/python/TkAlAllInOneTool/genericValidation.py", 
-            "Alignment/OfflineValidation/python/TkAlAllInOneTool/geometryComparison.py", 
-            "Alignment/OfflineValidation/python/TkAlAllInOneTool/offlineValidation.py", 
-            "Alignment/OfflineValidation/python/TkAlAllInOneTool/offlineValidationTemplates.py", 
-            "Alignment/OfflineValidation/python/TkAlAllInOneTool/preexistingValidation.py", 
-            "Alignment/OfflineValidation/python/TkAlAllInOneTool/primaryVertexValidation.py", 
-            "Alignment/OfflineValidation/python/TkAlAllInOneTool/primaryVertexValidationTemplates.py", 
-            "Alignment/OfflineValidation/python/TkAlAllInOneTool/trackSplittingValidation.py", 
-            "Alignment/OfflineValidation/python/TkAlAllInOneTool/trackSplittingValidationTemplates.py", 
-            "Alignment/OfflineValidation/python/TkAlAllInOneTool/zMuMuValidation.py", 
-            "Alignment/OfflineValidation/python/TkAlAllInOneTool/zMuMuValidationTemplates.py", 
-            "Alignment/OfflineValidation/scripts/validateAlignments.py"
-        ], 
-        "created_at": 1564179995, 
-        "number": 27623, 
-        "state": "open", 
-        "updated_at": 1564180049
-    }, 
     "27624": {
         "base_branch": "master", 
         "changed_files_names": [
