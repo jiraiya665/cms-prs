@@ -1575,20 +1575,6 @@
         "state": "open", 
         "updated_at": 1564032815
     }, 
-    "27607": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimGeneral/MixingModule/python/fullMixCustomize_cff.py", 
-            "Validation/MtdValidation/plugins/BtlRecHitsValidation.cc", 
-            "Validation/MtdValidation/plugins/BtlSimHitsValidation.cc", 
-            "Validation/MtdValidation/plugins/BuildFile.xml", 
-            "Validation/MtdValidation/plugins/EtlSimHitsValidation.cc"
-        ], 
-        "created_at": 1564048700, 
-        "number": 27607, 
-        "state": "open", 
-        "updated_at": 1564049938
-    }, 
     "27608": {
         "base_branch": "master", 
         "changed_files_names": [
