@@ -1953,6 +1953,25 @@
         "state": "open", 
         "updated_at": 1564410272
     }, 
+    "27634": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/HGCalReco/interface/Trackster.h", 
+            "DataFormats/HGCalReco/src/classes_def.xml", 
+            "RecoHGCal/TICL/interface/GlobalCache.h", 
+            "RecoHGCal/TICL/interface/PatternRecognitionAlgoBase.h", 
+            "RecoHGCal/TICL/plugins/BuildFile.xml", 
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyCA.cc", 
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyCA.h", 
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyMultiClusters.h", 
+            "RecoHGCal/TICL/plugins/TrackstersProducer.cc", 
+            "RecoHGCal/TICL/python/ticl_iterations.py"
+        ], 
+        "created_at": 1564415145, 
+        "number": 27634, 
+        "state": "open", 
+        "updated_at": 1564416536
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
