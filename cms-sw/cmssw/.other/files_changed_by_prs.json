@@ -1716,21 +1716,6 @@
         "state": "open", 
         "updated_at": 1564175613
     }, 
-    "27617": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoLocalMuon/RPCRecHit/src/CSCObjectMap.cc", 
-            "RecoLocalMuon/RPCRecHit/src/CSCObjectMap.h", 
-            "RecoLocalMuon/RPCRecHit/src/CSCObjectMapESProducer.cc", 
-            "RecoLocalMuon/RPCRecHit/src/DTObjectMap.cc", 
-            "RecoLocalMuon/RPCRecHit/src/DTObjectMap.h", 
-            "RecoLocalMuon/RPCRecHit/src/DTObjectMapESProducer.cc"
-        ], 
-        "created_at": 1564082716, 
-        "number": 27617, 
-        "state": "open", 
-        "updated_at": 1564245983
-    }, 
     "27619": {
         "base_branch": "master", 
         "changed_files_names": [
