@@ -1716,20 +1716,6 @@
         "state": "open", 
         "updated_at": 1564175613
     }, 
-    "27619": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/CTPPS/plugins/CTPPSDiamondDQMSource.cc", 
-            "DQM/CTPPS/python/ctppsDQM_cff.py", 
-            "DQMOffline/Configuration/python/DQMOffline_SecondStep_cff.py", 
-            "DQMOffline/Configuration/python/DQMOffline_cff.py", 
-            "DQMOffline/Configuration/python/autoDQM.py"
-        ], 
-        "created_at": 1564136581, 
-        "number": 27619, 
-        "state": "open", 
-        "updated_at": 1564312541
-    }, 
     "27620": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
