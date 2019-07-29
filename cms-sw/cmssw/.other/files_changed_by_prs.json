@@ -1879,6 +1879,21 @@
         "state": "open", 
         "updated_at": 1564361694
     }, 
+    "27626": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "JetMETCorrections/FFTJetModules/interface/FFTJetESParameterParser.h", 
+            "JetMETCorrections/FFTJetModules/plugins/FFTJetCorrectorDBReader.cc", 
+            "JetMETCorrections/FFTJetModules/plugins/FFTJetLookupTableESProducer.cc", 
+            "JetMETCorrections/FFTJetObjects/interface/AbsFFTJetScaleCalculator.h", 
+            "JetMETCorrections/FFTJetObjects/interface/FFTJetScaleCalculators.h", 
+            "JetMETCorrections/FFTJetObjects/src/loadFFTJetInterpolationTable.cc"
+        ], 
+        "created_at": 1564361145, 
+        "number": 27626, 
+        "state": "open", 
+        "updated_at": 1564361198
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
