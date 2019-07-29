@@ -384,16 +384,6 @@
         "state": "open", 
         "updated_at": 1554292760
     }, 
-    "26379": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/Modules/test/testBunchCrossingFilter.py"
-        ], 
-        "created_at": 1554639923, 
-        "number": 26379, 
-        "state": "open", 
-        "updated_at": 1557848257
-    }, 
     "26402": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
