@@ -1568,13 +1568,14 @@
         "changed_files_names": [
             "Configuration/AlCa/python/autoCond.py", 
             "Configuration/Eras/python/Era_Run2_2016_cff.py", 
+            "Configuration/Eras/python/Era_Run2_2017_cff.py", 
             "Configuration/Eras/python/Modifier_pixel_2016_cff.py", 
             "SimGeneral/MixingModule/python/SiPixelSimParameters_cfi.py"
         ], 
         "created_at": 1564032786, 
         "number": 27606, 
         "state": "open", 
-        "updated_at": 1564032815
+        "updated_at": 1564417208
     }, 
     "27608": {
         "base_branch": "master", 
