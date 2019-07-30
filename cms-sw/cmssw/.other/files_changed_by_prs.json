@@ -1708,32 +1708,6 @@
         "state": "open", 
         "updated_at": 1564233741
     }, 
-    "27622": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HGCalCommonData/src/HGCalGeomParameters.cc", 
-            "Geometry/HGCalCommonData/test/dumpHGCalGeometry_cfg.py", 
-            "Validation/HGCalValidation/test/runHFNoseDigiStudy_cfg.py", 
-            "Validation/HGCalValidation/test/runHFNoseRecHitStudy_cfg.py", 
-            "Validation/HGCalValidation/test/runHFNoseSimHitStudy_cfg.py", 
-            "Validation/HGCalValidation/test/runHGCGeomCheck_cfg.py", 
-            "Validation/HGCalValidation/test/runHGCHitAnalyzer_cfg.py", 
-            "Validation/HGCalValidation/test/runHGCalDigiStudy_cfg.py", 
-            "Validation/HGCalValidation/test/runHGCalHitCalibration_cfg.py", 
-            "Validation/HGCalValidation/test/runHGCalRecHitStudy_cfg.py", 
-            "Validation/HGCalValidation/test/runHGCalSimHitStudy_cfg.py", 
-            "Validation/HGCalValidation/test/runHGCalWaferStudy_cfg.py", 
-            "Validation/HGCalValidation/test/testHGCalBHValid_cfg.py", 
-            "Validation/HGCalValidation/test/testHGCalSimHitStudy_cfg.py", 
-            "Validation/HGCalValidation/test/testHGCalSimWatcherV10_cfg.py", 
-            "Validation/HGCalValidation/test/testHGCalSimWatcherV8_cfg.py", 
-            "Validation/HGCalValidation/test/testHGCalSimWatcherV9_cfg.py"
-        ], 
-        "created_at": 1564167631, 
-        "number": 27622, 
-        "state": "open", 
-        "updated_at": 1564319656
-    }, 
     "27624": {
         "base_branch": "master", 
         "changed_files_names": [
