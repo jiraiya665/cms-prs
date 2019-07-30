@@ -1350,30 +1350,6 @@
         "state": "open", 
         "updated_at": 1563931478
     }, 
-    "27555": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/Eras/python/Era_Phase2C9_cff.py", 
-            "Configuration/Eras/python/Era_Phase2C9_timing_cff.py", 
-            "Configuration/Eras/python/Era_Phase2C9_timing_layer_bar_cff.py", 
-            "Configuration/Eras/python/Modifier_phase2_hgcalV11_cff.py", 
-            "Configuration/Geometry/README.md", 
-            "Configuration/Geometry/python/GeometryExtended2026D46Reco_cff.py", 
-            "Configuration/Geometry/python/GeometryExtended2026D46_cff.py", 
-            "Configuration/Geometry/python/dict2026Geometry.py", 
-            "Configuration/PyReleaseValidation/python/relval_2026.py", 
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
-            "Configuration/PyReleaseValidation/scripts/runTheMatrix.py", 
-            "Configuration/StandardSequences/python/Eras.py", 
-            "Configuration/StandardSequences/python/GeometryConf.py", 
-            "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D46XML_cfi.py", 
-            "L1Trigger/Configuration/python/SimL1Emulator_cff.py"
-        ], 
-        "created_at": 1563459897, 
-        "number": 27555, 
-        "state": "open", 
-        "updated_at": 1563460010
-    }, 
     "27559": {
         "base_branch": "master", 
         "changed_files_names": [
