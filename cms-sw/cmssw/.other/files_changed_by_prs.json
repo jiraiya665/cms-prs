@@ -1687,12 +1687,13 @@
         "changed_files_names": [
             "SimCalorimetry/HGCalSimProducers/interface/HGCDigitizerBase.h", 
             "SimCalorimetry/HGCalSimProducers/interface/HGCFEElectronics.h", 
-            "SimCalorimetry/HGCalSimProducers/src/HGCDigitizerBase.cc"
+            "SimCalorimetry/HGCalSimProducers/src/HGCDigitizerBase.cc", 
+            "SimCalorimetry/HGCalSimProducers/src/HGCFEElectronics.cc"
         ], 
         "created_at": 1564081278, 
         "number": 27616, 
         "state": "open", 
-        "updated_at": 1564426598
+        "updated_at": 1564489011
     }, 
     "27620": {
         "base_branch": "CMSSW_10_6_X", 
