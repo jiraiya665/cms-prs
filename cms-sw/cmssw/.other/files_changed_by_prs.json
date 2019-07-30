@@ -1121,6 +1121,7 @@
             "RecoLocalCalo/HGCalRecAlgos/interface/RecHitTools.h", 
             "RecoLocalCalo/HGCalRecAlgos/src/RecHitTools.cc", 
             "RecoLocalCalo/HGCalRecProducers/interface/HGCalCLUEAlgo.h", 
+            "RecoLocalCalo/HGCalRecProducers/interface/HGCalClusteringAlgoBase.h", 
             "RecoLocalCalo/HGCalRecProducers/interface/HGCalLayerTiles.h", 
             "RecoLocalCalo/HGCalRecProducers/interface/HGCalTilesConstants.h", 
             "RecoLocalCalo/HGCalRecProducers/plugins/HGCalCLUEAlgo.cc"
@@ -1128,7 +1129,7 @@
         "created_at": 1562798016, 
         "number": 27485, 
         "state": "open", 
-        "updated_at": 1564448939
+        "updated_at": 1564523396
     }, 
     "27487": {
         "base_branch": "CMSSW_10_6_X", 
