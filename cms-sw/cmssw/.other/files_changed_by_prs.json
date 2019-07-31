@@ -1237,23 +1237,6 @@
         "state": "open", 
         "updated_at": 1564520269
     }, 
-    "27549": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Validation/Configuration/python/autoValidation.py", 
-            "Validation/Configuration/python/ecalSimValid_cff.py", 
-            "Validation/Configuration/python/globalValidation_cff.py", 
-            "Validation/EcalDigis/src/EcalSelectiveReadoutValidation.cc", 
-            "Validation/EcalRecHits/interface/EcalRecHitsValidation.h", 
-            "Validation/EcalRecHits/python/ecalRecHitsValidationSequence_cff.py", 
-            "Validation/EcalRecHits/python/ecalRecHitsValidation_cfi.py", 
-            "Validation/EcalRecHits/src/EcalRecHitsValidation.cc"
-        ], 
-        "created_at": 1563432345, 
-        "number": 27549, 
-        "state": "open", 
-        "updated_at": 1564083882
-    }, 
     "27550": {
         "base_branch": "master", 
         "changed_files_names": [
