@@ -1673,19 +1673,6 @@
         "state": "open", 
         "updated_at": 1564567427
     }, 
-    "27636": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DetectorDescription/DDCMS/data/cms-test-ddpixphase1fwddisk-algo.xml", 
-            "DetectorDescription/DDCMS/data/testDDPixPhase1FwdDiskAlgo.xml", 
-            "DetectorDescription/DDCMS/plugins/DDPixPhase1FwdDiskAlgo.cc", 
-            "DetectorDescription/DDCMS/test/python/testDDPixPhase1FwdDiskAlgorithm.py"
-        ], 
-        "created_at": 1564464389, 
-        "number": 27636, 
-        "state": "open", 
-        "updated_at": 1564464417
-    }, 
     "27637": {
         "base_branch": "master", 
         "changed_files_names": [
