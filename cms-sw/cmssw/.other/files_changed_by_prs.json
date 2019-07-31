@@ -1983,6 +1983,7 @@
             "Geometry/MuonCommonData/data/muonNumbering/2021/v2/muonNumbering.xml", 
             "Geometry/TrackerCommonData/data/pixfwdMaterials/2021/v1/pixfwdMaterials.xml", 
             "SimG4Core/DD4hepGeometry/test/python/testZMM_13TeV_TuneCUETP8M1_cfi_GEN_SIM.py", 
+            "SimG4Core/DD4hepGeometry/test/runTest.sh", 
             "SimG4Core/Geometry/interface/DD4hep_DDG4Builder.h", 
             "SimG4Core/Geometry/interface/DDG4ProductionCuts.h", 
             "SimG4Core/Geometry/src/DD4hep_DDG4Builder.cc", 
@@ -1992,7 +1993,7 @@
         "created_at": 1564495208, 
         "number": 27646, 
         "state": "open", 
-        "updated_at": 1564547007
+        "updated_at": 1564569905
     }, 
     "27647": {
         "base_branch": "master", 
