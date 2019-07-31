@@ -1438,16 +1438,6 @@
         "state": "open", 
         "updated_at": 1564059834
     }, 
-    "27611": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Validation/RecoTrack/plugins/MultiTrackValidator.cc"
-        ], 
-        "created_at": 1564059546, 
-        "number": 27611, 
-        "state": "open", 
-        "updated_at": 1564062210
-    }, 
     "27613": {
         "base_branch": "master", 
         "changed_files_names": [
