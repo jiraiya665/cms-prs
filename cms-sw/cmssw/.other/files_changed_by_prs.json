@@ -2054,7 +2054,9 @@
             "CommonTools/RecoAlgos/interface/RecoTrackSelectorBase.h", 
             "CommonTools/RecoAlgos/python/recoTrackSelectorPSet_cfi.py", 
             "CommonTools/RecoAlgos/python/trackingParticleRefSelector_cfi.py", 
+            "PhysicsTools/RecoAlgos/python/trackingParticleSelector_cfi.py", 
             "SimTracker/Common/interface/TrackingParticleSelector.h", 
+            "SimTracker/Common/python/trackingParticleSelector_cfi.py", 
             "Validation/RecoTrack/plugins/MultiTrackValidator.cc", 
             "Validation/RecoTrack/python/GenParticleSelectionsForEfficiency_cff.py", 
             "Validation/RecoTrack/python/TrackValidation_cff.py", 
@@ -2065,7 +2067,7 @@
         "created_at": 1564560841, 
         "number": 27653, 
         "state": "open", 
-        "updated_at": 1564569402
+        "updated_at": 1564570608
     }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
