@@ -1438,24 +1438,6 @@
         "state": "open", 
         "updated_at": 1564059834
     }, 
-    "27614": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoLocalTracker/Records/interface/TkPixelCPERecord.h", 
-            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEClusterRepairESProducer.h", 
-            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEGenericESProducer.h", 
-            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPETemplateRecoESProducer.h", 
-            "RecoLocalTracker/SiPixelRecHits/plugins/PixelCPEClusterRepairESProducer.cc", 
-            "RecoLocalTracker/SiPixelRecHits/plugins/PixelCPEGenericESProducer.cc", 
-            "RecoLocalTracker/SiPixelRecHits/plugins/PixelCPETemplateRecoESProducer.cc", 
-            "RecoLocalTracker/SiPixelRecHits/plugins/SealModules.cc", 
-            "RecoLocalTracker/SiPixelRecHits/src/SealModules.cc"
-        ], 
-        "created_at": 1564072711, 
-        "number": 27614, 
-        "state": "open", 
-        "updated_at": 1564163221
-    }, 
     "27616": {
         "base_branch": "master", 
         "changed_files_names": [
