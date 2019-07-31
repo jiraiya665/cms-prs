@@ -1756,16 +1756,6 @@
         "state": "open", 
         "updated_at": 1564500324
     }, 
-    "27643": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoLocalCalo/EcalRecAlgos/plugins/EcalSeverityLevelESProducer.cc"
-        ], 
-        "created_at": 1564491699, 
-        "number": 27643, 
-        "state": "open", 
-        "updated_at": 1564513923
-    }, 
     "27644": {
         "base_branch": "master", 
         "changed_files_names": [
