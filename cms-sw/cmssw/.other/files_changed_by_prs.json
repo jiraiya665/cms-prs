@@ -1438,16 +1438,6 @@
         "state": "open", 
         "updated_at": 1564059834
     }, 
-    "27613": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "BigProducts/Simulation/BuildFile.xml"
-        ], 
-        "created_at": 1564062644, 
-        "number": 27613, 
-        "state": "open", 
-        "updated_at": 1564062694
-    }, 
     "27614": {
         "base_branch": "master", 
         "changed_files_names": [
