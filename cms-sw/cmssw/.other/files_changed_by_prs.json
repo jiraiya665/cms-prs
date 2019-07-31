@@ -2118,6 +2118,22 @@
         "state": "open", 
         "updated_at": 1564578209
     }, 
+    "27658": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondCore/SiPixelPlugins/interface/SiPixelPayloadInspectorHelper.h", 
+            "CondCore/SiPixelPlugins/plugins/BuildFile.xml", 
+            "CondCore/SiPixelPlugins/plugins/SiPixelLorentzAngle_PayloadInspector.cc", 
+            "CondCore/SiPixelPlugins/plugins/SiPixelQuality_PayloadInspector.cc", 
+            "CondCore/SiPixelPlugins/test/testSiPixelLorentzAngle.sh", 
+            "CondCore/SiPixelPlugins/test/testSiPixelQuality.sh", 
+            "CondCore/SiPixelPlugins/test/testSiPixelQualityMap.sh"
+        ], 
+        "created_at": 1564589038, 
+        "number": 27658, 
+        "state": "open", 
+        "updated_at": 1564589093
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
