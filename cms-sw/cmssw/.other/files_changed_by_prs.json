@@ -1766,16 +1766,6 @@
         "state": "open", 
         "updated_at": 1564492301
     }, 
-    "27645": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoEcal/EgammaCoreTools/plugins/EcalNextToDeadChannelESProducer.cc"
-        ], 
-        "created_at": 1564492596, 
-        "number": 27645, 
-        "state": "open", 
-        "updated_at": 1564502904
-    }, 
     "27646": {
         "base_branch": "master", 
         "changed_files_names": [
