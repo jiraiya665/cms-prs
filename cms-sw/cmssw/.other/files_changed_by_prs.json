@@ -1532,17 +1532,6 @@
         "state": "open", 
         "updated_at": 1564361198
     }, 
-    "27628": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DetectorDescription/DDCMS/data/testDDCutTubsFromPointsAlgorithm.xml", 
-            "DetectorDescription/DDCMS/plugins/DDCutTubsFromPoints.cc"
-        ], 
-        "created_at": 1564384072, 
-        "number": 27628, 
-        "state": "open", 
-        "updated_at": 1564384122
-    }, 
     "27630": {
         "base_branch": "master", 
         "changed_files_names": [
