@@ -1802,17 +1802,6 @@
         "state": "open", 
         "updated_at": 1564498436
     }, 
-    "27649": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "IOPool/Input/src/RootFile.cc", 
-            "IOPool/Input/test/RunPerLumiTest_cfg.py"
-        ], 
-        "created_at": 1564516789, 
-        "number": 27649, 
-        "state": "open", 
-        "updated_at": 1564516849
-    }, 
     "27650": {
         "base_branch": "master", 
         "changed_files_names": [
