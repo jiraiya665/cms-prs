@@ -1194,12 +1194,14 @@
             "Configuration/AlCa/python/autoCondPhase2.py", 
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
             "RecoLocalTracker/SiPixelRecHits/python/PixelCPEGeneric_cfi.py", 
+            "SLHCUpgradeSimulations/Geometry/python/fakeConditions_phase2TkT14_cff.py", 
+            "SLHCUpgradeSimulations/Geometry/python/fakeConditions_phase2TkT6_cff.py", 
             "SimTracker/SiPhase2Digitizer/python/phase2TrackerDigitizer_cfi.py"
         ], 
         "created_at": 1563042787, 
         "number": 27517, 
         "state": "open", 
-        "updated_at": 1564486229
+        "updated_at": 1564558728
     }, 
     "27522": {
         "base_branch": "master", 
