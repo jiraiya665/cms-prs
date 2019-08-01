@@ -1431,12 +1431,13 @@
             "GeneratorInterface/RivetInterface/src/CMS_2013_I1224539_DIJET.cc", 
             "GeneratorInterface/RivetInterface/src/HiggsTemplateCrossSections.cc", 
             "GeneratorInterface/RivetInterface/test/particleLevel_cfg.py", 
-            "GeneratorInterface/RivetInterface/test/runRivetAnalyzerMiniAOD_cfg.py"
+            "GeneratorInterface/RivetInterface/test/runRivetAnalyzerMiniAOD_cfg.py", 
+            "GeneratorInterface/RivetInterface/test/runRivetHTXS_cfg.py"
         ], 
         "created_at": 1564058946, 
         "number": 27610, 
         "state": "open", 
-        "updated_at": 1564661046
+        "updated_at": 1564665883
     }, 
     "27616": {
         "base_branch": "master", 
