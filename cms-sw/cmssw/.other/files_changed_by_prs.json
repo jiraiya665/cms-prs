@@ -1560,12 +1560,13 @@
             "Configuration/Generator/python/CE_H_Coarse_Scint_cfi.py", 
             "Configuration/Generator/python/CE_H_Fine_120um_cfi.py", 
             "Configuration/Generator/python/CE_H_Fine_200um_cfi.py", 
-            "Configuration/Generator/python/CE_H_Fine_300um_cfi.py"
+            "Configuration/Generator/python/CE_H_Fine_300um_cfi.py", 
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py"
         ], 
         "created_at": 1564400107, 
         "number": 27631, 
         "state": "open", 
-        "updated_at": 1564400157
+        "updated_at": 1564687049
     }, 
     "27633": {
         "base_branch": "master", 
