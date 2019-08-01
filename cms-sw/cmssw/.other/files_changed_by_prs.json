@@ -1642,17 +1642,6 @@
         "state": "open", 
         "updated_at": 1564660125
     }, 
-    "27639": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Fireworks/Core/src/FWGeometryTableViewManager.cc", 
-            "Fireworks/FWInterface/src/FWFFLooper.cc"
-        ], 
-        "created_at": 1564473885, 
-        "number": 27639, 
-        "state": "open", 
-        "updated_at": 1564474686
-    }, 
     "27640": {
         "base_branch": "master", 
         "changed_files_names": [
