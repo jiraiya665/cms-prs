@@ -2034,6 +2034,23 @@
         "state": "open", 
         "updated_at": 1564666276
     }, 
+    "27669": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/MuonCommonData/plugins/BuildFile.xml", 
+            "Geometry/MuonCommonData/plugins/DDGEMAngular.cc", 
+            "Geometry/MuonCommonData/plugins/DDGEMAngular.h", 
+            "Geometry/MuonCommonData/plugins/DDMuonAngular.cc", 
+            "Geometry/MuonCommonData/plugins/DDMuonAngular.h", 
+            "Geometry/MuonCommonData/plugins/dd4hep/DDGEMAngular.cc", 
+            "Geometry/MuonCommonData/plugins/dd4hep/DDMuonAngular.cc", 
+            "Geometry/MuonCommonData/plugins/module.cc"
+        ], 
+        "created_at": 1564667898, 
+        "number": 27669, 
+        "state": "open", 
+        "updated_at": 1564667919
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
