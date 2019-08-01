@@ -1576,7 +1576,7 @@
             "RecoEcal/EgammaClusterProducers/python/ecalDigiSelector_cfi.py", 
             "RecoEcal/EgammaClusterProducers/python/particleFlowSuperClusterECAL_cfi.py", 
             "RecoEcal/EgammaClusterProducers/python/reducedRecHitsSequence_cff.py", 
-            "RecoEgamma/EgammaElectronProducers/python/ecalDrivenElectronSeedsParameters_cff.py", 
+            "RecoEgamma/EgammaElectronProducers/python/ecalDrivenElectronSeeds_cfi.py", 
             "RecoEgamma/EgammaElectronProducers/python/gedGsfElectrons_cfi.py", 
             "RecoEgamma/EgammaElectronProducers/python/gsfElectrons_cfi.py", 
             "RecoEgamma/EgammaIsolationAlgos/python/interestingEgammaIsoDetIdsSequence_cff.py", 
@@ -1591,7 +1591,7 @@
         "created_at": 1564410214, 
         "number": 27633, 
         "state": "open", 
-        "updated_at": 1564410272
+        "updated_at": 1564666058
     }, 
     "27634": {
         "base_branch": "master", 
