@@ -1972,6 +1972,28 @@
         "state": "open", 
         "updated_at": 1564648569
     }, 
+    "27662": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/Phase2ITPixelCluster/BuildFile.xml", 
+            "DataFormats/Phase2ITPixelCluster/README.md", 
+            "DataFormats/Phase2ITPixelCluster/interface/Phase2ITPixelCluster.h", 
+            "DataFormats/Phase2ITPixelCluster/interface/Phase2ITPixelClusterShapeCache.h", 
+            "DataFormats/Phase2ITPixelCluster/src/Phase2ITPixelCluster.cc", 
+            "DataFormats/Phase2ITPixelCluster/src/Phase2ITPixelClusterShapeCache.cc", 
+            "DataFormats/Phase2ITPixelCluster/src/classes.h", 
+            "DataFormats/Phase2ITPixelCluster/src/classes_def.xml", 
+            "DataFormats/Phase2ITPixelCluster/test/BuildFile.xml", 
+            "DataFormats/Phase2ITPixelCluster/test/Phase2ITPixelCluster_t.cpp", 
+            "RecoLocalTracker/Phase2ITPixelClusterizer/Buildfile.xml", 
+            "RecoLocalTracker/Phase2ITPixelClusterizer/plugins/Phase2ITPixelArrayBuffer.h", 
+            "RecoLocalTracker/Phase2ITPixelClusterizer/plugins/Phase2ITPixelClusterProducer.h"
+        ], 
+        "created_at": 1564651812, 
+        "number": 27662, 
+        "state": "open", 
+        "updated_at": 1564651876
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
