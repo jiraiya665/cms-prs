@@ -2097,6 +2097,25 @@
         "state": "open", 
         "updated_at": 1564669987
     }, 
+    "27672": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/Eras/python/Modifier_run3_RPC_cff.py", 
+            "Configuration/StandardSequences/python/Eras.py", 
+            "Configuration/StandardSequences/python/RawToDigi_Data_cff.py", 
+            "Configuration/StandardSequences/python/RawToDigi_cff.py", 
+            "EventFilter/RPCRawToDigi/plugins/RPCDigiMerger.cc", 
+            "EventFilter/RPCRawToDigi/plugins/RPCDigiMerger.h", 
+            "EventFilter/RPCRawToDigi/python/RPCRawToDigi_cfi.py", 
+            "RecoLocalMuon/Configuration/python/RecoLocalMuonCosmics_cff.py", 
+            "RecoLocalMuon/Configuration/python/RecoLocalMuon_cff.py", 
+            "RecoLocalMuon/RPCRecHit/python/rpcRecHits_cfi.py"
+        ], 
+        "created_at": 1564673012, 
+        "number": 27672, 
+        "state": "open", 
+        "updated_at": 1564673040
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
