@@ -2196,7 +2196,6 @@
             "DetectorDescription/DDCMS/plugins/DDAngular.cc", 
             "DetectorDescription/DDCMS/plugins/DDCutTubsFromPoints.cc", 
             "DetectorDescription/DDCMS/plugins/DDGEMAngular.cc", 
-            "DetectorDescription/DDCMS/plugins/DDHCalAngular.cc", 
             "DetectorDescription/DDCMS/plugins/DDHGCalCell.cc", 
             "DetectorDescription/DDCMS/plugins/DDHGCalWafer.cc", 
             "DetectorDescription/DDCMS/plugins/DDHGCalWafer8.cc", 
@@ -2220,13 +2219,14 @@
             "DetectorDescription/DDCMS/plugins/DDTrackerAngular.cc", 
             "DetectorDescription/DDCMS/plugins/DDTrackerPhiAlgo.cc", 
             "DetectorDescription/DDCMS/plugins/DDTrackerPhiAltAlgo.cc", 
+            "Geometry/HcalAlgo/plugins/dd4hep/DDHCalAngular.cc", 
             "Geometry/TrackerCommonData/plugins/dd4hep/DDTIDAxialCableAlgo.cc", 
             "Geometry/TrackerCommonData/plugins/dd4hep/DDTrackerRingAlgo.cc"
         ], 
         "created_at": 1564749116, 
         "number": 27679, 
         "state": "open", 
-        "updated_at": 1564752587
+        "updated_at": 1564753127
     }, 
     "27680": {
         "base_branch": "master", 
