@@ -1425,7 +1425,6 @@
             "GeneratorInterface/RivetInterface/plugins/HTXSRivetProducer.cc", 
             "GeneratorInterface/RivetInterface/plugins/ParticleLevelProducer.cc", 
             "GeneratorInterface/RivetInterface/plugins/RivetAnalyzer.cc", 
-            "GeneratorInterface/RivetInterface/python/genParticles2HepMC_cfi.py", 
             "GeneratorInterface/RivetInterface/python/rivetAnalyzer_cfi.py", 
             "GeneratorInterface/RivetInterface/src/CMS_2013_I1224539_DIJET.cc", 
             "GeneratorInterface/RivetInterface/src/HiggsTemplateCrossSections.cc", 
@@ -1436,7 +1435,7 @@
         "created_at": 1564058946, 
         "number": 27610, 
         "state": "open", 
-        "updated_at": 1564665883
+        "updated_at": 1564725776
     }, 
     "27616": {
         "base_branch": "master", 
