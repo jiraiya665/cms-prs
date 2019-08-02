@@ -1954,41 +1954,6 @@
         "state": "open", 
         "updated_at": 1564666575
     }, 
-    "27668": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HcalAlgo/plugins/BuildFile.xml", 
-            "Geometry/HcalAlgo/plugins/DDHCalAngular.cc", 
-            "Geometry/HcalAlgo/plugins/DDHCalAngular.h", 
-            "Geometry/HcalAlgo/plugins/DDHCalBarrelAlgo.cc", 
-            "Geometry/HcalAlgo/plugins/DDHCalBarrelAlgo.h", 
-            "Geometry/HcalAlgo/plugins/DDHCalEndcapAlgo.cc", 
-            "Geometry/HcalAlgo/plugins/DDHCalEndcapAlgo.h", 
-            "Geometry/HcalAlgo/plugins/DDHCalEndcapModuleAlgo.cc", 
-            "Geometry/HcalAlgo/plugins/DDHCalEndcapModuleAlgo.h", 
-            "Geometry/HcalAlgo/plugins/DDHCalFibreBundle.cc", 
-            "Geometry/HcalAlgo/plugins/DDHCalFibreBundle.h", 
-            "Geometry/HcalAlgo/plugins/DDHCalForwardAlgo.cc", 
-            "Geometry/HcalAlgo/plugins/DDHCalForwardAlgo.h", 
-            "Geometry/HcalAlgo/plugins/DDHCalLinearXY.cc", 
-            "Geometry/HcalAlgo/plugins/DDHCalLinearXY.h", 
-            "Geometry/HcalAlgo/plugins/DDHCalTBCableAlgo.cc", 
-            "Geometry/HcalAlgo/plugins/DDHCalTBCableAlgo.h", 
-            "Geometry/HcalAlgo/plugins/DDHCalTBZposAlgo.cc", 
-            "Geometry/HcalAlgo/plugins/DDHCalTBZposAlgo.h", 
-            "Geometry/HcalAlgo/plugins/DDHCalTestBeamAlgo.cc", 
-            "Geometry/HcalAlgo/plugins/DDHCalTestBeamAlgo.h", 
-            "Geometry/HcalAlgo/plugins/DDHCalXtalAlgo.cc", 
-            "Geometry/HcalAlgo/plugins/DDHCalXtalAlgo.h", 
-            "Geometry/HcalAlgo/plugins/dd4hep/DDHCalAngular.cc", 
-            "Geometry/HcalAlgo/plugins/dd4hep/DDHCalLinearXY.cc", 
-            "Geometry/HcalAlgo/plugins/module.cc"
-        ], 
-        "created_at": 1564666232, 
-        "number": 27668, 
-        "state": "open", 
-        "updated_at": 1564666276
-    }, 
     "27669": {
         "base_branch": "master", 
         "changed_files_names": [
