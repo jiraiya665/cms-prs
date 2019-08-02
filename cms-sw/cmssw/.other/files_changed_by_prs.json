@@ -1268,25 +1268,6 @@
         "state": "open", 
         "updated_at": 1564251756
     }, 
-    "27589": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoLocalTracker/SubCollectionProducers/python/splitter_tracking_RunI_setup_cff.py", 
-            "RecoTracker/Configuration/python/RecoTrackerTopBottom_cff.py", 
-            "RecoTracker/MeasurementDet/plugins/Chi2ChargeMeasurementEstimatorESProducer.cc", 
-            "RecoTracker/MeasurementDet/plugins/MeasurementTrackerESProducer.cc", 
-            "RecoTracker/MeasurementDet/plugins/MeasurementTrackerESProducer.h", 
-            "RecoTracker/MeasurementDet/plugins/MeasurementTrackerImpl.cc", 
-            "RecoTracker/MeasurementDet/plugins/MeasurementTrackerImpl.h", 
-            "RecoTracker/MeasurementDet/plugins/module.cc", 
-            "RecoTracker/MeasurementDet/python/MeasurementTrackerESProducer_cfi.py", 
-            "RecoTracker/MeasurementDet/src/TkMeasurementDetSet.h"
-        ], 
-        "created_at": 1563898550, 
-        "number": 27589, 
-        "state": "open", 
-        "updated_at": 1564598639
-    }, 
     "27591": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
