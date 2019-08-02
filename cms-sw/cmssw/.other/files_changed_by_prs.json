@@ -1871,17 +1871,6 @@
         "state": "open", 
         "updated_at": 1564665033
     }, 
-    "27667": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimMuon/GEMDigitizer/plugins/GEMDigiProducer.cc", 
-            "SimMuon/GEMDigitizer/src/GEMSignalModel.cc"
-        ], 
-        "created_at": 1564665766, 
-        "number": 27667, 
-        "state": "open", 
-        "updated_at": 1564666575
-    }, 
     "27670": {
         "base_branch": "master", 
         "changed_files_names": [
