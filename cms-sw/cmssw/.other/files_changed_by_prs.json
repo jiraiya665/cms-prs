@@ -2242,6 +2242,24 @@
         "state": "open", 
         "updated_at": 1564769289
     }, 
+    "27684": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/Integration/test/ProducerWithPSetDesc.cc", 
+            "FWCore/Integration/test/unit_test_outputs/testProducerWithPsetDesc_briefdoc.txt", 
+            "FWCore/Integration/test/unit_test_outputs/testProducerWithPsetDesc_cfi.py", 
+            "FWCore/Integration/test/unit_test_outputs/testProducerWithPsetDesc_doc.txt", 
+            "FWCore/ParameterSet/interface/ParameterDescription.h", 
+            "FWCore/ParameterSet/interface/ParameterDescriptionNode.h", 
+            "FWCore/ParameterSet/src/ParameterDescription.cc", 
+            "FWCore/ParameterSet/src/ParameterDescriptionNode.cc", 
+            "FWCore/ParameterSet/test/parameterSetDescription_t.cc"
+        ], 
+        "created_at": 1564770340, 
+        "number": 27684, 
+        "state": "open", 
+        "updated_at": 1564770432
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
