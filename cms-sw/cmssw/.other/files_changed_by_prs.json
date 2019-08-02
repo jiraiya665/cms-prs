@@ -2192,6 +2192,7 @@
     "27679": {
         "base_branch": "master", 
         "changed_files_names": [
+            "DetectorDescription/DDCMS/data/cms-tracker-2021.xml", 
             "DetectorDescription/DDCMS/plugins/DDAngular.cc", 
             "DetectorDescription/DDCMS/plugins/DDCutTubsFromPoints.cc", 
             "DetectorDescription/DDCMS/plugins/DDGEMAngular.cc", 
@@ -2225,7 +2226,7 @@
         "created_at": 1564749116, 
         "number": 27679, 
         "state": "open", 
-        "updated_at": 1564749165
+        "updated_at": 1564750486
     }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
