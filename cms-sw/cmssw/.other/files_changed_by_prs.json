@@ -2108,7 +2108,6 @@
             "MagneticField/GeomBuilder/test/python/mfxmlwriter.py", 
             "MagneticField/GeomBuilder/test/python/testMagGeometry.py", 
             "MagneticField/GeomBuilder/test/python/testMagGeometryOldDD.py", 
-            "MagneticField/GeomBuilder/test/stubs/MagGeometryAnalyzer.cc", 
             "MagneticField/GeomBuilder/test/stubs/MagGeometryExerciser.cc", 
             "MagneticField/Records/interface/IdealMagneticFieldRecord.h", 
             "MagneticField/VolumeBasedEngine/interface/MagGeometry.h", 
@@ -2117,7 +2116,7 @@
         "created_at": 1564689136, 
         "number": 27674, 
         "state": "open", 
-        "updated_at": 1564690167
+        "updated_at": 1564772973
     }, 
     "27676": {
         "base_branch": "master", 
