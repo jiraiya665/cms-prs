@@ -944,25 +944,6 @@
         "state": "open", 
         "updated_at": 1560000104
     }, 
-    "27175": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoLocalCalo/EcalDeadChannelRecoveryAlgos/BuildFile.xml", 
-            "RecoLocalCalo/EcalDeadChannelRecoveryAlgos/interface/EcalDeadChannelRecoveryAlgos.h", 
-            "RecoLocalCalo/EcalDeadChannelRecoveryAlgos/interface/EcalDeadChannelRecoveryBDTG.h", 
-            "RecoLocalCalo/EcalDeadChannelRecoveryAlgos/src/EcalDeadChannelRecoveryAlgos.cc", 
-            "RecoLocalCalo/EcalDeadChannelRecoveryAlgos/src/EcalDeadChannelRecoveryBDTG.cc", 
-            "RecoLocalCalo/EcalDeadChannelRecoveryAlgos/test/plugins/EcalDeadChannelRecoveryProducers.cc", 
-            "RecoLocalCalo/EcalRecProducers/plugins/EcalRecHitProducer.cc", 
-            "RecoLocalCalo/EcalRecProducers/plugins/EcalRecHitWorkerRecover.cc", 
-            "RecoLocalCalo/EcalRecProducers/plugins/EcalRecHitWorkerRecover.h", 
-            "RecoLocalCalo/EcalRecProducers/python/ecalRecHit_cfi.py"
-        ], 
-        "created_at": 1560264080, 
-        "number": 27175, 
-        "state": "open", 
-        "updated_at": 1564577505
-    }, 
     "27184": {
         "base_branch": "master", 
         "changed_files_names": [
