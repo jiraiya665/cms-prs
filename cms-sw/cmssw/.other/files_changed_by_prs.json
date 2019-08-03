@@ -1255,22 +1255,6 @@
         "state": "open", 
         "updated_at": 1564385970
     }, 
-    "27596": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoLocalTracker/SiStripClusterizer/interface/ClusterChargeCut.h", 
-            "RecoPixelVertexing/PixelLowPtUtilities/interface/ClusterShapeHitFilterESProducer.h", 
-            "RecoPixelVertexing/PixelLowPtUtilities/plugins/ClusterShapeHitFilterESProducer.cc", 
-            "RecoPixelVertexing/PixelLowPtUtilities/plugins/TrackCleanerESProducer.cc", 
-            "RecoPixelVertexing/PixelLowPtUtilities/plugins/modules.cc", 
-            "RecoPixelVertexing/PixelLowPtUtilities/src/ClusterShapeHitFilterESProducer.cc", 
-            "RecoTracker/Record/interface/CkfComponentsRecord.h"
-        ], 
-        "created_at": 1563973282, 
-        "number": 27596, 
-        "state": "open", 
-        "updated_at": 1564764170
-    }, 
     "27605": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
