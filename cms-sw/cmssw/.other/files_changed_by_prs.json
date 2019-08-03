@@ -2078,12 +2078,10 @@
             "DetectorDescription/DDCMS/data/cms-tracker-2021.xml", 
             "DetectorDescription/DDCMS/plugins/DDAngular.cc", 
             "DetectorDescription/DDCMS/plugins/DDCutTubsFromPoints.cc", 
-            "DetectorDescription/DDCMS/plugins/DDGEMAngular.cc", 
             "DetectorDescription/DDCMS/plugins/DDHGCalCell.cc", 
             "DetectorDescription/DDCMS/plugins/DDHGCalWafer.cc", 
             "DetectorDescription/DDCMS/plugins/DDHGCalWafer8.cc", 
             "DetectorDescription/DDCMS/plugins/DDLinear.cc", 
-            "DetectorDescription/DDCMS/plugins/DDMuonAngular.cc", 
             "DetectorDescription/DDCMS/plugins/DDPixBarLayerAlgo.cc", 
             "DetectorDescription/DDCMS/plugins/DDPixBarLayerUpgradeAlgo.cc", 
             "DetectorDescription/DDCMS/plugins/DDPixFwdDiskAlgo.cc", 
@@ -2103,13 +2101,15 @@
             "DetectorDescription/DDCMS/plugins/DDTrackerPhiAlgo.cc", 
             "DetectorDescription/DDCMS/plugins/DDTrackerPhiAltAlgo.cc", 
             "Geometry/HcalAlgo/plugins/dd4hep/DDHCalAngular.cc", 
+            "Geometry/MuonCommonData/plugins/dd4hep/DDGEMAngular.cc", 
+            "Geometry/MuonCommonData/plugins/dd4hep/DDMuonAngular.cc", 
             "Geometry/TrackerCommonData/plugins/dd4hep/DDTIDAxialCableAlgo.cc", 
             "Geometry/TrackerCommonData/plugins/dd4hep/DDTrackerRingAlgo.cc"
         ], 
         "created_at": 1564749116, 
         "number": 27679, 
         "state": "open", 
-        "updated_at": 1564753127
+        "updated_at": 1564830309
     }, 
     "27680": {
         "base_branch": "master", 
