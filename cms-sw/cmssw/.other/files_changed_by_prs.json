@@ -1255,17 +1255,6 @@
         "state": "open", 
         "updated_at": 1564385970
     }, 
-    "27594": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoTracker/GeometryESProducer/plugins/TrackerRecoGeometryESProducer.cc", 
-            "RecoTracker/GeometryESProducer/plugins/TrackerRecoGeometryESProducer.h"
-        ], 
-        "created_at": 1563967207, 
-        "number": 27594, 
-        "state": "open", 
-        "updated_at": 1564764413
-    }, 
     "27596": {
         "base_branch": "master", 
         "changed_files_names": [
