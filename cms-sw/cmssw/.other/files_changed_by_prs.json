@@ -1828,21 +1828,6 @@
         "state": "open", 
         "updated_at": 1564665033
     }, 
-    "27671": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimG4CMS/Calo/interface/CaloSteppingAction.h", 
-            "SimG4CMS/Calo/macros/MakeGVPlots.C", 
-            "SimG4CMS/Calo/plugins/CaloSimHitAnalysis.cc", 
-            "SimG4CMS/Calo/src/CaloSteppingAction.cc", 
-            "SimG4CMS/Calo/test/python/calostepAnalysis_cfg.py", 
-            "SimG4CMS/Calo/test/python/calostep_cfg.py"
-        ], 
-        "created_at": 1564669956, 
-        "number": 27671, 
-        "state": "open", 
-        "updated_at": 1564754499
-    }, 
     "27672": {
         "base_branch": "master", 
         "changed_files_names": [
