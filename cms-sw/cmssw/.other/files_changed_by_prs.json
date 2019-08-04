@@ -1592,12 +1592,13 @@
     "27644": {
         "base_branch": "master", 
         "changed_files_names": [
+            "Configuration/AlCa/python/autoCond.py", 
             "RecoEgamma/EgammaTools/python/regressionModifier_cfi.py"
         ], 
         "created_at": 1564492251, 
         "number": 27644, 
         "state": "open", 
-        "updated_at": 1564928102
+        "updated_at": 1564928272
     }, 
     "27647": {
         "base_branch": "master", 
