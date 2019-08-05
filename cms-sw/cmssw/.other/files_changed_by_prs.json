@@ -2056,6 +2056,16 @@
         "state": "open", 
         "updated_at": 1564941758
     }, 
+    "27689": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DetectorDescription/DDCMS/plugins/DDTECModuleAlgo.cc"
+        ], 
+        "created_at": 1564991773, 
+        "number": 27689, 
+        "state": "open", 
+        "updated_at": 1564991829
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
