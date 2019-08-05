@@ -1731,27 +1731,6 @@
         "state": "open", 
         "updated_at": 1564589093
     }, 
-    "27661": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimTracker/TrackerMaterialAnalysis/data/trackingMaterialGroups_ForPhaseII.xml", 
-            "SimTracker/TrackerMaterialAnalysis/data/trackingMaterialGroups_ForPhaseII_D4.xml", 
-            "SimTracker/TrackerMaterialAnalysis/plugins/ListGroups.cc", 
-            "SimTracker/TrackerMaterialAnalysis/plugins/ListGroupsMaterialDifference.h", 
-            "SimTracker/TrackerMaterialAnalysis/python/trackingMaterialAnalyser_ForPhaseII_cfi.py", 
-            "SimTracker/TrackerMaterialAnalysis/test/dumpFullXML_ForPhaseII.py", 
-            "SimTracker/TrackerMaterialAnalysis/test/listGroups.py", 
-            "SimTracker/TrackerMaterialAnalysis/test/listIds_PhaseII.py", 
-            "SimTracker/TrackerMaterialAnalysis/test/trackerRecoMaterial.xml", 
-            "SimTracker/TrackerMaterialAnalysis/test/trackingMaterialAnalyser_ForPhaseII.py", 
-            "SimTracker/TrackerMaterialAnalysis/test/trackingMaterialProducer10GeVNeutrino.py", 
-            "SimTracker/TrackerMaterialAnalysis/test/trackingMaterialProducer10GeVNeutrino_ForPhaseII.py"
-        ], 
-        "created_at": 1564647205, 
-        "number": 27661, 
-        "state": "open", 
-        "updated_at": 1564648569
-    }, 
     "27662": {
         "base_branch": "master", 
         "changed_files_names": [
