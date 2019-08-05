@@ -1480,7 +1480,6 @@
         "base_branch": "master", 
         "changed_files_names": [
             "Configuration/ProcessModifiers/python/egamma_lowPt_exclusive_cff.py", 
-            "Configuration/StandardSequences/python/Eras.py", 
             "RecoEcal/EgammaClusterProducers/python/ecalDigiSelector_cfi.py", 
             "RecoEcal/EgammaClusterProducers/python/particleFlowSuperClusterECAL_cfi.py", 
             "RecoEcal/EgammaClusterProducers/python/reducedRecHitsSequence_cff.py", 
@@ -1499,7 +1498,7 @@
         "created_at": 1564410214, 
         "number": 27633, 
         "state": "open", 
-        "updated_at": 1565004886
+        "updated_at": 1565005246
     }, 
     "27634": {
         "base_branch": "master", 
