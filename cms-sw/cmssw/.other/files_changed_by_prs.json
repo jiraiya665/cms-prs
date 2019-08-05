@@ -1571,16 +1571,6 @@
         "state": "open", 
         "updated_at": 1565013640
     }, 
-    "27647": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQMOffline/JetMET/src/METAnalyzer.cc"
-        ], 
-        "created_at": 1564498337, 
-        "number": 27647, 
-        "state": "open", 
-        "updated_at": 1564498436
-    }, 
     "27650": {
         "base_branch": "master", 
         "changed_files_names": [
