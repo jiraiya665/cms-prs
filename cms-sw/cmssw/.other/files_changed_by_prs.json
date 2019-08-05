@@ -2112,6 +2112,28 @@
         "state": "open", 
         "updated_at": 1565006628
     }, 
+    "27694": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEBase.h", 
+            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEClusterRepair.h", 
+            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEGeneric.h", 
+            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPETemplateReco.h", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/PixelCPEClusterRepairESProducer.cc", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/PixelCPEGenericESProducer.cc", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/PixelCPETemplateRecoESProducer.cc", 
+            "RecoLocalTracker/SiPixelRecHits/python/PixelCPEClusterRepair_cfi.py", 
+            "RecoLocalTracker/SiPixelRecHits/python/PixelCPETemplateReco_cfi.py", 
+            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEBase.cc", 
+            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEClusterRepair.cc", 
+            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEGeneric.cc", 
+            "RecoLocalTracker/SiPixelRecHits/src/PixelCPETemplateReco.cc"
+        ], 
+        "created_at": 1565008119, 
+        "number": 27694, 
+        "state": "open", 
+        "updated_at": 1565008172
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
