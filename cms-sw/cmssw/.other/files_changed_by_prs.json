@@ -1879,18 +1879,6 @@
         "state": "open", 
         "updated_at": 1564740423
     }, 
-    "27680": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimG4CMS/HGCalTestBeam/test/HGCalTBCERN181Oct1_cfg.py", 
-            "SimG4CMS/HGCalTestBeam/test/HGCalTBCERN181Oct2_cfg.py", 
-            "SimG4CMS/HGCalTestBeam/test/HGCalTBCERN181Oct3_cfg.py"
-        ], 
-        "created_at": 1564750473, 
-        "number": 27680, 
-        "state": "open", 
-        "updated_at": 1564750531
-    }, 
     "27682": {
         "base_branch": "master", 
         "changed_files_names": [
