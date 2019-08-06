@@ -2032,6 +2032,17 @@
         "state": "open", 
         "updated_at": 1565029651
     }, 
+    "27699": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/SiStripMonitorTrack/interface/SiStripMonitorTrack.h", 
+            "DQM/SiStripMonitorTrack/src/SiStripMonitorTrack.cc"
+        ], 
+        "created_at": 1565065531, 
+        "number": 27699, 
+        "state": "open", 
+        "updated_at": 1565065586
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
