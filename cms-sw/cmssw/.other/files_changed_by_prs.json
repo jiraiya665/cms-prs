@@ -1998,16 +1998,6 @@
         "state": "open", 
         "updated_at": 1565067388
     }, 
-    "27700": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibCalorimetry/HcalPlugins/src/HcalHardcodeCalibrations.cc"
-        ], 
-        "created_at": 1565073110, 
-        "number": 27700, 
-        "state": "open", 
-        "updated_at": 1565075383
-    }, 
     "27701": {
         "base_branch": "master", 
         "changed_files_names": [
