@@ -1995,21 +1995,6 @@
         "state": "open", 
         "updated_at": 1565010363
     }, 
-    "27695": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "IOPool/Streamer/interface/StreamerInputFile.h", 
-            "IOPool/Streamer/src/StreamerFileReader.cc", 
-            "IOPool/Streamer/src/StreamerFileReader.h", 
-            "IOPool/Streamer/src/StreamerInputFile.cc", 
-            "IOPool/Streamer/test/BuildFile.xml", 
-            "IOPool/Streamer/test/ReadStreamerFile.cpp"
-        ], 
-        "created_at": 1565014269, 
-        "number": 27695, 
-        "state": "open", 
-        "updated_at": 1565014488
-    }, 
     "27697": {
         "base_branch": "master", 
         "changed_files_names": [
