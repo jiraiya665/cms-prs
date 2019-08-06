@@ -944,18 +944,6 @@
         "state": "open", 
         "updated_at": 1560000104
     }, 
-    "27224": {
-        "base_branch": "CMSSW_10_6_X", 
-        "changed_files_names": [
-            "Validation/EventGenerator/plugins/TauValidation.cc", 
-            "Validation/EventGenerator/src/HepMCValidationHelper.cc", 
-            "Validation/MuonGEMHits/plugins/MuonGEMHitsHarvestor.cc"
-        ], 
-        "created_at": 1560756671, 
-        "number": 27224, 
-        "state": "open", 
-        "updated_at": 1560756699
-    }, 
     "27416": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
