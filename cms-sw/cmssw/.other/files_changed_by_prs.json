@@ -1033,21 +1033,6 @@
         "state": "open", 
         "updated_at": 1564083904
     }, 
-    "27496": {
-        "base_branch": "CMSSW_10_6_X", 
-        "changed_files_names": [
-            "Configuration/Generator/python/Herwig7Settings/Herwig7LHECommonSettings_cfi.py", 
-            "Configuration/Generator/python/Herwig7Settings/Herwig7PSWeightsSettings_cfi.py", 
-            "GeneratorInterface/Herwig7Interface/interface/Herwig7Interface.h", 
-            "GeneratorInterface/Herwig7Interface/plugins/Herwig7Hadronizer.cc", 
-            "GeneratorInterface/Herwig7Interface/python/Herwig7_loadCommonSettings_cff.py", 
-            "GeneratorInterface/Herwig7Interface/src/Herwig7Interface.cc"
-        ], 
-        "created_at": 1562834831, 
-        "number": 27496, 
-        "state": "open", 
-        "updated_at": 1562834887
-    }, 
     "27506": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
