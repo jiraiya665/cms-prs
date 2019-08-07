@@ -1978,6 +1978,16 @@
         "state": "open", 
         "updated_at": 1565178525
     }, 
+    "27709": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "RecoCTPPS/ProtonReconstruction/python/ctppsProtons_cff.py"
+        ], 
+        "created_at": 1565180285, 
+        "number": 27709, 
+        "state": "open", 
+        "updated_at": 1565180317
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
