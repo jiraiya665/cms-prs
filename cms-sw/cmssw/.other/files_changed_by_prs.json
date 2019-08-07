@@ -1964,6 +1964,18 @@
         "state": "open", 
         "updated_at": 1565118190
     }, 
+    "27706": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimG4Core/Application/python/g4SimHits_cfi.py", 
+            "SimG4Core/Application/src/RunManager.cc", 
+            "SimG4Core/Application/src/RunManagerMTWorker.cc"
+        ], 
+        "created_at": 1565165723, 
+        "number": 27706, 
+        "state": "open", 
+        "updated_at": 1565165776
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
