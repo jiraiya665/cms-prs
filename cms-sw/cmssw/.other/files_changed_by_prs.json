@@ -2046,6 +2046,21 @@
         "state": "open", 
         "updated_at": 1565185411
     }, 
+    "27712": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondFormats/SiPixelObjects/interface/SiPixelGainCalibration.h", 
+            "CondFormats/SiPixelObjects/interface/SiPixelGainCalibrationForHLT.h", 
+            "CondFormats/SiPixelObjects/interface/SiPixelGainCalibrationOffline.h", 
+            "CondFormats/SiPixelObjects/src/SiPixelGainCalibration.cc", 
+            "CondFormats/SiPixelObjects/src/SiPixelGainCalibrationForHLT.cc", 
+            "CondFormats/SiPixelObjects/src/SiPixelGainCalibrationOffline.cc"
+        ], 
+        "created_at": 1565186286, 
+        "number": 27712, 
+        "state": "open", 
+        "updated_at": 1565186318
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
