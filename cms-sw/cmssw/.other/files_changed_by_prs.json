@@ -2079,6 +2079,16 @@
         "state": "open", 
         "updated_at": 1565196088
     }, 
+    "27715": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/SiStripMonitorClient/plugins/SiStripDcsInfo.cc"
+        ], 
+        "created_at": 1565197241, 
+        "number": 27715, 
+        "state": "open", 
+        "updated_at": 1565197300
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
