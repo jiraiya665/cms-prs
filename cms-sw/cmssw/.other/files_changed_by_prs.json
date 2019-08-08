@@ -1769,17 +1769,6 @@
         "state": "open", 
         "updated_at": 1565274717
     }, 
-    "27708": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HGCalCommonData/plugins/DDAHcalModuleAlgo.cc", 
-            "SimG4CMS/HGCalTestBeam/plugins/AHCalSD.cc"
-        ], 
-        "created_at": 1565178469, 
-        "number": 27708, 
-        "state": "open", 
-        "updated_at": 1565178525
-    }, 
     "27711": {
         "base_branch": "master", 
         "changed_files_names": [
