@@ -744,17 +744,6 @@
         "state": "open", 
         "updated_at": 1560159811
     }, 
-    "26419": {
-        "base_branch": "CMSSW_10_5_X", 
-        "changed_files_names": [
-            "DPGAnalysis/Skims/python/BunchCrossingSkim_cff.py", 
-            "DPGAnalysis/Skims/python/Skims_DPG_cff.py"
-        ], 
-        "created_at": 1554880812, 
-        "number": 26419, 
-        "state": "open", 
-        "updated_at": 1559049190
-    }, 
     "26431": {
         "base_branch": "CMSSW_10_5_X", 
         "changed_files_names": [
