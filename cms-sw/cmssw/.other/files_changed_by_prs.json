@@ -1857,18 +1857,6 @@
         "state": "open", 
         "updated_at": 1565198743
     }, 
-    "27721": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/MuonDetId/src/DTLayerId.cc", 
-            "DataFormats/MuonDetId/src/DTSuperLayerId.cc", 
-            "DataFormats/MuonDetId/src/DTWireId.cc"
-        ], 
-        "created_at": 1565204370, 
-        "number": 27721, 
-        "state": "open", 
-        "updated_at": 1565204421
-    }, 
     "27722": {
         "base_branch": "master", 
         "changed_files_names": [
