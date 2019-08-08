@@ -1456,17 +1456,6 @@
         "state": "open", 
         "updated_at": 1565245106
     }, 
-    "27663": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Utilities/StaticAnalyzers/src/ClangCmsCheckerPluginRegister.cpp", 
-            "Utilities/StaticAnalyzers/src/ClassChecker.cpp"
-        ], 
-        "created_at": 1564658395, 
-        "number": 27663, 
-        "state": "open", 
-        "updated_at": 1564659641
-    }, 
     "27665": {
         "base_branch": "master", 
         "changed_files_names": [
