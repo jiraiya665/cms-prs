@@ -1111,18 +1111,6 @@
         "state": "open", 
         "updated_at": 1563944678
     }, 
-    "27593": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEGeneric.h", 
-            "RecoLocalTracker/SiPixelRecHits/python/PixelCPEGeneric_cfi.py", 
-            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEGeneric.cc"
-        ], 
-        "created_at": 1563966007, 
-        "number": 27593, 
-        "state": "open", 
-        "updated_at": 1564385970
-    }, 
     "27606": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
