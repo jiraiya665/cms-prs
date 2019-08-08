@@ -1786,20 +1786,6 @@
         "state": "open", 
         "updated_at": 1564996747
     }, 
-    "27692": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/PyReleaseValidation/python/relval_2017.py", 
-            "Configuration/PyReleaseValidation/python/relval_steps.py", 
-            "Configuration/PyReleaseValidation/python/relval_upgrade.py", 
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
-            "SimTracker/SiPixelDigitizer/python/customiseStuckTBMSimulation.py"
-        ], 
-        "created_at": 1565001471, 
-        "number": 27692, 
-        "state": "open", 
-        "updated_at": 1565001523
-    }, 
     "27693": {
         "base_branch": "master", 
         "changed_files_names": [
