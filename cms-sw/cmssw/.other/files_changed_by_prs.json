@@ -1184,6 +1184,12 @@
             "Geometry/HcalCommonData/interface/HcalSimParametersFromDD.h", 
             "Geometry/HcalCommonData/plugins/HcalSimParametersESModule.cc", 
             "Geometry/HcalCommonData/python/hcalDDConstants_cff.py", 
+            "Geometry/HcalCommonData/python/testGeometry17aXML_cfi.py", 
+            "Geometry/HcalCommonData/python/testGeometry17bXML_cfi.py", 
+            "Geometry/HcalCommonData/python/testPhase0GeometryXML_cfi.py", 
+            "Geometry/HcalCommonData/python/testPhase1GeometryXML_cfi.py", 
+            "Geometry/HcalCommonData/python/testPhase2GeometryFineXML_cfi.py", 
+            "Geometry/HcalCommonData/python/testPhase2GeometryXML_cfi.py", 
             "Geometry/HcalCommonData/src/HcalSimParametersFromDD.cc", 
             "Geometry/HcalCommonData/test/HcalParametersAnalyzer.cc", 
             "Geometry/HcalCommonData/test/python/runHcalParametersFromDDAnalyzer_cfg.py"
@@ -1191,7 +1197,7 @@
         "created_at": 1564057180, 
         "number": 27609, 
         "state": "open", 
-        "updated_at": 1564237675
+        "updated_at": 1565265039
     }, 
     "27610": {
         "base_branch": "master", 
