@@ -1867,16 +1867,6 @@
         "state": "open", 
         "updated_at": 1565198743
     }, 
-    "27720": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Validation/RecoJets/plugins/JetTester_HeavyIons.cc"
-        ], 
-        "created_at": 1565201531, 
-        "number": 27720, 
-        "state": "open", 
-        "updated_at": 1565201582
-    }, 
     "27721": {
         "base_branch": "master", 
         "changed_files_names": [
