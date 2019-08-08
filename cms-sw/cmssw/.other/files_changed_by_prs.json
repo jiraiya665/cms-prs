@@ -1706,16 +1706,6 @@
         "state": "open", 
         "updated_at": 1564941758
     }, 
-    "27690": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/SiPixelPhase1Track/plugins/SiPixelPhase1TrackClusters.cc"
-        ], 
-        "created_at": 1564992908, 
-        "number": 27690, 
-        "state": "open", 
-        "updated_at": 1564992965
-    }, 
     "27691": {
         "base_branch": "master", 
         "changed_files_names": [
