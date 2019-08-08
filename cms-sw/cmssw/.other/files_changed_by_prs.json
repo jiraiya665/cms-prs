@@ -58,30 +58,6 @@
         "state": "open", 
         "updated_at": 1558347544
     }, 
-    "24083": {
-        "base_branch": "CMSSW_9_4_X", 
-        "changed_files_names": [
-            "CommonTools/Utils/interface/FormulaEvaluator.h", 
-            "CommonTools/Utils/src/FormulaEvaluator.cc", 
-            "CommonTools/Utils/src/formulaBinaryOperatorEvaluator.h", 
-            "CommonTools/Utils/src/formulaConstantEvaluator.cc", 
-            "CommonTools/Utils/src/formulaConstantEvaluator.h", 
-            "CommonTools/Utils/src/formulaEvaluatorBase.cc", 
-            "CommonTools/Utils/src/formulaEvaluatorBase.h", 
-            "CommonTools/Utils/src/formulaFunctionOneArgEvaluator.h", 
-            "CommonTools/Utils/src/formulaFunctionTwoArgsEvaluator.h", 
-            "CommonTools/Utils/src/formulaParameterEvaluator.cc", 
-            "CommonTools/Utils/src/formulaParameterEvaluator.h", 
-            "CommonTools/Utils/src/formulaUnaryMinusEvaluator.h", 
-            "CommonTools/Utils/src/formulaVariableEvaluator.cc", 
-            "CommonTools/Utils/src/formulaVariableEvaluator.h", 
-            "CommonTools/Utils/test/testFormulaEvaluator.cc"
-        ], 
-        "created_at": 1532604921, 
-        "number": 24083, 
-        "state": "open", 
-        "updated_at": 1535382500
-    }, 
     "24389": {
         "base_branch": "master", 
         "changed_files_names": [
