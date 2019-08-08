@@ -1847,16 +1847,6 @@
         "state": "open", 
         "updated_at": 1565196088
     }, 
-    "27716": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "HLTriggerOffline/SUSYBSM/src/SUSY_HLT_SingleLepton.cc"
-        ], 
-        "created_at": 1565197296, 
-        "number": 27716, 
-        "state": "open", 
-        "updated_at": 1565197338
-    }, 
     "27717": {
         "base_branch": "master", 
         "changed_files_names": [
