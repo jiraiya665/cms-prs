@@ -1847,16 +1847,6 @@
         "state": "open", 
         "updated_at": 1565196088
     }, 
-    "27717": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondCore/SiStripPlugins/interface/SiStripPayloadInspectorHelper.h"
-        ], 
-        "created_at": 1565198691, 
-        "number": 27717, 
-        "state": "open", 
-        "updated_at": 1565198743
-    }, 
     "27722": {
         "base_branch": "master", 
         "changed_files_names": [
