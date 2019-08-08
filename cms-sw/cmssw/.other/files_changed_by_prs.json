@@ -1985,6 +1985,17 @@
         "state": "open", 
         "updated_at": 1565260252
     }, 
+    "27727": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/relval_standard.py", 
+            "DQMOffline/Configuration/python/autoDQM.py"
+        ], 
+        "created_at": 1565263334, 
+        "number": 27727, 
+        "state": "open", 
+        "updated_at": 1565263360
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
