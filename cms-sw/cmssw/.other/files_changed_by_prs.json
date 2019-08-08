@@ -1773,12 +1773,13 @@
             "SimG4Core/Application/interface/ExceptionHandler.h", 
             "SimG4Core/Application/python/g4SimHits_cfi.py", 
             "SimG4Core/Application/src/RunManager.cc", 
+            "SimG4Core/Application/src/RunManagerMT.cc", 
             "SimG4Core/Application/src/RunManagerMTWorker.cc"
         ], 
         "created_at": 1565165723, 
         "number": 27706, 
         "state": "open", 
-        "updated_at": 1565265126
+        "updated_at": 1565273336
     }, 
     "27708": {
         "base_branch": "master", 
