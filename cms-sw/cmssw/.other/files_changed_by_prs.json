@@ -1161,32 +1161,6 @@
         "state": "open", 
         "updated_at": 1565195277
     }, 
-    "27609": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondFormats/GeometryObjects/interface/HcalSimulationParameters.h", 
-            "CondFormats/GeometryObjects/src/T_EventSetup_HcalParameters.cc", 
-            "CondFormats/GeometryObjects/src/classes.h", 
-            "CondFormats/GeometryObjects/src/classes_def.xml", 
-            "CondFormats/GeometryObjects/test/testSerializationGeometryObjects.cpp", 
-            "Geometry/HcalCommonData/interface/HcalSimParametersFromDD.h", 
-            "Geometry/HcalCommonData/plugins/HcalSimParametersESModule.cc", 
-            "Geometry/HcalCommonData/python/hcalDDConstants_cff.py", 
-            "Geometry/HcalCommonData/python/testGeometry17aXML_cfi.py", 
-            "Geometry/HcalCommonData/python/testGeometry17bXML_cfi.py", 
-            "Geometry/HcalCommonData/python/testPhase0GeometryXML_cfi.py", 
-            "Geometry/HcalCommonData/python/testPhase1GeometryXML_cfi.py", 
-            "Geometry/HcalCommonData/python/testPhase2GeometryFineXML_cfi.py", 
-            "Geometry/HcalCommonData/python/testPhase2GeometryXML_cfi.py", 
-            "Geometry/HcalCommonData/src/HcalSimParametersFromDD.cc", 
-            "Geometry/HcalCommonData/test/HcalParametersAnalyzer.cc", 
-            "Geometry/HcalCommonData/test/python/runHcalParametersFromDDAnalyzer_cfg.py"
-        ], 
-        "created_at": 1564057180, 
-        "number": 27609, 
-        "state": "open", 
-        "updated_at": 1565265039
-    }, 
     "27610": {
         "base_branch": "master", 
         "changed_files_names": [
