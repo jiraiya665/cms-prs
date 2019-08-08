@@ -1992,6 +1992,22 @@
         "state": "open", 
         "updated_at": 1565266962
     }, 
+    "27729": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/python/testFastTimeBarrelXML_cfi.py", 
+            "Geometry/HGCalCommonData/python/testFastTimeXML_cfi.py", 
+            "Geometry/HGCalCommonData/python/testHGCV7XML_cfi.py", 
+            "Geometry/HGCalCommonData/python/testHGCV8XML_cfi.py", 
+            "Geometry/HGCalCommonData/python/testHGCalXML_cfi.py", 
+            "Validation/HGCalValidation/test/testHGCalSimWatcherV11_cfg.py", 
+            "Validation/HGCalValidation/test/testHGCalSimWatcherV8_cfg.py"
+        ], 
+        "created_at": 1565267829, 
+        "number": 27729, 
+        "state": "open", 
+        "updated_at": 1565267889
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
