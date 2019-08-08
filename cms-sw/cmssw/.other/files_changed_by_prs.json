@@ -1583,19 +1583,6 @@
         "state": "open", 
         "updated_at": 1564756245
     }, 
-    "27666": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoHGCal/TICL/plugins/ClusterFilterByAlgoAndSize.h", 
-            "RecoHGCal/TICL/plugins/FilteredLayerClustersProducer.cc", 
-            "RecoHGCal/TICL/plugins/filters.cc", 
-            "RecoHGCal/TICL/python/ticl_iterations.py"
-        ], 
-        "created_at": 1564664977, 
-        "number": 27666, 
-        "state": "open", 
-        "updated_at": 1564665033
-    }, 
     "27672": {
         "base_branch": "master", 
         "changed_files_names": [
