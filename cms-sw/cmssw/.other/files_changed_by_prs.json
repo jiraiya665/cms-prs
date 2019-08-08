@@ -1877,16 +1877,6 @@
         "state": "open", 
         "updated_at": 1565198743
     }, 
-    "27719": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoTracker/TransientTrackingRecHit/interface/TRecHit1DMomConstraint.h"
-        ], 
-        "created_at": 1565200714, 
-        "number": 27719, 
-        "state": "open", 
-        "updated_at": 1565200747
-    }, 
     "27720": {
         "base_branch": "master", 
         "changed_files_names": [
