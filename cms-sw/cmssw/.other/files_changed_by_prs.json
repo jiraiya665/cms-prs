@@ -1782,6 +1782,17 @@
         "state": "open", 
         "updated_at": 1565295561
     }, 
+    "27736": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DetectorDescription/DDCMS/plugins/DDCutTubsFromPoints.cc", 
+            "DetectorDescription/DDCMS/plugins/DDDefinitions2Objects.cc"
+        ], 
+        "created_at": 1565337467, 
+        "number": 27736, 
+        "state": "open", 
+        "updated_at": 1565337516
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
