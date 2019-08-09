@@ -1678,18 +1678,6 @@
         "state": "open", 
         "updated_at": 1565245157
     }, 
-    "27725": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DetectorDescription/DDCMS/plugins/DDCutTubsFromPoints.cc", 
-            "DetectorDescription/DDCMS/plugins/DDDefinitions2Objects.cc", 
-            "DetectorDescription/DDCMS/plugins/DDTrackerAngular.cc"
-        ], 
-        "created_at": 1565254894, 
-        "number": 27725, 
-        "state": "open", 
-        "updated_at": 1565254930
-    }, 
     "27726": {
         "base_branch": "master", 
         "changed_files_names": [
