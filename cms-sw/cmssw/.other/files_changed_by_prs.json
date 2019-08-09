@@ -102,20 +102,6 @@
         "state": "open", 
         "updated_at": 1554991445
     }, 
-    "25606": {
-        "base_branch": "CMSSW_9_4_X", 
-        "changed_files_names": [
-            "DataFormats/TrackerRecHit2D/interface/FastTrackerRecHit.h", 
-            "DataFormats/TrackerRecHit2D/src/classes_def.xml", 
-            "FastSimulation/SimplifiedGeometryPropagator/plugins/BuildFile.xml", 
-            "FastSimulation/SimplifiedGeometryPropagator/plugins/FastTrackDeDxProducer.cc", 
-            "FastSimulation/TrackingRecHitProducer/plugins/TrackingRecHitProducer.cc"
-        ], 
-        "created_at": 1547017892, 
-        "number": 25606, 
-        "state": "open", 
-        "updated_at": 1550838263
-    }, 
     "25780": {
         "base_branch": "CMSSW_10_2_X", 
         "changed_files_names": [
