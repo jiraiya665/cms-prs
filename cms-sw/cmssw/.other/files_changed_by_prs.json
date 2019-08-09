@@ -1707,17 +1707,6 @@
         "state": "open", 
         "updated_at": 1565278216
     }, 
-    "27728": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DetectorDescription/DDCMS/interface/DDDetector.h", 
-            "DetectorDescription/DDCMS/src/DDDetector.cc"
-        ], 
-        "created_at": 1565266911, 
-        "number": 27728, 
-        "state": "open", 
-        "updated_at": 1565266962
-    }, 
     "27729": {
         "base_branch": "master", 
         "changed_files_names": [
