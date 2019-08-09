@@ -258,18 +258,6 @@
         "state": "open", 
         "updated_at": 1551172318
     }, 
-    "26043": {
-        "base_branch": "CMSSW_10_5_X", 
-        "changed_files_names": [
-            "SimGeneral/MixingModule/python/aliases_PreMix_cfi.py", 
-            "SimGeneral/MixingModule/python/aliases_cfi.py", 
-            "SimTracker/SiPixelDigitizer/plugins/SiPixelDigitizer.cc"
-        ], 
-        "created_at": 1551470066, 
-        "number": 26043, 
-        "state": "open", 
-        "updated_at": 1552153814
-    }, 
     "26094": {
         "base_branch": "CMSSW_7_1_X", 
         "changed_files_names": [
