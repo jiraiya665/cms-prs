@@ -1657,16 +1657,6 @@
         "state": "open", 
         "updated_at": 1565265240
     }, 
-    "27714": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondFormats/Common/src/hash64.cc"
-        ], 
-        "created_at": 1565196033, 
-        "number": 27714, 
-        "state": "open", 
-        "updated_at": 1565196088
-    }, 
     "27722": {
         "base_branch": "master", 
         "changed_files_names": [
