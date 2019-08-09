@@ -112,16 +112,6 @@
         "state": "open", 
         "updated_at": 1554991479
     }, 
-    "25804": {
-        "base_branch": "CMSSW_9_4_X", 
-        "changed_files_names": [
-            "FastSimulation/Tracking/src/SeedFinderSelector.cc"
-        ], 
-        "created_at": 1548873842, 
-        "number": 25804, 
-        "state": "open", 
-        "updated_at": 1548884629
-    }, 
     "25891": {
         "base_branch": "master", 
         "changed_files_names": [
