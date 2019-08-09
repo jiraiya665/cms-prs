@@ -289,17 +289,6 @@
         "state": "open", 
         "updated_at": 1560259189
     }, 
-    "26326": {
-        "base_branch": "CMSSW_10_5_X", 
-        "changed_files_names": [
-            "DQM/SiPixelPhase1Track/plugins/SiPixelPhase1RecHits.cc", 
-            "DQM/SiPixelPhase1Track/python/SiPixelPhase1RecHits_cfi.py"
-        ], 
-        "created_at": 1554205366, 
-        "number": 26326, 
-        "state": "open", 
-        "updated_at": 1554292760
-    }, 
     "26402": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
