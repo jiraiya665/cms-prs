@@ -1803,6 +1803,30 @@
         "state": "open", 
         "updated_at": 1565341525
     }, 
+    "27738": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/BTauReco/interface/PixelClusterTagInfo.h", 
+            "DataFormats/BTauReco/src/classes.h", 
+            "DataFormats/BTauReco/src/classes_def.xml", 
+            "PhysicsTools/PatAlgos/python/recoLayer0/bTagging_cff.py", 
+            "PhysicsTools/PatAlgos/python/slimming/MicroEventContent_cff.py", 
+            "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py", 
+            "PhysicsTools/PatAlgos/python/tools/jetTools.py", 
+            "RecoBTag/Configuration/python/RecoBTag_EventContent_cff.py", 
+            "RecoBTag/Configuration/python/RecoBTag_cff.py", 
+            "RecoBTag/PixelCluster/interface/PixelClusterTagInfoProducer.h", 
+            "RecoBTag/PixelCluster/plugins/BuildFile.xml", 
+            "RecoBTag/PixelCluster/plugins/PixelClusterTagInfoProducer.cc", 
+            "RecoBTag/PixelCluster/python/pixelClusterTagInfos_cfi.py", 
+            "RecoBTag/PixelCluster/python/pixelCluster_EventSetup_cff.py", 
+            "RecoBTag/PixelCluster/python/pixelCluster_cff.py"
+        ], 
+        "created_at": 1565347953, 
+        "number": 27738, 
+        "state": "open", 
+        "updated_at": 1565348010
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
