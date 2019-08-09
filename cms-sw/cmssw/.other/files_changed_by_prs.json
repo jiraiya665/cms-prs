@@ -673,21 +673,6 @@
         "state": "open", 
         "updated_at": 1560159811
     }, 
-    "26431": {
-        "base_branch": "CMSSW_10_5_X", 
-        "changed_files_names": [
-            "Alignment/OfflineValidation/interface/TrackerValidationVariables.h", 
-            "Alignment/OfflineValidation/src/TrackerValidationVariables.cc", 
-            "DQM/SiPixelPhase1Track/plugins/SiPixelPhase1RecHits.cc", 
-            "DQM/SiPixelPhase1Track/plugins/SiPixelPhase1TrackResiduals.cc", 
-            "DQM/SiPixelPhase1Track/python/SiPixelPhase1RecHits_cfi.py", 
-            "DQM/SiPixelPhase1Track/python/SiPixelPhase1TrackResiduals_cfi.py"
-        ], 
-        "created_at": 1554932414, 
-        "number": 26431, 
-        "state": "open", 
-        "updated_at": 1555086629
-    }, 
     "26446": {
         "base_branch": "master", 
         "changed_files_names": [
