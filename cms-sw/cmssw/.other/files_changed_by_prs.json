@@ -1721,20 +1721,6 @@
         "state": "open", 
         "updated_at": 1565290632
     }, 
-    "27735": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HcalAlgo/data/cms-test-ddhcalForwardShield-algorithm.xml", 
-            "Geometry/HcalAlgo/plugins/dd4hep/DDHCalFibreBundle.cc", 
-            "Geometry/HcalAlgo/python/testGeomForwardShield_cfi.py", 
-            "Geometry/HcalAlgo/test/python/dumpForwardShield_cfg.py", 
-            "Geometry/HcalAlgo/test/python/testForwardShield.py"
-        ], 
-        "created_at": 1565294426, 
-        "number": 27735, 
-        "state": "open", 
-        "updated_at": 1565295561
-    }, 
     "27736": {
         "base_branch": "master", 
         "changed_files_names": [
