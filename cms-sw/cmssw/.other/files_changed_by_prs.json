@@ -1589,16 +1589,6 @@
         "state": "open", 
         "updated_at": 1565263038
     }, 
-    "27705": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoLocalTracker/SiPixelRecHits/src/SiPixelTemplateReco.cc"
-        ], 
-        "created_at": 1565115451, 
-        "number": 27705, 
-        "state": "open", 
-        "updated_at": 1565118190
-    }, 
     "27711": {
         "base_branch": "master", 
         "changed_files_names": [
