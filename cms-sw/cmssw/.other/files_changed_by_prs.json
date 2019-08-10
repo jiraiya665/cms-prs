@@ -1686,32 +1686,6 @@
         "state": "open", 
         "updated_at": 1565338256
     }, 
-    "27729": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HGCalCommonData/python/testFastTimeBarrelXML_cfi.py", 
-            "Geometry/HGCalCommonData/python/testFastTimeXML_cfi.py", 
-            "Geometry/HGCalCommonData/python/testHGCV7XML_cfi.py", 
-            "Geometry/HGCalCommonData/python/testHGCV8XML_cfi.py", 
-            "Geometry/HGCalCommonData/python/testHGCV8_cff.py", 
-            "Geometry/HGCalCommonData/python/testHGCalXML_cfi.py", 
-            "Validation/HGCalValidation/test/digiClient_cfg.py", 
-            "Validation/HGCalValidation/test/digiValidation_cfg.py", 
-            "Validation/HGCalValidation/test/recHitClient_cfg.py", 
-            "Validation/HGCalValidation/test/rechitValidation_cfg.py", 
-            "Validation/HGCalValidation/test/runHFNoseDigiStudy_cfg.py", 
-            "Validation/HGCalValidation/test/runHFNoseRecHitStudy_cfg.py", 
-            "Validation/HGCalValidation/test/simHitClient_cfg.py", 
-            "Validation/HGCalValidation/test/simHitValidation_cfg.py", 
-            "Validation/HGCalValidation/test/testHGCalSimWatcherV10_cfg.py", 
-            "Validation/HGCalValidation/test/testHGCalSimWatcherV11_cfg.py", 
-            "Validation/HGCalValidation/test/testHGCalSimWatcherV8_cfg.py"
-        ], 
-        "created_at": 1565267829, 
-        "number": 27729, 
-        "state": "open", 
-        "updated_at": 1565273141
-    }, 
     "27731": {
         "base_branch": "master", 
         "changed_files_names": [
