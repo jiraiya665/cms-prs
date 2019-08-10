@@ -1792,6 +1792,7 @@
     "27742": {
         "base_branch": "master", 
         "changed_files_names": [
+            "CondTools/Geometry/plugins/PGeometricDetBuilder.cc", 
             "DetectorDescription/Core/interface/DDExpandedView.h", 
             "DetectorDescription/Core/interface/DDFilteredView.h", 
             "DetectorDescription/Core/src/DDExpandedView.cc", 
@@ -1816,12 +1817,13 @@
             "Geometry/TrackerNumberingBuilder/src/CmsTrackerDebugNavigator.cc", 
             "Geometry/TrackerNumberingBuilder/src/GeometricDet.cc", 
             "Geometry/TrackerNumberingBuilder/src/GeometricDetExtra.cc", 
-            "Geometry/TrackerNumberingBuilder/test/ModuleNumbering.cc"
+            "Geometry/TrackerNumberingBuilder/test/ModuleNumbering.cc", 
+            "SLHCUpgradeSimulations/Geometry/test/ModuleInfo_Phase2.cc"
         ], 
         "created_at": 1565430178, 
         "number": 27742, 
         "state": "open", 
-        "updated_at": 1565430374
+        "updated_at": 1565460602
     }, 
     "27743": {
         "base_branch": "master", 
