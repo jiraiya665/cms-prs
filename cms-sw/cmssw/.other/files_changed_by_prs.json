@@ -1576,17 +1576,6 @@
         "state": "open", 
         "updated_at": 1565119422
     }, 
-    "27699": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/SiStripMonitorTrack/interface/SiStripMonitorTrack.h", 
-            "DQM/SiStripMonitorTrack/src/SiStripMonitorTrack.cc"
-        ], 
-        "created_at": 1565065531, 
-        "number": 27699, 
-        "state": "open", 
-        "updated_at": 1565067388
-    }, 
     "27704": {
         "base_branch": "master", 
         "changed_files_names": [
