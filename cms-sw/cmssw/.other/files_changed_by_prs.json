@@ -1850,6 +1850,40 @@
         "state": "open", 
         "updated_at": 1565362617
     }, 
+    "27742": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DetectorDescription/Core/interface/DDExpandedView.h", 
+            "DetectorDescription/Core/interface/DDFilteredView.h", 
+            "DetectorDescription/Core/src/DDExpandedView.cc", 
+            "DetectorDescription/Core/src/DDFilteredView.cc", 
+            "Geometry/MTDGeometryBuilder/src/MTDGeomBuilderFromGeometricTimingDet.cc", 
+            "Geometry/MTDGeometryBuilder/src/MTDGeometry.cc", 
+            "Geometry/MTDNumberingBuilder/bin/stubs/GeometricTimingDetLoader.cc", 
+            "Geometry/MTDNumberingBuilder/interface/GeometricTimingDet.h", 
+            "Geometry/MTDNumberingBuilder/interface/GeometricTimingDetExtra.h", 
+            "Geometry/MTDNumberingBuilder/plugins/CmsMTDConstruction.cc", 
+            "Geometry/MTDNumberingBuilder/plugins/CmsMTDEndcapBuilder.cc", 
+            "Geometry/MTDNumberingBuilder/src/CmsMTDDebugNavigator.cc", 
+            "Geometry/MTDNumberingBuilder/src/GeometricTimingDet.cc", 
+            "Geometry/MTDNumberingBuilder/test/MTDModuleNumbering.cc", 
+            "Geometry/TrackerGeometryBuilder/src/TrackerGeomBuilderFromGeometricDet.cc", 
+            "Geometry/TrackerGeometryBuilder/src/TrackerGeometry.cc", 
+            "Geometry/TrackerGeometryBuilder/test/ModuleInfo.cc", 
+            "Geometry/TrackerNumberingBuilder/bin/stubs/GeometricDetLoader.cc", 
+            "Geometry/TrackerNumberingBuilder/interface/GeometricDet.h", 
+            "Geometry/TrackerNumberingBuilder/interface/GeometricDetExtra.h", 
+            "Geometry/TrackerNumberingBuilder/plugins/CmsTrackerPixelPhase1EndcapBuilder.cc", 
+            "Geometry/TrackerNumberingBuilder/src/CmsTrackerDebugNavigator.cc", 
+            "Geometry/TrackerNumberingBuilder/src/GeometricDet.cc", 
+            "Geometry/TrackerNumberingBuilder/src/GeometricDetExtra.cc", 
+            "Geometry/TrackerNumberingBuilder/test/ModuleNumbering.cc"
+        ], 
+        "created_at": 1565430178, 
+        "number": 27742, 
+        "state": "open", 
+        "updated_at": 1565430204
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
