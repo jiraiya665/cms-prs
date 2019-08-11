@@ -1589,40 +1589,6 @@
         "state": "open", 
         "updated_at": 1565263038
     }, 
-    "27711": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HGCalCommonData/plugins/DDHGCalCell.cc", 
-            "Geometry/HGCalCommonData/plugins/DDHGCalCell.h", 
-            "Geometry/HGCalCommonData/plugins/DDHGCalEEAlgo.cc", 
-            "Geometry/HGCalCommonData/plugins/DDHGCalEEAlgo.h", 
-            "Geometry/HGCalCommonData/plugins/DDHGCalHEAlgo.cc", 
-            "Geometry/HGCalCommonData/plugins/DDHGCalHEAlgo.h", 
-            "Geometry/HGCalCommonData/plugins/DDHGCalModule.cc", 
-            "Geometry/HGCalCommonData/plugins/DDHGCalModule.h", 
-            "Geometry/HGCalCommonData/plugins/DDHGCalModuleAlgo.cc", 
-            "Geometry/HGCalCommonData/plugins/DDHGCalModuleAlgo.h", 
-            "Geometry/HGCalCommonData/plugins/DDHGCalNoTaperEndcap.cc", 
-            "Geometry/HGCalCommonData/plugins/DDHGCalNoTaperEndcap.h", 
-            "Geometry/HGCalCommonData/plugins/DDHGCalTBModule.cc", 
-            "Geometry/HGCalCommonData/plugins/DDHGCalTBModule.h", 
-            "Geometry/HGCalCommonData/plugins/DDHGCalTBModuleX.cc", 
-            "Geometry/HGCalCommonData/plugins/DDHGCalTBModuleX.h", 
-            "Geometry/HGCalCommonData/plugins/DDHGCalWafer.cc", 
-            "Geometry/HGCalCommonData/plugins/DDHGCalWafer.h", 
-            "Geometry/HGCalCommonData/plugins/DDHGCalWafer8.cc", 
-            "Geometry/HGCalCommonData/plugins/DDHGCalWafer8.h", 
-            "Geometry/HGCalCommonData/plugins/DDHGCalWaferAlgo.cc", 
-            "Geometry/HGCalCommonData/plugins/DDHGCalWaferAlgo.h", 
-            "Geometry/HGCalCommonData/plugins/module.cc", 
-            "Geometry/HGCalCommonData/python/testGeometryExtended_cff.py", 
-            "Geometry/HGCalCommonData/test/dumpExtendedHGCalGeometry_cfg.py"
-        ], 
-        "created_at": 1565185354, 
-        "number": 27711, 
-        "state": "open", 
-        "updated_at": 1565187227
-    }, 
     "27712": {
         "base_branch": "master", 
         "changed_files_names": [
