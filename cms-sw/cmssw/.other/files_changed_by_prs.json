@@ -1950,6 +1950,16 @@
         "state": "open", 
         "updated_at": 1565591930
     }, 
+    "27746": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/Skimming/python/autoSkim.py"
+        ], 
+        "created_at": 1565593057, 
+        "number": 27746, 
+        "state": "open", 
+        "updated_at": 1565593110
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
