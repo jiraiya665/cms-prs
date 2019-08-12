@@ -1497,18 +1497,6 @@
         "state": "open", 
         "updated_at": 1565010363
     }, 
-    "27697": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimG4CMS/HGCalTestBeam/plugins/AHCalDetId.cc", 
-            "SimG4CMS/HGCalTestBeam/plugins/AHCalDetId.h", 
-            "SimG4CMS/HGCalTestBeam/plugins/HGCalTBAnalyzer.cc"
-        ], 
-        "created_at": 1565016488, 
-        "number": 27697, 
-        "state": "open", 
-        "updated_at": 1565470986
-    }, 
     "27698": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
