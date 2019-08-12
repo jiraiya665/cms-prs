@@ -1578,16 +1578,6 @@
         "state": "open", 
         "updated_at": 1565290632
     }, 
-    "27737": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondCore/CondDB/test/BuildFile.xml"
-        ], 
-        "created_at": 1565341446, 
-        "number": 27737, 
-        "state": "open", 
-        "updated_at": 1565341525
-    }, 
     "27738": {
         "base_branch": "master", 
         "changed_files_names": [
