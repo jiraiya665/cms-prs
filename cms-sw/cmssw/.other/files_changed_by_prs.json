@@ -1,14 +1,4 @@
 {
-    "21478": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            ".clang-tidy"
-        ], 
-        "created_at": 1511887771, 
-        "number": 21478, 
-        "state": "open", 
-        "updated_at": 1558606320
-    }, 
     "23219": {
         "base_branch": "master", 
         "changed_files_names": [
