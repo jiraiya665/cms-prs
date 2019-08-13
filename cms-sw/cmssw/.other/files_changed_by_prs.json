@@ -1803,19 +1803,6 @@
         "state": "open", 
         "updated_at": 1565693273
     }, 
-    "27638": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/Integration/python/clients/info_dqm_sourceclient-live_cfg.py", 
-            "DQMServices/Components/BuildFile.xml", 
-            "DQMServices/Components/plugins/DQMProvInfo.cc", 
-            "DQMServices/Components/plugins/DQMProvInfo.h"
-        ], 
-        "created_at": 1564472675, 
-        "number": 27638, 
-        "state": "open", 
-        "updated_at": 1564660125
-    }, 
     "27640": {
         "base_branch": "master", 
         "changed_files_names": [
