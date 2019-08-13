@@ -848,24 +848,6 @@
         "state": "open", 
         "updated_at": 1564083904
     }, 
-    "27516": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/Geometry/python/GeometryExtended2023D45_cff.py", 
-            "RecoLocalTracker/SiPixelRecHits/python/PixelCPEGeneric_cfi.py", 
-            "SLHCUpgradeSimulations/Configuration/python/loadInnerTrackerConditionFromDB.py", 
-            "SLHCUpgradeSimulations/Geometry/python/fakeConditions_phase2TkT11_cff.py", 
-            "SLHCUpgradeSimulations/Geometry/python/fakeConditions_phase2TkT14_cff.py", 
-            "SLHCUpgradeSimulations/Geometry/python/fakeConditions_phase2TkT15_cff.py", 
-            "SLHCUpgradeSimulations/Geometry/python/fakeConditions_phase2TkT5_cff.py", 
-            "SLHCUpgradeSimulations/Geometry/python/fakeConditions_phase2TkT6_cff.py", 
-            "SimTracker/SiPhase2Digitizer/python/phase2TrackerDigitizer_cfi.py"
-        ], 
-        "created_at": 1563042763, 
-        "number": 27516, 
-        "state": "open", 
-        "updated_at": 1563042843
-    }, 
     "27522": {
         "base_branch": "master", 
         "changed_files_names": [
