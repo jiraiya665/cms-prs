@@ -1974,6 +1974,31 @@
         "state": "open", 
         "updated_at": 1565714830
     }, 
+    "27769": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/BuildFile.xml", 
+            "Geometry/HGCalCommonData/interface/AHCalParameters.h", 
+            "Geometry/HGCalCommonData/plugins/DDAHcalModuleAlgo.cc", 
+            "Geometry/HGCalCommonData/src/AHCalParameters.cc", 
+            "SimDataFormats/CaloHit/interface/PassiveHit.h", 
+            "SimDataFormats/CaloHit/src/classes_def.xml", 
+            "SimG4CMS/HGCalTestBeam/BuildFile.xml", 
+            "SimG4CMS/HGCalTestBeam/interface/AHCalDetId.h", 
+            "SimG4CMS/HGCalTestBeam/interface/AHCalGeometry.h", 
+            "SimG4CMS/HGCalTestBeam/plugins/AHCalGeometry.cc", 
+            "SimG4CMS/HGCalTestBeam/plugins/AHCalSD.cc", 
+            "SimG4CMS/HGCalTestBeam/plugins/BuildFile.xml", 
+            "SimG4CMS/HGCalTestBeam/plugins/HGCalTBAnalyzer.cc", 
+            "SimG4CMS/HGCalTestBeam/src/AHCalDetId.cc", 
+            "SimG4CMS/HGCalTestBeam/src/AHCalGeometry.cc", 
+            "SimG4CMS/HGCalTestBeam/test/HGCalTBCERN181Oct1el100_cfg.py"
+        ], 
+        "created_at": 1565717666, 
+        "number": 27769, 
+        "state": "open", 
+        "updated_at": 1565717723
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
