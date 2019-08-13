@@ -1709,22 +1709,6 @@
         "state": "open", 
         "updated_at": 1565637188
     }, 
-    "27744": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DetectorDescription/DDCMS/data/cms-geometry-2021.xml", 
-            "Geometry/CMSCommonData/data/cavern/2021/v1/cavern.xml", 
-            "Geometry/CMSCommonData/data/cavernData/2021/v1/cavernData.xml", 
-            "Geometry/CMSCommonData/data/cms/2021/v2/cms.xml", 
-            "Geometry/CMSCommonData/python/cmsExtendedGeometry2021XML_cfi.py", 
-            "Geometry/MuonCommonData/data/mb4Shield/2021/v1/mb4Shield.xml", 
-            "Geometry/MuonCommonData/data/mbCommon/2021/v1/mbCommon.xml"
-        ], 
-        "created_at": 1565530933, 
-        "number": 27744, 
-        "state": "open", 
-        "updated_at": 1565618180
-    }, 
     "27745": {
         "base_branch": "master", 
         "changed_files_names": [
