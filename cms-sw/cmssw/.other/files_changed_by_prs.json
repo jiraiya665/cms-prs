@@ -1010,24 +1010,6 @@
         "state": "open", 
         "updated_at": 1564359296
     }, 
-    "27630": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondFormats/SiPixelObjects/test/SiPixelBadFEDChannelSimulationSanityChecker_cfg.py", 
-            "CondFormats/SiPixelObjects/test/SiPixelFEDChannelContainerWriteFromASCII.cc", 
-            "CondFormats/SiPixelObjects/test/SiPixelFEDChannelContainerWriteFromASCII_cfg.py", 
-            "CondFormats/SiPixelObjects/test/SiPixelQualityProbabilitiesWriteFromASCII.cc", 
-            "CondFormats/SiPixelObjects/test/SiPixelQualityProbabilitiesWriteFromASCII_cfg.py", 
-            "CondTools/SiPixel/test/SiPixelBadModuleByHandBuilder.cc", 
-            "CondTools/SiPixel/test/SiPixelBadModuleByHandBuilder.h", 
-            "CondTools/SiPixel/test/SiPixelBadModuleByHandBuilderFromROCList_cfg.py", 
-            "CondTools/SiPixel/test/SiPixelBadModuleByHandBuilder_cfg.py"
-        ], 
-        "created_at": 1564396790, 
-        "number": 27630, 
-        "state": "open", 
-        "updated_at": 1565610605
-    }, 
     "27633": {
         "base_branch": "master", 
         "changed_files_names": [
