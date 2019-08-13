@@ -1850,27 +1850,6 @@
         "state": "open", 
         "updated_at": 1565599982
     }, 
-    "27749": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondTools/Geometry/test/geSingleBigFile.xml", 
-            "CondTools/Geometry/test/geometryCTPPStest_local.py", 
-            "CondTools/Geometry/test/geometrytest_local.py", 
-            "CondTools/Geometry/test/geometrywriter.py", 
-            "CondTools/Geometry/test/geometryxmlwriter.py", 
-            "CondTools/Geometry/test/writehelpers/createExtended2021Payloads.sh", 
-            "CondTools/Geometry/test/writehelpers/geometryExtended2021_writer.py", 
-            "CondTools/Geometry/test/writehelpers/geometryExtended2021_xmlwriter.py", 
-            "CondTools/Geometry/test/writehelpers/splitExtended2021Database.sh", 
-            "CondTools/Geometry/test/xmlgeometrywriter.py", 
-            "DetectorDescription/DDCMS/data/cms-geometry-2021.xml", 
-            "Geometry/CMSCommonData/python/cmsExtendedGeometry2021XML_cfi.py"
-        ], 
-        "created_at": 1565595841, 
-        "number": 27749, 
-        "state": "open", 
-        "updated_at": 1565595891
-    }, 
     "27750": {
         "base_branch": "master", 
         "changed_files_names": [
