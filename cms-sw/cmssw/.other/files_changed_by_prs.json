@@ -1601,6 +1601,7 @@
             "Geometry/MTDNumberingBuilder/src/GeometricTimingDet.cc", 
             "Geometry/MTDNumberingBuilder/test/MTDModuleNumbering.cc", 
             "Geometry/MTDNumberingBuilder/test/MTDTopologyAnalyzer.cc", 
+            "Geometry/MTDNumberingBuilder/test/mtd_cfg.py", 
             "Geometry/TrackerGeometryBuilder/src/TrackerGeomBuilderFromGeometricDet.cc", 
             "Geometry/TrackerGeometryBuilder/src/TrackerGeometry.cc", 
             "Geometry/TrackerGeometryBuilder/test/ModuleInfo.cc", 
@@ -1617,7 +1618,7 @@
         "created_at": 1565430178, 
         "number": 27742, 
         "state": "open", 
-        "updated_at": 1565549227
+        "updated_at": 1565692640
     }, 
     "27743": {
         "base_branch": "master", 
