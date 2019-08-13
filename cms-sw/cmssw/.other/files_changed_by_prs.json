@@ -1974,16 +1974,6 @@
         "state": "open", 
         "updated_at": 1565707051
     }, 
-    "27766": {
-        "base_branch": "CMSSW_10_2_X", 
-        "changed_files_names": [
-            "SimG4Core/Generators/src/Generator.cc"
-        ], 
-        "created_at": 1565708184, 
-        "number": 27766, 
-        "state": "open", 
-        "updated_at": 1565708184
-    }, 
     "27768": {
         "base_branch": "master", 
         "changed_files_names": [
