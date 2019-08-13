@@ -1521,29 +1521,6 @@
         "state": "open", 
         "updated_at": 1565711589
     }, 
-    "27739": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DetectorDescription/DDCMS/data/testDDHGCalCellAlgorithm.xml", 
-            "DetectorDescription/DDCMS/data/testDDHGCalWafer8Algorithm.xml", 
-            "DetectorDescription/DDCMS/plugins/DDHGCalCell.cc", 
-            "DetectorDescription/DDCMS/plugins/DDHGCalWafer.cc", 
-            "DetectorDescription/DDCMS/plugins/DDHGCalWafer8.cc", 
-            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalwafer-algorithm.xml", 
-            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalwafer8-algorithm.xml", 
-            "Geometry/HGCalCommonData/data/hgcalwafer/v8/hgcal.xml", 
-            "Geometry/HGCalCommonData/python/testHGCalWafer8XML_cfi.py", 
-            "Geometry/HGCalCommonData/python/testHGCalWaferXML_cfi.py", 
-            "Geometry/HGCalCommonData/test/dumpWafer8Geometry_cfg.py", 
-            "Geometry/HGCalCommonData/test/dumpWaferGeometry_cfg.py", 
-            "Geometry/HGCalCommonData/test/testWafer8Geometry_cfg.py", 
-            "Geometry/HGCalCommonData/test/testWaferGeometry_cfg.py"
-        ], 
-        "created_at": 1565362564, 
-        "number": 27739, 
-        "state": "open", 
-        "updated_at": 1565362617
-    }, 
     "27742": {
         "base_branch": "master", 
         "changed_files_names": [
