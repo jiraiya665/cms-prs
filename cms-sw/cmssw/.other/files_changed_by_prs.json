@@ -640,19 +640,6 @@
         "state": "open", 
         "updated_at": 1557848266
     }, 
-    "26476": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/PyReleaseValidation/python/relval_standard.py", 
-            "Configuration/PyReleaseValidation/python/relval_steps.py", 
-            "DPGAnalysis/Skims/python/BunchCrossingSkim_cff.py", 
-            "DPGAnalysis/Skims/python/Skims_DPG_cff.py"
-        ], 
-        "created_at": 1555480726, 
-        "number": 26476, 
-        "state": "open", 
-        "updated_at": 1558546365
-    }, 
     "26592": {
         "base_branch": "master", 
         "changed_files_names": [
