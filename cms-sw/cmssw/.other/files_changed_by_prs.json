@@ -2502,21 +2502,6 @@
         "state": "open", 
         "updated_at": 1565617319
     }, 
-    "27752": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DetectorDescription/DDCMS/plugins/DDTOBRadCableAlgo.cc", 
-            "Geometry/TrackerCommonData/data/tecwheel6.xml", 
-            "Geometry/TrackerCommonData/data/tecwheela.xml", 
-            "Geometry/TrackerCommonData/data/tecwheelb.xml", 
-            "Geometry/TrackerCommonData/data/tecwheelc.xml", 
-            "Geometry/TrackerCommonData/data/tecwheeld.xml"
-        ], 
-        "created_at": 1565618680, 
-        "number": 27752, 
-        "state": "open", 
-        "updated_at": 1565618738
-    }, 
     "27753": {
         "base_branch": "master", 
         "changed_files_names": [
