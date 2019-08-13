@@ -2613,12 +2613,15 @@
             "SimG4CMS/HGCalTestBeam/plugins/HGCalTBAnalyzer.cc", 
             "SimG4CMS/HGCalTestBeam/src/AHCalDetId.cc", 
             "SimG4CMS/HGCalTestBeam/src/AHCalGeometry.cc", 
-            "SimG4CMS/HGCalTestBeam/test/HGCalTBCERN181Oct1el100_cfg.py"
+            "SimG4CMS/HGCalTestBeam/test/HGCalTBCERN181Oct1_cfg.py", 
+            "SimG4CMS/HGCalTestBeam/test/HGCalTBCERN181Oct1el100_cfg.py", 
+            "SimG4CMS/HGCalTestBeam/test/HGCalTBCERN181Oct2_cfg.py", 
+            "SimG4CMS/HGCalTestBeam/test/HGCalTBCERN181Oct3_cfg.py"
         ], 
         "created_at": 1565717666, 
         "number": 27769, 
         "state": "open", 
-        "updated_at": 1565718964
+        "updated_at": 1565723620
     }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
