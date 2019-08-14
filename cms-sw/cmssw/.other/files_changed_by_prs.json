@@ -1350,19 +1350,6 @@
         "state": "open", 
         "updated_at": 1565689634
     }, 
-    "27693": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondTools/Geometry/test/writehelpers/createExtended2021Payloads.sh", 
-            "CondTools/Geometry/test/writehelpers/geometryExtended2021_writer.py", 
-            "CondTools/Geometry/test/writehelpers/geometryExtended2021_xmlwriter.py", 
-            "CondTools/Geometry/test/writehelpers/splitExtended2021Database.sh"
-        ], 
-        "created_at": 1565006567, 
-        "number": 27693, 
-        "state": "open", 
-        "updated_at": 1565006628
-    }, 
     "27694": {
         "base_branch": "master", 
         "changed_files_names": [
