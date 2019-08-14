@@ -1723,12 +1723,14 @@
         "base_branch": "master", 
         "changed_files_names": [
             "Configuration/PyReleaseValidation/python/relval_2017.py", 
-            "Configuration/PyReleaseValidation/python/relval_upgrade.py"
+            "Configuration/PyReleaseValidation/python/relval_steps.py", 
+            "Configuration/PyReleaseValidation/python/relval_upgrade.py", 
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py"
         ], 
         "created_at": 1565630270, 
         "number": 27753, 
         "state": "open", 
-        "updated_at": 1565630320
+        "updated_at": 1565784742
     }, 
     "27757": {
         "base_branch": "CMSSW_10_6_X", 
