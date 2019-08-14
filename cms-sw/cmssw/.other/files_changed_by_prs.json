@@ -1875,6 +1875,17 @@
         "state": "open", 
         "updated_at": 1565774075
     }, 
+    "27773": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DetectorDescription/DDCMS/plugins/DDPixPhase1FwdDiskAlgo.cc", 
+            "DetectorDescription/DDCMS/plugins/DDTECModuleAlgo.cc"
+        ], 
+        "created_at": 1565782649, 
+        "number": 27773, 
+        "state": "open", 
+        "updated_at": 1565782681
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
