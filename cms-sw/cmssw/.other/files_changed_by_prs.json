@@ -1782,17 +1782,6 @@
         "state": "open", 
         "updated_at": 1565693009
     }, 
-    "27763": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimG4CMS/Calo/macros/MakeGVPlots.C", 
-            "SimG4CMS/Calo/plugins/CaloSimHitAnalysis.cc"
-        ], 
-        "created_at": 1565705540, 
-        "number": 27763, 
-        "state": "open", 
-        "updated_at": 1565709796
-    }, 
     "27764": {
         "base_branch": "master", 
         "changed_files_names": [
