@@ -1782,16 +1782,6 @@
         "state": "open", 
         "updated_at": 1565693009
     }, 
-    "27764": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Validation/RecoParticleFlow/python/particleFlowDQM_cff.py"
-        ], 
-        "created_at": 1565706070, 
-        "number": 27764, 
-        "state": "open", 
-        "updated_at": 1565706109
-    }, 
     "27768": {
         "base_branch": "master", 
         "changed_files_names": [
