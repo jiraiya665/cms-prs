@@ -1221,10 +1221,8 @@
         "base_branch": "master", 
         "changed_files_names": [
             "DetectorDescription/DDCMS/data/cms-mf-geometry.xml", 
-            "DetectorDescription/DDCMS/interface/DDShapes.h", 
             "DetectorDescription/DDCMS/plugins/BuildFile.xml", 
             "DetectorDescription/DDCMS/plugins/DDCompactViewMFESProducer.cc", 
-            "DetectorDescription/DDCMS/src/DDShapes.cc", 
             "MagneticField/GeomBuilder/plugins/BuildFile.xml", 
             "MagneticField/GeomBuilder/plugins/dd4hep/MagGeoBuilder.cc", 
             "MagneticField/GeomBuilder/plugins/dd4hep/MagGeoBuilder.h", 
@@ -1269,7 +1267,7 @@
         "created_at": 1564689136, 
         "number": 27674, 
         "state": "open", 
-        "updated_at": 1565360222
+        "updated_at": 1565806738
     }, 
     "27676": {
         "base_branch": "master", 
