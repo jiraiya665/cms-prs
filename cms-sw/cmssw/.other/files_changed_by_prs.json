@@ -1034,13 +1034,12 @@
             "RecoHGCal/TICL/plugins/PatternRecognitionbyCA.cc", 
             "RecoHGCal/TICL/plugins/PatternRecognitionbyCA.h", 
             "RecoHGCal/TICL/plugins/PatternRecognitionbyMultiClusters.h", 
-            "RecoHGCal/TICL/plugins/TrackstersProducer.cc", 
-            "RecoHGCal/TICL/python/ticl_iterations.py"
+            "RecoHGCal/TICL/plugins/TrackstersProducer.cc"
         ], 
         "created_at": 1564415145, 
         "number": 27634, 
         "state": "open", 
-        "updated_at": 1565693273
+        "updated_at": 1565784962
     }, 
     "27640": {
         "base_branch": "master", 
