@@ -1841,8 +1841,6 @@
             "Geometry/HGCalCommonData/interface/AHCalParameters.h", 
             "Geometry/HGCalCommonData/plugins/DDAHcalModuleAlgo.cc", 
             "Geometry/HGCalCommonData/src/AHCalParameters.cc", 
-            "SimDataFormats/CaloHit/interface/PassiveHit.h", 
-            "SimDataFormats/CaloHit/src/classes_def.xml", 
             "SimG4CMS/HGCalTestBeam/BuildFile.xml", 
             "SimG4CMS/HGCalTestBeam/interface/AHCalDetId.h", 
             "SimG4CMS/HGCalTestBeam/interface/AHCalGeometry.h", 
@@ -1860,7 +1858,7 @@
         "created_at": 1565717666, 
         "number": 27769, 
         "state": "open", 
-        "updated_at": 1565723620
+        "updated_at": 1565737159
     }, 
     "27770": {
         "base_branch": "master", 
