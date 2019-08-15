@@ -1704,12 +1704,13 @@
         "base_branch": "master", 
         "changed_files_names": [
             "SimCalorimetry/HGCalSimProducers/interface/HGCDigitizerBase.h", 
+            "SimCalorimetry/HGCalSimProducers/interface/HGCFEElectronics.h", 
             "SimCalorimetry/HGCalSimProducers/src/HGCDigitizerBase.cc"
         ], 
         "created_at": 1565735506, 
         "number": 27770, 
         "state": "open", 
-        "updated_at": 1565896689
+        "updated_at": 1565902527
     }, 
     "27772": {
         "base_branch": "master", 
