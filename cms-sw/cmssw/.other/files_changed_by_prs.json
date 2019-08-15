@@ -1878,6 +1878,35 @@
         "state": "open", 
         "updated_at": 1565871730
     }, 
+    "27783": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalEE-algorithm.xml", 
+            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalHEmix-algorithm.xml", 
+            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalHEsil-algorithm.xml", 
+            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalcell-algorithm.xml", 
+            "Geometry/HGCalCommonData/plugins/BuildFile.xml", 
+            "Geometry/HGCalCommonData/plugins/DDAHcalModuleAlgo.cc", 
+            "Geometry/HGCalCommonData/plugins/DDAHcalModuleAlgo.h", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalCell.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalWafer.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalWafer8.cc", 
+            "Geometry/HGCalCommonData/plugins/module.cc", 
+            "Geometry/HGCalCommonData/test/dumpHGCalCellGeometry_cfg.py", 
+            "Geometry/HGCalCommonData/test/dumpHGCalWafer8Geometry_cfg.py", 
+            "Geometry/HGCalCommonData/test/dumpHGCalWaferGeometry_cfg.py", 
+            "Geometry/HGCalCommonData/test/testHGCalCellGeometry_cfg.py", 
+            "Geometry/HGCalCommonData/test/testHGCalEEGeometry_cfg.py", 
+            "Geometry/HGCalCommonData/test/testHGCalHEmixGeometry_cfg.py", 
+            "Geometry/HGCalCommonData/test/testHGCalHEsilGeometry_cfg.py", 
+            "Geometry/HGCalCommonData/test/testHGCalWafer8Geometry_cfg.py", 
+            "Geometry/HGCalCommonData/test/testHGCalWaferGeometry_cfg.py"
+        ], 
+        "created_at": 1565874525, 
+        "number": 27783, 
+        "state": "open", 
+        "updated_at": 1565874581
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
