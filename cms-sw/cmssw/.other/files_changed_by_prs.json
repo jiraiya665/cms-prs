@@ -1665,16 +1665,6 @@
         "state": "open", 
         "updated_at": 1565599982
     }, 
-    "27751": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "MagneticField/GeomBuilder/plugins/VolumeBasedMagneticFieldESProducer.cc"
-        ], 
-        "created_at": 1565617269, 
-        "number": 27751, 
-        "state": "open", 
-        "updated_at": 1565617319
-    }, 
     "27753": {
         "base_branch": "master", 
         "changed_files_names": [
