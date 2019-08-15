@@ -1041,35 +1041,6 @@
         "state": "open", 
         "updated_at": 1565784972
     }, 
-    "27640": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoEcal/Configuration/python/RecoEcalCosmics_cff.py", 
-            "RecoEcal/Configuration/python/RecoEcal_cff.py", 
-            "RecoEcal/EgammaClusterProducers/python/cosmicClusteringSequence_cff.py", 
-            "RecoEcal/EgammaClusterProducers/python/dynamicHybridClusteringSequence_cff.py", 
-            "RecoEcal/EgammaClusterProducers/python/ecalClusteringSequence_cff.py", 
-            "RecoEcal/EgammaClusterProducers/python/fixedMatrixClusteringSequence_cff.py", 
-            "RecoEcal/EgammaClusterProducers/python/fixedMatrixPreshowerClusteringSequence_cff.py", 
-            "RecoEcal/EgammaClusterProducers/python/islandClusteringSequence_cff.py", 
-            "RecoEcal/EgammaClusterProducers/python/particleFlowSuperClusteringSequence_cff.py", 
-            "RecoEcal/EgammaClusterProducers/python/preshowerClusteringSequence_cff.py", 
-            "RecoEgamma/EgammaPhotonProducers/python/photonSequence_cff.py", 
-            "RecoHI/HiEgammaAlgos/python/HiEgamma_cff.py", 
-            "RecoHI/HiEgammaAlgos/python/HiIslandClusteringSequence_cff.py", 
-            "RecoLocalMuon/Configuration/python/RecoLocalMuonCosmics_cff.py", 
-            "RecoLocalMuon/Configuration/python/RecoLocalMuon_cff.py", 
-            "RecoLocalMuon/GEMRecHit/python/gemLocalReco_cff.py", 
-            "RecoLocalMuon/GEMRecHit/python/me0LocalReco_cff.py", 
-            "RecoMuon/Configuration/python/RecoMuonCosmics_cff.py", 
-            "RecoMuon/MuonIdentification/python/me0MuonReco_cff.py", 
-            "RecoMuon/StandAloneMuonProducer/python/standAloneCosmicMuons_cff.py"
-        ], 
-        "created_at": 1564478673, 
-        "number": 27640, 
-        "state": "open", 
-        "updated_at": 1565772933
-    }, 
     "27642": {
         "base_branch": "CMSSW_10_3_X", 
         "changed_files_names": [
