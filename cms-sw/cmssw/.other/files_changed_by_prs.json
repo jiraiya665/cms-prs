@@ -1665,25 +1665,6 @@
         "state": "open", 
         "updated_at": 1565599982
     }, 
-    "27750": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "EventFilter/Utilities/interface/EvFDaqDirector.h", 
-            "EventFilter/Utilities/interface/FedRawDataInputSource.h", 
-            "EventFilter/Utilities/plugins/FRDStreamSource.cc", 
-            "EventFilter/Utilities/plugins/RawEventFileWriterForBU.cc", 
-            "EventFilter/Utilities/plugins/RawEventFileWriterForBU.h", 
-            "EventFilter/Utilities/src/EvFDaqDirector.cc", 
-            "EventFilter/Utilities/src/FedRawDataInputSource.cc", 
-            "EventFilter/Utilities/test/analyzerGNs_cfg.py", 
-            "EventFilter/Utilities/test/startBU.py", 
-            "IOPool/Streamer/interface/FRDFileHeader.h"
-        ], 
-        "created_at": 1565602212, 
-        "number": 27750, 
-        "state": "open", 
-        "updated_at": 1565772919
-    }, 
     "27751": {
         "base_branch": "master", 
         "changed_files_names": [
