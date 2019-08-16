@@ -1617,14 +1617,34 @@
     "27770": {
         "base_branch": "master", 
         "changed_files_names": [
+            "SimCalorimetry/HGCalSimAlgos/BuildFile.xml", 
+            "SimCalorimetry/HGCalSimAlgos/interface/HGCalRadiationMap.h", 
+            "SimCalorimetry/HGCalSimAlgos/interface/HGCalSciNoiseMap.h", 
+            "SimCalorimetry/HGCalSimAlgos/interface/HGCalSiNoiseMap.h", 
+            "SimCalorimetry/HGCalSimAlgos/src/HGCalRadiationMap.cc", 
+            "SimCalorimetry/HGCalSimAlgos/src/HGCalSciNoiseMap.cc", 
+            "SimCalorimetry/HGCalSimAlgos/src/HGCalSiNoiseMap.cc", 
+            "SimCalorimetry/HGCalSimAlgos/test/BuildFile.xml", 
+            "SimCalorimetry/HGCalSimAlgos/test/HGCHEbackSignalScalerAnalyzer.cc", 
+            "SimCalorimetry/HGCalSimAlgos/test/HGCSiNoiseMapAnalyzer.cc", 
+            "SimCalorimetry/HGCalSimAlgos/test/hgchebacksignalscaler_cfg.py", 
+            "SimCalorimetry/HGCalSimAlgos/test/hgcsiNoiseMapTester_cfg.py", 
+            "SimCalorimetry/HGCalSimProducers/BuildFile.xml", 
+            "SimCalorimetry/HGCalSimProducers/data/doseParams_3000fb_fluka-3.5.15.9.txt", 
+            "SimCalorimetry/HGCalSimProducers/data/sipmParams_geom-10.txt", 
             "SimCalorimetry/HGCalSimProducers/interface/HGCDigitizerBase.h", 
             "SimCalorimetry/HGCalSimProducers/interface/HGCFEElectronics.h", 
-            "SimCalorimetry/HGCalSimProducers/src/HGCDigitizerBase.cc"
+            "SimCalorimetry/HGCalSimProducers/interface/HGCHEbackDigitizer.h", 
+            "SimCalorimetry/HGCalSimProducers/python/hgcalDigitizer_cfi.py", 
+            "SimCalorimetry/HGCalSimProducers/src/HGCDigitizer.cc", 
+            "SimCalorimetry/HGCalSimProducers/src/HGCDigitizerBase.cc", 
+            "SimCalorimetry/HGCalSimProducers/src/HGCFEElectronics.cc", 
+            "SimCalorimetry/HGCalSimProducers/src/HGCHEbackDigitizer.cc"
         ], 
         "created_at": 1565735506, 
         "number": 27770, 
         "state": "open", 
-        "updated_at": 1565902527
+        "updated_at": 1565983913
     }, 
     "27772": {
         "base_branch": "master", 
