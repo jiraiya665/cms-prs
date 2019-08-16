@@ -1859,6 +1859,27 @@
         "state": "open", 
         "updated_at": 1565898606
     }, 
+    "27786": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "GeneratorInterface/RivetInterface/interface/RivetAnalysis.h", 
+            "GeneratorInterface/RivetInterface/interface/RivetAnalyzer.h", 
+            "GeneratorInterface/RivetInterface/plugins/GenParticles2HepMCConverter.cc", 
+            "GeneratorInterface/RivetInterface/plugins/HTXSRivetProducer.cc", 
+            "GeneratorInterface/RivetInterface/plugins/ParticleLevelProducer.cc", 
+            "GeneratorInterface/RivetInterface/plugins/RivetAnalyzer.cc", 
+            "GeneratorInterface/RivetInterface/python/rivetAnalyzer_cfi.py", 
+            "GeneratorInterface/RivetInterface/src/CMS_2013_I1224539_DIJET.cc", 
+            "GeneratorInterface/RivetInterface/src/HiggsTemplateCrossSections.cc", 
+            "GeneratorInterface/RivetInterface/test/particleLevel_cfg.py", 
+            "GeneratorInterface/RivetInterface/test/runRivetAnalyzerMiniAOD_cfg.py", 
+            "GeneratorInterface/RivetInterface/test/runRivetHTXS_cfg.py"
+        ], 
+        "created_at": 1565927040, 
+        "number": 27786, 
+        "state": "open", 
+        "updated_at": 1565927069
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
