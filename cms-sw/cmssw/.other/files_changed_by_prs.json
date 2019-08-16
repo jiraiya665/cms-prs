@@ -1880,6 +1880,16 @@
         "state": "open", 
         "updated_at": 1565928477
     }, 
+    "27789": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimG4Core/Application/python/g4SimHits_cfi.py"
+        ], 
+        "created_at": 1565941208, 
+        "number": 27789, 
+        "state": "open", 
+        "updated_at": 1565941273
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
