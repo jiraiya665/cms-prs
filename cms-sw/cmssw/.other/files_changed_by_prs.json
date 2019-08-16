@@ -1649,16 +1649,6 @@
         "state": "open", 
         "updated_at": 1565784850
     }, 
-    "27759": {
-        "base_branch": "CMSSW_10_3_X", 
-        "changed_files_names": [
-            "HLTrigger/Configuration/python/Tools/confdbOfflineConverter.py"
-        ], 
-        "created_at": 1565670251, 
-        "number": 27759, 
-        "state": "open", 
-        "updated_at": 1565671169
-    }, 
     "27761": {
         "base_branch": "master", 
         "changed_files_names": [
