@@ -1890,6 +1890,19 @@
         "state": "open", 
         "updated_at": 1565941273
     }, 
+    "27790": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DetectorDescription/DDCMS/plugins/DDTECCoolAlgo.cc", 
+            "DetectorDescription/DDCMS/plugins/DDTECModuleAlgo.cc", 
+            "DetectorDescription/DDCMS/plugins/DDTrackerAngular.cc", 
+            "DetectorDescription/DDCMS/plugins/DDTrackerLinear.cc"
+        ], 
+        "created_at": 1565949539, 
+        "number": 27790, 
+        "state": "open", 
+        "updated_at": 1565949575
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
