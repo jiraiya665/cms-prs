@@ -1604,16 +1604,6 @@
         "state": "open", 
         "updated_at": 1565976382
     }, 
-    "27761": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DetectorDescription/DDCMS/plugins/DDTIBLayerAlgo.cc"
-        ], 
-        "created_at": 1565683724, 
-        "number": 27761, 
-        "state": "open", 
-        "updated_at": 1565683783
-    }, 
     "27770": {
         "base_branch": "master", 
         "changed_files_names": [
