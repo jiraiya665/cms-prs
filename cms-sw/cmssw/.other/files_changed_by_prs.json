@@ -1649,19 +1649,6 @@
         "state": "open", 
         "updated_at": 1565783108
     }, 
-    "27776": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimDataFormats/CaloHit/interface/PassiveHit.h", 
-            "SimDataFormats/CaloHit/src/classes_def.xml", 
-            "SimG4CMS/Calo/interface/CaloSteppingAction.h", 
-            "SimG4CMS/Calo/src/CaloSteppingAction.cc"
-        ], 
-        "created_at": 1565787326, 
-        "number": 27776, 
-        "state": "open", 
-        "updated_at": 1565850911
-    }, 
     "27778": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
