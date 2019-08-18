@@ -1395,14 +1395,12 @@
             "RecoBTag/PixelCluster/interface/PixelClusterTagInfoProducer.h", 
             "RecoBTag/PixelCluster/plugins/BuildFile.xml", 
             "RecoBTag/PixelCluster/plugins/PixelClusterTagInfoProducer.cc", 
-            "RecoBTag/PixelCluster/python/pixelClusterTagInfos_cfi.py", 
-            "RecoBTag/PixelCluster/python/pixelCluster_EventSetup_cff.py", 
-            "RecoBTag/PixelCluster/python/pixelCluster_cff.py"
+            "RecoBTag/PixelCluster/python/pixelClusterTagInfos_cfi.py"
         ], 
         "created_at": 1565347953, 
         "number": 27738, 
         "state": "open", 
-        "updated_at": 1565711589
+        "updated_at": 1566159936
     }, 
     "27743": {
         "base_branch": "master", 
