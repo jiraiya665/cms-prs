@@ -1591,6 +1591,7 @@
     "27770": {
         "base_branch": "master", 
         "changed_files_names": [
+            "PhysicsTools/Heppy/test/crab/heppy_config.py", 
             "SimCalorimetry/HGCalSimAlgos/BuildFile.xml", 
             "SimCalorimetry/HGCalSimAlgos/interface/HGCalRadiationMap.h", 
             "SimCalorimetry/HGCalSimAlgos/interface/HGCalSciNoiseMap.h", 
@@ -1613,12 +1614,13 @@
             "SimCalorimetry/HGCalSimProducers/src/HGCDigitizer.cc", 
             "SimCalorimetry/HGCalSimProducers/src/HGCDigitizerBase.cc", 
             "SimCalorimetry/HGCalSimProducers/src/HGCFEElectronics.cc", 
-            "SimCalorimetry/HGCalSimProducers/src/HGCHEbackDigitizer.cc"
+            "SimCalorimetry/HGCalSimProducers/src/HGCHEbackDigitizer.cc", 
+            "SimGeneral/MixingModule/python/digitizers_cfi.py"
         ], 
         "created_at": 1565735506, 
         "number": 27770, 
         "state": "open", 
-        "updated_at": 1566089961
+        "updated_at": 1566252710
     }, 
     "27772": {
         "base_branch": "master", 
