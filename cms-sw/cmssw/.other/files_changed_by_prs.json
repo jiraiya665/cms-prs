@@ -2146,13 +2146,13 @@
             "GeneratorInterface/Core/src/PythiaHepMCFilterGammaGamma.cc", 
             "GeneratorInterface/GenFilters/BuildFile.xml", 
             "GeneratorInterface/GenFilters/interface/PythiaProbeFilter.h", 
-            "GeneratorInterface/GenFilters/python/TopLHEFilter_cfi.py", 
+            "GeneratorInterface/GenFilters/python/LHEJetFilter_cfi.py", 
+            "GeneratorInterface/GenFilters/src/LHEJetFilter.cc", 
             "GeneratorInterface/GenFilters/src/MCParticleModuloFilter.cc", 
             "GeneratorInterface/GenFilters/src/MCParticlePairFilter.cc", 
             "GeneratorInterface/GenFilters/src/NJetsMC.cc", 
             "GeneratorInterface/GenFilters/src/PythiaProbeFilter.cc", 
             "GeneratorInterface/GenFilters/src/SealModule.cc", 
-            "GeneratorInterface/GenFilters/src/TopLHEFilter.cc", 
             "GeneratorInterface/Herwig7Interface/interface/Herwig7Interface.h", 
             "GeneratorInterface/Herwig7Interface/interface/HerwigUIProvider.h", 
             "GeneratorInterface/Herwig7Interface/interface/RandomEngineGlue.h", 
@@ -2554,7 +2554,7 @@
         "created_at": 1566223548, 
         "number": 27795, 
         "state": "open", 
-        "updated_at": 1566223625
+        "updated_at": 1566299386
     }, 
     "27796": {
         "base_branch": "master", 
