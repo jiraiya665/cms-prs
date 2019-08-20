@@ -1809,13 +1809,13 @@
         "base_branch": "CMSSW_10_2_X", 
         "changed_files_names": [
             "GeneratorInterface/GenFilters/BuildFile.xml", 
-            "GeneratorInterface/GenFilters/python/TopLHEFilter_cfi.py", 
-            "GeneratorInterface/GenFilters/src/TopLHEFilter.cc"
+            "GeneratorInterface/GenFilters/python/LHEJetFilter_cfi.py", 
+            "GeneratorInterface/GenFilters/src/LHEJetFilter.cc"
         ], 
         "created_at": 1566215460, 
         "number": 27794, 
         "state": "open", 
-        "updated_at": 1566215496
+        "updated_at": 1566299379
     }, 
     "27795": {
         "base_branch": "master", 
