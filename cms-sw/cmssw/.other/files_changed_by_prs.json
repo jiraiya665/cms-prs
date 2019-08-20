@@ -1780,23 +1780,6 @@
         "state": "open", 
         "updated_at": 1566200347
     }, 
-    "27793": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimG4CMS/Calo/src/CaloSD.cc", 
-            "SimG4CMS/Calo/src/HFFibreFiducial.cc", 
-            "SimG4CMS/Forward/src/CastorSD.cc", 
-            "SimG4CMS/Muon/interface/MuonGEMFrameRotation.h", 
-            "SimG4CMS/Muon/interface/MuonME0FrameRotation.h", 
-            "SimG4CMS/Muon/src/MuonGEMFrameRotation.cc", 
-            "SimG4CMS/Muon/src/MuonME0FrameRotation.cc", 
-            "SimG4CMS/Muon/src/MuonSensitiveDetector.cc"
-        ], 
-        "created_at": 1566204942, 
-        "number": 27793, 
-        "state": "open", 
-        "updated_at": 1566205055
-    }, 
     "27794": {
         "base_branch": "CMSSW_10_2_X", 
         "changed_files_names": [
