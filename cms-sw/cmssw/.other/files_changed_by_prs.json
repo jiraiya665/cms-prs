@@ -1318,6 +1318,7 @@
             "RecoLocalTracker/SiPixelRecHits/plugins/PixelCPEGenericESProducer.cc", 
             "RecoLocalTracker/SiPixelRecHits/plugins/PixelCPETemplateRecoESProducer.cc", 
             "RecoLocalTracker/SiPixelRecHits/python/PixelCPEClusterRepair_cfi.py", 
+            "RecoLocalTracker/SiPixelRecHits/python/PixelCPEGeneric_cfi.py", 
             "RecoLocalTracker/SiPixelRecHits/python/PixelCPETemplateReco_cfi.py", 
             "RecoLocalTracker/SiPixelRecHits/src/PixelCPEBase.cc", 
             "RecoLocalTracker/SiPixelRecHits/src/PixelCPEClusterRepair.cc", 
@@ -1327,7 +1328,7 @@
         "created_at": 1565008119, 
         "number": 27694, 
         "state": "open", 
-        "updated_at": 1565010363
+        "updated_at": 1566301719
     }, 
     "27698": {
         "base_branch": "CMSSW_10_6_X", 
