@@ -1938,6 +1938,16 @@
         "state": "open", 
         "updated_at": 1566301964
     }, 
+    "27810": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/AlCa/python/autoCondPhase2.py"
+        ], 
+        "created_at": 1566304154, 
+        "number": 27810, 
+        "state": "open", 
+        "updated_at": 1566304210
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
