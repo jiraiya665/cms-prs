@@ -2633,6 +2633,16 @@
         "state": "open", 
         "updated_at": 1566292769
     }, 
+    "27806": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py"
+        ], 
+        "created_at": 1566298023, 
+        "number": 27806, 
+        "state": "open", 
+        "updated_at": 1566298075
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
