@@ -1392,7 +1392,6 @@
             "PhysicsTools/PatAlgos/python/tools/jetTools.py", 
             "RecoBTag/Configuration/python/RecoBTag_EventContent_cff.py", 
             "RecoBTag/Configuration/python/RecoBTag_cff.py", 
-            "RecoBTag/PixelCluster/interface/PixelClusterTagInfoProducer.h", 
             "RecoBTag/PixelCluster/plugins/BuildFile.xml", 
             "RecoBTag/PixelCluster/plugins/PixelClusterTagInfoProducer.cc", 
             "RecoBTag/PixelCluster/python/pixelClusterTagInfos_cfi.py"
@@ -1400,7 +1399,7 @@
         "created_at": 1565347953, 
         "number": 27738, 
         "state": "open", 
-        "updated_at": 1566159936
+        "updated_at": 1566252335
     }, 
     "27743": {
         "base_branch": "master", 
