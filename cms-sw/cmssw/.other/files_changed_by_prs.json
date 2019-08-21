@@ -2010,6 +2010,16 @@
         "state": "open", 
         "updated_at": 1566375632
     }, 
+    "27816": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "RecoEgamma/EgammaTools/python/regressionModifier_cfi.py"
+        ], 
+        "created_at": 1566390430, 
+        "number": 27816, 
+        "state": "open", 
+        "updated_at": 1566390480
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
