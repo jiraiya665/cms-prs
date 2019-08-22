@@ -1902,18 +1902,6 @@
         "state": "open", 
         "updated_at": 1566300064
     }, 
-    "27809": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "GeneratorInterface/GenFilters/BuildFile.xml", 
-            "GeneratorInterface/GenFilters/python/LHEJetFilter_cfi.py", 
-            "GeneratorInterface/GenFilters/src/LHEJetFilter.cc"
-        ], 
-        "created_at": 1566300497, 
-        "number": 27809, 
-        "state": "open", 
-        "updated_at": 1566362045
-    }, 
     "27810": {
         "base_branch": "master", 
         "changed_files_names": [
