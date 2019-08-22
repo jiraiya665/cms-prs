@@ -1861,16 +1861,6 @@
         "state": "open", 
         "updated_at": 1566287226
     }, 
-    "27805": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/AlCa/python/autoCondPhase2.py"
-        ], 
-        "created_at": 1566292706, 
-        "number": 27805, 
-        "state": "open", 
-        "updated_at": 1566292769
-    }, 
     "27806": {
         "base_branch": "master", 
         "changed_files_names": [
