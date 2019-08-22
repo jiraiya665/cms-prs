@@ -1577,19 +1577,6 @@
         "state": "open", 
         "updated_at": 1566252716
     }, 
-    "27772": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CommonTools/TriggerUtils/interface/GenericTriggerEventFlag.h", 
-            "CommonTools/TriggerUtils/src/GenericTriggerEventFlag.cc", 
-            "DQMOffline/Trigger/plugins/TopMonitor.cc", 
-            "DQMOffline/Trigger/plugins/TopMonitor.h"
-        ], 
-        "created_at": 1565774044, 
-        "number": 27772, 
-        "state": "open", 
-        "updated_at": 1565774075
-    }, 
     "27774": {
         "base_branch": "master", 
         "changed_files_names": [
