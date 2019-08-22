@@ -997,32 +997,6 @@
         "state": "open", 
         "updated_at": 1564359296
     }, 
-    "27633": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/ProcessModifiers/python/egamma_lowPt_exclusive_cff.py", 
-            "RecoEcal/EgammaClusterProducers/python/ecalDigiSelector_cfi.py", 
-            "RecoEcal/EgammaClusterProducers/python/particleFlowSuperClusterECAL_cfi.py", 
-            "RecoEcal/EgammaClusterProducers/python/reducedRecHitsSequence_cff.py", 
-            "RecoEgamma/EgammaElectronProducers/python/ecalDrivenElectronSeeds_cfi.py", 
-            "RecoEgamma/EgammaElectronProducers/python/gedGsfElectrons_cfi.py", 
-            "RecoEgamma/EgammaElectronProducers/python/gsfElectrons_cfi.py", 
-            "RecoEgamma/EgammaIsolationAlgos/python/interestingEgammaIsoDetIdsSequence_cff.py", 
-            "RecoEgamma/EgammaPhotonProducers/python/gedPhotonSequence_cff.py", 
-            "RecoEgamma/EgammaPhotonProducers/python/photonCore_cfi.py", 
-            "RecoEgamma/EgammaPhotonProducers/python/photons_cfi.py", 
-            "RecoLocalCalo/Configuration/python/RecoLocalCalo_EventContent_cff.py", 
-            "RecoLocalTracker/Configuration/python/RecoLocalTracker_EventContent_cff.py", 
-            "RecoParticleFlow/PFProducer/python/particleFlowBlock_cfi.py", 
-            "RecoParticleFlow/PFProducer/python/particleFlow_cfi.py", 
-            "RecoParticleFlow/PFTracking/python/pfTrackElec_cfi.py", 
-            "RecoParticleFlow/PFTracking/python/trackerDrivenElectronSeeds_cfi.py"
-        ], 
-        "created_at": 1564410214, 
-        "number": 27633, 
-        "state": "open", 
-        "updated_at": 1565620657
-    }, 
     "27634": {
         "base_branch": "master", 
         "changed_files_names": [
