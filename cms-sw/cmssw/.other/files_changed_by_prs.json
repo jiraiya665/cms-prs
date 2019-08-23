@@ -1606,16 +1606,6 @@
         "state": "open", 
         "updated_at": 1565871730
     }, 
-    "27784": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/ParameterSet/python/Types.py"
-        ], 
-        "created_at": 1565875723, 
-        "number": 27784, 
-        "state": "open", 
-        "updated_at": 1565875778
-    }, 
     "27785": {
         "base_branch": "master", 
         "changed_files_names": [
