@@ -1616,18 +1616,6 @@
         "state": "open", 
         "updated_at": 1565898606
     }, 
-    "27791": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "GeneratorInterface/Core/interface/EmbeddingHepMCFilter.h", 
-            "GeneratorInterface/Core/src/EmbeddingHepMCFilter.cc", 
-            "TauAnalysis/MCEmbeddingTools/python/EmbeddingPythia8Hadronizer_cfi.py"
-        ], 
-        "created_at": 1566142522, 
-        "number": 27791, 
-        "state": "open", 
-        "updated_at": 1566453687
-    }, 
     "27792": {
         "base_branch": "master", 
         "changed_files_names": [
