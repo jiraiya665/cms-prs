@@ -2435,7 +2435,6 @@
             "DataFormats/ForwardDetId/interface/ForwardSubdetector.h", 
             "DataFormats/ForwardDetId/interface/HFNoseDetId.h", 
             "DataFormats/ForwardDetId/interface/HFNoseTriggerDetId.h", 
-            "DataFormats/ForwardDetId/interface/HGCalTriggerDetId.h", 
             "DataFormats/ForwardDetId/src/HFNoseTriggerDetId.cc", 
             "DataFormats/ForwardDetId/src/HGCalTriggerDetId.cc", 
             "DataFormats/ForwardDetId/src/classes.h", 
@@ -2444,7 +2443,7 @@
         "created_at": 1566576329, 
         "number": 27858, 
         "state": "open", 
-        "updated_at": 1566576362
+        "updated_at": 1566578843
     }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
