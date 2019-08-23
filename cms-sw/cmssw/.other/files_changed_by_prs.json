@@ -1714,35 +1714,6 @@
         "state": "open", 
         "updated_at": 1566362809
     }, 
-    "27813": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HcalAlgo/data/cms-test-ddhcalForwardShield-algorithm.xml", 
-            "Geometry/HcalAlgo/data/cms-test-ddhcalHF-algorithm.xml", 
-            "Geometry/HcalAlgo/data/cms-test-ddhcalHO-algorithm.xml", 
-            "Geometry/HcalAlgo/plugins/DDHCalAngular.cc", 
-            "Geometry/HcalAlgo/plugins/DDHCalFibreBundle.cc", 
-            "Geometry/HcalAlgo/plugins/DDHCalForwardAlgo.cc", 
-            "Geometry/HcalAlgo/plugins/DDHCalLinearXY.cc", 
-            "Geometry/HcalAlgo/plugins/dd4hep/DDHCalAngular.cc", 
-            "Geometry/HcalAlgo/plugins/dd4hep/DDHCalForwardAlgo.cc", 
-            "Geometry/HcalAlgo/python/testGeomForwardShield_cfi.py", 
-            "Geometry/HcalAlgo/python/testGeomHB_cfi.py", 
-            "Geometry/HcalAlgo/python/testGeomHEPhase0_cfi.py", 
-            "Geometry/HcalAlgo/python/testGeomHEPhase1_cfi.py", 
-            "Geometry/HcalAlgo/python/testGeomHF_cfi.py", 
-            "Geometry/HcalAlgo/python/testGeomHO_cfi.py", 
-            "Geometry/HcalAlgo/python/testGeometry_cfi.py", 
-            "Geometry/HcalAlgo/test/data/cms.xml", 
-            "Geometry/HcalAlgo/test/data/muonBase.xml", 
-            "Geometry/HcalAlgo/test/python/testHFGeom_cfg.py", 
-            "Geometry/HcalAlgo/test/python/testHOGeom_cfg.py"
-        ], 
-        "created_at": 1566328138, 
-        "number": 27813, 
-        "state": "open", 
-        "updated_at": 1566328832
-    }, 
     "27815": {
         "base_branch": "master", 
         "changed_files_names": [
