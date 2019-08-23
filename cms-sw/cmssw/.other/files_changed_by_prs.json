@@ -1713,16 +1713,6 @@
         "state": "open", 
         "updated_at": 1566298075
     }, 
-    "27807": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibCalorimetry/EcalLaserAnalyzer/plugins/EcalMatacqAnalyzer.cc"
-        ], 
-        "created_at": 1566299480, 
-        "number": 27807, 
-        "state": "open", 
-        "updated_at": 1566299528
-    }, 
     "27808": {
         "base_branch": "master", 
         "changed_files_names": [
