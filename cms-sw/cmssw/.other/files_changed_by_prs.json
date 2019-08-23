@@ -1726,21 +1726,6 @@
         "state": "open", 
         "updated_at": 1566394643
     }, 
-    "27817": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HcalAlgo/data/cms-test-ddhcalXtal-algorithm.xml", 
-            "Geometry/HcalAlgo/plugins/DDHCalXtalAlgo.cc", 
-            "Geometry/HcalAlgo/plugins/dd4hep/DDHCalXtalAlgo.cc", 
-            "Geometry/HcalAlgo/python/testGeomHcalXtal_cfi.py", 
-            "Geometry/HcalAlgo/test/python/dumpHcalXtal_cfg.py", 
-            "Geometry/HcalAlgo/test/python/testHcalXyal_cfg.py"
-        ], 
-        "created_at": 1566405184, 
-        "number": 27817, 
-        "state": "open", 
-        "updated_at": 1566408478
-    }, 
     "27818": {
         "base_branch": "master", 
         "changed_files_names": [
