@@ -2388,6 +2388,17 @@
         "state": "open", 
         "updated_at": 1566561525
     }, 
+    "27842": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondFormats/DTObjects/src/DTKeyedConfig.cc", 
+            "CondTools/HLT/src/AlCaRecoTriggerBitsRcdRead.cc"
+        ], 
+        "created_at": 1566561615, 
+        "number": 27842, 
+        "state": "open", 
+        "updated_at": 1566561643
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
