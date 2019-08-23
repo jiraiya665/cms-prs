@@ -2210,6 +2210,17 @@
         "state": "open", 
         "updated_at": 1566559117
     }, 
+    "27840": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibCalorimetry/HcalAlgos/src/PadeTableODE.cc", 
+            "CalibFormats/SiStripObjects/src/SiStripQuality.cc"
+        ], 
+        "created_at": 1566560113, 
+        "number": 27840, 
+        "state": "open", 
+        "updated_at": 1566560165
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
