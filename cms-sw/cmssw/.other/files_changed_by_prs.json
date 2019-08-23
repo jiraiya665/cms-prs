@@ -2419,6 +2419,33 @@
         "state": "open", 
         "updated_at": 1566582363
     }, 
+    "27861": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/Common/interface/GetProduct.h", 
+            "DataFormats/Common/interface/WrapperDetail.h", 
+            "DataFormats/Provenance/src/ProductResolverIndexHelper.cc", 
+            "DataFormats/StdDictionaries/src/classes_def_vector.xml", 
+            "DataFormats/StdDictionaries/src/classes_vector.h", 
+            "DataFormats/TestObjects/interface/ToyProducts.h", 
+            "DataFormats/TestObjects/src/classes_def.xml", 
+            "DataFormats/WrappedStdDictionaries/src/classes_def.xml", 
+            "FWCore/Framework/test/stubs/ToySTLProducers.cc", 
+            "FWCore/Integration/test/BuildFile.xml", 
+            "FWCore/Integration/test/ExistingDictionaryTestModules.cc", 
+            "FWCore/Integration/test/ViewAnalyzer.cc", 
+            "FWCore/Integration/test/ViewTest_cfg.py", 
+            "FWCore/Integration/test/run_TestExistingDictionary.sh", 
+            "FWCore/Integration/test/testExistingDictionaryCheckingRead_cfg.py", 
+            "FWCore/Integration/test/testExistingDictionaryChecking_cfg.py", 
+            "FWCore/Utilities/src/FriendlyName.cc", 
+            "FWCore/Utilities/test/friendlyname_t.cppunit.cpp"
+        ], 
+        "created_at": 1566586096, 
+        "number": 27861, 
+        "state": "open", 
+        "updated_at": 1566586148
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
