@@ -2344,6 +2344,19 @@
         "state": "open", 
         "updated_at": 1566561726
     }, 
+    "27844": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/EgammaCandidates/src/Photon.cc", 
+            "DataFormats/HcalCalibObjects/src/HFRecalibration.cc", 
+            "DataFormats/TrackReco/src/HitPattern.cc", 
+            "DataFormats/TrackerCommon/src/TrackerTopology.cc"
+        ], 
+        "created_at": 1566563553, 
+        "number": 27844, 
+        "state": "open", 
+        "updated_at": 1566563603
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
