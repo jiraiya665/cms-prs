@@ -1658,18 +1658,6 @@
         "state": "open", 
         "updated_at": 1566362620
     }, 
-    "27796": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "OnlineDB/EcalCondDB/src/LMFLmrSubIOV.cc", 
-            "OnlineDB/EcalCondDB/src/LMFRunIOV.cc", 
-            "OnlineDB/EcalCondDB/src/RunDCSHVDat.cc"
-        ], 
-        "created_at": 1566225282, 
-        "number": 27796, 
-        "state": "open", 
-        "updated_at": 1566245272
-    }, 
     "27797": {
         "base_branch": "master", 
         "changed_files_names": [
