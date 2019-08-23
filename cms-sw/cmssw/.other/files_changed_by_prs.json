@@ -2388,6 +2388,18 @@
         "state": "open", 
         "updated_at": 1566570951
     }, 
+    "27855": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "PhysicsTools/IsolationUtils/src/ConeAreaFunction.cc", 
+            "PhysicsTools/IsolationUtils/src/IntegrandThetaFunction.cc", 
+            "PhysicsTools/RecoUtils/src/CandKinematicVertexFitter.cc"
+        ], 
+        "created_at": 1566571839, 
+        "number": 27855, 
+        "state": "open", 
+        "updated_at": 1566571865
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
