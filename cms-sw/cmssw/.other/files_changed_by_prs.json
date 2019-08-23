@@ -1056,27 +1056,6 @@
         "state": "open", 
         "updated_at": 1565621122
     }, 
-    "27665": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/Eras/python/Era_Phase2C10_cff.py", 
-            "Configuration/Eras/python/Era_Phase2C10_timing_cff.py", 
-            "Configuration/Eras/python/Era_Phase2C10_timing_layer_bar_cff.py", 
-            "Configuration/Geometry/README.md", 
-            "Configuration/Geometry/python/GeometryExtended2026D47Reco_cff.py", 
-            "Configuration/Geometry/python/GeometryExtended2026D47_cff.py", 
-            "Configuration/Geometry/python/dict2026Geometry.py", 
-            "Configuration/PyReleaseValidation/python/relval_2026.py", 
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
-            "Configuration/StandardSequences/python/Eras.py", 
-            "Configuration/StandardSequences/python/GeometryConf.py", 
-            "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D47XML_cfi.py"
-        ], 
-        "created_at": 1564661994, 
-        "number": 27665, 
-        "state": "open", 
-        "updated_at": 1566490181
-    }, 
     "27672": {
         "base_branch": "master", 
         "changed_files_names": [
