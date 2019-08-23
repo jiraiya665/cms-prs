@@ -2387,6 +2387,16 @@
         "state": "open", 
         "updated_at": 1566561670
     }, 
+    "27843": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CommonTools/Statistics/src/SequentialPartitionGenerator.cc"
+        ], 
+        "created_at": 1566561656, 
+        "number": 27843, 
+        "state": "open", 
+        "updated_at": 1566561726
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
