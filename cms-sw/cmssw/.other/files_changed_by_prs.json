@@ -1995,18 +1995,6 @@
         "state": "open", 
         "updated_at": 1566499636
     }, 
-    "27831": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/ParameterSet/scripts/edmPythonConfigToCppValidation", 
-            "FWCore/Utilities/scripts/edmAddClassVersion", 
-            "FWCore/Utilities/scripts/edmCheckClassVersion"
-        ], 
-        "created_at": 1566501597, 
-        "number": 27831, 
-        "state": "open", 
-        "updated_at": 1566501729
-    }, 
     "27832": {
         "base_branch": "master", 
         "changed_files_names": [
