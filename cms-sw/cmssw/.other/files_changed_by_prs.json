@@ -1668,16 +1668,6 @@
         "state": "open", 
         "updated_at": 1566391374
     }, 
-    "27798": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/HGCDigi/interface/HGCSample.h"
-        ], 
-        "created_at": 1566225415, 
-        "number": 27798, 
-        "state": "open", 
-        "updated_at": 1566225496
-    }, 
     "27799": {
         "base_branch": "master", 
         "changed_files_names": [
