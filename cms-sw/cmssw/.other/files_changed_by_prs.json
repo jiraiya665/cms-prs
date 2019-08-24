@@ -2409,16 +2409,6 @@
         "state": "open", 
         "updated_at": 1566578843
     }, 
-    "27859": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/PyReleaseValidation/python/MatrixInjector.py"
-        ], 
-        "created_at": 1566582304, 
-        "number": 27859, 
-        "state": "open", 
-        "updated_at": 1566582363
-    }, 
     "27861": {
         "base_branch": "master", 
         "changed_files_names": [
