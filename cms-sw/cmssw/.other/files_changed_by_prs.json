@@ -1320,6 +1320,8 @@
             "DataFormats/BTauReco/interface/PixelClusterTagInfo.h", 
             "DataFormats/BTauReco/src/classes.h", 
             "DataFormats/BTauReco/src/classes_def.xml", 
+            "DataFormats/PatCandidates/interface/Jet.h", 
+            "DataFormats/PatCandidates/src/Jet.cc", 
             "PhysicsTools/PatAlgos/python/recoLayer0/bTagging_cff.py", 
             "PhysicsTools/PatAlgos/python/slimming/MicroEventContent_cff.py", 
             "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py", 
@@ -1333,7 +1335,7 @@
         "created_at": 1565347953, 
         "number": 27738, 
         "state": "open", 
-        "updated_at": 1566551388
+        "updated_at": 1566735396
     }, 
     "27743": {
         "base_branch": "master", 
