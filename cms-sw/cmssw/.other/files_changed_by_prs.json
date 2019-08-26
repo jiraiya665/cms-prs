@@ -1846,17 +1846,6 @@
         "state": "open", 
         "updated_at": 1566553292
     }, 
-    "27834": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "GeneratorInterface/Herwig6Interface/src/params.inc", 
-            "GeneratorInterface/LHEInterface/src/LHERunInfo.cc"
-        ], 
-        "created_at": 1566554848, 
-        "number": 27834, 
-        "state": "open", 
-        "updated_at": 1566554898
-    }, 
     "27835": {
         "base_branch": "master", 
         "changed_files_names": [
