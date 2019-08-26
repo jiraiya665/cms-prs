@@ -1683,40 +1683,6 @@
         "state": "open", 
         "updated_at": 1566362809
     }, 
-    "27815": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/Geometry/python/DD4hep_GeometrySim_cff.py", 
-            "DetectorDescription/DDCMS/interface/DDFilteredView.h", 
-            "DetectorDescription/DDCMS/interface/DDShapes.h", 
-            "DetectorDescription/DDCMS/interface/DDSolidShapes.h", 
-            "DetectorDescription/DDCMS/src/DDFilteredView.cc", 
-            "DetectorDescription/DDCMS/test/python/testDDVectors.py", 
-            "Geometry/TrackerGeometryBuilder/interface/TrackerParametersFromDD.h", 
-            "Geometry/TrackerGeometryBuilder/plugins/BuildFile.xml", 
-            "Geometry/TrackerGeometryBuilder/plugins/TrackerDigiGeometryESModule.cc", 
-            "Geometry/TrackerGeometryBuilder/plugins/TrackerDigiGeometryESModule.h", 
-            "Geometry/TrackerGeometryBuilder/plugins/TrackerParametersESModule.cc", 
-            "Geometry/TrackerGeometryBuilder/plugins/TrackerParametersESModule.h", 
-            "Geometry/TrackerGeometryBuilder/plugins/dd4hep/TrackerParametersESProducer.cc", 
-            "Geometry/TrackerGeometryBuilder/src/TrackerParametersFromDD.cc", 
-            "Geometry/TrackerNumberingBuilder/BuildFile.xml", 
-            "Geometry/TrackerNumberingBuilder/interface/GeometricDet.h", 
-            "Geometry/TrackerNumberingBuilder/plugins/BuildFile.xml", 
-            "Geometry/TrackerNumberingBuilder/plugins/DDDCmsTrackerContruction.cc", 
-            "Geometry/TrackerNumberingBuilder/plugins/DDDCmsTrackerContruction.h", 
-            "Geometry/TrackerNumberingBuilder/plugins/TrackerGeometricDetESModule.cc", 
-            "Geometry/TrackerNumberingBuilder/plugins/TrackerGeometricDetESModule.h", 
-            "Geometry/TrackerNumberingBuilder/plugins/TrackerGeometricDetExtraESModule.cc", 
-            "Geometry/TrackerNumberingBuilder/plugins/TrackerGeometricDetExtraESModule.h", 
-            "Geometry/TrackerNumberingBuilder/src/GeometricDet.cc", 
-            "Geometry/TrackerNumberingBuilder/test/trackerModuleNumberingDD4hep_cfg.py"
-        ], 
-        "created_at": 1566375576, 
-        "number": 27815, 
-        "state": "open", 
-        "updated_at": 1566465379
-    }, 
     "27816": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
