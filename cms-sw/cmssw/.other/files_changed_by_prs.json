@@ -1869,18 +1869,6 @@
         "state": "open", 
         "updated_at": 1566558655
     }, 
-    "27837": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibCalorimetry/EcalCorrelatedNoiseAnalysisAlgos/src/TEcnaNArrayD.cc", 
-            "CalibCalorimetry/EcalCorrelatedNoiseAnalysisAlgos/src/TEcnaRead.cc", 
-            "CalibCalorimetry/EcalCorrelatedNoiseAnalysisAlgos/src/TEcnaRun.cc"
-        ], 
-        "created_at": 1566556125, 
-        "number": 27837, 
-        "state": "open", 
-        "updated_at": 1566556152
-    }, 
     "27838": {
         "base_branch": "master", 
         "changed_files_names": [
