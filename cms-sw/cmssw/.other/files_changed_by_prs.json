@@ -2132,18 +2132,6 @@
         "state": "open", 
         "updated_at": 1566563603
     }, 
-    "27845": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/EcalCommon/src/MESetBinningUtils.cc", 
-            "DQM/TrackingMonitor/src/TrackAnalyzer.cc", 
-            "DQMOffline/Trigger/plugins/BPHMonitor.cc"
-        ], 
-        "created_at": 1566565014, 
-        "number": 27845, 
-        "state": "open", 
-        "updated_at": 1566565064
-    }, 
     "27846": {
         "base_branch": "master", 
         "changed_files_names": [
