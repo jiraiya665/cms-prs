@@ -1744,18 +1744,6 @@
         "state": "open", 
         "updated_at": 1566485258
     }, 
-    "27829": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "IOMC/ParticleGuns/interface/BeamMomentumGunProducer.h", 
-            "IOMC/ParticleGuns/src/BeamMomentumGunProducer.cc", 
-            "SimG4CMS/HGCalTestBeam/test/HGCalTBCERN181Oct1el100_cfg.py"
-        ], 
-        "created_at": 1566496798, 
-        "number": 27829, 
-        "state": "open", 
-        "updated_at": 1566497816
-    }, 
     "27830": {
         "base_branch": "master", 
         "changed_files_names": [
