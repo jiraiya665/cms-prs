@@ -1744,16 +1744,6 @@
         "state": "open", 
         "updated_at": 1566485258
     }, 
-    "27832": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimMuon/GEMDigitizer/plugins/GEMPadDigiClusterProducer.cc"
-        ], 
-        "created_at": 1566524393, 
-        "number": 27832, 
-        "state": "open", 
-        "updated_at": 1566524440
-    }, 
     "27833": {
         "base_branch": "master", 
         "changed_files_names": [
