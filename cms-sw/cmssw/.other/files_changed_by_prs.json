@@ -1766,14 +1766,16 @@
             "RecoLocalMuon/CSCRecHitD/src/CSCMake2DRecHit.cc", 
             "RecoLocalMuon/CSCRecHitD/src/CSCRecHitDBuilder.cc", 
             "RecoLocalMuon/DTSegment/src/DTLinearFit.cc", 
+            "RecoParticleFlow/PFClusterTools/interface/PFPhotonClusters.h", 
             "RecoParticleFlow/PFClusterTools/src/PFPhotonClusters.cc", 
+            "RecoParticleFlow/PFProducer/src/PFEGammaAlgo.cc", 
             "RecoTBCalo/EcalTBRecProducers/src/EcalTBWeightUncalibRecHitProducer.cc", 
             "RecoTracker/TkDetLayers/src/PixelForwardLayerPhase1.cc"
         ], 
         "created_at": 1566475914, 
         "number": 27821, 
         "state": "open", 
-        "updated_at": 1566476931
+        "updated_at": 1566820174
     }, 
     "27823": {
         "base_branch": "master", 
