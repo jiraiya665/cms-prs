@@ -2068,18 +2068,6 @@
         "state": "open", 
         "updated_at": 1566566370
     }, 
-    "27848": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoRomanPot/RecoFP420/BuildFile.xml", 
-            "TrackPropagation/Geant4e/test/BuildFile.xml", 
-            "TrackPropagation/Geant4e/test/Geant4ePropagatorAnalyzer.cc"
-        ], 
-        "created_at": 1566567335, 
-        "number": 27848, 
-        "state": "open", 
-        "updated_at": 1566567389
-    }, 
     "27849": {
         "base_branch": "master", 
         "changed_files_names": [
