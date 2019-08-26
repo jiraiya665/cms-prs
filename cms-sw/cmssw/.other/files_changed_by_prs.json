@@ -1832,12 +1832,13 @@
     "27826": {
         "base_branch": "master", 
         "changed_files_names": [
-            "PhysicsTools/NanoAOD/python/custom_jme_cff.py"
+            "PhysicsTools/NanoAOD/python/custom_jme_cff.py", 
+            "PhysicsTools/PatAlgos/python/jetCollectionTools.py"
         ], 
         "created_at": 1566480449, 
         "number": 27826, 
         "state": "open", 
-        "updated_at": 1566480507
+        "updated_at": 1566823876
     }, 
     "27827": {
         "base_branch": "master", 
