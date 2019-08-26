@@ -2508,6 +2508,22 @@
         "state": "open", 
         "updated_at": 1566773012
     }, 
+    "27868": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HcalAlgo/data/cms-test-ddhcalTestBeam-algorithm.xml", 
+            "Geometry/HcalAlgo/plugins/DDHCalTestBeamAlgo.cc", 
+            "Geometry/HcalAlgo/plugins/dd4hep/DDHCalTestBeamAlgo.cc", 
+            "Geometry/HcalAlgo/python/testGeomBeamLine_cfi.py", 
+            "Geometry/HcalAlgo/test/python/dumpBeamLine_cfg.py", 
+            "Geometry/HcalAlgo/test/python/testHcalXtal_cfg.py", 
+            "Geometry/HcalAlgo/test/python/testTestBeam_cfg.py"
+        ], 
+        "created_at": 1566773185, 
+        "number": 27868, 
+        "state": "open", 
+        "updated_at": 1566773215
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
