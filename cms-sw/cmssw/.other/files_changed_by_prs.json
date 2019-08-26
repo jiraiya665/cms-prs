@@ -1765,16 +1765,6 @@
         "state": "open", 
         "updated_at": 1566801595
     }, 
-    "27825": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Alignment/MillePedeAlignmentAlgorithm/src/PedeReader.cc"
-        ], 
-        "created_at": 1566480304, 
-        "number": 27825, 
-        "state": "open", 
-        "updated_at": 1566637001
-    }, 
     "27826": {
         "base_branch": "master", 
         "changed_files_names": [
