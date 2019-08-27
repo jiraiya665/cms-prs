@@ -2146,17 +2146,6 @@
         "state": "open", 
         "updated_at": 1566838547
     }, 
-    "27874": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/ForwardDetId/src/HGCalTriggerDetId.cc", 
-            "DataFormats/ForwardDetId/test/testHGCDetId.cc"
-        ], 
-        "created_at": 1566845700, 
-        "number": 27874, 
-        "state": "open", 
-        "updated_at": 1566848197
-    }, 
     "27877": {
         "base_branch": "master", 
         "changed_files_names": [
