@@ -2033,21 +2033,6 @@
         "state": "open", 
         "updated_at": 1566638799
     }, 
-    "27857": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HcalAlgo/data/cms-test-ddhcalTBZpos-algorithm.xml", 
-            "Geometry/HcalAlgo/plugins/DDHCalTBZposAlgo.cc", 
-            "Geometry/HcalAlgo/plugins/dd4hep/DDHCalTBZposAlgo.cc", 
-            "Geometry/HcalAlgo/python/testGeomTBHO_cfi.py", 
-            "Geometry/HcalAlgo/test/python/dumpTBHOGeom_cfg.py", 
-            "Geometry/HcalAlgo/test/python/testTBHOGeom_cfg.py"
-        ], 
-        "created_at": 1566575582, 
-        "number": 27857, 
-        "state": "open", 
-        "updated_at": 1566576171
-    }, 
     "27858": {
         "base_branch": "master", 
         "changed_files_names": [
