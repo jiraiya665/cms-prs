@@ -2590,6 +2590,16 @@
         "state": "open", 
         "updated_at": 1566886995
     }, 
+    "27879": {
+        "base_branch": "CMSSW_10_2_X", 
+        "changed_files_names": [
+            "RecoTauTag/RecoTau/plugins/DeepTauId.cc"
+        ], 
+        "created_at": 1566887084, 
+        "number": 27879, 
+        "state": "open", 
+        "updated_at": 1566887084
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
