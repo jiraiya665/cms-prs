@@ -2119,22 +2119,6 @@
         "state": "open", 
         "updated_at": 1566808526
     }, 
-    "27872": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalModule-algorithm.xml", 
-            "Geometry/HGCalCommonData/plugins/BuildFile.xml", 
-            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalModule.cc", 
-            "Geometry/HGCalCommonData/python/testHGCalModuleXML_cfi.py", 
-            "Geometry/HGCalCommonData/test/python/dumpHGCalModuleGeometry_cfg.py", 
-            "Geometry/HGCalCommonData/test/python/testHGCalModuleGeometry_cfg.py", 
-            "Geometry/HGCalCommonData/test/python/testHGCalWaferGeometry_cfg.py"
-        ], 
-        "created_at": 1566833322, 
-        "number": 27872, 
-        "state": "open", 
-        "updated_at": 1566856283
-    }, 
     "27873": {
         "base_branch": "master", 
         "changed_files_names": [
