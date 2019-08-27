@@ -2267,16 +2267,6 @@
         "state": "open", 
         "updated_at": 1566566370
     }, 
-    "27849": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/AlCa/python/GlobalTag.py"
-        ], 
-        "created_at": 1566568173, 
-        "number": 27849, 
-        "state": "open", 
-        "updated_at": 1566568234
-    }, 
     "27850": {
         "base_branch": "master", 
         "changed_files_names": [
