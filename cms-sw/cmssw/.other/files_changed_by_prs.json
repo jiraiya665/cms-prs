@@ -2448,7 +2448,6 @@
         "base_branch": "master", 
         "changed_files_names": [
             "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddahcalModuleAlgo-algorithm.xml", 
-            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalModuleAlgo-algorithm.xml", 
             "Geometry/HGCalCommonData/plugins/DDAHcalModuleAlgo.cc", 
             "Geometry/HGCalCommonData/plugins/dd4hep/DDAHcalModuleAlgo.cc", 
             "Geometry/HGCalCommonData/python/testAHcalModuleAlgoXML_cfi.py", 
@@ -2458,7 +2457,7 @@
         "created_at": 1566921514, 
         "number": 27885, 
         "state": "open", 
-        "updated_at": 1566939785
+        "updated_at": 1566940024
     }, 
     "27886": {
         "base_branch": "master", 
