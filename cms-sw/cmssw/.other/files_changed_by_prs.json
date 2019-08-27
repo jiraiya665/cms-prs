@@ -2600,6 +2600,18 @@
         "state": "open", 
         "updated_at": 1566887084
     }, 
+    "27880": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/HcalCommon/interface/ValueQuantity.h", 
+            "DQM/HcalTasks/interface/DigiTask.h", 
+            "DQM/HcalTasks/plugins/DigiTask.cc"
+        ], 
+        "created_at": 1566887953, 
+        "number": 27880, 
+        "state": "open", 
+        "updated_at": 1566887984
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
