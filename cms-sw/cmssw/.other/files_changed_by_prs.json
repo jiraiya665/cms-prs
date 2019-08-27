@@ -2106,21 +2106,6 @@
         "state": "open", 
         "updated_at": 1566743481
     }, 
-    "27867": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HcalAlgo/data/cms-test-ddhcalTBCable-algorithm.xml", 
-            "Geometry/HcalAlgo/plugins/DDHCalTBCableAlgo.cc", 
-            "Geometry/HcalAlgo/plugins/dd4hep/DDHCalTBCableAlgo.cc", 
-            "Geometry/HcalAlgo/python/testGeomTBCable_cfi.py", 
-            "Geometry/HcalAlgo/test/python/dumpTBCable_cfg.py", 
-            "Geometry/HcalAlgo/test/python/testTBCable_cfg.py"
-        ], 
-        "created_at": 1566772488, 
-        "number": 27867, 
-        "state": "open", 
-        "updated_at": 1566829808
-    }, 
     "27868": {
         "base_branch": "master", 
         "changed_files_names": [
