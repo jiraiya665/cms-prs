@@ -2727,6 +2727,27 @@
         "state": "open", 
         "updated_at": 1566916874
     }, 
+    "27885": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddahcalModuleAlgo-algorithm.xml", 
+            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalModuleAlgo-algorithm.xml", 
+            "Geometry/HGCalCommonData/plugins/BuildFile.xml", 
+            "Geometry/HGCalCommonData/plugins/DDAHcalModuleAlgo.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDAHcalModuleAlgo.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalModuleAlgo.cc", 
+            "Geometry/HGCalCommonData/python/testAHcalModuleAlgoXML_cfi.py", 
+            "Geometry/HGCalCommonData/python/testHGCalModuleAlgoXML_cfi.py", 
+            "Geometry/HGCalCommonData/test/python/dumpAHcalModuleAlgoGeometry_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/dumpHGCalModuleAlgoGeometry_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/testAHcalModuleAlgoGeometry_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/testHGCalModuleAlgoGeometry_cfg.py"
+        ], 
+        "created_at": 1566921514, 
+        "number": 27885, 
+        "state": "open", 
+        "updated_at": 1566921543
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
