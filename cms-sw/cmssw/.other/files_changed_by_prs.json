@@ -2119,16 +2119,6 @@
         "state": "open", 
         "updated_at": 1566808526
     }, 
-    "27871": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoTracker/TkSeedGenerator/python/trackerClusterCheck_cfi.py"
-        ], 
-        "created_at": 1566812301, 
-        "number": 27871, 
-        "state": "open", 
-        "updated_at": 1566823690
-    }, 
     "27872": {
         "base_branch": "master", 
         "changed_files_names": [
