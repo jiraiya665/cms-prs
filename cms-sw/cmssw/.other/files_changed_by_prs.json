@@ -2538,6 +2538,21 @@
         "state": "open", 
         "updated_at": 1566993186
     }, 
+    "27893": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalWaferAlgo-algorithm.xml", 
+            "Geometry/HGCalCommonData/data/hgcalwafer/v7/hgcal.xml", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalWaferAlgo.cc", 
+            "Geometry/HGCalCommonData/python/testHGCalWaferAlgoXML_cfi.py", 
+            "Geometry/HGCalCommonData/test/python/dumpHGCalWaferAlgoGeometry_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/testHGCalWaferAlgoGeometry_cfg.py"
+        ], 
+        "created_at": 1566998537, 
+        "number": 27893, 
+        "state": "open", 
+        "updated_at": 1566998587
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
