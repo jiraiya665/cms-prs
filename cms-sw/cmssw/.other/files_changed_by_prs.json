@@ -1925,16 +1925,6 @@
         "state": "open", 
         "updated_at": 1566570943
     }, 
-    "27853": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "MagneticField/VolumeBasedEngine/src/VolumeBasedMagneticField.cc"
-        ], 
-        "created_at": 1566570897, 
-        "number": 27853, 
-        "state": "open", 
-        "updated_at": 1566570943
-    }, 
     "27854": {
         "base_branch": "master", 
         "changed_files_names": [
