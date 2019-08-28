@@ -859,6 +859,7 @@
             "SimCalorimetry/HGCalSimProducers/interface/HGCFEElectronics.h", 
             "SimCalorimetry/HGCalSimProducers/interface/HGCHEbackDigitizer.h", 
             "SimCalorimetry/HGCalSimProducers/python/hgcalDigitizer_cfi.py", 
+            "SimCalorimetry/HGCalSimProducers/src/HGCDigitizer.cc", 
             "SimCalorimetry/HGCalSimProducers/src/HGCDigitizerBase.cc", 
             "SimCalorimetry/HGCalSimProducers/src/HGCFEElectronics.cc", 
             "SimCalorimetry/HGCalSimProducers/src/HGCHEbackDigitizer.cc", 
@@ -867,7 +868,7 @@
         "created_at": 1563793774, 
         "number": 27582, 
         "state": "open", 
-        "updated_at": 1566920574
+        "updated_at": 1566988053
     }, 
     "27591": {
         "base_branch": "CMSSW_10_6_X", 
