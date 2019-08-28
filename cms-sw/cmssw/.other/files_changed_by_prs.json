@@ -1125,32 +1125,6 @@
         "state": "open", 
         "updated_at": 1564941758
     }, 
-    "27694": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/HLTEvF/python/HLTSiStripMonitoring_cff.py", 
-            "DQMOffline/Trigger/python/SiStrip_OfflineMonitoring_cff.py", 
-            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
-            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEBase.h", 
-            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEClusterRepair.h", 
-            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEGeneric.h", 
-            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPETemplateReco.h", 
-            "RecoLocalTracker/SiPixelRecHits/plugins/PixelCPEClusterRepairESProducer.cc", 
-            "RecoLocalTracker/SiPixelRecHits/plugins/PixelCPEGenericESProducer.cc", 
-            "RecoLocalTracker/SiPixelRecHits/plugins/PixelCPETemplateRecoESProducer.cc", 
-            "RecoLocalTracker/SiPixelRecHits/python/PixelCPEClusterRepair_cfi.py", 
-            "RecoLocalTracker/SiPixelRecHits/python/PixelCPEGeneric_cfi.py", 
-            "RecoLocalTracker/SiPixelRecHits/python/PixelCPETemplateReco_cfi.py", 
-            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEBase.cc", 
-            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEClusterRepair.cc", 
-            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEGeneric.cc", 
-            "RecoLocalTracker/SiPixelRecHits/src/PixelCPETemplateReco.cc"
-        ], 
-        "created_at": 1565008119, 
-        "number": 27694, 
-        "state": "open", 
-        "updated_at": 1566883019
-    }, 
     "27726": {
         "base_branch": "master", 
         "changed_files_names": [
