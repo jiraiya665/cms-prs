@@ -2420,20 +2420,6 @@
         "state": "open", 
         "updated_at": 1567088378
     }, 
-    "27894": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalModuleAlgo-algorithm.xml", 
-            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalModuleAlgo.cc", 
-            "Geometry/HGCalCommonData/python/testHGCalModuleAlgoXML_cfi.py", 
-            "Geometry/HGCalCommonData/test/python/dumpHGCalModuleAlgoGeometry_cfg.py", 
-            "Geometry/HGCalCommonData/test/python/testHGCalModuleAlgoGeometry_cfg.py"
-        ], 
-        "created_at": 1567003334, 
-        "number": 27894, 
-        "state": "open", 
-        "updated_at": 1567015267
-    }, 
     "27895": {
         "base_branch": "master", 
         "changed_files_names": [
