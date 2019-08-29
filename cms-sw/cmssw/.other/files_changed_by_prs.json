@@ -1829,16 +1829,6 @@
         "state": "open", 
         "updated_at": 1566893508
     }, 
-    "27846": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "EventFilter/SiStripRawToDigi/src/SiStripFEDBufferComponents.cc"
-        ], 
-        "created_at": 1566565720, 
-        "number": 27846, 
-        "state": "open", 
-        "updated_at": 1567065087
-    }, 
     "27847": {
         "base_branch": "master", 
         "changed_files_names": [
