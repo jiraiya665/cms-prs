@@ -988,33 +988,6 @@
         "state": "open", 
         "updated_at": 1564500324
     }, 
-    "27653": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CommonTools/CandAlgos/interface/GenParticleCustomSelector.h", 
-            "CommonTools/CandAlgos/python/genParticleCustomSelector_cfi.py", 
-            "CommonTools/RecoAlgos/interface/RecoTrackSelectorBase.h", 
-            "CommonTools/RecoAlgos/python/recoTrackSelectorPSet_cfi.py", 
-            "CommonTools/RecoAlgos/python/trackingParticleRefSelector_cfi.py", 
-            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
-            "PhysicsTools/RecoAlgos/python/trackingParticleSelector_cfi.py", 
-            "SimTracker/Common/interface/TrackingParticleSelector.h", 
-            "SimTracker/Common/python/trackingParticleSelector_cfi.py", 
-            "Validation/RecoTrack/interface/MTVHistoProducerAlgoForTracker.h", 
-            "Validation/RecoTrack/plugins/MultiTrackValidator.cc", 
-            "Validation/RecoTrack/python/GenParticleSelectionsForEfficiency_cff.py", 
-            "Validation/RecoTrack/python/PostProcessorTracker_cfi.py", 
-            "Validation/RecoTrack/python/TrackValidation_cff.py", 
-            "Validation/RecoTrack/python/TrackingParticleSelectionForEfficiency_cfi.py", 
-            "Validation/RecoTrack/python/TrackingParticleSelectionsForEfficiency_cff.py", 
-            "Validation/RecoTrack/python/plotting/trackingPlots.py", 
-            "Validation/RecoTrack/src/MTVHistoProducerAlgoForTracker.cc"
-        ], 
-        "created_at": 1564560841, 
-        "number": 27653, 
-        "state": "open", 
-        "updated_at": 1565621122
-    }, 
     "27673": {
         "base_branch": "master", 
         "changed_files_names": [
