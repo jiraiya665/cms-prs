@@ -2078,12 +2078,15 @@
     "27878": {
         "base_branch": "master", 
         "changed_files_names": [
-            "RecoTauTag/RecoTau/plugins/DeepTauId.cc"
+            "PhysicsTools/NanoAOD/python/taus_cff.py", 
+            "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py", 
+            "RecoTauTag/RecoTau/plugins/DeepTauId.cc", 
+            "RecoTauTag/RecoTau/python/tools/runTauIdMVA.py"
         ], 
         "created_at": 1566886936, 
         "number": 27878, 
         "state": "open", 
-        "updated_at": 1566892089
+        "updated_at": 1567077029
     }, 
     "27879": {
         "base_branch": "CMSSW_10_2_X", 
