@@ -1378,25 +1378,6 @@
         "state": "open", 
         "updated_at": 1565802609
     }, 
-    "27782": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoParticleFlow/PFProducer/interface/PFAlgo.h", 
-            "RecoParticleFlow/PFProducer/interface/PFMuonAlgo.h", 
-            "RecoParticleFlow/PFProducer/plugins/PFEGammaProducer.cc", 
-            "RecoParticleFlow/PFProducer/plugins/PFProducer.cc", 
-            "RecoParticleFlow/PFProducer/plugins/importers/GeneralTracksImporter.cc", 
-            "RecoParticleFlow/PFProducer/plugins/importers/GeneralTracksImporterWithVeto.cc", 
-            "RecoParticleFlow/PFProducer/python/particleFlow_cfi.py", 
-            "RecoParticleFlow/PFProducer/src/PFAlgo.cc", 
-            "RecoParticleFlow/PFProducer/src/PFEGammaFilters.cc", 
-            "RecoParticleFlow/PFProducer/src/PFMuonAlgo.cc"
-        ], 
-        "created_at": 1565868947, 
-        "number": 27782, 
-        "state": "open", 
-        "updated_at": 1565871730
-    }, 
     "27785": {
         "base_branch": "master", 
         "changed_files_names": [
