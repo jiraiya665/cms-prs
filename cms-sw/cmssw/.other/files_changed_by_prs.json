@@ -1991,23 +1991,6 @@
         "state": "open", 
         "updated_at": 1566808526
     }, 
-    "27873": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "EventFilter/CTPPSRawToDigi/interface/DiamondVFATFrame.h", 
-            "EventFilter/CTPPSRawToDigi/interface/ElectronicIndex.h", 
-            "EventFilter/CTPPSRawToDigi/interface/RawDataUnpacker.h", 
-            "EventFilter/CTPPSRawToDigi/plugins/TotemVFATRawToDigi.cc", 
-            "EventFilter/CTPPSRawToDigi/src/CTPPSPixelDataFormatter.cc", 
-            "EventFilter/CTPPSRawToDigi/src/RawDataUnpacker.cc", 
-            "EventFilter/CTPPSRawToDigi/src/RawToDigiConverter.cc", 
-            "EventFilter/CTPPSRawToDigi/test/TotemVFATFrameAnalyzer.cc"
-        ], 
-        "created_at": 1566838488, 
-        "number": 27873, 
-        "state": "open", 
-        "updated_at": 1567018928
-    }, 
     "27877": {
         "base_branch": "master", 
         "changed_files_names": [
