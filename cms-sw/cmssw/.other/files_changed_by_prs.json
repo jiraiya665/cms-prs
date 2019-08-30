@@ -1963,9 +1963,12 @@
     "27866": {
         "base_branch": "master", 
         "changed_files_names": [
+            "Configuration/Geometry/README.md", 
             "Configuration/Geometry/python/GeometryExtended2026D49Reco_cff.py", 
             "Configuration/Geometry/python/GeometryExtended2026D49_cff.py", 
             "Configuration/Geometry/python/dict2026Geometry.py", 
+            "Configuration/PyReleaseValidation/python/relval_2026.py", 
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
             "Configuration/StandardSequences/python/GeometryConf.py", 
             "Geometry/CMSCommonData/data/cms/2026/v3/cms.xml", 
             "Geometry/CMSCommonData/data/muonBase/2026/v3/muonBase.xml", 
@@ -1976,7 +1979,7 @@
         "created_at": 1566738405, 
         "number": 27866, 
         "state": "open", 
-        "updated_at": 1566743481
+        "updated_at": 1567139377
     }, 
     "27870": {
         "base_branch": "master", 
