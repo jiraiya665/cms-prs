@@ -2583,16 +2583,6 @@
         "state": "open", 
         "updated_at": 1567012507
     }, 
-    "27896": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/PyReleaseValidation/scripts/runTheMatrix.py"
-        ], 
-        "created_at": 1567019721, 
-        "number": 27896, 
-        "state": "open", 
-        "updated_at": 1567019775
-    }, 
     "27898": {
         "base_branch": "CMSSW_10_3_X", 
         "changed_files_names": [
