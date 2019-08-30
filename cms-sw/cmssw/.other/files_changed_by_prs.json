@@ -1719,24 +1719,6 @@
         "state": "open", 
         "updated_at": 1566490437
     }, 
-    "27824": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/Geometry/README.md", 
-            "Configuration/Geometry/python/GeometryExtended2026D48Reco_cff.py", 
-            "Configuration/Geometry/python/GeometryExtended2026D48_cff.py", 
-            "Configuration/Geometry/python/dict2026Geometry.py", 
-            "Configuration/PyReleaseValidation/python/relval_2026.py", 
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
-            "Configuration/StandardSequences/python/GeometryConf.py", 
-            "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D48XML_cfi.py", 
-            "Geometry/TrackerCommonData/data/PhaseII/Tracker_Skewed_IT_2019_08/pixel.xml"
-        ], 
-        "created_at": 1566477872, 
-        "number": 27824, 
-        "state": "open", 
-        "updated_at": 1566801595
-    }, 
     "27826": {
         "base_branch": "master", 
         "changed_files_names": [
