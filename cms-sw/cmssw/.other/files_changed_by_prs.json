@@ -2827,6 +2827,30 @@
         "state": "open", 
         "updated_at": 1567160363
     }, 
+    "27907": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DetectorDescription/DDCMS/data/cms-test-ddvectors.xml", 
+            "DetectorDescription/DDCMS/data/testDDVectors.xml", 
+            "DetectorDescription/DDCMS/interface/DDCompactView.h", 
+            "DetectorDescription/DDCMS/interface/DDFilteredView.h", 
+            "DetectorDescription/DDCMS/interface/DDShapes.h", 
+            "DetectorDescription/DDCMS/interface/DDSolidShapes.h", 
+            "DetectorDescription/DDCMS/plugins/DDDefinitions2Objects.cc", 
+            "DetectorDescription/DDCMS/plugins/DDTestVectorAlgo.cc", 
+            "DetectorDescription/DDCMS/src/DDAlgoArguments.cc", 
+            "DetectorDescription/DDCMS/src/DDCompactView.cc", 
+            "DetectorDescription/DDCMS/src/DDFilteredView.cc", 
+            "DetectorDescription/DDCMS/test/BuildFile.xml", 
+            "DetectorDescription/DDCMS/test/DDFilteredView.cppunit.cc", 
+            "DetectorDescription/DDCMS/test/DDSolidShapes.cppunit.cc", 
+            "DetectorDescription/DDCMS/test/python/testDDVectors.py"
+        ], 
+        "created_at": 1567163968, 
+        "number": 27907, 
+        "state": "open", 
+        "updated_at": 1567164024
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
