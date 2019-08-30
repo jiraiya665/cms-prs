@@ -2110,24 +2110,6 @@
         "state": "open", 
         "updated_at": 1566638799
     }, 
-    "27858": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/ForwardDetId/interface/ForwardSubdetector.h", 
-            "DataFormats/ForwardDetId/interface/HFNoseDetId.h", 
-            "DataFormats/ForwardDetId/interface/HFNoseTriggerDetId.h", 
-            "DataFormats/ForwardDetId/src/HFNoseTriggerDetId.cc", 
-            "DataFormats/ForwardDetId/src/HGCalTriggerDetId.cc", 
-            "DataFormats/ForwardDetId/src/classes.h", 
-            "DataFormats/ForwardDetId/src/classes_def.xml", 
-            "DataFormats/ForwardDetId/test/BuildFile.xml", 
-            "DataFormats/ForwardDetId/test/testHFNoseDetId.cc"
-        ], 
-        "created_at": 1566576329, 
-        "number": 27858, 
-        "state": "open", 
-        "updated_at": 1566850861
-    }, 
     "27863": {
         "base_branch": "CMSSW_10_2_X", 
         "changed_files_names": [
