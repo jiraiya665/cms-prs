@@ -2531,28 +2531,6 @@
         "state": "open", 
         "updated_at": 1566993186
     }, 
-    "27893": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalEE-algorithm.xml", 
-            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalHEmix-algorithm.xml", 
-            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalHEsil-algorithm.xml", 
-            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalWaferAlgo-algorithm.xml", 
-            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalcell-algorithm.xml", 
-            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalwafer-algorithm.xml", 
-            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalwafer8-algorithm.xml", 
-            "Geometry/HGCalCommonData/data/hgcalwafer/v7/hgcal.xml", 
-            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalWaferAlgo.cc", 
-            "Geometry/HGCalCommonData/python/testHGCalWaferAlgoXML_cfi.py", 
-            "Geometry/HGCalCommonData/test/python/dumpHGCalWaferAlgoGeometry_cfg.py", 
-            "Geometry/HGCalCommonData/test/python/testHGCalWaferAlgoGeometry_cfg.py", 
-            "Geometry/HGCalCommonData/test/world.xml"
-        ], 
-        "created_at": 1566998537, 
-        "number": 27893, 
-        "state": "open", 
-        "updated_at": 1567088378
-    }, 
     "27895": {
         "base_branch": "master", 
         "changed_files_names": [
