@@ -2676,6 +2676,32 @@
         "state": "open", 
         "updated_at": 1567225849
     }, 
+    "27908": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondCore/AlignmentPlugins/test/testTrackerAlignmentPayloadInspector.cpp", 
+            "CondCore/CondDB/test/testConditionDatabase_0.cpp", 
+            "CondCore/CondDB/test/testConditionDatabase_1.cpp", 
+            "CondCore/CondDB/test/testConditionDatabase_2.cpp", 
+            "CondCore/CondDB/test/testConnectionPool.cpp", 
+            "CondCore/CondDB/test/testFrontier.cpp", 
+            "CondCore/CondDB/test/testGroupSelection.cpp", 
+            "CondCore/CondDB/test/testPayloadProxy.cpp", 
+            "CondCore/CondDB/test/testReadWritePayloads.cpp", 
+            "CondCore/CondDB/test/testRunInfo.cpp", 
+            "CondCore/CondDB/test/testTempWrapper_0.cpp", 
+            "CondCore/RunInfoPlugins/test/testRunInfoPayloadInspector.cpp", 
+            "CondCore/SiStripPlugins/test/testSiStripPayloadInspector.cpp", 
+            "CondCore/Utilities/src/Utilities.cc", 
+            "CondCore/Utilities/test/testBasicPayload.cpp", 
+            "CondCore/Utilities/test/testPngHistograms.cpp", 
+            "FWCore/PluginManager/src/PluginManager.cc"
+        ], 
+        "created_at": 1567235211, 
+        "number": 27908, 
+        "state": "open", 
+        "updated_at": 1567235242
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
