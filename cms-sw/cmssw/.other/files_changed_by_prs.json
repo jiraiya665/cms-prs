@@ -2459,23 +2459,6 @@
         "state": "open", 
         "updated_at": 1567082485
     }, 
-    "27900": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Alignment/OfflineValidation/bin/DMRtrends.cc", 
-            "Alignment/OfflineValidation/bin/README.md", 
-            "Alignment/OfflineValidation/data/lumiperIOV2017.txt", 
-            "Alignment/OfflineValidation/data/lumiperrun2016.txt", 
-            "Alignment/OfflineValidation/data/lumiperrun2018.txt", 
-            "Alignment/OfflineValidation/macros/PlotAlignmentValidation.C", 
-            "Alignment/OfflineValidation/macros/PlotAlignmentValidation.h", 
-            "Alignment/OfflineValidation/plugins/ColorParser.C"
-        ], 
-        "created_at": 1567091761, 
-        "number": 27900, 
-        "state": "open", 
-        "updated_at": 1567094322
-    }, 
     "27901": {
         "base_branch": "master", 
         "changed_files_names": [
