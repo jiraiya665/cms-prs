@@ -2712,7 +2712,6 @@
             "RecoEgamma/EgammaHLTProducers/interface/HLTEcalPFClusterIsolationProducer.h", 
             "RecoEgamma/EgammaHLTProducers/interface/HLTHcalPFClusterIsolationProducer.h", 
             "RecoEgamma/EgammaHLTProducers/interface/HLTRechitInRegionsProducer.h", 
-            "RecoEgamma/EgammaHLTProducers/interface/Poison.h", 
             "RecoEgamma/EgammaHLTProducers/plugins/BuildFile.xml", 
             "RecoEgamma/EgammaHLTProducers/plugins/EgammaHLTBcHcalIsolationProducersRegional.cc", 
             "RecoEgamma/EgammaHLTProducers/plugins/EgammaHLTCaloTowerProducer.cc", 
@@ -2760,7 +2759,6 @@
             "RecoEgamma/EgammaHLTProducers/src/EgammaHLTTimeCleanedRechitProducer.cc", 
             "RecoEgamma/EgammaHLTProducers/src/HLTCaloObjInRegionsProducer.cc", 
             "RecoEgamma/EgammaHLTProducers/src/HLTRecHitInAllL1RegionsProducer.cc", 
-            "RecoEgamma/EgammaHLTProducers/src/Poison.cc", 
             "RecoEgamma/EgammaHLTProducers/src/SealModules.cc", 
             "RecoEgamma/EgammaIsolationAlgos/interface/EgammaHLTTrackIsolation.h", 
             "RecoEgamma/EgammaIsolationAlgos/src/EgammaHLTTrackIsolation.cc", 
@@ -2769,7 +2767,7 @@
         "created_at": 1567248466, 
         "number": 27909, 
         "state": "open", 
-        "updated_at": 1567248517
+        "updated_at": 1567401526
     }, 
     "27910": {
         "base_branch": "master", 
