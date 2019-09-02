@@ -2680,16 +2680,6 @@
         "state": "open", 
         "updated_at": 1567405590
     }, 
-    "27914": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DetectorDescription/DDCMS/interface/DDSolidShapes.h"
-        ], 
-        "created_at": 1567405797, 
-        "number": 27914, 
-        "state": "open", 
-        "updated_at": 1567405845
-    }, 
     "27915": {
         "base_branch": "master", 
         "changed_files_names": [
