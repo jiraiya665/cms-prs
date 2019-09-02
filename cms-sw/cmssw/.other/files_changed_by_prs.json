@@ -2241,9 +2241,8 @@
         "base_branch": "master", 
         "changed_files_names": [
             "Configuration/Geometry/python/DD4hep_GeometrySim_cff.py", 
-            "DetectorDescription/DDCMS/interface/DDCompactView.h", 
-            "DetectorDescription/DDCMS/src/DDCompactView.cc", 
-            "DetectorDescription/DDCMS/src/DDFilteredView.cc", 
+            "DetectorDescription/DDCMS/interface/DDFilteredView.h", 
+            "DetectorDescription/DDCMS/interface/DDSolidShapes.h", 
             "Geometry/TrackerGeometryBuilder/interface/TrackerParametersFromDD.h", 
             "Geometry/TrackerGeometryBuilder/plugins/BuildFile.xml", 
             "Geometry/TrackerGeometryBuilder/plugins/TrackerDigiGeometryESModule.cc", 
@@ -2314,7 +2313,7 @@
         "created_at": 1566907388, 
         "number": 27883, 
         "state": "open", 
-        "updated_at": 1567402880
+        "updated_at": 1567404575
     }, 
     "27884": {
         "base_branch": "CMSSW_10_6_X", 
