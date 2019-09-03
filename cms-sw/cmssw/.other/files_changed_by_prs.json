@@ -2335,6 +2335,16 @@
         "state": "open", 
         "updated_at": 1567532227
     }, 
+    "27922": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondFormats/HcalObjects/src/HBHEDarkening.cc"
+        ], 
+        "created_at": 1567532919, 
+        "number": 27922, 
+        "state": "open", 
+        "updated_at": 1567532949
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
