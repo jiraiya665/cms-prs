@@ -2545,7 +2545,6 @@
             "RecoEgamma/EgammaHLTAlgos/src/EgammaHLTEcalIsolation.cc", 
             "RecoEgamma/EgammaHLTAlgos/src/EgammaHLTHcalIsolation.cc", 
             "RecoEgamma/EgammaHLTAlgos/src/EgammaHLTHcalIsolationDoubleCone.cc", 
-            "RecoEgamma/EgammaHLTProducers/BuildFile.xml", 
             "RecoEgamma/EgammaHLTProducers/interface/ESListOfFEDSProducer.h", 
             "RecoEgamma/EgammaHLTProducers/interface/ESRecHitsMerger.h", 
             "RecoEgamma/EgammaHLTProducers/interface/EcalListOfFEDSProducer.h", 
@@ -2635,7 +2634,7 @@
         "created_at": 1567248466, 
         "number": 27909, 
         "state": "open", 
-        "updated_at": 1567401526
+        "updated_at": 1567493913
     }, 
     "27910": {
         "base_branch": "master", 
