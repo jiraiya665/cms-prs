@@ -1750,18 +1750,12 @@
             "Geometry/CMSCommonData/data/muonBase/2026/v3/muonBase.xml", 
             "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D49XML_cfi.py", 
             "Geometry/MuonCommonData/data/me0/TDR_Dev/v2/me0.xml", 
-            "Geometry/MuonCommonData/data/rpcf/2026/v2/rpcf.xml", 
-            "Geometry/RPCGeometryBuilder/BuildFile.xml", 
-            "Geometry/RPCGeometryBuilder/plugins/BuildFile.xml", 
-            "Geometry/RPCGeometryBuilder/plugins/RPCGeometryESModule.cc", 
-            "Geometry/RPCGeometryBuilder/plugins/RPCGeometryESModule.h", 
-            "Geometry/RPCGeometryBuilder/src/RPCGeometryBuilderFromDDD.cc", 
-            "Geometry/RPCGeometryBuilder/src/RPCGeometryBuilderFromDDD.h"
+            "Geometry/MuonCommonData/data/rpcf/2026/v2/rpcf.xml"
         ], 
         "created_at": 1566738405, 
         "number": 27866, 
         "state": "open", 
-        "updated_at": 1567519211
+        "updated_at": 1567523426
     }, 
     "27870": {
         "base_branch": "master", 
