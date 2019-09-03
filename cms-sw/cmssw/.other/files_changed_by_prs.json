@@ -2324,6 +2324,17 @@
         "state": "open", 
         "updated_at": 1567521608
     }, 
+    "27921": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/Utilities/interface/SoATuple.h", 
+            "FWCore/Utilities/test/soatuple_t.cppunit.cpp"
+        ], 
+        "created_at": 1567532168, 
+        "number": 27921, 
+        "state": "open", 
+        "updated_at": 1567532227
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
