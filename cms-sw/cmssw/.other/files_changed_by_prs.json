@@ -2284,17 +2284,6 @@
         "state": "open", 
         "updated_at": 1567395451
     }, 
-    "27915": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondTools/Ecal/plugins/EcalPedestalHistory.cc", 
-            "CondTools/Ecal/plugins/EcalPedestalHistory.h"
-        ], 
-        "created_at": 1567408885, 
-        "number": 27915, 
-        "state": "open", 
-        "updated_at": 1567408934
-    }, 
     "27916": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
