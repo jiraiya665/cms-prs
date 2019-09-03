@@ -1294,16 +1294,6 @@
         "state": "open", 
         "updated_at": 1566482038
     }, 
-    "27828": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1Trigger/GlobalMuonTrigger/test/BuildFile.xml"
-        ], 
-        "created_at": 1566485207, 
-        "number": 27828, 
-        "state": "open", 
-        "updated_at": 1566485258
-    }, 
     "27833": {
         "base_branch": "master", 
         "changed_files_names": [
