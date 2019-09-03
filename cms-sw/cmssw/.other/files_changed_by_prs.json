@@ -1330,19 +1330,6 @@
         "state": "open", 
         "updated_at": 1566553292
     }, 
-    "27835": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoLocalMuon/CSCRecHitD/src/CSCMake2DRecHit.cc", 
-            "RecoLocalMuon/DTSegment/src/DTSegmentCand.cc", 
-            "RecoLocalMuon/DTSegment/src/DTSegmentExtendedCand.cc", 
-            "RecoLocalMuon/DTSegment/src/DTSegmentUpdator.cc"
-        ], 
-        "created_at": 1566555404, 
-        "number": 27835, 
-        "state": "open", 
-        "updated_at": 1566632708
-    }, 
     "27836": {
         "base_branch": "master", 
         "changed_files_names": [
