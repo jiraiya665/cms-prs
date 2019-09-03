@@ -1551,19 +1551,6 @@
         "state": "open", 
         "updated_at": 1566894970
     }, 
-    "27843": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CommonTools/Statistics/interface/SequentialCombinationGenerator.h", 
-            "CommonTools/Statistics/interface/SequentialPartitionGenerator.h", 
-            "CommonTools/Statistics/src/SequentialCombinationGenerator.cc", 
-            "CommonTools/Statistics/src/SequentialPartitionGenerator.cc"
-        ], 
-        "created_at": 1566561656, 
-        "number": 27843, 
-        "state": "open", 
-        "updated_at": 1567430726
-    }, 
     "27844": {
         "base_branch": "master", 
         "changed_files_names": [
