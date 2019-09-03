@@ -1734,21 +1734,6 @@
         "state": "open", 
         "updated_at": 1566808526
     }, 
-    "27878": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "PhysicsTools/NanoAOD/python/nanoDQM_cfi.py", 
-            "PhysicsTools/NanoAOD/python/taus_cff.py", 
-            "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py", 
-            "RecoTauTag/RecoTau/plugins/DeepTauId.cc", 
-            "RecoTauTag/RecoTau/python/tools/runTauIdMVA.py", 
-            "RecoTauTag/RecoTau/test/runDeepTauIDsOnMiniAOD.py"
-        ], 
-        "created_at": 1566886936, 
-        "number": 27878, 
-        "state": "open", 
-        "updated_at": 1567421004
-    }, 
     "27879": {
         "base_branch": "CMSSW_10_2_X", 
         "changed_files_names": [
