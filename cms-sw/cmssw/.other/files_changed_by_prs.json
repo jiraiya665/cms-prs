@@ -762,17 +762,6 @@
         "state": "open", 
         "updated_at": 1561918660
     }, 
-    "27425": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FastSimulation/Calorimetry/src/CalorimetryManager.cc", 
-            "FastSimulation/MuonSimHitProducer/src/MuonSimHitProducer.cc"
-        ], 
-        "created_at": 1562070593, 
-        "number": 27425, 
-        "state": "open", 
-        "updated_at": 1562070775
-    }, 
     "27483": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
