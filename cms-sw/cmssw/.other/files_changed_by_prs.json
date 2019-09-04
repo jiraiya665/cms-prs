@@ -2407,6 +2407,22 @@
         "state": "open", 
         "updated_at": 1567601451
     }, 
+    "27929": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CommonTools/PileupAlgos/interface/PuppiContainer.h", 
+            "CommonTools/PileupAlgos/interface/RecoObj.h", 
+            "CommonTools/PileupAlgos/plugins/PuppiProducer.cc", 
+            "CommonTools/PileupAlgos/plugins/PuppiProducer.h", 
+            "CommonTools/PileupAlgos/python/Puppi_cff.py", 
+            "CommonTools/PileupAlgos/src/PuppiContainer.cc", 
+            "PhysicsTools/PatAlgos/python/slimming/puppiForMET_cff.py"
+        ], 
+        "created_at": 1567601988, 
+        "number": 27929, 
+        "state": "open", 
+        "updated_at": 1567602012
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
