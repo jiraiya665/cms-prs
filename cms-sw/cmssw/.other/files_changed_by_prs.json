@@ -1137,16 +1137,6 @@
         "state": "open", 
         "updated_at": 1567611580
     }, 
-    "27785": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoParticleFlow/PFProducer/plugins/importers/GSFTrackImporter.cc"
-        ], 
-        "created_at": 1565898542, 
-        "number": 27785, 
-        "state": "open", 
-        "updated_at": 1565898606
-    }, 
     "27792": {
         "base_branch": "master", 
         "changed_files_names": [
