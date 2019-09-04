@@ -2287,6 +2287,16 @@
         "state": "open", 
         "updated_at": 1567612113
     }, 
+    "27933": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DetectorDescription/DDCMS/interface/DDSolidShapes.h"
+        ], 
+        "created_at": 1567622873, 
+        "number": 27933, 
+        "state": "open", 
+        "updated_at": 1567622901
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
