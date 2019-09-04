@@ -1235,22 +1235,6 @@
         "state": "open", 
         "updated_at": 1566482038
     }, 
-    "27833": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQMOffline/PFTau/interface/Benchmark.h", 
-            "DQMOffline/PFTau/interface/MatchCandidateBenchmark.h", 
-            "DQMOffline/PFTau/interface/PFJetMonitor.h", 
-            "DQMOffline/PFTau/src/MatchCandidateBenchmark.cc", 
-            "DQMOffline/PFTau/src/PFJetMonitor.cc", 
-            "Validation/Configuration/python/hgcalSimValid_cff.py", 
-            "Validation/HGCalValidation/scripts/harvestHGCalValidationPlots.py"
-        ], 
-        "created_at": 1566546991, 
-        "number": 27833, 
-        "state": "open", 
-        "updated_at": 1566553292
-    }, 
     "27836": {
         "base_branch": "master", 
         "changed_files_names": [
