@@ -1177,16 +1177,6 @@
         "state": "open", 
         "updated_at": 1566362809
     }, 
-    "27818": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1Trigger/L1TCalorimeter/interface/L1GObject.h"
-        ], 
-        "created_at": 1566462516, 
-        "number": 27818, 
-        "state": "open", 
-        "updated_at": 1566462547
-    }, 
     "27819": {
         "base_branch": "master", 
         "changed_files_names": [
