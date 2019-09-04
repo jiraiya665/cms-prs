@@ -2358,6 +2358,24 @@
         "state": "open", 
         "updated_at": 1567583651
     }, 
+    "27925": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/StandardSequences/python/Validation_cff.py", 
+            "Validation/RecoTau/BuildFile.xml", 
+            "Validation/RecoTau/interface/TauValidationMiniAOD.h", 
+            "Validation/RecoTau/python/DQMMCValidation_cfi.py", 
+            "Validation/RecoTau/python/DQMSequences_cfi.py", 
+            "Validation/RecoTau/python/RecoTauValidationMiniAOD_cfi.py", 
+            "Validation/RecoTau/python/RecoTauValidation_cff.py", 
+            "Validation/RecoTau/src/SealModule.cc", 
+            "Validation/RecoTau/src/TauValidationMiniAOD.cc"
+        ], 
+        "created_at": 1567586829, 
+        "number": 27925, 
+        "state": "open", 
+        "updated_at": 1567586884
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
