@@ -2307,6 +2307,31 @@
         "state": "open", 
         "updated_at": 1567641825
     }, 
+    "27935": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimTracker/TrackerMaterialAnalysis/plugins/MaterialAccountingGroup.cc", 
+            "SimTracker/TrackerMaterialAnalysis/plugins/TrackingMaterialAnalyser.cc", 
+            "SimTracker/TrackerMaterialAnalysis/plugins/TrackingMaterialAnalyser.h", 
+            "SimTracker/TrackerMaterialAnalysis/plugins/TrackingMaterialProducer.cc", 
+            "SimTracker/TrackerMaterialAnalysis/plugins/TrackingMaterialProducer.h", 
+            "SimTracker/TrackerMaterialAnalysis/python/trackingMaterialAnalyser_ForHGCalPhaseII_cff.py", 
+            "SimTracker/TrackerMaterialAnalysis/python/trackingMaterialAnalyser_ForHGCalPhaseII_cfi.py", 
+            "SimTracker/TrackerMaterialAnalysis/python/trackingMaterialAnalyser_ForPhaseII_cfi.py", 
+            "SimTracker/TrackerMaterialAnalysis/python/trackingMaterialAnalyser_ForPhaseI_cfi.py", 
+            "SimTracker/TrackerMaterialAnalysis/python/trackingMaterialAnalyser_cfi.py", 
+            "SimTracker/TrackerMaterialAnalysis/python/trackingMaterialProducerHGCal_cff.py", 
+            "SimTracker/TrackerMaterialAnalysis/python/trackingMaterialProducerHGCal_cfi.py", 
+            "SimTracker/TrackerMaterialAnalysis/python/trackingMaterialProducer_cfi.py", 
+            "SimTracker/TrackerMaterialAnalysis/test/dEdxWeights.ipynb", 
+            "SimTracker/TrackerMaterialAnalysis/test/trackingMaterialAnalyser_ForHGCalPhaseII.py", 
+            "SimTracker/TrackerMaterialAnalysis/test/trackingMaterialProducer10GeVNeutrino_ForHGCalPhaseII.py"
+        ], 
+        "created_at": 1567673639, 
+        "number": 27935, 
+        "state": "open", 
+        "updated_at": 1567673697
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
