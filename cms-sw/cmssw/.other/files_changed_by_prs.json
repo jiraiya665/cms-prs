@@ -2395,6 +2395,24 @@
         "state": "open", 
         "updated_at": 1567698393
     }, 
+    "27940": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalNoTaperEndcap-algorithm.xml", 
+            "Geometry/HGCalCommonData/data/dd4hep/cms.xml", 
+            "Geometry/HGCalCommonData/data/dd4hep/esalgo.xml", 
+            "Geometry/HGCalCommonData/data/dd4hep/escon.xml", 
+            "Geometry/HGCalCommonData/data/fastTiming.xml", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalNoTaperEndcap.cc", 
+            "Geometry/HGCalCommonData/python/testFastTimeEndcapXML_cfi.py", 
+            "Geometry/HGCalCommonData/test/python/dumpFastTimeEndcap_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/testHGCalFastTimeEndcap_cfg.py"
+        ], 
+        "created_at": 1567698495, 
+        "number": 27940, 
+        "state": "open", 
+        "updated_at": 1567698527
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
