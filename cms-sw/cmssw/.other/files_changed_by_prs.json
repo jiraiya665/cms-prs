@@ -2413,6 +2413,33 @@
         "state": "open", 
         "updated_at": 1567699358
     }, 
+    "27941": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibTracker/SiStripESProducers/plugins/real/SiStripApvSimulationParametersESProducer.cc", 
+            "CondCore/SiStripPlugins/plugins/plugin.cc", 
+            "CondCore/Utilities/plugins/Module_2XML.cc", 
+            "CondCore/Utilities/src/CondDBFetch.cc", 
+            "CondCore/Utilities/src/CondDBImport.cc", 
+            "CondCore/Utilities/src/CondFormats.h", 
+            "CondFormats/DataRecord/interface/SiStripCondDataRecords.h", 
+            "CondFormats/DataRecord/src/SiStripCondDataRecords.cc", 
+            "CondFormats/PhysicsToolsObjects/interface/Histogram3D.icc", 
+            "CondFormats/SiStripObjects/BuildFile.xml", 
+            "CondFormats/SiStripObjects/interface/SiStripApvSimulationParameters.h", 
+            "CondFormats/SiStripObjects/src/SiStripApvSimulationParameters.cc", 
+            "CondFormats/SiStripObjects/src/T_EventSetup_SiStrip.cc", 
+            "CondFormats/SiStripObjects/src/classes_def.xml", 
+            "CondFormats/SiStripObjects/src/headers.h", 
+            "CondFormats/SiStripObjects/test/testSerializationSiStripObjects.cpp", 
+            "CondTools/SiStrip/plugins/SiStripApvSimulationParametersBuilder.cc", 
+            "CondTools/SiStrip/test/SiStripApvSimulationParametersBuilder_cfg.py"
+        ], 
+        "created_at": 1567700325, 
+        "number": 27941, 
+        "state": "open", 
+        "updated_at": 1567700325
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
