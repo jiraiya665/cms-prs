@@ -2384,6 +2384,17 @@
         "state": "open", 
         "updated_at": 1567694595
     }, 
+    "27939": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FastSimulation/Calorimetry/src/CalorimetryManager.cc", 
+            "FastSimulation/SimplifiedGeometryPropagator/plugins/FastTrackDeDxProducer.cc"
+        ], 
+        "created_at": 1567697092, 
+        "number": 27939, 
+        "state": "open", 
+        "updated_at": 1567697120
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
