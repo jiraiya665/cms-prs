@@ -2332,6 +2332,29 @@
         "state": "open", 
         "updated_at": 1567675303
     }, 
+    "27936": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "Alignment/APEEstimation/data/lumiperrun2017.txt", 
+            "Alignment/APEEstimation/data/lumiperrun2018.txt", 
+            "Alignment/APEEstimation/plugins/ApeEstimator.cc", 
+            "Alignment/APEEstimation/test/autoSubmitter/autoSubmitter.py", 
+            "Alignment/APEEstimation/test/autoSubmitter/autoSubmitterTemplates.py", 
+            "Alignment/APEEstimation/test/autoSubmitter/config.ini", 
+            "Alignment/APEEstimation/test/autoSubmitter/helpers.py", 
+            "Alignment/APEEstimation/test/batch/startSkim.py", 
+            "Alignment/APEEstimation/test/cfgTemplate/apeEstimator_cfg.py", 
+            "Alignment/APEEstimation/test/plottingTools/drawIterations.py", 
+            "Alignment/APEEstimation/test/plottingTools/drawResults.py", 
+            "Alignment/APEEstimation/test/plottingTools/drawTrend.py", 
+            "Alignment/APEEstimation/test/plottingTools/resultPlotter.py", 
+            "Alignment/APEEstimation/test/plottingTools/trendPlotter.py"
+        ], 
+        "created_at": 1567687914, 
+        "number": 27936, 
+        "state": "open", 
+        "updated_at": 1567687962
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
