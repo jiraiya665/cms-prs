@@ -1688,10 +1688,8 @@
         "base_branch": "master", 
         "changed_files_names": [
             "DetectorDescription/DDCMS/data/cms-mf-geometry.xml", 
-            "DetectorDescription/DDCMS/interface/DDFilteredView.h", 
             "DetectorDescription/DDCMS/plugins/BuildFile.xml", 
             "DetectorDescription/DDCMS/plugins/DDCompactViewMFESProducer.cc", 
-            "DetectorDescription/DDCMS/src/DDFilteredView.cc", 
             "MagneticField/GeomBuilder/BuildFile.xml", 
             "MagneticField/GeomBuilder/plugins/BuildFile.xml", 
             "MagneticField/GeomBuilder/plugins/dd4hep/DD4hep_VolumeBasedMagneticFieldESProducer.cc", 
@@ -1737,7 +1735,7 @@
         "created_at": 1566930151, 
         "number": 27886, 
         "state": "open", 
-        "updated_at": 1567696691
+        "updated_at": 1567706679
     }, 
     "27888": {
         "base_branch": "master", 
