@@ -1688,6 +1688,7 @@
         "base_branch": "master", 
         "changed_files_names": [
             "DetectorDescription/DDCMS/data/cms-mf-geometry.xml", 
+            "DetectorDescription/DDCMS/interface/DDFilteredView.h", 
             "DetectorDescription/DDCMS/plugins/BuildFile.xml", 
             "DetectorDescription/DDCMS/plugins/DDCompactViewMFESProducer.cc", 
             "DetectorDescription/DDCMS/src/DDFilteredView.cc", 
@@ -1736,7 +1737,7 @@
         "created_at": 1566930151, 
         "number": 27886, 
         "state": "open", 
-        "updated_at": 1567178934
+        "updated_at": 1567696691
     }, 
     "27888": {
         "base_branch": "master", 
