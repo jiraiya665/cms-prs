@@ -2356,6 +2356,24 @@
         "state": "open", 
         "updated_at": 1567748747
     }, 
+    "27946": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DetectorDescription/DDCMS/data/cms-mf-geometry.xml", 
+            "DetectorDescription/DDCMS/interface/DDFilteredView.h", 
+            "DetectorDescription/DDCMS/interface/DDShapes.h", 
+            "DetectorDescription/DDCMS/interface/DDSolidShapes.h", 
+            "DetectorDescription/DDCMS/src/DDFilteredView.cc", 
+            "DetectorDescription/DDCMS/src/DDShapes.cc", 
+            "DetectorDescription/DDCMS/test/BuildFile.xml", 
+            "DetectorDescription/DDCMS/test/DDSolidLegacyShapes.cppunit.cc", 
+            "DetectorDescription/DDCMS/test/DDSolidShapes.cppunit.cc"
+        ], 
+        "created_at": 1567762226, 
+        "number": 27946, 
+        "state": "open", 
+        "updated_at": 1567762277
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
