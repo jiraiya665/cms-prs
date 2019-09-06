@@ -2106,19 +2106,6 @@
         "state": "open", 
         "updated_at": 1567624299
     }, 
-    "27927": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/Framework/interface/ConsumesCollector.h", 
-            "FWCore/Framework/interface/ESConsumesCollector.h", 
-            "FWCore/Framework/interface/SubProcess.h", 
-            "FWCore/Framework/src/EarlyDeleteHelper.h"
-        ], 
-        "created_at": 1567600218, 
-        "number": 27927, 
-        "state": "open", 
-        "updated_at": 1567600271
-    }, 
     "27928": {
         "base_branch": "master", 
         "changed_files_names": [
