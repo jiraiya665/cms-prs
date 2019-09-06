@@ -1735,7 +1735,7 @@
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
             "RecoTracker/MkFit/BuildFile.xml", 
             "RecoTracker/MkFit/README.md", 
-            "RecoTracker/MkFit/interface/MkFitIndexLayer.h", 
+            "RecoTracker/MkFit/interface/MkFitHitIndexMap.h", 
             "RecoTracker/MkFit/interface/MkFitInputWrapper.h", 
             "RecoTracker/MkFit/interface/MkFitOutputWrapper.h", 
             "RecoTracker/MkFit/plugins/BuildFile.xml", 
@@ -1744,7 +1744,8 @@
             "RecoTracker/MkFit/plugins/MkFitProducer.cc", 
             "RecoTracker/MkFit/python/customizeInitialStepOnly.py", 
             "RecoTracker/MkFit/python/customizeInitialStepToMkFit.py", 
-            "RecoTracker/MkFit/src/MkFitIndexLayer.cc", 
+            "RecoTracker/MkFit/python/mkFitInputConverter_cfi.py", 
+            "RecoTracker/MkFit/src/MkFitHitIndexMap.cc", 
             "RecoTracker/MkFit/src/MkFitInputWrapper.cc", 
             "RecoTracker/MkFit/src/MkFitOutputWrapper.cc", 
             "RecoTracker/MkFit/src/classes.h", 
@@ -1754,7 +1755,7 @@
         "created_at": 1567009351, 
         "number": 27895, 
         "state": "open", 
-        "updated_at": 1567536687
+        "updated_at": 1567785864
     }, 
     "27898": {
         "base_branch": "CMSSW_10_3_X", 
