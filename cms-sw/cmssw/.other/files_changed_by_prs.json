@@ -1879,17 +1879,6 @@
         "state": "open", 
         "updated_at": 1567082485
     }, 
-    "27901": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoParticleFlow/PFProducer/interface/PFAlgo.h", 
-            "RecoParticleFlow/PFProducer/src/PFAlgo.cc"
-        ], 
-        "created_at": 1567121154, 
-        "number": 27901, 
-        "state": "open", 
-        "updated_at": 1567121201
-    }, 
     "27902": {
         "base_branch": "CMSSW_9_3_X", 
         "changed_files_names": [
