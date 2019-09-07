@@ -2246,18 +2246,6 @@
         "state": "open", 
         "updated_at": 1567812919
     }, 
-    "27951": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "GeneratorInterface/LHEInterface/interface/LHEProxy.h", 
-            "PhysicsTools/Utilities/interface/FunctClone.h", 
-            "PhysicsTools/Utilities/interface/RootFunctionAdapter.h"
-        ], 
-        "created_at": 1567860256, 
-        "number": 27951, 
-        "state": "open", 
-        "updated_at": 1567860310
-    }, 
     "27952": {
         "base_branch": "master", 
         "changed_files_names": [
