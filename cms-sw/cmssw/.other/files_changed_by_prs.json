@@ -1160,16 +1160,6 @@
         "state": "open", 
         "updated_at": 1566566370
     }, 
-    "27850": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "HeavyFlavorAnalysis/RecoDecay/src/BPHPlusMinusCandidate.cc"
-        ], 
-        "created_at": 1566568551, 
-        "number": 27850, 
-        "state": "open", 
-        "updated_at": 1566568610
-    }, 
     "27852": {
         "base_branch": "master", 
         "changed_files_names": [
