@@ -2069,16 +2069,6 @@
         "state": "open", 
         "updated_at": 1567713799
     }, 
-    "27944": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoEgamma/ElectronIdentification/plugins/cuts/GsfEleTrkPtIsoCut.cc"
-        ], 
-        "created_at": 1567748580, 
-        "number": 27944, 
-        "state": "open", 
-        "updated_at": 1567748644
-    }, 
     "27945": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
