@@ -1129,17 +1129,6 @@
         "state": "open", 
         "updated_at": 1566823898
     }, 
-    "27827": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1Trigger/GlobalCaloTrigger/src/L1GctRegion.cc", 
-            "L1Trigger/GlobalCaloTrigger/test/testElectronSorter.cpp"
-        ], 
-        "created_at": 1566481986, 
-        "number": 27827, 
-        "state": "open", 
-        "updated_at": 1566482038
-    }, 
     "27836": {
         "base_branch": "master", 
         "changed_files_names": [
