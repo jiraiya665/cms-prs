@@ -2143,6 +2143,16 @@
         "state": "open", 
         "updated_at": 1568040493
     }, 
+    "27957": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "L1Trigger/CSCTriggerPrimitives/src/CSCUpgradeMotherboardLUT.cc"
+        ], 
+        "created_at": 1568046705, 
+        "number": 27957, 
+        "state": "open", 
+        "updated_at": 1568046756
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
