@@ -1056,25 +1056,16 @@
         "base_branch": "master", 
         "changed_files_names": [
             "SimGeneral/MixingModule/python/SiStripSimParameters_cfi.py", 
-            "SimTracker/SiStripDigitizer/data/APVBaselines_TIB1_12us.txt", 
-            "SimTracker/SiStripDigitizer/data/APVBaselines_TIB2_15us.txt", 
-            "SimTracker/SiStripDigitizer/data/APVBaselines_TIB3_16us.txt", 
-            "SimTracker/SiStripDigitizer/data/APVBaselines_TIB4_17us.txt", 
-            "SimTracker/SiStripDigitizer/data/APVBaselines_TOB1_10us.txt", 
-            "SimTracker/SiStripDigitizer/data/APVBaselines_TOB2_13us.txt", 
-            "SimTracker/SiStripDigitizer/data/APVBaselines_TOB3_16us.txt", 
-            "SimTracker/SiStripDigitizer/data/APVBaselines_TOB4_17us.txt", 
-            "SimTracker/SiStripDigitizer/data/APVBaselines_TOB5_17us.txt", 
-            "SimTracker/SiStripDigitizer/data/APVBaselines_TOB6_18us.txt", 
             "SimTracker/SiStripDigitizer/data/pulse_2016.txt", 
             "SimTracker/SiStripDigitizer/plugins/SiStripDigitizer.cc", 
+            "SimTracker/SiStripDigitizer/plugins/SiStripDigitizer.h", 
             "SimTracker/SiStripDigitizer/plugins/SiStripDigitizerAlgorithm.cc", 
             "SimTracker/SiStripDigitizer/plugins/SiStripDigitizerAlgorithm.h"
         ], 
         "created_at": 1566477825, 
         "number": 27823, 
         "state": "open", 
-        "updated_at": 1566490437
+        "updated_at": 1568020718
     }, 
     "27826": {
         "base_branch": "master", 
