@@ -2074,16 +2074,6 @@
         "state": "open", 
         "updated_at": 1567861631
     }, 
-    "27953": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimG4CMS/PPS/BuildFile.xml"
-        ], 
-        "created_at": 1568008400, 
-        "number": 27953, 
-        "state": "open", 
-        "updated_at": 1568008450
-    }, 
     "27954": {
         "base_branch": "master", 
         "changed_files_names": [
