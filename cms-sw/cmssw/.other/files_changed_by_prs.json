@@ -988,24 +988,6 @@
         "state": "open", 
         "updated_at": 1568062843
     }, 
-    "27792": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibCalorimetry/EcalTPGTools/plugins/EcalTPGParamBuilder.cc", 
-            "CondTools/Ecal/python/copyFileAlignEB_cfg.py", 
-            "CondTools/Ecal/python/copyFileAlignEE_cfg.py", 
-            "CondTools/Ecal/python/copyFileAlignES_cfg.py", 
-            "CondTools/Ecal/python/copyTrivialAlignEB_cfg.py", 
-            "CondTools/Ecal/python/copyTrivialAlignEE_cfg.py", 
-            "CondTools/Ecal/python/copyTrivialAlignES_cfg.py", 
-            "CondTools/Ecal/python/srCondWrite_cfg.py", 
-            "CondTools/Ecal/src/EcalSRPHandler.cc"
-        ], 
-        "created_at": 1566198364, 
-        "number": 27792, 
-        "state": "open", 
-        "updated_at": 1566200347
-    }, 
     "27812": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
