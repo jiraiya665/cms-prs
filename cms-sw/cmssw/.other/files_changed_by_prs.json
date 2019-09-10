@@ -1979,6 +1979,16 @@
         "state": "open", 
         "updated_at": 1568076090
     }, 
+    "27960": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "RecoLocalCalo/HcalRecProducers/python/HFPhase1Reconstructor_cfi.py"
+        ], 
+        "created_at": 1568117328, 
+        "number": 27960, 
+        "state": "open", 
+        "updated_at": 1568117375
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
