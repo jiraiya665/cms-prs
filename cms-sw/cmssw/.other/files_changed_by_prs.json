@@ -1076,16 +1076,6 @@
         "state": "open", 
         "updated_at": 1566558655
     }, 
-    "27847": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FastSimDataFormats/L1GlobalMuonTrigger/src/SimpleL1MuGMTCand.cc"
-        ], 
-        "created_at": 1566566332, 
-        "number": 27847, 
-        "state": "open", 
-        "updated_at": 1566566370
-    }, 
     "27856": {
         "base_branch": "master", 
         "changed_files_names": [
