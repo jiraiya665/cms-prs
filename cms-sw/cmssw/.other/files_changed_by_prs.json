@@ -1814,6 +1814,7 @@
             "FWCore/Framework/src/ESGlobalMutex.cc", 
             "FWCore/Framework/src/ESGlobalMutex.h", 
             "FWCore/Framework/src/EventProcessor.cc", 
+            "FWCore/Framework/src/EventSetupProvider.cc", 
             "FWCore/Framework/src/EventSetupRecordImpl.cc", 
             "FWCore/Framework/src/EventSetupRecordIntervalFinder.cc", 
             "FWCore/Framework/src/EventSetupRecordProvider.cc", 
@@ -1831,7 +1832,7 @@
         "created_at": 1567789660, 
         "number": 27948, 
         "state": "open", 
-        "updated_at": 1567791335
+        "updated_at": 1568123679
     }, 
     "27949": {
         "base_branch": "master", 
