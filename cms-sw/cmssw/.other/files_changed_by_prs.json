@@ -1680,23 +1680,6 @@
         "state": "open", 
         "updated_at": 1567763094
     }, 
-    "27938": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/CMSCommonData/data/cmsProdCuts.xml", 
-            "Geometry/CMSCommonData/python/cmsExtendedGeometry2018NoSDXML_cfi.py", 
-            "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D45NoSDXML_cfi.py", 
-            "SimG4Core/Application/interface/RunManager.h", 
-            "SimG4Core/Application/interface/RunManagerMT.h", 
-            "SimG4Core/Application/python/g4SimHits_cfi.py", 
-            "SimG4Core/Application/src/RunManager.cc", 
-            "SimG4Core/Application/src/RunManagerMT.cc"
-        ], 
-        "created_at": 1567694543, 
-        "number": 27938, 
-        "state": "open", 
-        "updated_at": 1567698217
-    }, 
     "27940": {
         "base_branch": "master", 
         "changed_files_names": [
