@@ -1860,16 +1860,6 @@
         "state": "open", 
         "updated_at": 1567799411
     }, 
-    "27950": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoLocalCalo/HcalRecAlgos/src/MahiFit.cc"
-        ], 
-        "created_at": 1567812006, 
-        "number": 27950, 
-        "state": "open", 
-        "updated_at": 1567812919
-    }, 
     "27954": {
         "base_branch": "master", 
         "changed_files_names": [
