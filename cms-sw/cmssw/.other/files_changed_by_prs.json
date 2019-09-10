@@ -1200,6 +1200,7 @@
         "changed_files_names": [
             "Configuration/Eras/python/Modifier_run2_tau_ul_2016_cff.py", 
             "Configuration/Eras/python/Modifier_run2_tau_ul_2018_cff.py", 
+            "Configuration/StandardSequences/python/Eras.py", 
             "PhysicsTools/NanoAOD/python/nanoDQM_cfi.py", 
             "PhysicsTools/NanoAOD/python/taus_cff.py", 
             "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py", 
@@ -1210,7 +1211,7 @@
         "created_at": 1566897058, 
         "number": 27882, 
         "state": "open", 
-        "updated_at": 1568117356
+        "updated_at": 1568119211
     }, 
     "27886": {
         "base_branch": "master", 
