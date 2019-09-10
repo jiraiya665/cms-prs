@@ -1414,18 +1414,6 @@
         "state": "open", 
         "updated_at": 1567151215
     }, 
-    "27906": {
-        "base_branch": "CMSSW_7_1_X", 
-        "changed_files_names": [
-            "GeneratorInterface/GenFilters/BuildFile.xml", 
-            "GeneratorInterface/GenFilters/python/LHEJetFilter_cfi.py", 
-            "GeneratorInterface/GenFilters/src/LHEJetFilter.cc"
-        ], 
-        "created_at": 1567160311, 
-        "number": 27906, 
-        "state": "open", 
-        "updated_at": 1567160363
-    }, 
     "27916": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
