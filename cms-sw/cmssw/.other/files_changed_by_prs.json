@@ -1860,16 +1860,6 @@
         "state": "open", 
         "updated_at": 1567799411
     }, 
-    "27954": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DetectorDescription/DDCMS/src/DDFilteredView.cc"
-        ], 
-        "created_at": 1568024714, 
-        "number": 27954, 
-        "state": "open", 
-        "updated_at": 1568024767
-    }, 
     "27955": {
         "base_branch": "master", 
         "changed_files_names": [
