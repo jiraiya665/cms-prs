@@ -2028,6 +2028,33 @@
         "state": "open", 
         "updated_at": 1568195741
     }, 
+    "27974": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibCalorimetry/EcalLaserCorrection/interface/EcalLaserDbRecordMC.h", 
+            "CalibCalorimetry/EcalLaserCorrection/interface/EcalLaserDbServiceMC.h", 
+            "CalibCalorimetry/EcalLaserCorrection/plugins/EcalLaserCorrectionServiceMC.cc", 
+            "CalibCalorimetry/EcalLaserCorrection/plugins/EcalLaserCorrectionServiceMC.h", 
+            "CalibCalorimetry/EcalLaserCorrection/plugins/SealModule.cc", 
+            "CalibCalorimetry/EcalLaserCorrection/src/EcalLaserDbRecordMC.cc", 
+            "CalibCalorimetry/EcalLaserCorrection/src/EcalLaserDbServiceMC.cc", 
+            "CalibCalorimetry/EcalLaserCorrection/test/EcalLaserDbMCAnalyzer.cc", 
+            "CalibCalorimetry/EcalLaserCorrection/test/EcalLaserTestAnalyzerMC.cc", 
+            "CondCore/EcalPlugins/src/plugin.cc", 
+            "CondFormats/DataRecord/interface/EcalLaserAPDPNRatiosMCRcd.h", 
+            "CondFormats/DataRecord/src/EcalLaserAPDPNRatiosMCRcd.cc", 
+            "CondFormats/EcalObjects/interface/EcalLaserAPDPNRatiosMC.h", 
+            "CondFormats/EcalObjects/src/T_EventSetup_EcalLaserAPDPNRatiosMC.cc", 
+            "CondFormats/EcalObjects/src/classes.h", 
+            "CondFormats/EcalObjects/src/classes_def.xml", 
+            "SimCalorimetry/EcalSimAlgos/interface/EcalSignalGenerator.h", 
+            "SimCalorimetry/EcalSimAlgos/src/EcalSignalGenerator.cc"
+        ], 
+        "created_at": 1568197770, 
+        "number": 27974, 
+        "state": "open", 
+        "updated_at": 1568197848
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
