@@ -2081,6 +2081,21 @@
         "state": "open", 
         "updated_at": 1568202152
     }, 
+    "27978": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DetectorDescription/DDCMS/interface/DDFilteredView.h", 
+            "DetectorDescription/DDCMS/src/DDFilteredView.cc", 
+            "Geometry/DTGeometryBuilder/plugins/dd4hep/DTGeometryBuilder.cc", 
+            "Geometry/DTGeometryBuilder/test/BuildFile.xml", 
+            "Geometry/DTGeometryBuilder/test/dummyMain.cpp", 
+            "Geometry/DTGeometryBuilder/test/runTest.sh"
+        ], 
+        "created_at": 1568210721, 
+        "number": 27978, 
+        "state": "open", 
+        "updated_at": 1568210770
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
