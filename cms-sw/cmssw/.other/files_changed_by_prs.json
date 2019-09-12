@@ -1309,17 +1309,6 @@
         "state": "open", 
         "updated_at": 1568186923
     }, 
-    "27971": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoLocalCalo/HcalRecAlgos/src/HFStripFilter.cc", 
-            "RecoLocalCalo/HcalRecProducers/python/HFPhase1Reconstructor_cfi.py"
-        ], 
-        "created_at": 1568186894, 
-        "number": 27971, 
-        "state": "open", 
-        "updated_at": 1568195741
-    }, 
     "27974": {
         "base_branch": "master", 
         "changed_files_names": [
