@@ -190,19 +190,6 @@
         "state": "open", 
         "updated_at": 1557848242
     }, 
-    "25994": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "IOPool/Output/interface/PoolOutputModule.h", 
-            "IOPool/Output/src/PoolOutputModule.cc", 
-            "IOPool/Output/src/RootOutputFile.cc", 
-            "IOPool/Output/src/RootOutputFile.h"
-        ], 
-        "created_at": 1550753515, 
-        "number": 25994, 
-        "state": "open", 
-        "updated_at": 1560256195
-    }, 
     "26094": {
         "base_branch": "CMSSW_7_1_X", 
         "changed_files_names": [
