@@ -1324,18 +1324,6 @@
         "state": "open", 
         "updated_at": 1568266629
     }, 
-    "27969": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "PhysicsTools/PythonAnalysis/test/BuildFile.xml", 
-            "PhysicsTools/PythonAnalysis/test/imports.txt", 
-            "PhysicsTools/PythonAnalysis/test/testHistogrammar.py"
-        ], 
-        "created_at": 1568181809, 
-        "number": 27969, 
-        "state": "open", 
-        "updated_at": 1568181861
-    }, 
     "27970": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
