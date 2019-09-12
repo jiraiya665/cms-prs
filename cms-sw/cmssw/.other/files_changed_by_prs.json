@@ -638,20 +638,6 @@
         "state": "open", 
         "updated_at": 1566558655
     }, 
-    "27856": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoCTPPS/TotemRPLocal/src/TotemTimingRecHitProducerAlgorithm.cc", 
-            "RecoJets/JetProducers/plugins/InputGenJetsParticleSelector.cc", 
-            "RecoJets/JetProducers/src/JetSpecific.cc", 
-            "RecoLocalMuon/CSCRecHitD/src/CSCXonStrip_MatchGatti.cc", 
-            "RecoMuon/TrackerSeedGenerator/plugins/TSGForRoadSearch.cc"
-        ], 
-        "created_at": 1566572353, 
-        "number": 27856, 
-        "state": "open", 
-        "updated_at": 1568118603
-    }, 
     "27866": {
         "base_branch": "master", 
         "changed_files_names": [
