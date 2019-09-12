@@ -1693,16 +1693,6 @@
         "state": "open", 
         "updated_at": 1568123296
     }, 
-    "27963": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/GeometrySurface/interface/ReferenceCounted.h"
-        ], 
-        "created_at": 1568134560, 
-        "number": 27963, 
-        "state": "open", 
-        "updated_at": 1568136105
-    }, 
     "27964": {
         "base_branch": "master", 
         "changed_files_names": [
