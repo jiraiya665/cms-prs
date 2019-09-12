@@ -1509,36 +1509,6 @@
         "state": "open", 
         "updated_at": 1567923404
     }, 
-    "27948": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/Framework/interface/DataProxy.h", 
-            "FWCore/Framework/interface/DataProxyProvider.h", 
-            "FWCore/Framework/interface/EventSetupRecordImpl.h", 
-            "FWCore/Framework/src/DataProxy.cc", 
-            "FWCore/Framework/src/ESGlobalMutex.cc", 
-            "FWCore/Framework/src/ESGlobalMutex.h", 
-            "FWCore/Framework/src/EventProcessor.cc", 
-            "FWCore/Framework/src/EventSetupProvider.cc", 
-            "FWCore/Framework/src/EventSetupRecordImpl.cc", 
-            "FWCore/Framework/src/EventSetupRecordIntervalFinder.cc", 
-            "FWCore/Framework/src/EventSetupRecordProvider.cc", 
-            "FWCore/Framework/src/EventSetupsController.cc", 
-            "FWCore/Framework/src/EventSetupsController.h", 
-            "FWCore/Framework/src/LuminosityBlockProcessingStatus.cc", 
-            "FWCore/Framework/src/LuminosityBlockProcessingStatus.h", 
-            "FWCore/Framework/src/NumberOfConcurrentIOVs.cc", 
-            "FWCore/Framework/src/NumberOfConcurrentIOVs.h", 
-            "FWCore/Integration/test/BuildFile.xml", 
-            "FWCore/Integration/test/TestESSource.cc", 
-            "FWCore/Integration/test/eventSetupTest.sh", 
-            "FWCore/Integration/test/testConcurrentIOVsESSource_cfg.py"
-        ], 
-        "created_at": 1567789660, 
-        "number": 27948, 
-        "state": "open", 
-        "updated_at": 1568123680
-    }, 
     "27949": {
         "base_branch": "master", 
         "changed_files_names": [
