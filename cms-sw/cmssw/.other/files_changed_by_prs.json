@@ -637,19 +637,6 @@
         "state": "open", 
         "updated_at": 1567570379
     }, 
-    "27870": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "PhysicsTools/MVATrainer/src/LeastSquares.cc", 
-            "PhysicsTools/MVATrainer/src/MVATrainer.cc", 
-            "PhysicsTools/MVATrainer/src/ProcLikelihood.cc", 
-            "PhysicsTools/MVATrainer/src/ProcNormalize.cc"
-        ], 
-        "created_at": 1566808478, 
-        "number": 27870, 
-        "state": "open", 
-        "updated_at": 1566808526
-    }, 
     "27879": {
         "base_branch": "CMSSW_10_2_X", 
         "changed_files_names": [
