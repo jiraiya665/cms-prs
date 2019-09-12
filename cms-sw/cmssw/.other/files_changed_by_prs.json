@@ -1286,21 +1286,6 @@
         "state": "open", 
         "updated_at": 1568123296
     }, 
-    "27964": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimDataFormats/CaloHit/interface/PassiveHit.h", 
-            "SimDataFormats/CaloHit/src/classes_def.xml", 
-            "SimG4CMS/Calo/interface/CaloSteppingAction.h", 
-            "SimG4CMS/Calo/macros/MakeGVPlots.C", 
-            "SimG4CMS/Calo/plugins/CaloSimHitAnalysis.cc", 
-            "SimG4CMS/Calo/src/CaloSteppingAction.cc"
-        ], 
-        "created_at": 1568135810, 
-        "number": 27964, 
-        "state": "open", 
-        "updated_at": 1568144889
-    }, 
     "27966": {
         "base_branch": "master", 
         "changed_files_names": [
