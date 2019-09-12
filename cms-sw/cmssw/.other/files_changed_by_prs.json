@@ -1863,6 +1863,16 @@
         "state": "open", 
         "updated_at": 1568289772
     }, 
+    "27982": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "EventFilter/Utilities/src/EvFDaqDirector.cc"
+        ], 
+        "created_at": 1568294806, 
+        "number": 27982, 
+        "state": "open", 
+        "updated_at": 1568294858
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
