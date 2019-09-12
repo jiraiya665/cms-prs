@@ -1804,14 +1804,16 @@
             "DetectorDescription/DDCMS/interface/DDFilteredView.h", 
             "DetectorDescription/DDCMS/src/DDFilteredView.cc", 
             "Geometry/DTGeometryBuilder/plugins/dd4hep/DTGeometryBuilder.cc", 
+            "Geometry/DTGeometryBuilder/plugins/dd4hep/DTGeometryBuilder.h", 
             "Geometry/DTGeometryBuilder/test/BuildFile.xml", 
+            "Geometry/DTGeometryBuilder/test/dtGeometry.log.org", 
             "Geometry/DTGeometryBuilder/test/dummyMain.cpp", 
             "Geometry/DTGeometryBuilder/test/runTest.sh"
         ], 
         "created_at": 1568210721, 
         "number": 27978, 
         "state": "open", 
-        "updated_at": 1568210770
+        "updated_at": 1568291003
     }, 
     "27979": {
         "base_branch": "master", 
