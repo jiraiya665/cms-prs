@@ -1229,19 +1229,6 @@
         "state": "open", 
         "updated_at": 1568061727
     }, 
-    "27959": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimG4Core/Application/interface/OscarMTProducer.h", 
-            "SimG4Core/Application/interface/RunManagerMTWorker.h", 
-            "SimG4Core/Application/plugins/OscarMTProducer.cc", 
-            "SimG4Core/Application/src/RunManagerMTWorker.cc"
-        ], 
-        "created_at": 1568076040, 
-        "number": 27959, 
-        "state": "open", 
-        "updated_at": 1568076090
-    }, 
     "27961": {
         "base_branch": "master", 
         "changed_files_names": [
