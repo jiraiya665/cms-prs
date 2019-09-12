@@ -1845,6 +1845,7 @@
         "changed_files_names": [
             "CondFormats/PhysicsToolsObjects/interface/MVAComputer.h", 
             "CondFormats/PhysicsToolsObjects/src/MVAComputer.cc", 
+            "PhysicsTools/MVAComputer/interface/MVAModuleHelper.h", 
             "PhysicsTools/MVAComputer/src/MVAComputerCache.cc", 
             "PhysicsTools/MVAComputer/test/testReadMVAComputerCondDB.cc", 
             "PhysicsTools/MVATrainer/interface/MVATrainerContainer.h", 
@@ -1858,7 +1859,7 @@
         "created_at": 1568228669, 
         "number": 27981, 
         "state": "open", 
-        "updated_at": 1568228819
+        "updated_at": 1568289099
     }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
