@@ -1748,16 +1748,6 @@
         "state": "open", 
         "updated_at": 1568144889
     }, 
-    "27965": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Alignment/LaserAlignmentSimulation/plugins/LaserOpticalPhysics.cc"
-        ], 
-        "created_at": 1568140132, 
-        "number": 27965, 
-        "state": "open", 
-        "updated_at": 1568140177
-    }, 
     "27966": {
         "base_branch": "master", 
         "changed_files_names": [
