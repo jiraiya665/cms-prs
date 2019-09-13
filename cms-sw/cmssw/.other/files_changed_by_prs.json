@@ -1694,6 +1694,30 @@
         "state": "open", 
         "updated_at": 1568355881
     }, 
+    "27986": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoLocalCalo/EcalDeadChannelRecoveryAlgos/BuildFile.xml", 
+            "RecoLocalCalo/EcalDeadChannelRecoveryAlgos/interface/EcalDeadChannelRecoveryAlgos.h", 
+            "RecoLocalCalo/EcalDeadChannelRecoveryAlgos/interface/EcalDeadChannelRecoveryBDTG.h", 
+            "RecoLocalCalo/EcalDeadChannelRecoveryAlgos/interface/EcalDeadChannelRecoveryNN.h", 
+            "RecoLocalCalo/EcalDeadChannelRecoveryAlgos/src/EcalDeadChannelRecoveryNN.cc", 
+            "RecoLocalCalo/EcalDeadChannelRecoveryAlgos/test/BuildFile.xml", 
+            "RecoLocalCalo/EcalDeadChannelRecoveryAlgos/test/DeadCells2448.txt", 
+            "RecoLocalCalo/EcalDeadChannelRecoveryAlgos/test/EBDeadCellsEach5.txt", 
+            "RecoLocalCalo/EcalDeadChannelRecoveryAlgos/test/EEDeadCellsEach5.txt", 
+            "RecoLocalCalo/EcalDeadChannelRecoveryAlgos/test/RecoAllKilledAndCorrected_002_cfg.py", 
+            "RecoLocalCalo/EcalDeadChannelRecoveryAlgos/test/plugins/EcalChannelKiller.cc", 
+            "RecoLocalCalo/EcalDeadChannelRecoveryAlgos/test/plugins/EcalChannelKiller.h", 
+            "RecoLocalCalo/EcalDeadChannelRecoveryAlgos/test/plugins/EcalDeadChannelRecoveryAnalyzer.cc", 
+            "RecoLocalCalo/EcalDeadChannelRecoveryAlgos/test/plugins/EcalDeadChannelRecoveryProducers.cc", 
+            "RecoLocalCalo/EcalDeadChannelRecoveryAlgos/test/plugins/EcalDeadChannelRecoveryProducers.h"
+        ], 
+        "created_at": 1568370793, 
+        "number": 27986, 
+        "state": "open", 
+        "updated_at": 1568370848
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
