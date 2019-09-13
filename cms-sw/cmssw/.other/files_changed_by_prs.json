@@ -1760,16 +1760,13 @@
     "27990": {
         "base_branch": "master", 
         "changed_files_names": [
-            "Configuration/Eras/python/Modifier_pps_2016_cff.py", 
-            "Configuration/Eras/python/Modifier_pps_2017_cff.py", 
-            "Configuration/Eras/python/Modifier_pps_2018_cff.py", 
             "Configuration/StandardSequences/python/Eras.py", 
             "SimG4Core/Application/python/g4SimHits_cfi.py"
         ], 
         "created_at": 1568379204, 
         "number": 27990, 
         "state": "open", 
-        "updated_at": 1568379256
+        "updated_at": 1568393083
     }, 
     "27991": {
         "base_branch": "master", 
