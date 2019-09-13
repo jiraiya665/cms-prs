@@ -1625,22 +1625,6 @@
         "state": "open", 
         "updated_at": 1568296278
     }, 
-    "27984": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Alignment/OfflineValidation/interface/PVValidationHelpers.h", 
-            "Alignment/OfflineValidation/macros/FitPVResiduals.C", 
-            "Alignment/OfflineValidation/macros/MultiRunAndPlotPVValidation.C", 
-            "Alignment/OfflineValidation/plugins/PrimaryVertexValidation.cc", 
-            "Alignment/OfflineValidation/plugins/PrimaryVertexValidation.h", 
-            "Alignment/OfflineValidation/python/TkAlAllInOneTool/primaryVertexValidationTemplates.py", 
-            "Alignment/OfflineValidation/test/PVValidation_T_cfg.py"
-        ], 
-        "created_at": 1568305946, 
-        "number": 27984, 
-        "state": "open", 
-        "updated_at": 1568305999
-    }, 
     "27985": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
