@@ -1083,16 +1083,6 @@
         "state": "open", 
         "updated_at": 1568123296
     }, 
-    "27966": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CommonTools/Utils/src/FormulaEvaluator.cc"
-        ], 
-        "created_at": 1568170654, 
-        "number": 27966, 
-        "state": "open", 
-        "updated_at": 1568266629
-    }, 
     "27970": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
