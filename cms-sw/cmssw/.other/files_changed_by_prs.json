@@ -570,17 +570,6 @@
         "state": "open", 
         "updated_at": 1567272445
     }, 
-    "27748": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQMOffline/Hcal/interface/HcalRecHitsAnalyzer.h", 
-            "DQMOffline/Hcal/src/HcalRecHitsAnalyzer.cc"
-        ], 
-        "created_at": 1565594681, 
-        "number": 27748, 
-        "state": "open", 
-        "updated_at": 1565599982
-    }, 
     "27823": {
         "base_branch": "master", 
         "changed_files_names": [
