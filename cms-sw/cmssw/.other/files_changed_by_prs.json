@@ -1729,6 +1729,16 @@
         "state": "open", 
         "updated_at": 1568375227
     }, 
+    "27988": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/PatCandidates/src/PackedCandidate.cc"
+        ], 
+        "created_at": 1568375899, 
+        "number": 27988, 
+        "state": "open", 
+        "updated_at": 1568375923
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
