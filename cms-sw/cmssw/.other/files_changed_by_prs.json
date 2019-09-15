@@ -1716,17 +1716,6 @@
         "state": "open", 
         "updated_at": 1568393163
     }, 
-    "27994": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/Utilities/interface/propagate_const.h", 
-            "IOPool/SecondaryInput/test/SecondaryProducer.h"
-        ], 
-        "created_at": 1568462596, 
-        "number": 27994, 
-        "state": "open", 
-        "updated_at": 1568463405
-    }, 
     "27995": {
         "base_branch": "master", 
         "changed_files_names": [
