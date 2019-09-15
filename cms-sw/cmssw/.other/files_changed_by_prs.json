@@ -1716,17 +1716,6 @@
         "state": "open", 
         "updated_at": 1568393163
     }, 
-    "27992": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "TrackingTools/PatternTools/interface/bqueue.h", 
-            "TrackingTools/PatternTools/test/bqueue_t.cpp"
-        ], 
-        "created_at": 1568382461, 
-        "number": 27992, 
-        "state": "open", 
-        "updated_at": 1568382516
-    }, 
     "27993": {
         "base_branch": "master", 
         "changed_files_names": [
