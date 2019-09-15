@@ -1716,16 +1716,6 @@
         "state": "open", 
         "updated_at": 1568393163
     }, 
-    "27991": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Utilities/StorageFactory/interface/StorageAccount.h"
-        ], 
-        "created_at": 1568379671, 
-        "number": 27991, 
-        "state": "open", 
-        "updated_at": 1568379717
-    }, 
     "27992": {
         "base_branch": "master", 
         "changed_files_names": [
