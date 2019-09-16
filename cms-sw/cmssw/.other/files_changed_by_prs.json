@@ -1090,16 +1090,6 @@
         "state": "open", 
         "updated_at": 1568475558
     }, 
-    "27982": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "EventFilter/Utilities/src/EvFDaqDirector.cc"
-        ], 
-        "created_at": 1568294806, 
-        "number": 27982, 
-        "state": "open", 
-        "updated_at": 1568294880
-    }, 
     "27983": {
         "base_branch": "master", 
         "changed_files_names": [
