@@ -1741,6 +1741,16 @@
         "state": "open", 
         "updated_at": 1568642344
     }, 
+    "28007": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "FWCore/ParameterSet/python/SequenceTypes.py"
+        ], 
+        "created_at": 1568643703, 
+        "number": 28007, 
+        "state": "open", 
+        "updated_at": 1568643755
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
