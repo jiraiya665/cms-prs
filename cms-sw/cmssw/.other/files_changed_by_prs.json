@@ -1029,13 +1029,12 @@
         "changed_files_names": [
             "SimCalorimetry/HGCalSimProducers/interface/HGCDigitizerBase.h", 
             "SimCalorimetry/HGCalSimProducers/interface/HGCFEElectronics.h", 
-            "SimCalorimetry/HGCalSimProducers/python/hgcalDigitizer_cfi.py", 
             "SimCalorimetry/HGCalSimProducers/src/HGCDigitizerBase.cc"
         ], 
         "created_at": 1568215584, 
         "number": 27980, 
         "state": "open", 
-        "updated_at": 1568475558
+        "updated_at": 1568664677
     }, 
     "27983": {
         "base_branch": "master", 
