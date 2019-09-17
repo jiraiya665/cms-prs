@@ -4601,6 +4601,7 @@
             "DQM/DTMonitorClient/python/dtLocalTriggerTest_cfi.py", 
             "DQM/DTMonitorClient/python/dtTriggerEfficiencyTest_cfi.py", 
             "DQM/DTMonitorClient/src/DTDataIntegrityTest.cc", 
+            "DQM/DTMonitorClient/src/DTLocalTriggerBaseTest.cc", 
             "DQM/DTMonitorClient/src/DTLocalTriggerBaseTest.h", 
             "DQM/DTMonitorClient/src/DTLocalTriggerEfficiencyTest.cc", 
             "DQM/DTMonitorClient/src/DTLocalTriggerLutTest.cc", 
@@ -4631,7 +4632,7 @@
         "created_at": 1568614760, 
         "number": 27996, 
         "state": "open", 
-        "updated_at": 1568724506
+        "updated_at": 1568726880
     }, 
     "27997": {
         "base_branch": "master", 
