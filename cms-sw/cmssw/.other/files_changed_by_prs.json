@@ -1613,9 +1613,17 @@
         "base_branch": "master", 
         "changed_files_names": [
             "DQM/DTMonitorClient/python/dtFineDelayCorr_cfi.py", 
+            "DQM/DTMonitorClient/python/dtLocalTriggerEfficiencyTest_cfi.py", 
+            "DQM/DTMonitorClient/python/dtLocalTriggerLutTest_cfi.py", 
+            "DQM/DTMonitorClient/python/dtLocalTriggerSynchTest_cfi.py", 
+            "DQM/DTMonitorClient/python/dtLocalTriggerTest_TP_cfi.py", 
             "DQM/DTMonitorClient/python/dtLocalTriggerTest_cfi.py", 
             "DQM/DTMonitorClient/python/dtTriggerEfficiencyTest_cfi.py", 
             "DQM/DTMonitorClient/src/DTDataIntegrityTest.cc", 
+            "DQM/DTMonitorClient/src/DTLocalTriggerBaseTest.h", 
+            "DQM/DTMonitorClient/src/DTLocalTriggerEfficiencyTest.cc", 
+            "DQM/DTMonitorClient/src/DTLocalTriggerLutTest.cc", 
+            "DQM/DTMonitorClient/src/DTLocalTriggerSynchTest.cc", 
             "DQM/DTMonitorClient/src/DTLocalTriggerTPTest.cc", 
             "DQM/DTMonitorClient/src/DTLocalTriggerTest.cc", 
             "DQM/DTMonitorClient/src/DTTriggerEfficiencyTest.cc", 
@@ -1624,6 +1632,7 @@
             "DQM/DTMonitorModule/interface/DTDataIntegrityTask.h", 
             "DQM/DTMonitorModule/python/dtTriggerBaseTask_cfi.py", 
             "DQM/DTMonitorModule/python/dtTriggerEfficiencyTask_cfi.py", 
+            "DQM/DTMonitorModule/python/dtTriggerLutTask_cfi.py", 
             "DQM/DTMonitorModule/python/dtTriggerSynchTask_cfi.py", 
             "DQM/DTMonitorModule/python/dtTriggerTask_TP_cfi.py", 
             "DQM/DTMonitorModule/python/dtTriggerTask_cfi.py", 
@@ -1641,7 +1650,7 @@
         "created_at": 1568614760, 
         "number": 27996, 
         "state": "open", 
-        "updated_at": 1568615488
+        "updated_at": 1568723976
     }, 
     "27997": {
         "base_branch": "master", 
