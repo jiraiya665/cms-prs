@@ -986,7 +986,6 @@
             "CalibCalorimetry/EcalLaserCorrection/interface/EcalLaserDbServiceMC.h", 
             "CalibCalorimetry/EcalLaserCorrection/plugins/EcalLaserCorrectionServiceMC.cc", 
             "CalibCalorimetry/EcalLaserCorrection/plugins/EcalLaserCorrectionServiceMC.h", 
-            "CalibCalorimetry/EcalLaserCorrection/plugins/SealModule.cc", 
             "CalibCalorimetry/EcalLaserCorrection/src/EcalLaserDbRecordMC.cc", 
             "CalibCalorimetry/EcalLaserCorrection/src/EcalLaserDbServiceMC.cc", 
             "CalibCalorimetry/EcalLaserCorrection/test/EcalLaserDbMCAnalyzer.cc", 
@@ -1004,7 +1003,7 @@
         "created_at": 1568197770, 
         "number": 27974, 
         "state": "open", 
-        "updated_at": 1568197848
+        "updated_at": 1568726826
     }, 
     "27978": {
         "base_branch": "master", 
