@@ -4528,16 +4528,6 @@
         "state": "open", 
         "updated_at": 1568636375
     }, 
-    "28001": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "HLTrigger/Timer/interface/ProcessCallGraph.h"
-        ], 
-        "created_at": 1568636828, 
-        "number": 28001, 
-        "state": "open", 
-        "updated_at": 1568636855
-    }, 
     "28002": {
         "base_branch": "master", 
         "changed_files_names": [
