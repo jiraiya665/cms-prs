@@ -4564,16 +4564,6 @@
         "state": "open", 
         "updated_at": 1568637617
     }, 
-    "28003": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Alignment/TrackerAlignment/interface/TrackerAlignableIndexer.h"
-        ], 
-        "created_at": 1568638878, 
-        "number": 28003, 
-        "state": "open", 
-        "updated_at": 1568638928
-    }, 
     "28004": {
         "base_branch": "master", 
         "changed_files_names": [
