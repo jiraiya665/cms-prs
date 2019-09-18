@@ -878,18 +878,6 @@
         "state": "open", 
         "updated_at": 1568046756
     }, 
-    "27958": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1Trigger/CSCTriggerPrimitives/interface/GEMCoPadProcessor.h", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCGEMMotherboard.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/GEMCoPadProcessor.cc"
-        ], 
-        "created_at": 1568061678, 
-        "number": 27958, 
-        "state": "open", 
-        "updated_at": 1568061727
-    }, 
     "27962": {
         "base_branch": "master", 
         "changed_files_names": [
