@@ -4666,15 +4666,12 @@
     "28016": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
-            "CommonTools/PileupAlgos/interface/PuppiPhoton.h", 
-            "CommonTools/PileupAlgos/interface/PuppiProducer.h", 
-            "CommonTools/PileupAlgos/plugins/PuppiPhoton.cc", 
             "CommonTools/PileupAlgos/plugins/PuppiProducer.cc"
         ], 
         "created_at": 1568789550, 
         "number": 28016, 
         "state": "open", 
-        "updated_at": 1568789580
+        "updated_at": 1568791599
     }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
