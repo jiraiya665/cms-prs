@@ -4706,6 +4706,7 @@
     "28021": {
         "base_branch": "master", 
         "changed_files_names": [
+            "Configuration/Applications/python/ConfigBuilder.py", 
             "Configuration/Applications/scripts/cmsDriver.py", 
             "Configuration/PyReleaseValidation/python/MatrixReader.py", 
             "Configuration/PyReleaseValidation/python/relval_steps.py", 
@@ -4717,7 +4718,7 @@
         "created_at": 1568807331, 
         "number": 28021, 
         "state": "open", 
-        "updated_at": 1568807382
+        "updated_at": 1568810593
     }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
