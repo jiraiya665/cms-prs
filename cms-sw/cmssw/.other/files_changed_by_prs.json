@@ -4529,16 +4529,6 @@
         "state": "open", 
         "updated_at": 1568726880
     }, 
-    "27997": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalTBModule.cc"
-        ], 
-        "created_at": 1568617686, 
-        "number": 27997, 
-        "state": "open", 
-        "updated_at": 1568617733
-    }, 
     "27998": {
         "base_branch": "master", 
         "changed_files_names": [
