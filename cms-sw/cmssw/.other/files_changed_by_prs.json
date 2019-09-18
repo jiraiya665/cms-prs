@@ -652,17 +652,6 @@
         "state": "open", 
         "updated_at": 1567082485
     }, 
-    "27903": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQMServices/Components/scripts/dqmiolumiharvest.py", 
-            "DQMServices/Components/scripts/root2sqlite.py"
-        ], 
-        "created_at": 1567151155, 
-        "number": 27903, 
-        "state": "open", 
-        "updated_at": 1567151215
-    }, 
     "27916": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
