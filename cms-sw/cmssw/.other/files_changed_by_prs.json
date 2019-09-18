@@ -4529,16 +4529,6 @@
         "state": "open", 
         "updated_at": 1568726880
     }, 
-    "27998": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoTracker/TkSeedingLayers/interface/SeedingLayerSetsBuilder.h"
-        ], 
-        "created_at": 1568635457, 
-        "number": 27998, 
-        "state": "open", 
-        "updated_at": 1568635513
-    }, 
     "28000": {
         "base_branch": "master", 
         "changed_files_names": [
