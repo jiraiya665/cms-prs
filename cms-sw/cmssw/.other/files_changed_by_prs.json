@@ -1585,6 +1585,17 @@
         "state": "open", 
         "updated_at": 1568914588
     }, 
+    "28030": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/CSCDigi/interface/CSCCorrelatedLCTDigi.h", 
+            "DataFormats/CSCDigi/src/CSCCorrelatedLCTDigi.cc"
+        ], 
+        "created_at": 1568919686, 
+        "number": 28030, 
+        "state": "open", 
+        "updated_at": 1568919784
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
