@@ -4376,12 +4376,13 @@
     "27987": {
         "base_branch": "master", 
         "changed_files_names": [
-            "CommonTools/Utils/src/FormulaEvaluator.cc"
+            "CommonTools/Utils/src/FormulaEvaluator.cc", 
+            "CommonTools/Utils/test/testFormulaEvaluator.cc"
         ], 
         "created_at": 1568372258, 
         "number": 27987, 
         "state": "open", 
-        "updated_at": 1568375227
+        "updated_at": 1568868532
     }, 
     "27988": {
         "base_branch": "master", 
