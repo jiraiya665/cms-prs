@@ -602,28 +602,6 @@
         "state": "open", 
         "updated_at": 1567147808
     }, 
-    "27882": {
-        "base_branch": "CMSSW_10_6_X", 
-        "changed_files_names": [
-            "Configuration/Eras/python/Era_Run2_2016_cff.py", 
-            "Configuration/Eras/python/Era_Run2_2017_cff.py", 
-            "Configuration/Eras/python/Era_Run2_2018_cff.py", 
-            "Configuration/Eras/python/Era_Run3_cff.py", 
-            "Configuration/Eras/python/Modifier_run2_tau_ul_2016_cff.py", 
-            "Configuration/Eras/python/Modifier_run2_tau_ul_2018_cff.py", 
-            "Configuration/StandardSequences/python/Eras.py", 
-            "PhysicsTools/NanoAOD/python/nanoDQM_cfi.py", 
-            "PhysicsTools/NanoAOD/python/taus_cff.py", 
-            "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py", 
-            "RecoTauTag/RecoTau/plugins/DeepTauId.cc", 
-            "RecoTauTag/RecoTau/python/tools/runTauIdMVA.py", 
-            "RecoTauTag/RecoTau/test/runDeepTauIDsOnMiniAOD.py"
-        ], 
-        "created_at": 1566897058, 
-        "number": 27882, 
-        "state": "open", 
-        "updated_at": 1568284208
-    }, 
     "27898": {
         "base_branch": "CMSSW_10_3_X", 
         "changed_files_names": [
