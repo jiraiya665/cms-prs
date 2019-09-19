@@ -1456,16 +1456,6 @@
         "state": "open", 
         "updated_at": 1568791621
     }, 
-    "28017": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQMServices/Components/scripts/dqmiolistmes.py"
-        ], 
-        "created_at": 1568795293, 
-        "number": 28017, 
-        "state": "open", 
-        "updated_at": 1568795350
-    }, 
     "28020": {
         "base_branch": "master", 
         "changed_files_names": [
