@@ -1378,21 +1378,6 @@
         "state": "open", 
         "updated_at": 1568726880
     }, 
-    "28002": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/EcalMonitorClient/src/DQWorkerClient.cc", 
-            "DQMServices/Components/plugins/DQMDcsInfoClient.cc", 
-            "DQMServices/Components/scripts/dqmdumpme.py", 
-            "DQMServices/Components/scripts/dqmiodumpmetadata.py", 
-            "DQMServices/Components/test/dqmiofilecopy.sh", 
-            "DQMServices/Components/test/test_reharvest_from_dqmio.sh"
-        ], 
-        "created_at": 1568637593, 
-        "number": 28002, 
-        "state": "open", 
-        "updated_at": 1568637617
-    }, 
     "28007": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
