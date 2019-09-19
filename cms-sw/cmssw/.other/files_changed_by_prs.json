@@ -652,18 +652,6 @@
         "state": "open", 
         "updated_at": 1567082485
     }, 
-    "27916": {
-        "base_branch": "CMSSW_10_6_X", 
-        "changed_files_names": [
-            "SimTracker/SiPixelDigitizer/plugins/PreMixingSiPixelWorker.cc", 
-            "SimTracker/SiPixelDigitizer/plugins/SiPixelDigitizerAlgorithm.cc", 
-            "SimTracker/SiPixelDigitizer/plugins/SiPixelDigitizerAlgorithm.h"
-        ], 
-        "created_at": 1567410354, 
-        "number": 27916, 
-        "state": "open", 
-        "updated_at": 1567410403
-    }, 
     "27917": {
         "base_branch": "master", 
         "changed_files_names": [
