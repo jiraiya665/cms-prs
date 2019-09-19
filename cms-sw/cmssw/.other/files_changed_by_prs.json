@@ -369,19 +369,6 @@
         "state": "open", 
         "updated_at": 1564740423
     }, 
-    "27682": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Validation/RecoTrack/interface/MTVHistoProducerAlgoForTracker.h", 
-            "Validation/RecoTrack/python/MTVHistoProducerAlgoForTrackerBlock_cfi.py", 
-            "Validation/RecoTrack/python/MultiTrackValidator_cfi.py", 
-            "Validation/RecoTrack/src/MTVHistoProducerAlgoForTracker.cc"
-        ], 
-        "created_at": 1564752277, 
-        "number": 27682, 
-        "state": "open", 
-        "updated_at": 1568717904
-    }, 
     "27686": {
         "base_branch": "master", 
         "changed_files_names": [
