@@ -311,16 +311,6 @@
         "state": "open", 
         "updated_at": 1565624773
     }, 
-    "27624": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Fireworks/Core/interface/FWTriggerTableView.h"
-        ], 
-        "created_at": 1564359240, 
-        "number": 27624, 
-        "state": "open", 
-        "updated_at": 1564359296
-    }, 
     "27642": {
         "base_branch": "CMSSW_10_3_X", 
         "changed_files_names": [
