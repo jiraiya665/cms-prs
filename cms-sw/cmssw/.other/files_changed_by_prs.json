@@ -1575,16 +1575,6 @@
         "state": "open", 
         "updated_at": 1568894711
     }, 
-    "28027": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/Skeletons/python/pkg.py"
-        ], 
-        "created_at": 1568894722, 
-        "number": 28027, 
-        "state": "open", 
-        "updated_at": 1568894767
-    }, 
     "28028": {
         "base_branch": "master", 
         "changed_files_names": [
