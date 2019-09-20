@@ -1747,6 +1747,20 @@
         "state": "open", 
         "updated_at": 1568982585
     }, 
+    "28040": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoLocalCalo/EcalDeadChannelRecoveryAlgos/interface/EcalDeadChannelRecoveryAlgos.h", 
+            "RecoLocalCalo/EcalDeadChannelRecoveryAlgos/interface/EcalDeadChannelRecoveryBDTG.h", 
+            "RecoLocalCalo/EcalDeadChannelRecoveryAlgos/src/EcalDeadChannelRecoveryAlgos.cc", 
+            "RecoLocalCalo/EcalDeadChannelRecoveryAlgos/src/EcalDeadChannelRecoveryBDTG.cc", 
+            "RecoLocalCalo/EcalRecProducers/plugins/EcalRecHitWorkerRecover.cc"
+        ], 
+        "created_at": 1568984199, 
+        "number": 28040, 
+        "state": "open", 
+        "updated_at": 1568984251
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
