@@ -359,19 +359,6 @@
         "state": "open", 
         "updated_at": 1564740423
     }, 
-    "27686": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/SiOuterTracker/plugins/OuterTrackerMonitorTTTrack.cc", 
-            "DataFormats/L1TrackTrigger/interface/TTTrack.h", 
-            "DataFormats/L1TrackTrigger/interface/TTTrack_TrackWord.h", 
-            "DataFormats/L1TrackTrigger/src/TTTrack_TrackWord.cc"
-        ], 
-        "created_at": 1564848693, 
-        "number": 27686, 
-        "state": "open", 
-        "updated_at": 1568637176
-    }, 
     "27688": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
