@@ -1761,6 +1761,16 @@
         "state": "open", 
         "updated_at": 1568984251
     }, 
+    "28041": {
+        "base_branch": "revert-28032-revert-27882-CMSSW_10_6_X_tau-pog_deepTauVetoPCA", 
+        "changed_files_names": [
+            "PhysicsTools/NanoAOD/python/taus_cff.py"
+        ], 
+        "created_at": 1568988343, 
+        "number": 28041, 
+        "state": "open", 
+        "updated_at": 1568988371
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
