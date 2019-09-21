@@ -1706,6 +1706,7 @@
             "RecoEgamma/EgammaElectronAlgos/interface/PixelHitMatcher.h", 
             "RecoEgamma/EgammaElectronAlgos/src/ElectronSeedGenerator.cc", 
             "RecoEgamma/EgammaElectronAlgos/src/PixelHitMatcher.cc", 
+            "RecoEgamma/EgammaElectronProducers/plugins/ElectronSeedProducer.cc", 
             "RecoMuon/TrackerSeedGenerator/plugins/TSGFromPropagation.cc", 
             "RecoMuon/TrackerSeedGenerator/plugins/TSGFromPropagation.h", 
             "RecoTracker/TkTrackingRegions/src/RectangularEtaPhiTrackingRegion.cc", 
@@ -1715,7 +1716,7 @@
         "created_at": 1568982537, 
         "number": 28039, 
         "state": "open", 
-        "updated_at": 1568982585
+        "updated_at": 1569044371
     }, 
     "28040": {
         "base_branch": "master", 
