@@ -552,6 +552,7 @@
             "RecoEcal/EgammaClusterProducers/python/ecalDigiSelector_cfi.py", 
             "RecoEcal/EgammaClusterProducers/python/particleFlowSuperClusterECAL_cfi.py", 
             "RecoEcal/EgammaClusterProducers/python/reducedRecHitsSequence_cff.py", 
+            "RecoEcal/EgammaClusterProducers/src/PFECALSuperClusterProducer.cc", 
             "RecoEgamma/EgammaElectronProducers/python/ecalDrivenElectronSeedsParameters_cff.py", 
             "RecoEgamma/EgammaElectronProducers/python/ecalDrivenElectronSeeds_cfi.py", 
             "RecoEgamma/EgammaElectronProducers/python/gedGsfElectrons_cfi.py", 
@@ -560,6 +561,13 @@
             "RecoEgamma/EgammaPhotonProducers/python/gedPhotonSequence_cff.py", 
             "RecoEgamma/EgammaPhotonProducers/python/photonCore_cfi.py", 
             "RecoEgamma/EgammaPhotonProducers/python/photons_cfi.py", 
+            "RecoEgamma/EgammaTools/interface/EgammaRegressionContainer.h", 
+            "RecoEgamma/EgammaTools/interface/SCEnergyCorrectorSemiParm.h", 
+            "RecoEgamma/EgammaTools/plugins/EGRegressionModifierV3.cc", 
+            "RecoEgamma/EgammaTools/python/calibratedEgammas_cff.py", 
+            "RecoEgamma/EgammaTools/python/regressionModifier_cfi.py", 
+            "RecoEgamma/EgammaTools/src/EgammaRegressionContainer.cc", 
+            "RecoEgamma/EgammaTools/src/SCEnergyCorrectorSemiParm.cc", 
             "RecoLocalCalo/Configuration/python/RecoLocalCalo_EventContent_cff.py", 
             "RecoLocalTracker/Configuration/python/RecoLocalTracker_EventContent_cff.py", 
             "RecoParticleFlow/PFProducer/python/particleFlowBlock_cfi.py", 
@@ -571,7 +579,7 @@
         "created_at": 1567082455, 
         "number": 27898, 
         "state": "open", 
-        "updated_at": 1567082485
+        "updated_at": 1569232608
     }, 
     "27917": {
         "base_branch": "master", 
