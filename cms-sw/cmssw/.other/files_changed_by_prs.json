@@ -1826,6 +1826,17 @@
         "state": "open", 
         "updated_at": 1569235564
     }, 
+    "28052": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "PhysicsTools/NanoAOD/python/custom_jme_cff.py", 
+            "PhysicsTools/PatAlgos/python/tools/jetCollectionTools.py"
+        ], 
+        "created_at": 1569240079, 
+        "number": 28052, 
+        "state": "open", 
+        "updated_at": 1569240136
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
