@@ -1545,7 +1545,6 @@
         "changed_files_names": [
             "Geometry/MuonNumbering/interface/DD4hep_RPCNumberingScheme.h", 
             "Geometry/MuonNumbering/src/DD4hep_RPCNumberingScheme.cc", 
-            "Geometry/MuonNumbering/src/RPCNumberingScheme.cc", 
             "Geometry/RPCGeometryBuilder/BuildFile.xml", 
             "Geometry/RPCGeometryBuilder/plugins/BuildFile.xml", 
             "Geometry/RPCGeometryBuilder/plugins/RPCGeometryESModule.cc", 
@@ -1559,7 +1558,7 @@
         "created_at": 1568964427, 
         "number": 28036, 
         "state": "open", 
-        "updated_at": 1569150636
+        "updated_at": 1569215881
     }, 
     "28037": {
         "base_branch": "master", 
