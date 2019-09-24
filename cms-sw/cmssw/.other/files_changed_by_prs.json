@@ -1656,17 +1656,6 @@
         "state": "open", 
         "updated_at": 1569024682
     }, 
-    "28048": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/HGCalReco/interface/TICLLayerTile.h", 
-            "RecoLocalCalo/HGCalRecProducers/interface/HGCalLayerTiles.h"
-        ], 
-        "created_at": 1569136945, 
-        "number": 28048, 
-        "state": "open", 
-        "updated_at": 1569137093
-    }, 
     "28050": {
         "base_branch": "master", 
         "changed_files_names": [
