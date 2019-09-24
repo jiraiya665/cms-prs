@@ -1767,16 +1767,6 @@
         "state": "open", 
         "updated_at": 1569322781
     }, 
-    "28054": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DetectorDescription/DDCMS/plugins/dd4hep/DDAngular.cc"
-        ], 
-        "created_at": 1569270250, 
-        "number": 28054, 
-        "state": "open", 
-        "updated_at": 1569270278
-    }, 
     "28055": {
         "base_branch": "master", 
         "changed_files_names": [
