@@ -1457,6 +1457,7 @@
         "base_branch": "master", 
         "changed_files_names": [
             "DQM/CSCMonitorModule/plugins/CSCMonitorObject.h", 
+            "DQM/EcalMonitorClient/data/EcalQualityTests.xml", 
             "DQM/HLTEvF/data/HLTMonJetMET_QualityTests.xml", 
             "DQM/HLTEvF/data/HLTMonMuon_QualityTests.xml", 
             "DQM/HLTEvF/data/hltBitsQualityTests.xml", 
@@ -1498,13 +1499,18 @@
             "DQMServices/Core/test/DQMMonitorUIRootStandaloneExample.cc", 
             "DQMServices/Core/test/DQMQualityTest.hpp", 
             "DQMServices/Core/test/DQMQualityTestsExample.cc", 
+            "HLTriggerOffline/Higgs/data/HLTHiggsQualityTest.xml", 
+            "HLTriggerOffline/JetMET/data/QualityTests.xml", 
+            "HLTriggerOffline/Muon/data/HLTMuonQualityTests.xml", 
             "HLTriggerOffline/SUSYBSM/data/HLTSusyExoQualityTest.xml", 
-            "HLTriggerOffline/Tau/data/QTDefault.xml"
+            "HLTriggerOffline/Tau/data/QTDefault.xml", 
+            "HLTriggerOffline/Top/data/HLTTopQualityTest.xml", 
+            "PhysicsTools/NanoAOD/test/dqmQualityTests.xml"
         ], 
         "created_at": 1568974630, 
         "number": 28038, 
         "state": "open", 
-        "updated_at": 1568982346
+        "updated_at": 1569406452
     }, 
     "28039": {
         "base_branch": "master", 
