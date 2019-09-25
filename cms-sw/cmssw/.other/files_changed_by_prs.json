@@ -301,23 +301,6 @@
         "state": "open", 
         "updated_at": 1565624773
     }, 
-    "27642": {
-        "base_branch": "CMSSW_10_3_X", 
-        "changed_files_names": [
-            "RecoEcal/EgammaClusterProducers/python/particleFlowSuperClusterECAL_cfi.py", 
-            "RecoEcal/EgammaClusterProducers/src/PFECALSuperClusterProducer.cc", 
-            "RecoEgamma/EgammaTools/interface/EgammaRegressionContainer.h", 
-            "RecoEgamma/EgammaTools/interface/SCEnergyCorrectorSemiParm.h", 
-            "RecoEgamma/EgammaTools/plugins/EGRegressionModifierV3.cc", 
-            "RecoEgamma/EgammaTools/python/calibratedEgammas_cff.py", 
-            "RecoEgamma/EgammaTools/src/EgammaRegressionContainer.cc", 
-            "RecoEgamma/EgammaTools/src/SCEnergyCorrectorSemiParm.cc"
-        ], 
-        "created_at": 1564488966, 
-        "number": 27642, 
-        "state": "open", 
-        "updated_at": 1564500324
-    }, 
     "27676": {
         "base_branch": "master", 
         "changed_files_names": [
