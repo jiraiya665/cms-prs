@@ -1716,21 +1716,6 @@
         "state": "open", 
         "updated_at": 1569417724
     }, 
-    "28068": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalEE-algorithm.xml", 
-            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalHEsil-algorithm.xml", 
-            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalEEAlgo.cc", 
-            "Geometry/HcalAlgo/data/cms-test-ddhcalHEPhase1-algorithm.xml", 
-            "Geometry/HcalAlgo/plugins/dd4hep/DDHCalEndcapModuleAlgo.cc", 
-            "Geometry/HcalAlgo/test/data/world.xml"
-        ], 
-        "created_at": 1569422575, 
-        "number": 28068, 
-        "state": "open", 
-        "updated_at": 1569469585
-    }, 
     "28070": {
         "base_branch": "master", 
         "changed_files_names": [
