@@ -580,20 +580,6 @@
         "state": "open", 
         "updated_at": 1568885921
     }, 
-    "27942": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalTBModuleX-algorithm.xml", 
-            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalTBModuleX.cc", 
-            "Geometry/HGCalCommonData/python/testHGCalTBModuleXXML_cfi.py", 
-            "Geometry/HGCalCommonData/test/python/dumpHGCalTBModuleXGeometry_cfg.py", 
-            "Geometry/HGCalCommonData/test/python/testHGCalTBModuleXGeometry_cfg.py"
-        ], 
-        "created_at": 1567712368, 
-        "number": 27942, 
-        "state": "open", 
-        "updated_at": 1569383550
-    }, 
     "27947": {
         "base_branch": "master", 
         "changed_files_names": [
