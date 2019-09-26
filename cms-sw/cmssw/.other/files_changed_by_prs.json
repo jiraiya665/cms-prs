@@ -415,8 +415,10 @@
             "Geometry/HcalCommonData/python/hcalDDConstants_cff.py", 
             "Geometry/HcalCommonData/python/hcalDDDSimConstants_cff.py", 
             "Geometry/HcalCommonData/src/ES_HcalDDDConstants.cc", 
+            "Geometry/HcalCommonData/src/HcalDDDRecConstants.cc", 
             "Geometry/HcalCommonData/src/HcalDDDSimConstants.cc", 
             "Geometry/HcalCommonData/src/HcalDDDSimulationConstants.cc", 
+            "Geometry/HcalCommonData/src/HcalSimParametersFromDD.cc", 
             "Geometry/HcalCommonData/test/python/runHcalRecNumberingTester_cfg.py", 
             "Geometry/HcalCommonData/test/python/runHcalSimNumberingTester_cfg.py", 
             "Geometry/MuonCommonData/test/runME_cfg.py", 
@@ -490,7 +492,7 @@
         "created_at": 1565444754, 
         "number": 27743, 
         "state": "open", 
-        "updated_at": 1567272445
+        "updated_at": 1569484899
     }, 
     "27836": {
         "base_branch": "master", 
