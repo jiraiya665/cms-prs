@@ -381,6 +381,7 @@
             "Configuration/Geometry/python/GeometryExtended2026D46_cff.py", 
             "Configuration/Geometry/python/GeometryExtended2026D47_cff.py", 
             "Configuration/Geometry/python/GeometryExtended2026D48_cff.py", 
+            "Configuration/Geometry/python/GeometryExtended2026D49_cff.py", 
             "Configuration/Geometry/python/GeometryExtendedCastorMeasured2015dev_cff.py", 
             "Configuration/Geometry/python/GeometryExtendedCastorSystMinus2015dev_cff.py", 
             "Configuration/Geometry/python/GeometryExtendedCastorSystPlus2015dev_cff.py", 
@@ -492,7 +493,7 @@
         "created_at": 1565444754, 
         "number": 27743, 
         "state": "open", 
-        "updated_at": 1569487418
+        "updated_at": 1569497897
     }, 
     "27836": {
         "base_branch": "master", 
