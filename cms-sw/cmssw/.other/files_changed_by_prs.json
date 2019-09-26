@@ -1392,18 +1392,6 @@
         "state": "open", 
         "updated_at": 1568920612
     }, 
-    "28033": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CommonTools/PileupAlgos/interface/PuppiContainer.h", 
-            "CommonTools/PileupAlgos/plugins/PuppiProducer.cc", 
-            "CommonTools/PileupAlgos/src/PuppiContainer.cc"
-        ], 
-        "created_at": 1568958747, 
-        "number": 28033, 
-        "state": "open", 
-        "updated_at": 1568959706
-    }, 
     "28035": {
         "base_branch": "master", 
         "changed_files_names": [
