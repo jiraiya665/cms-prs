@@ -1345,22 +1345,6 @@
         "state": "open", 
         "updated_at": 1569430008
     }, 
-    "28024": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibTracker/SiStripESProducers/plugins/real/SiStripApvSimulationParametersESProducer.cc", 
-            "CondTools/SiStrip/test/SiStripApvSimulationParametersBuilder_cfg.py", 
-            "Configuration/PyReleaseValidation/python/relval_pileup.py", 
-            "Configuration/PyReleaseValidation/python/relval_premix.py", 
-            "Configuration/PyReleaseValidation/python/relval_standard.py", 
-            "Configuration/PyReleaseValidation/python/relval_steps.py", 
-            "SimTracker/SiStripDigitizer/python/customizeSiStripAPVDynamicGainSimulation.py"
-        ], 
-        "created_at": 1568892923, 
-        "number": 28024, 
-        "state": "open", 
-        "updated_at": 1569235770
-    }, 
     "28026": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
