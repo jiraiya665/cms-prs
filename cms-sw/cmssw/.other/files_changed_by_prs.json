@@ -1576,17 +1576,6 @@
         "state": "open", 
         "updated_at": 1569559843
     }, 
-    "28056": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HGCalCommonData/plugins/DDHGCalHEAlgo.cc", 
-            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalHEAlgo.cc"
-        ], 
-        "created_at": 1569300935, 
-        "number": 28056, 
-        "state": "open", 
-        "updated_at": 1569407463
-    }, 
     "28059": {
         "base_branch": "master", 
         "changed_files_names": [
