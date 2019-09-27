@@ -1167,6 +1167,7 @@
             "DQM/DTMonitorClient/python/dtLocalTriggerTest_cfi.py", 
             "DQM/DTMonitorClient/python/dtTriggerEfficiencyTest_cfi.py", 
             "DQM/DTMonitorClient/src/DTDataIntegrityTest.cc", 
+            "DQM/DTMonitorClient/src/DTEfficiencyTest.cc", 
             "DQM/DTMonitorClient/src/DTLocalTriggerBaseTest.cc", 
             "DQM/DTMonitorClient/src/DTLocalTriggerBaseTest.h", 
             "DQM/DTMonitorClient/src/DTLocalTriggerEfficiencyTest.cc", 
@@ -1178,6 +1179,8 @@
             "DQM/DTMonitorClient/src/DTTriggerLutTest.cc", 
             "DQM/DTMonitorClient/test/dt_finedelay_beam_cfg.py", 
             "DQM/DTMonitorModule/interface/DTDataIntegrityTask.h", 
+            "DQM/DTMonitorModule/python/dtDQMOfflineSources_Cosmics_cff.py", 
+            "DQM/DTMonitorModule/python/dtDataIntegrityTask_cfi.py", 
             "DQM/DTMonitorModule/python/dtTriggerBaseTask_cfi.py", 
             "DQM/DTMonitorModule/python/dtTriggerEfficiencyTask_cfi.py", 
             "DQM/DTMonitorModule/python/dtTriggerLutTask_cfi.py", 
@@ -1185,6 +1188,7 @@
             "DQM/DTMonitorModule/python/dtTriggerTask_TP_cfi.py", 
             "DQM/DTMonitorModule/python/dtTriggerTask_cfi.py", 
             "DQM/DTMonitorModule/python/dt_dqm_sourceclient_common_cff.py", 
+            "DQM/DTMonitorModule/src/DTDCSByLumiTask.cc", 
             "DQM/DTMonitorModule/src/DTDataIntegrityTask.cc", 
             "DQM/DTMonitorModule/src/DTLocalTriggerBaseTask.cc", 
             "DQM/DTMonitorModule/src/DTLocalTriggerBaseTask.h", 
@@ -1192,13 +1196,15 @@
             "DQM/DTMonitorModule/src/DTLocalTriggerSynchTask.h", 
             "DQM/DTMonitorModule/src/DTLocalTriggerTask.cc", 
             "DQM/DTMonitorModule/src/DTLocalTriggerTask.h", 
+            "DQM/DTMonitorModule/src/DTScalerInfoTask.cc", 
+            "DQM/DTMonitorModule/src/DTSegmentAnalysisTask.cc", 
             "DQM/DTMonitorModule/src/DTTriggerEfficiencyTask.cc", 
             "DQM/DTMonitorModule/src/DTTriggerEfficiencyTask.h"
         ], 
         "created_at": 1568614760, 
         "number": 27996, 
         "state": "open", 
-        "updated_at": 1568726880
+        "updated_at": 1569568764
     }, 
     "28007": {
         "base_branch": "CMSSW_10_6_X", 
