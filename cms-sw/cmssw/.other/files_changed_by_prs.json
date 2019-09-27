@@ -1557,25 +1557,6 @@
         "state": "open", 
         "updated_at": 1569322781
     }, 
-    "28055": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HcalAlgo/data/cms-test-ddhcalHEPhase0-algorithm.xml", 
-            "Geometry/HcalAlgo/plugins/DDHCalEndcapAlgo.cc", 
-            "Geometry/HcalAlgo/plugins/dd4hep/DDHCalEndcapAlgo.cc", 
-            "Geometry/HcalAlgo/test/python/dumpHEPhase0Geom_cfg.py", 
-            "Geometry/HcalAlgo/test/python/testHEPhase0Geom_cfg.py", 
-            "Geometry/HcalAlgo/test/python/testHEPhase1Geom_cfg.py", 
-            "Geometry/HcalAlgo/test/python/testHFGeom_cfg.py", 
-            "Geometry/HcalAlgo/test/python/testHOGeom_cfg.py", 
-            "Geometry/HcalAlgo/test/python/testTBHOGeom_cfg.py", 
-            "Geometry/HcalAlgo/test/python/testTestBeam_cfg.py"
-        ], 
-        "created_at": 1569300674, 
-        "number": 28055, 
-        "state": "open", 
-        "updated_at": 1569559843
-    }, 
     "28059": {
         "base_branch": "master", 
         "changed_files_names": [
