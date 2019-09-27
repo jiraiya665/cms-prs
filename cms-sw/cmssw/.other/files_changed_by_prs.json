@@ -1784,12 +1784,13 @@
         "base_branch": "master", 
         "changed_files_names": [
             "Configuration/Applications/python/ConfigBuilder.py", 
-            "GeneratorInterface/LHEInterface/scripts/cmsLHEtoEOSManager.py"
+            "GeneratorInterface/LHEInterface/scripts/cmsLHEtoEOSManager.py", 
+            "Utilities/ReleaseScripts/scripts/addOnTests.py"
         ], 
         "created_at": 1569558997, 
         "number": 28078, 
         "state": "open", 
-        "updated_at": 1569559054
+        "updated_at": 1569562185
     }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
