@@ -1177,7 +1177,6 @@
             "DQM/DTMonitorClient/src/DTTriggerEfficiencyTest.cc", 
             "DQM/DTMonitorClient/src/DTTriggerLutTest.cc", 
             "DQM/DTMonitorClient/test/dt_finedelay_beam_cfg.py", 
-            "DQM/DTMonitorModule/python/dtDQMOfflineSources_Cosmics_cff.py", 
             "DQM/DTMonitorModule/python/dtTriggerBaseTask_cfi.py", 
             "DQM/DTMonitorModule/python/dtTriggerEfficiencyTask_cfi.py", 
             "DQM/DTMonitorModule/python/dtTriggerLutTask_cfi.py", 
@@ -1192,15 +1191,13 @@
             "DQM/DTMonitorModule/src/DTLocalTriggerSynchTask.h", 
             "DQM/DTMonitorModule/src/DTLocalTriggerTask.cc", 
             "DQM/DTMonitorModule/src/DTLocalTriggerTask.h", 
-            "DQM/DTMonitorModule/src/DTScalerInfoTask.cc", 
-            "DQM/DTMonitorModule/src/DTSegmentAnalysisTask.cc", 
             "DQM/DTMonitorModule/src/DTTriggerEfficiencyTask.cc", 
             "DQM/DTMonitorModule/src/DTTriggerEfficiencyTask.h"
         ], 
         "created_at": 1568614760, 
         "number": 27996, 
         "state": "open", 
-        "updated_at": 1569585782
+        "updated_at": 1569587379
     }, 
     "28007": {
         "base_branch": "CMSSW_10_6_X", 
