@@ -1499,6 +1499,7 @@
             "RecoParticleFlow/PFClusterProducer/python/particleFlowCluster_cff.py", 
             "RecoParticleFlow/PFProducer/python/electronPFIsolationDeposits_cff.py", 
             "RecoParticleFlow/PFProducer/python/electronPFIsolationValues_cff.py", 
+            "RecoParticleFlow/PFProducer/python/particleFlowEGamma_cff.py", 
             "RecoParticleFlow/PFProducer/python/pfBasedElectronIso_cff.py", 
             "RecoParticleFlow/PFProducer/python/pfBasedElectronPhotonIso_cff.py", 
             "RecoParticleFlow/PFProducer/python/pfBasedPhotonIso_cff.py", 
@@ -1524,7 +1525,7 @@
         "created_at": 1569215782, 
         "number": 28050, 
         "state": "open", 
-        "updated_at": 1569215832
+        "updated_at": 1569633436
     }, 
     "28051": {
         "base_branch": "master", 
