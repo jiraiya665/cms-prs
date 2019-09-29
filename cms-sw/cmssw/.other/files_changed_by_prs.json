@@ -265,42 +265,6 @@
         "state": "open", 
         "updated_at": 1564083904
     }, 
-    "27608": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimPPS/RPDigiProducer/BuildFile.xml", 
-            "SimPPS/RPDigiProducer/interface/RPEnergyDepositUnit.h", 
-            "SimPPS/RPDigiProducer/interface/RPSignalPoint.h", 
-            "SimPPS/RPDigiProducer/interface/RPSimTypes.h", 
-            "SimPPS/RPDigiProducer/plugins/BuildFile.xml", 
-            "SimPPS/RPDigiProducer/plugins/DeadChannelsManager.cc", 
-            "SimPPS/RPDigiProducer/plugins/DeadChannelsManager.h", 
-            "SimPPS/RPDigiProducer/plugins/RPDetDigitizer.cc", 
-            "SimPPS/RPDigiProducer/plugins/RPDetDigitizer.h", 
-            "SimPPS/RPDigiProducer/plugins/RPDigiProducer.cc", 
-            "SimPPS/RPDigiProducer/plugins/RPDisplacementGenerator.cc", 
-            "SimPPS/RPDigiProducer/plugins/RPDisplacementGenerator.h", 
-            "SimPPS/RPDigiProducer/plugins/RPGaussianTailNoiseAdder.cc", 
-            "SimPPS/RPDigiProducer/plugins/RPGaussianTailNoiseAdder.h", 
-            "SimPPS/RPDigiProducer/plugins/RPHitChargeConverter.cc", 
-            "SimPPS/RPDigiProducer/plugins/RPHitChargeConverter.h", 
-            "SimPPS/RPDigiProducer/plugins/RPLinearChargeCollectionDrifter.cc", 
-            "SimPPS/RPDigiProducer/plugins/RPLinearChargeCollectionDrifter.h", 
-            "SimPPS/RPDigiProducer/plugins/RPLinearChargeDivider.cc", 
-            "SimPPS/RPDigiProducer/plugins/RPLinearChargeDivider.h", 
-            "SimPPS/RPDigiProducer/plugins/RPLinearInduceChargeOnStrips.cc", 
-            "SimPPS/RPDigiProducer/plugins/RPLinearInduceChargeOnStrips.h", 
-            "SimPPS/RPDigiProducer/plugins/RPPileUpSignals.cc", 
-            "SimPPS/RPDigiProducer/plugins/RPPileUpSignals.h", 
-            "SimPPS/RPDigiProducer/plugins/RPVFATSimulator.cc", 
-            "SimPPS/RPDigiProducer/plugins/RPVFATSimulator.h", 
-            "SimPPS/RPDigiProducer/test/RPDigiProducerTest_cfg.py"
-        ], 
-        "created_at": 1564055244, 
-        "number": 27608, 
-        "state": "open", 
-        "updated_at": 1565624773
-    }, 
     "27676": {
         "base_branch": "master", 
         "changed_files_names": [
