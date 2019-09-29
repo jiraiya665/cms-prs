@@ -1145,17 +1145,6 @@
         "state": "open", 
         "updated_at": 1568375934
     }, 
-    "27990": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/StandardSequences/python/Eras.py", 
-            "SimG4Core/Application/python/g4SimHits_cfi.py"
-        ], 
-        "created_at": 1568379204, 
-        "number": 27990, 
-        "state": "open", 
-        "updated_at": 1568393163
-    }, 
     "27996": {
         "base_branch": "master", 
         "changed_files_names": [
