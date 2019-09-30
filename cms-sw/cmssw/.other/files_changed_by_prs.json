@@ -1526,22 +1526,6 @@
         "state": "open", 
         "updated_at": 1569318299
     }, 
-    "28062": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondFormats/HcalObjects/interface/HFPhase1PMTData.h", 
-            "CondFormats/HcalObjects/interface/HcalItemArrayColl.h", 
-            "CondFormats/HcalObjects/interface/HcalItemArrayCollById.h", 
-            "RecoMET/METAlgorithms/interface/HcalHPDRBXMap.h", 
-            "RecoMET/METAlgorithms/interface/HcalNoiseRBXArray.h", 
-            "RecoMET/METAlgorithms/src/HcalHPDRBXMap.cc", 
-            "RecoMET/METAlgorithms/src/HcalNoiseRBXArray.cc"
-        ], 
-        "created_at": 1569317107, 
-        "number": 28062, 
-        "state": "open", 
-        "updated_at": 1569318175
-    }, 
     "28063": {
         "base_branch": "master", 
         "changed_files_names": [
