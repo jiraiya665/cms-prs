@@ -2349,7 +2349,6 @@
             "RecoTracker/TkDetLayers/src/GeometricSearchTrackerBuilder.cc", 
             "RecoTracker/TkDetLayers/src/Phase2EndcapLayerBuilder.cc", 
             "RecoTracker/TkDetLayers/src/Phase2EndcapLayerBuilder.h", 
-            "RecoTracker/TkDetLayers/src/Phase2EndcapRingBuilder.cc", 
             "RecoTracker/TkDetLayers/src/Phase2OTBarrelLayerBuilder.cc", 
             "RecoTracker/TkDetLayers/src/Phase2OTBarrelLayerBuilder.h", 
             "RecoTracker/TkDetLayers/src/Phase2OTBarrelRod.cc", 
@@ -2374,7 +2373,7 @@
         "created_at": 1569947248, 
         "number": 28101, 
         "state": "open", 
-        "updated_at": 1569947328
+        "updated_at": 1569948099
     }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
