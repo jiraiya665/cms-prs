@@ -2061,7 +2061,6 @@
             "DataFormats/TrackerRecHit2D/src/classes.h", 
             "DataFormats/TrackerRecHit2D/src/classes_def.xml", 
             "Geometry/TrackerGeometryBuilder/src/TrackerGeomBuilderFromGeometricDet.cc", 
-            "RecoLocalTracker/Configuration/python/RecoLocalTracker_cff.py", 
             "RecoLocalTracker/Phase2TrackerRecHits/plugins/Phase2StripCPEESProducer.cc", 
             "RecoLocalTracker/Phase2TrackerRecHits/plugins/Phase2TrackerRecHits.cc", 
             "RecoLocalTracker/Records/interface/TkPhase2OTCPERecord.h", 
@@ -2073,9 +2072,6 @@
             "RecoLocalTracker/SiPhase2VectorHitBuilder/plugins/BuildFile.xml", 
             "RecoLocalTracker/SiPhase2VectorHitBuilder/plugins/SealModules.cc", 
             "RecoLocalTracker/SiPhase2VectorHitBuilder/plugins/SiPhase2RecHitMatcherESProducer.cc", 
-            "RecoLocalTracker/SiPhase2VectorHitBuilder/plugins/SiPhase2RecHitMatcherESProducer.h", 
-            "RecoLocalTracker/SiPhase2VectorHitBuilder/python/SiPhase2RecHitMatcher_cfi.py", 
-            "RecoLocalTracker/SiPhase2VectorHitBuilder/python/SiPhase2VectorHitBuilder_cfi.py", 
             "RecoLocalTracker/SiPhase2VectorHitBuilder/src/VectorHitBuilderAlgorithm.cc", 
             "RecoLocalTracker/SiPhase2VectorHitBuilder/src/VectorHitBuilderAlgorithmBase.cc", 
             "RecoLocalTracker/SiPhase2VectorHitBuilder/src/VectorHitBuilderEDProducer.cc", 
@@ -2134,7 +2130,7 @@
         "created_at": 1569947248, 
         "number": 28101, 
         "state": "open", 
-        "updated_at": 1569948099
+        "updated_at": 1569966398
     }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
