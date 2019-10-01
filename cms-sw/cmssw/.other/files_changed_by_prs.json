@@ -2267,6 +2267,17 @@
         "state": "open", 
         "updated_at": 1569929507
     }, 
+    "28100": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimTracker/SiPhase2Digitizer/plugins/PixelDigitizerAlgorithm.cc", 
+            "SimTracker/SiPhase2Digitizer/python/phase2TrackerDigitizer_cfi.py"
+        ], 
+        "created_at": 1569934705, 
+        "number": 28100, 
+        "state": "open", 
+        "updated_at": 1569934766
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
