@@ -2143,6 +2143,28 @@
         "state": "open", 
         "updated_at": 1569991794
     }, 
+    "28103": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/Eras/python/Modifier_run2_nanoAOD_106Xv1_cff.py", 
+            "Configuration/StandardSequences/python/Eras.py", 
+            "PhysicsTools/NanoAOD/plugins/EventStringOutputBranches.cc", 
+            "PhysicsTools/NanoAOD/plugins/EventStringOutputBranches.h", 
+            "PhysicsTools/NanoAOD/plugins/GenWeightsTableProducer.cc", 
+            "PhysicsTools/NanoAOD/plugins/NanoAODOutputModule.cc", 
+            "PhysicsTools/NanoAOD/plugins/VertexTableProducer.cc", 
+            "PhysicsTools/NanoAOD/python/NanoAODEDMEventContent_cff.py", 
+            "PhysicsTools/NanoAOD/python/jets_cff.py", 
+            "PhysicsTools/NanoAOD/python/nanoDQM_cfi.py", 
+            "PhysicsTools/NanoAOD/python/nano_cff.py", 
+            "PhysicsTools/NanoAOD/python/taus_cff.py", 
+            "PhysicsTools/NanoAOD/python/triggerObjects_cff.py"
+        ], 
+        "created_at": 1569995726, 
+        "number": 28103, 
+        "state": "open", 
+        "updated_at": 1569995783
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
