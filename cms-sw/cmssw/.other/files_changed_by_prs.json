@@ -2177,16 +2177,6 @@
         "state": "open", 
         "updated_at": 1569997406
     }, 
-    "28105": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/DTMonitorModule/python/dtTriggerEfficiencyTask_cfi.py"
-        ], 
-        "created_at": 1570004041, 
-        "number": 28105, 
-        "state": "open", 
-        "updated_at": 1570004073
-    }, 
     "28107": {
         "base_branch": "master", 
         "changed_files_names": [
