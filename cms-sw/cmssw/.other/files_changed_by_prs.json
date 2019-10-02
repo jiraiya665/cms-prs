@@ -1050,17 +1050,6 @@
         "state": "open", 
         "updated_at": 1568920612
     }, 
-    "28035": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "PhysicsTools/PatAlgos/python/tools/jetTools.py", 
-            "RecoBTag/FeatureTools/plugins/DeepBoostedJetTagInfoProducer.cc"
-        ], 
-        "created_at": 1568963169, 
-        "number": 28035, 
-        "state": "open", 
-        "updated_at": 1568963818
-    }, 
     "28038": {
         "base_branch": "master", 
         "changed_files_names": [
