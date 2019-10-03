@@ -1974,6 +1974,8 @@
             "RecoLocalTracker/SiPhase2VectorHitBuilder/plugins/BuildFile.xml", 
             "RecoLocalTracker/SiPhase2VectorHitBuilder/plugins/SealModules.cc", 
             "RecoLocalTracker/SiPhase2VectorHitBuilder/plugins/SiPhase2RecHitMatcherESProducer.cc", 
+            "RecoLocalTracker/SiPhase2VectorHitBuilder/python/SiPhase2RecHitMatcher_cfi.py", 
+            "RecoLocalTracker/SiPhase2VectorHitBuilder/python/SiPhase2VectorHitBuilder_cfi.py", 
             "RecoLocalTracker/SiPhase2VectorHitBuilder/src/VectorHitBuilderAlgorithm.cc", 
             "RecoLocalTracker/SiPhase2VectorHitBuilder/src/VectorHitBuilderAlgorithmBase.cc", 
             "RecoLocalTracker/SiPhase2VectorHitBuilder/src/VectorHitBuilderEDProducer.cc", 
@@ -2032,7 +2034,7 @@
         "created_at": 1569947248, 
         "number": 28101, 
         "state": "open", 
-        "updated_at": 1570034316
+        "updated_at": 1570125097
     }, 
     "28102": {
         "base_branch": "master", 
