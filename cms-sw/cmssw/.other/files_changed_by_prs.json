@@ -1362,12 +1362,13 @@
             "CalibTracker/SiStripESProducers/plugins/real/SiStripApvSimulationParametersESProducer.cc", 
             "CondTools/SiStrip/test/SiStripApvSimulationParametersBuilder_cfg.py", 
             "SimTracker/SiStripDigitizer/plugins/PreMixingSiStripWorker.cc", 
-            "SimTracker/SiStripDigitizer/plugins/SiStripDigitizerAlgorithm.cc"
+            "SimTracker/SiStripDigitizer/plugins/SiStripDigitizerAlgorithm.cc", 
+            "SimTracker/SiStripDigitizer/python/customizeSiStripAPVDynamicGainSimulation.py"
         ], 
         "created_at": 1569585178, 
         "number": 28081, 
         "state": "open", 
-        "updated_at": 1569589187
+        "updated_at": 1570112075
     }, 
     "28082": {
         "base_branch": "master", 
