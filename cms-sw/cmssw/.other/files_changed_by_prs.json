@@ -1447,40 +1447,6 @@
         "state": "open", 
         "updated_at": 1569923298
     }, 
-    "28087": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HcalAlgo/data/cms-test-ddhcalForwardShield-algorithm.xml", 
-            "Geometry/HcalAlgo/data/cms-test-ddhcalHB-algorithm.xml", 
-            "Geometry/HcalAlgo/data/cms-test-ddhcalHEPhase0-algorithm.xml", 
-            "Geometry/HcalAlgo/data/cms-test-ddhcalHF-algorithm.xml", 
-            "Geometry/HcalAlgo/data/cms-test-ddhcalHO-algorithm.xml", 
-            "Geometry/HcalAlgo/data/cms-test-ddhcalTBCable-algorithm.xml", 
-            "Geometry/HcalAlgo/data/cms-test-ddhcalTBZpos-algorithm.xml", 
-            "Geometry/HcalAlgo/data/cms-test-ddhcalTestBeam-algorithm.xml", 
-            "Geometry/HcalAlgo/data/cms-test-ddhcalXtal-algorithm.xml", 
-            "Geometry/HcalAlgo/data/world.xml", 
-            "Geometry/HcalAlgo/test/python/dumpForwardShield_cfg.py", 
-            "Geometry/HcalAlgo/test/python/dumpHFGeom_cfg.py", 
-            "Geometry/HcalAlgo/test/python/dumpHOGeom_cfg.py", 
-            "Geometry/HcalAlgo/test/python/dumpHcalXtal_cfg.py", 
-            "Geometry/HcalAlgo/test/python/dumpTBCable_cfg.py", 
-            "Geometry/HcalAlgo/test/python/dumpTBHOGeom_cfg.py", 
-            "Geometry/HcalAlgo/test/python/dumpTestBeam_cfg.py", 
-            "Geometry/HcalAlgo/test/python/testForwardShield_cfg.py", 
-            "Geometry/HcalAlgo/test/python/testHEPhase1Geom_cfg.py", 
-            "Geometry/HcalAlgo/test/python/testHFGeom_cfg.py", 
-            "Geometry/HcalAlgo/test/python/testHOGeom_cfg.py", 
-            "Geometry/HcalAlgo/test/python/testHcalXtal_cfg.py", 
-            "Geometry/HcalAlgo/test/python/testTBCable_cfg.py", 
-            "Geometry/HcalAlgo/test/python/testTBHOGeom_cfg.py", 
-            "Geometry/HcalAlgo/test/python/testTestBeam_cfg.py"
-        ], 
-        "created_at": 1569740324, 
-        "number": 28087, 
-        "state": "open", 
-        "updated_at": 1569740374
-    }, 
     "28088": {
         "base_branch": "master", 
         "changed_files_names": [
