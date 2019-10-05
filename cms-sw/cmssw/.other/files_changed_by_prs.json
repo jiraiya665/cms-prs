@@ -2034,32 +2034,6 @@
         "state": "open", 
         "updated_at": 1570197787
     }, 
-    "28117": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/FWLite/src/FWLiteEnabler.cc", 
-            "FWCore/ParameterSet/src/FileInPath.cc", 
-            "FWCore/PluginManager/src/standard.cc", 
-            "FWCore/PyDevParameterSet/test/makepset_t.cppunit.cc", 
-            "FWCore/PythonParameterSet/test/makepset_t.cppunit.cc", 
-            "FWCore/Services/plugins/CondorStatusUpdater.cc", 
-            "FWCore/Services/src/SiteLocalConfigService.cc", 
-            "FWCore/Services/test/test_catch2_SiteLocalConfigService.cc", 
-            "FWCore/Utilities/interface/GetEnvironmentVariable.h", 
-            "FWCore/Utilities/src/DebugMacros.cc", 
-            "FWCore/Utilities/src/MallocOpts.cc", 
-            "FWCore/Utilities/src/TestHelper.cc", 
-            "Utilities/StorageFactory/plugins/StormLCGStorageMaker.cc", 
-            "Utilities/StorageFactory/plugins/StormStorageMaker.cc", 
-            "Utilities/StorageFactory/src/LocalCacheFile.cc", 
-            "Utilities/StorageFactory/src/LocalFileSystem.cc", 
-            "Utilities/StorageFactory/src/StatisticsSenderService.cc"
-        ], 
-        "created_at": 1570207285, 
-        "number": 28117, 
-        "state": "open", 
-        "updated_at": 1570207446
-    }, 
     "28118": {
         "base_branch": "master", 
         "changed_files_names": [
