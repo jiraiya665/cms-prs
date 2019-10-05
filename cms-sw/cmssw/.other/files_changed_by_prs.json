@@ -2050,6 +2050,8 @@
             "PhysicsTools/ONNXRuntime/test/data/model.onnx", 
             "PhysicsTools/ONNXRuntime/test/testONNXRuntime.cc", 
             "PhysicsTools/ONNXRuntime/test/testRunner.cpp", 
+            "PhysicsTools/PatAlgos/python/recoLayer0/bTagging_cff.py", 
+            "PhysicsTools/PatAlgos/python/slimming/applyDeepBtagging_cff.py", 
             "RecoBTag/Configuration/python/RecoBTag_cff.py", 
             "RecoBTag/MXNet/python/pfDeepBoostedJet_cff.py", 
             "RecoBTag/ONNXRuntime/plugins/BuildFile.xml", 
@@ -2067,7 +2069,7 @@
         "created_at": 1570114506, 
         "number": 28112, 
         "state": "open", 
-        "updated_at": 1570139617
+        "updated_at": 1570229352
     }, 
     "28113": {
         "base_branch": "master", 
