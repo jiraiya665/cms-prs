@@ -1339,16 +1339,6 @@
         "state": "open", 
         "updated_at": 1570112098
     }, 
-    "28083": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/FWLite/python/__init__.py"
-        ], 
-        "created_at": 1569593236, 
-        "number": 28083, 
-        "state": "open", 
-        "updated_at": 1570103680
-    }, 
     "28084": {
         "base_branch": "master", 
         "changed_files_names": [
