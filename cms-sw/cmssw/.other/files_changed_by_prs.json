@@ -1157,7 +1157,6 @@
             "L1Trigger/CSCTriggerPrimitives/interface/CSCAnodeLCTProcessor.h", 
             "L1Trigger/CSCTriggerPrimitives/interface/CSCBaseboard.h", 
             "L1Trigger/CSCTriggerPrimitives/interface/CSCCathodeLCTProcessor.h", 
-            "L1Trigger/CSCTriggerPrimitives/interface/CSCGEMMotherboard.h", 
             "L1Trigger/CSCTriggerPrimitives/interface/CSCMotherboard.h", 
             "L1Trigger/CSCTriggerPrimitives/interface/CSCPatternBank.h", 
             "L1Trigger/CSCTriggerPrimitives/plugins/CSCAnodeLCTAnalyzer.cc", 
@@ -1166,19 +1165,13 @@
             "L1Trigger/CSCTriggerPrimitives/plugins/CSCCathodeLCTAnalyzer.h", 
             "L1Trigger/CSCTriggerPrimitives/src/CSCAnodeLCTProcessor.cc", 
             "L1Trigger/CSCTriggerPrimitives/src/CSCCathodeLCTProcessor.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCGEMMotherboard.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCGEMMotherboardME11.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCGEMMotherboardME21.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCMotherboard.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCMotherboardME11.cc", 
             "L1Trigger/CSCTriggerPrimitives/src/CSCPatternBank.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCUpgradeCathodeLCTProcessor.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCUpgradeMotherboard.cc"
+            "L1Trigger/CSCTriggerPrimitives/src/CSCUpgradeCathodeLCTProcessor.cc"
         ], 
         "created_at": 1569024627, 
         "number": 28044, 
         "state": "open", 
-        "updated_at": 1569862118
+        "updated_at": 1570328286
     }, 
     "28051": {
         "base_branch": "master", 
