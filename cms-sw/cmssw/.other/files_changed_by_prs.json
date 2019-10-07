@@ -2072,6 +2072,20 @@
         "state": "open", 
         "updated_at": 1570455704
     }, 
+    "28122": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "PhysicsTools/NanoAOD/plugins/VertexTableProducer.cc", 
+            "PhysicsTools/NanoAOD/python/electrons_cff.py", 
+            "PhysicsTools/NanoAOD/python/genparticles_cff.py", 
+            "PhysicsTools/NanoAOD/python/muons_cff.py", 
+            "PhysicsTools/NanoAOD/python/nanoDQM_cfi.py"
+        ], 
+        "created_at": 1570467906, 
+        "number": 28122, 
+        "state": "open", 
+        "updated_at": 1570467935
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
