@@ -2193,8 +2193,10 @@
             "Geometry/CommonDetUnit/BuildFile.xml", 
             "Geometry/CommonDetUnit/interface/PixelGeomDetType.h", 
             "Geometry/CommonDetUnit/interface/PixelGeomDetUnit.h", 
+            "Geometry/CommonDetUnit/interface/StackGeomDet.h", 
             "Geometry/CommonDetUnit/src/PixelGeomDetType.cc", 
             "Geometry/CommonDetUnit/src/PixelGeomDetUnit.cc", 
+            "Geometry/CommonDetUnit/src/StackGeomDet.cc", 
             "Geometry/CommonTopologies/interface/ProxyPixelTopology.h", 
             "Geometry/CommonTopologies/src/ProxyPixelTopology.cc", 
             "Geometry/GEMGeometry/test/GEMDetIdAnalyzer.cc", 
@@ -2253,8 +2255,10 @@
             "RecoTracker/DeDx/interface/DeDxTools.h", 
             "RecoTracker/DeDx/plugins/DeDxEstimatorProducer.h", 
             "RecoTracker/DeDx/plugins/DeDxHitInfoProducer.h", 
+            "RecoTracker/MeasurementDet/plugins/MeasurementTrackerImpl.cc", 
             "RecoTracker/MeasurementDet/plugins/TkPhase2OTMeasurementDet.h", 
             "RecoTracker/MeasurementDet/plugins/TkPixelMeasurementDet.h", 
+            "RecoTracker/MeasurementDet/plugins/TkStackMeasurementDet.h", 
             "RecoTracker/SpecialSeedGenerators/interface/CosmicRegionalSeedGenerator.h", 
             "RecoTracker/TransientTrackingRecHit/src/TkClonerImpl.cc", 
             "SLHCUpgradeSimulations/Geometry/test/ModuleInfo_Phase2.cc", 
@@ -2294,7 +2298,7 @@
         "created_at": 1570541442, 
         "number": 28127, 
         "state": "open", 
-        "updated_at": 1570541509
+        "updated_at": 1570546009
     }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
