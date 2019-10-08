@@ -1739,7 +1739,6 @@
             "RecoLocalTracker/SubCollectionProducers/src/TrackClusterRemoverPhase2.cc", 
             "RecoTracker/CkfPattern/src/PrintoutHelper.cc", 
             "RecoTracker/FinalTrackSelectors/plugins/DuplicateTrackMerger.cc", 
-            "RecoTracker/FinalTrackSelectors/python/MergeTrackCollections_cff.py", 
             "RecoTracker/GeometryESProducer/plugins/TrackerRecoGeometryESProducer.cc", 
             "RecoTracker/GeometryESProducer/python/TrackerRecoGeometryESProducer_cfi.py", 
             "RecoTracker/MeasurementDet/BuildFile.xml", 
@@ -1781,7 +1780,7 @@
         "created_at": 1569947248, 
         "number": 28101, 
         "state": "open", 
-        "updated_at": 1570125637
+        "updated_at": 1570569446
     }, 
     "28102": {
         "base_branch": "master", 
