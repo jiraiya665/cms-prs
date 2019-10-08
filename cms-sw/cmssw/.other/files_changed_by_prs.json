@@ -1994,16 +1994,6 @@
         "state": "open", 
         "updated_at": 1570467957
     }, 
-    "28123": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Utilities/ReleaseScripts/scripts/MakeBuildSet"
-        ], 
-        "created_at": 1570473196, 
-        "number": 28123, 
-        "state": "open", 
-        "updated_at": 1570473248
-    }, 
     "28124": {
         "base_branch": "master", 
         "changed_files_names": [
