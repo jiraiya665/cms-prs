@@ -1898,16 +1898,6 @@
         "state": "open", 
         "updated_at": 1570460962
     }, 
-    "28114": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQMServices/Components/scripts/dqmiodumpindices.py"
-        ], 
-        "created_at": 1570185302, 
-        "number": 28114, 
-        "state": "open", 
-        "updated_at": 1570435838
-    }, 
     "28116": {
         "base_branch": "master", 
         "changed_files_names": [
