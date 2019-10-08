@@ -319,18 +319,6 @@
         "state": "open", 
         "updated_at": 1566558655
     }, 
-    "27879": {
-        "base_branch": "CMSSW_10_2_X", 
-        "changed_files_names": [
-            "RecoTauTag/RecoTau/plugins/DeepTauId.cc", 
-            "RecoTauTag/RecoTau/python/tools/runTauIdMVA.py", 
-            "RecoTauTag/RecoTau/test/runDeepTauIDsOnMiniAOD.py"
-        ], 
-        "created_at": 1566887084, 
-        "number": 27879, 
-        "state": "open", 
-        "updated_at": 1567147808
-    }, 
     "27898": {
         "base_branch": "CMSSW_10_3_X", 
         "changed_files_names": [
