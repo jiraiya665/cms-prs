@@ -2273,6 +2273,21 @@
         "state": "open", 
         "updated_at": 1570624015
     }, 
+    "28140": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DetectorDescription/DDCMS/interface/DDFilteredView.h", 
+            "DetectorDescription/DDCMS/interface/DDSolidShapes.h", 
+            "DetectorDescription/DDCMS/src/DDFilteredView.cc", 
+            "DetectorDescription/DDCMS/test/BuildFile.xml", 
+            "DetectorDescription/DDCMS/test/DDFilteredView.cppunit.cc", 
+            "DetectorDescription/DDCMS/test/DDSolid.cppunit.cc"
+        ], 
+        "created_at": 1570627665, 
+        "number": 28140, 
+        "state": "open", 
+        "updated_at": 1570627718
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
