@@ -2292,6 +2292,18 @@
         "state": "open", 
         "updated_at": 1570616561
     }, 
+    "28136": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "DataFormats/PatCandidates/src/classes_def_objects.xml", 
+            "MuonAnalysis/MuonAssociators/plugins/MuonFSRAssociator.cc", 
+            "MuonAnalysis/MuonAssociators/plugins/MuonFSRProducer.cc"
+        ], 
+        "created_at": 1570616547, 
+        "number": 28136, 
+        "state": "open", 
+        "updated_at": 1570616571
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
