@@ -2249,6 +2249,19 @@
         "state": "open", 
         "updated_at": 1570616571
     }, 
+    "28137": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "CommonTools/PileupAlgos/interface/PuppiAlgo.h", 
+            "CommonTools/PileupAlgos/plugins/PuppiProducer.cc", 
+            "CommonTools/PileupAlgos/plugins/PuppiProducer.h", 
+            "CommonTools/PileupAlgos/src/PuppiAlgo.cc"
+        ], 
+        "created_at": 1570618551, 
+        "number": 28137, 
+        "state": "open", 
+        "updated_at": 1570618580
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
