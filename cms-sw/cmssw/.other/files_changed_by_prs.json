@@ -1824,20 +1824,12 @@
             "CondTools/RunInfo/test/test_runinfo.sh", 
             "CondTools/RunInfo/test/test_runinfo_cfg.py", 
             "CondTools/RunInfo/test/test_runinfo_result.log", 
-            "MagneticField/GeomBuilder/plugins/VolumeBasedMagneticFieldESProducerFromDB.cc", 
-            "MagneticField/GeomBuilder/test/BuildFile.xml", 
-            "MagneticField/GeomBuilder/test/python/testMagneticFieldDB_cfg.py", 
-            "MagneticField/GeomBuilder/test/python/testMagneticFieldDB_parameterized_cfg.py", 
-            "MagneticField/GeomBuilder/test/python/testMagneticFieldDB_valueOverride_cfg.py", 
-            "MagneticField/GeomBuilder/test/testMagneticFieldDB.sh", 
-            "MagneticField/GeomBuilder/test/testMagneticFieldDB_cfg.results", 
-            "MagneticField/GeomBuilder/test/testMagneticFieldDB_parameterized_cfg.results", 
-            "MagneticField/GeomBuilder/test/testMagneticFieldDB_valueOverride_cfg.results"
+            "MagneticField/GeomBuilder/plugins/VolumeBasedMagneticFieldESProducerFromDB.cc"
         ], 
         "created_at": 1570451286, 
         "number": 28120, 
         "state": "open", 
-        "updated_at": 1570451341
+        "updated_at": 1570726929
     }, 
     "28124": {
         "base_branch": "master", 
