@@ -2490,6 +2490,24 @@
         "state": "open", 
         "updated_at": 1570801252
     }, 
+    "28162": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "HLTrigger/Configuration/python/Tools/confdb.py", 
+            "MagneticField/Engine/python/autoMagneticFieldProducer_cfi.py", 
+            "MagneticField/Engine/python/autoMagneticFieldProducer_polyFit2D_cff.py", 
+            "MagneticField/Engine/test/queryField.py", 
+            "MagneticField/GeomBuilder/plugins/AutoMagneticFieldESProducer.cc", 
+            "MagneticField/GeomBuilder/plugins/AutoMagneticFieldESProducer.h", 
+            "MagneticField/GeomBuilder/src/MagGeoBuilderFromDDD.h", 
+            "RecoTracker/TkNavigation/test/msGalore.py", 
+            "TrackPropagation/RungeKutta/test/rkTest_cfg.py"
+        ], 
+        "created_at": 1570812896, 
+        "number": 28162, 
+        "state": "open", 
+        "updated_at": 1570812949
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
