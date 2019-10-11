@@ -2189,16 +2189,6 @@
         "state": "open", 
         "updated_at": 1570724048
     }, 
-    "28143": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoTracker/TkMSParametrization/interface/MSLayer.h"
-        ], 
-        "created_at": 1570643988, 
-        "number": 28143, 
-        "state": "open", 
-        "updated_at": 1570644612
-    }, 
     "28145": {
         "base_branch": "CMSSW_10_2_X", 
         "changed_files_names": [
