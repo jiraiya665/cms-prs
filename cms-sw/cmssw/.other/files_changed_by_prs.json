@@ -2189,17 +2189,6 @@
         "state": "open", 
         "updated_at": 1570724048
     }, 
-    "28142": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibTracker/SiPixelESProducers/plugins/SiPixelGenErrorDBObjectESProducer.cc", 
-            "CalibTracker/SiPixelESProducers/plugins/SiPixelTemplateDBObjectESProducer.cc"
-        ], 
-        "created_at": 1570636106, 
-        "number": 28142, 
-        "state": "open", 
-        "updated_at": 1570636158
-    }, 
     "28143": {
         "base_branch": "master", 
         "changed_files_names": [
