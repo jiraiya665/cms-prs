@@ -1096,36 +1096,6 @@
         "state": "open", 
         "updated_at": 1568988371
     }, 
-    "28042": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/HLXMonitor/src/HLXMonitor.cc", 
-            "DQM/RPCMonitorDigi/src/RPCBookDetUnitME.cc", 
-            "DQM/SiStripMonitorCluster/src/SiStripMonitorCluster.cc", 
-            "DQM/SiStripMonitorDigi/src/SiStripBaselineValidator.cc", 
-            "DQM/SiStripMonitorDigi/src/SiStripMonitorDigi.cc", 
-            "DQM/SiStripMonitorPedestals/src/SiStripMonitorPedestals.cc", 
-            "DQM/SiStripMonitorPedestals/src/SiStripMonitorQuality.cc", 
-            "DQM/SiStripMonitorSummary/src/SiStripBaseCondObjDQM.cc", 
-            "DQM/SiStripMonitorTrack/src/SiStripMonitorTrack.cc", 
-            "DQMServices/Components/plugins/EDMtoMEConverter.cc", 
-            "DQMServices/Components/plugins/MEtoEDMConverter.cc", 
-            "DQMServices/Core/bin/DumpFile.cpp", 
-            "DQMServices/Core/interface/DQMStore.h", 
-            "DQMServices/Core/interface/MonitorElement.h", 
-            "DQMServices/Core/src/DQMStore.cc", 
-            "DQMServices/FwkIO/plugins/DQMRootOutputModule.cc", 
-            "DQMServices/FwkIO/plugins/DQMRootSource.cc", 
-            "DataFormats/Histograms/interface/MEtoEDMFormat.h", 
-            "DataFormats/Histograms/test/metoedmformat_t.cc", 
-            "Validation/GlobalHits/src/GlobalHitsTester.cc", 
-            "Validation/RecoHI/plugins/HiBasicGenTest.cc"
-        ], 
-        "created_at": 1568989383, 
-        "number": 28042, 
-        "state": "open", 
-        "updated_at": 1569394129
-    }, 
     "28044": {
         "base_branch": "master", 
         "changed_files_names": [
