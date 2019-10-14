@@ -2119,16 +2119,6 @@
         "state": "open", 
         "updated_at": 1571073026
     }, 
-    "28164": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/CommonDetUnit/BuildFile.xml"
-        ], 
-        "created_at": 1571036834, 
-        "number": 28164, 
-        "state": "open", 
-        "updated_at": 1571036887
-    }, 
     "28165": {
         "base_branch": "master", 
         "changed_files_names": [
