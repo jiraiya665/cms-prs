@@ -2119,16 +2119,6 @@
         "state": "open", 
         "updated_at": 1571073026
     }, 
-    "28165": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CommonTools/Utils/test/ExpressionEvaluatorUnitTest.cpp"
-        ], 
-        "created_at": 1571041838, 
-        "number": 28165, 
-        "state": "open", 
-        "updated_at": 1571041895
-    }, 
     "28167": {
         "base_branch": "master", 
         "changed_files_names": [
