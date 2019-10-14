@@ -951,16 +951,6 @@
         "state": "open", 
         "updated_at": 1568656132
     }, 
-    "28013": {
-        "base_branch": "CMSSW_10_6_X", 
-        "changed_files_names": [
-            "HLTrigger/Configuration/python/CustomConfigs.py"
-        ], 
-        "created_at": 1568697716, 
-        "number": 28013, 
-        "state": "open", 
-        "updated_at": 1568958897
-    }, 
     "28026": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
