@@ -1181,16 +1181,6 @@
         "state": "open", 
         "updated_at": 1570531499
     }, 
-    "28080": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/Concurrency/scripts/edmStreamStallGrapher.py"
-        ], 
-        "created_at": 1569584518, 
-        "number": 28080, 
-        "state": "open", 
-        "updated_at": 1571047448
-    }, 
     "28091": {
         "base_branch": "master", 
         "changed_files_names": [
