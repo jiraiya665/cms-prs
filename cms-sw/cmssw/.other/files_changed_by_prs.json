@@ -2129,16 +2129,6 @@
         "state": "open", 
         "updated_at": 1571041895
     }, 
-    "28166": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "IOPool/Input/src/RootTree.cc"
-        ], 
-        "created_at": 1571058920, 
-        "number": 28166, 
-        "state": "open", 
-        "updated_at": 1571058973
-    }, 
     "28167": {
         "base_branch": "master", 
         "changed_files_names": [
