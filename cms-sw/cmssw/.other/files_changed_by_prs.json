@@ -2260,6 +2260,26 @@
         "state": "open", 
         "updated_at": 1571060772
     }, 
+    "28171": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalGeometry/interface/HGCalMouseBite.h", 
+            "Geometry/HGCalGeometry/src/HGCalMouseBite.cc", 
+            "Geometry/HGCalGeometry/test/HGCalGeometryMouseBiteTester.cc", 
+            "Geometry/HGCalGeometry/test/python/runCaloCellGeometryTest_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalCorner_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalGeometryCheck_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalGeometryMouseBite_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalGeometry_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalNeighbor_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalRecHitTool_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalSize_cfg.py"
+        ], 
+        "created_at": 1571062573, 
+        "number": 28171, 
+        "state": "open", 
+        "updated_at": 1571062624
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
