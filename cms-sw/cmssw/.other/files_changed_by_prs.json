@@ -325,16 +325,6 @@
         "state": "open", 
         "updated_at": 1570628614
     }, 
-    "27836": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "PhysicsTools/NanoAOD/plugins/MuonFSRProducer.cc"
-        ], 
-        "created_at": 1566555420, 
-        "number": 27836, 
-        "state": "open", 
-        "updated_at": 1566558655
-    }, 
     "27898": {
         "base_branch": "CMSSW_10_3_X", 
         "changed_files_names": [
