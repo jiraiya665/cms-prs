@@ -1132,19 +1132,6 @@
         "state": "open", 
         "updated_at": 1570693738
     }, 
-    "28070": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1Trigger/CSCTriggerPrimitives/interface/CSCUpgradeMotherboard.h", 
-            "L1Trigger/CSCTriggerPrimitives/interface/LCTContainer.h", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCUpgradeMotherboard.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/LCTContainer.cc"
-        ], 
-        "created_at": 1569456053, 
-        "number": 28070, 
-        "state": "open", 
-        "updated_at": 1569456104
-    }, 
     "28077": {
         "base_branch": "master", 
         "changed_files_names": [
