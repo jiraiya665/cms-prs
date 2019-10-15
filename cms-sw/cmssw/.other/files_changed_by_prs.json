@@ -2128,6 +2128,8 @@
             "Geometry/Records/interface/MuonGeometryRcd.h", 
             "Geometry/Records/interface/MuonNumberingRcd.h", 
             "Geometry/Records/src/DetectorDescriptionRcd.cc", 
+            "MagneticField/GeomBuilder/plugins/dd4hep/DD4hep_VolumeBasedMagneticFieldESProducer.cc", 
+            "MagneticField/GeomBuilder/test/python/testMagGeometry.py", 
             "MagneticField/Records/interface/IdealMagneticFieldRecord.h", 
             "SimG4Core/DD4hepGeometry/test/plugins/DD4hepTestDDDWorld.cc", 
             "SimG4Core/DD4hepGeometry/test/plugins/DD4hepTestG4Geometry.cc", 
@@ -2136,7 +2138,7 @@
         "created_at": 1571059535, 
         "number": 28167, 
         "state": "open", 
-        "updated_at": 1571059584
+        "updated_at": 1571140204
     }, 
     "28169": {
         "base_branch": "CMSSW_10_6_X", 
