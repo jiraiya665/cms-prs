@@ -1766,12 +1766,13 @@
             "RecoEgamma/EgammaElectronProducers/plugins/LowPtGsfElectronSeedHeavyObjectCache.cc", 
             "RecoEgamma/EgammaElectronProducers/plugins/LowPtGsfElectronSeedHeavyObjectCache.h", 
             "RecoEgamma/EgammaElectronProducers/plugins/LowPtGsfElectronSeedProducer.h", 
-            "RecoEgamma/EgammaElectronProducers/plugins/SealModule.cc"
+            "RecoEgamma/EgammaElectronProducers/plugins/SealModule.cc", 
+            "RecoEgamma/EgammaElectronProducers/python/ecalDrivenElectronSeeds_cfi.py"
         ], 
         "created_at": 1570604918, 
         "number": 28133, 
         "state": "open", 
-        "updated_at": 1570604978
+        "updated_at": 1571172531
     }, 
     "28134": {
         "base_branch": "master", 
