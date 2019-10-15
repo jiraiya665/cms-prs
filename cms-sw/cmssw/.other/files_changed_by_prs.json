@@ -2051,20 +2051,6 @@
         "state": "open", 
         "updated_at": 1571116556
     }, 
-    "28157": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondCore/CondDB/test/condTestRegression.py", 
-            "CondCore/Utilities/python/conddblib.py", 
-            "CondCore/Utilities/python/tier0.py", 
-            "CondCore/Utilities/scripts/conddb", 
-            "CondCore/Utilities/scripts/popconRun"
-        ], 
-        "created_at": 1570772198, 
-        "number": 28157, 
-        "state": "open", 
-        "updated_at": 1571033498
-    }, 
     "28160": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
