@@ -2253,6 +2253,18 @@
         "state": "open", 
         "updated_at": 1571143825
     }, 
+    "28180": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "MagneticField/GeomBuilder/test/stubs/MagGeometryExerciser.cc", 
+            "MagneticField/VolumeBasedEngine/interface/MagGeometry.h", 
+            "MagneticField/VolumeBasedEngine/src/MagGeometry.cc"
+        ], 
+        "created_at": 1571147674, 
+        "number": 28180, 
+        "state": "open", 
+        "updated_at": 1571147728
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
