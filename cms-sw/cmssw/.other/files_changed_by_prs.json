@@ -2212,7 +2212,7 @@
         "created_at": 1571135378, 
         "number": 28175, 
         "state": "open", 
-        "updated_at": 1571205380
+        "updated_at": 1571205406
     }, 
     "28176": {
         "base_branch": "master", 
