@@ -2286,10 +2286,6 @@
     "28191": {
         "base_branch": "master", 
         "changed_files_names": [
-            "Geometry/HGCalCommonData/data/hgcal/v10/hgcal.xml", 
-            "Geometry/HGCalCommonData/data/hgcal/v9/hgcal.xml", 
-            "Geometry/HGCalCommonData/data/hgcal/v9a/hgcal.xml", 
-            "Geometry/HGCalCommonData/data/hgcal/v9p/hgcal.xml", 
             "Geometry/HGCalCommonData/interface/HGCalDDDConstants.h", 
             "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc", 
             "Geometry/HGCalCommonData/test/HGCalWaferTester.cc", 
@@ -2300,7 +2296,7 @@
         "created_at": 1571247056, 
         "number": 28191, 
         "state": "open", 
-        "updated_at": 1571247605
+        "updated_at": 1571255557
     }, 
     "28192": {
         "base_branch": "master", 
