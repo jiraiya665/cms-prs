@@ -2156,17 +2156,6 @@
         "state": "open", 
         "updated_at": 1571206068
     }, 
-    "28176": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Validation/RecoTau/interface/TauValidationMiniAOD.h", 
-            "Validation/RecoTau/src/TauValidationMiniAOD.cc"
-        ], 
-        "created_at": 1571142859, 
-        "number": 28176, 
-        "state": "open", 
-        "updated_at": 1571143582
-    }, 
     "28177": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
