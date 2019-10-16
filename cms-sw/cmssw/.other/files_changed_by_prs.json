@@ -2120,21 +2120,6 @@
         "state": "open", 
         "updated_at": 1571145660
     }, 
-    "28174": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/DataProcessing/test/RunAlcaHarvesting.py", 
-            "Configuration/DataProcessing/test/RunAlcaSkimming.py", 
-            "Configuration/DataProcessing/test/RunDQMHarvesting.py", 
-            "Configuration/DataProcessing/test/RunExpressProcessing.py", 
-            "Configuration/DataProcessing/test/RunPromptReco.py", 
-            "Configuration/DataProcessing/test/RunVisualizationProcessing.py"
-        ], 
-        "created_at": 1571135065, 
-        "number": 28174, 
-        "state": "open", 
-        "updated_at": 1571219279
-    }, 
     "28175": {
         "base_branch": "master", 
         "changed_files_names": [
