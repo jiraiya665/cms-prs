@@ -2300,6 +2300,21 @@
         "state": "open", 
         "updated_at": 1571170412
     }, 
+    "28184": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/Applications/python/ConfigBuilder.py", 
+            "FWCore/ParameterSet/python/Config.py", 
+            "FWCore/ParameterSet/python/Mixins.py", 
+            "FWCore/ParameterSet/python/SequenceTypes.py", 
+            "FWCore/ParameterSet/python/Utilities.py", 
+            "Validation/RecoEgamma/test/ElectronFromUncleanedOnly_cfg.py"
+        ], 
+        "created_at": 1571202016, 
+        "number": 28184, 
+        "state": "open", 
+        "updated_at": 1571202044
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
