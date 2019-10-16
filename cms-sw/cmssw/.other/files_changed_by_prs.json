@@ -2302,16 +2302,6 @@
         "state": "open", 
         "updated_at": 1571202046
     }, 
-    "28186": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondCore/Utilities/python/conddblib.py"
-        ], 
-        "created_at": 1571206170, 
-        "number": 28186, 
-        "state": "open", 
-        "updated_at": 1571206219
-    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
