@@ -2305,12 +2305,13 @@
     "28197": {
         "base_branch": "master", 
         "changed_files_names": [
+            "CondCore/Utilities/python/conddblib.py", 
             "CondCore/Utilities/scripts/conddb"
         ], 
         "created_at": 1571308547, 
         "number": 28197, 
         "state": "open", 
-        "updated_at": 1571308596
+        "updated_at": 1571311035
     }, 
     "28198": {
         "base_branch": "master", 
