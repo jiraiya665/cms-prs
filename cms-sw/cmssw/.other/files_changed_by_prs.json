@@ -2247,16 +2247,6 @@
         "state": "open", 
         "updated_at": 1571280045
     }, 
-    "28194": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Validation/RecoEgamma/test/ElectronFromUncleanedOnly_cfg.py"
-        ], 
-        "created_at": 1571294471, 
-        "number": 28194, 
-        "state": "open", 
-        "updated_at": 1571294540
-    }, 
     "28195": {
         "base_branch": "master", 
         "changed_files_names": [
