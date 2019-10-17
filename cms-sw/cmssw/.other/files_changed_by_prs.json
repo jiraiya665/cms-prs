@@ -1812,29 +1812,6 @@
         "state": "open", 
         "updated_at": 1570728478
     }, 
-    "28151": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/HLTEvF/plugins/DaqTestHistograms.cc", 
-            "EventFilter/Utilities/interface/FedRawDataInputSource.h", 
-            "EventFilter/Utilities/plugins/EvFBuildingThrottle.h", 
-            "EventFilter/Utilities/src/EvFDaqDirector.cc", 
-            "EventFilter/Utilities/src/FedRawDataInputSource.cc", 
-            "EventFilter/Utilities/test/BuildFile.xml", 
-            "EventFilter/Utilities/test/RunBUFU.sh", 
-            "EventFilter/Utilities/test/startBU.py", 
-            "EventFilter/Utilities/test/startEps.sh", 
-            "EventFilter/Utilities/test/startFU.py", 
-            "EventFilter/Utilities/test/startNeps.sh", 
-            "EventFilter/Utilities/test/start_file_FU.py", 
-            "EventFilter/Utilities/test/start_multiLS_FU.py", 
-            "EventFilter/Utilities/test/testFakeFu_cfg.py"
-        ], 
-        "created_at": 1570712042, 
-        "number": 28151, 
-        "state": "open", 
-        "updated_at": 1571207438
-    }, 
     "28154": {
         "base_branch": "master", 
         "changed_files_names": [
