@@ -2178,17 +2178,6 @@
         "state": "open", 
         "updated_at": 1571255557
     }, 
-    "28192": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DetectorDescription/OfflineDBLoader/src/DDCoreToDDXMLOutput.cc", 
-            "DetectorDescription/OfflineDBLoader/test/dumpGeom_cfg.py"
-        ], 
-        "created_at": 1571255266, 
-        "number": 28192, 
-        "state": "open", 
-        "updated_at": 1571255315
-    }, 
     "28193": {
         "base_branch": "master", 
         "changed_files_names": [
