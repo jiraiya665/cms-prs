@@ -2133,7 +2133,6 @@
             "EventFilter/CTPPSRawToDigi/python/ctppsDigiToRaw_cff.py", 
             "EventFilter/RawDataCollector/python/rawDataCollector_cfi.py", 
             "IOMC/RandomEngine/python/IOMC_cff.py", 
-            "SimGeneral/MixingModule/python/mixNoPU_PPS_cfi.py", 
             "SimGeneral/MixingModule/python/mixNoPU_cfi.py", 
             "SimGeneral/MixingModule/python/mixObjects_cfi.py", 
             "SimPPS/Configuration/python/SimPPS_cff.py", 
@@ -2151,7 +2150,7 @@
         "created_at": 1571246447, 
         "number": 28190, 
         "state": "open", 
-        "updated_at": 1571325422
+        "updated_at": 1571420852
     }, 
     "28191": {
         "base_branch": "master", 
