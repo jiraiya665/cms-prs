@@ -2233,27 +2233,6 @@
         "state": "open", 
         "updated_at": 1571299654
     }, 
-    "28198": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/EgammaReco/interface/ElectronSeed.h", 
-            "DataFormats/EgammaReco/interface/ElectronSeedFwd.h", 
-            "HLTrigger/Egamma/plugins/HLTElectronPixelMatchFilter.cc", 
-            "RecoEgamma/EgammaElectronAlgos/src/ElectronSeedGenerator.cc", 
-            "RecoEgamma/EgammaElectronAlgos/src/GsfElectronAlgo.cc", 
-            "RecoEgamma/Examples/plugins/DQMAnalyzer.cc", 
-            "RecoEgamma/Examples/plugins/GsfElectronDataAnalyzer.cc", 
-            "RecoEgamma/Examples/plugins/GsfElectronFakeAnalyzer.cc", 
-            "RecoEgamma/Examples/plugins/GsfElectronMCAnalyzer.cc", 
-            "RecoEgamma/Examples/plugins/GsfElectronMCFakeAnalyzer.cc", 
-            "Validation/RecoEgamma/plugins/ElectronMcFakeValidator.cc", 
-            "Validation/RecoEgamma/plugins/ElectronMcSignalValidator.cc"
-        ], 
-        "created_at": 1571308812, 
-        "number": 28198, 
-        "state": "open", 
-        "updated_at": 1571309115
-    }, 
     "28199": {
         "base_branch": "master", 
         "changed_files_names": [
