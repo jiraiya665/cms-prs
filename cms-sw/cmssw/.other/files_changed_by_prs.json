@@ -1984,18 +1984,6 @@
         "state": "open", 
         "updated_at": 1571242879
     }, 
-    "28173": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/ParameterSet/python/Config.py", 
-            "FWCore/ParameterSet/python/SequenceTypes.py", 
-            "FWCore/ParameterSet/scripts/edmConfigDump"
-        ], 
-        "created_at": 1571076875, 
-        "number": 28173, 
-        "state": "open", 
-        "updated_at": 1571400932
-    }, 
     "28175": {
         "base_branch": "master", 
         "changed_files_names": [
