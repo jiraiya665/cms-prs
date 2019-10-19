@@ -1605,20 +1605,23 @@
             "RecoBTag/MXNet/python/pfDeepBoostedJet_cff.py", 
             "RecoBTag/ONNXRuntime/plugins/BuildFile.xml", 
             "RecoBTag/ONNXRuntime/plugins/DeepBoostedJetTagsONNXProducer.cc", 
+            "RecoBTag/ONNXRuntime/plugins/DeepDoubleXJetTagsONNXProducer.cc", 
             "RecoBTag/ONNXRuntime/plugins/DeepJetTagsONNXProducer.cc", 
             "RecoBTag/ONNXRuntime/python/Parameters/DeepBoostedJet/V01/pfDeepBoostedJetPreprocessParams_cfi.py", 
             "RecoBTag/ONNXRuntime/python/Parameters/DeepBoostedJet/V02/pfDeepBoostedJetPreprocessParams_cfi.py", 
             "RecoBTag/ONNXRuntime/python/Parameters/DeepBoostedJet/V02/pfMassDecorrelatedDeepBoostedJetPreprocessParams_cfi.py", 
             "RecoBTag/ONNXRuntime/python/pfDeepBoostedDiscriminatorsJetTags_cfi.py", 
             "RecoBTag/ONNXRuntime/python/pfDeepBoostedJet_cff.py", 
+            "RecoBTag/ONNXRuntime/python/pfDeepDoubleX_cff.py", 
             "RecoBTag/ONNXRuntime/python/pfDeepFlavour_cff.py", 
             "RecoBTag/ONNXRuntime/python/pfMassDecorrelatedDeepBoostedDiscriminatorsJetTags_cfi.py", 
+            "RecoBTag/ONNXRuntime/python/pfMassIndependentDeepDoubleXJetTags_cff.py", 
             "RecoBTag/ONNXRuntime/python/pfNegativeDeepFlavourJetTags_cfi.py"
         ], 
         "created_at": 1570114506, 
         "number": 28112, 
         "state": "open", 
-        "updated_at": 1570417506
+        "updated_at": 1571481197
     }, 
     "28116": {
         "base_branch": "master", 
