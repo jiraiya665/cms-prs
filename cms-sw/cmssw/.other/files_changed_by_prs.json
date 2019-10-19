@@ -2142,28 +2142,6 @@
         "state": "open", 
         "updated_at": 1571295073
     }, 
-    "28196": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/Eras/python/Era_Run2_2016_cff.py", 
-            "Configuration/Eras/python/Era_Run2_2017_cff.py", 
-            "Configuration/Eras/python/Era_Run2_2018_cff.py", 
-            "Configuration/Eras/python/Modifier_run2_jme_2016_cff.py", 
-            "Configuration/Eras/python/Modifier_run2_jme_2017_cff.py", 
-            "PhysicsTools/NanoAOD/python/electrons_cff.py", 
-            "PhysicsTools/NanoAOD/python/jets_cff.py", 
-            "PhysicsTools/NanoAOD/python/met_cff.py", 
-            "PhysicsTools/NanoAOD/python/muons_cff.py", 
-            "PhysicsTools/NanoAOD/python/nano_cff.py", 
-            "PhysicsTools/NanoAOD/python/taus_cff.py", 
-            "PhysicsTools/NanoAOD/python/taus_updatedMVAIds_cff.py", 
-            "PhysicsTools/NanoAOD/python/triggerObjects_cff.py"
-        ], 
-        "created_at": 1571299594, 
-        "number": 28196, 
-        "state": "open", 
-        "updated_at": 1571299654
-    }, 
     "28199": {
         "base_branch": "master", 
         "changed_files_names": [
