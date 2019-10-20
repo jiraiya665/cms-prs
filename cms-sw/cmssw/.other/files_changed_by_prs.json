@@ -2482,7 +2482,7 @@
         "created_at": 1571584831, 
         "number": 28220, 
         "state": "open", 
-        "updated_at": 1571584831
+        "updated_at": 1571584992
     }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
