@@ -2454,14 +2454,6 @@
     "28219": {
         "base_branch": "master", 
         "changed_files_names": [
-            "CondFormats/MFObjects/test/BuildFile.xml", 
-            "CondFormats/MFObjects/test/MagFieldConfigTestESProducer.cc", 
-            "CondTools/RunInfo/plugins/BuildFile.xml", 
-            "CondTools/RunInfo/plugins/RunInfoTestESProducer.cc", 
-            "CondTools/RunInfo/test/BuildFile.xml", 
-            "CondTools/RunInfo/test/test_runinfo.sh", 
-            "CondTools/RunInfo/test/test_runinfo_cfg.py", 
-            "CondTools/RunInfo/test/test_runinfo_result.log", 
             "DataFormats/CTPPSReco/BuildFile.xml", 
             "DataFormats/Candidate/BuildFile.xml", 
             "DataFormats/EgammaTrackReco/BuildFile.xml", 
@@ -2469,25 +2461,12 @@
             "DataFormats/HLTReco/interface/TriggerEvent.h", 
             "DataFormats/HeavyIonEvent/BuildFile.xml", 
             "DataFormats/L1TrackTrigger/BuildFile.xml", 
-            "DataFormats/TauReco/src/classes_3.h", 
-            "DetectorDescription/DDCMS/data/cms-2015-muon-geometry.xml", 
-            "DetectorDescription/DDCMS/data/cms-geometry-2021.xml", 
-            "DetectorDescription/DDCMS/data/cms-mf-geometry.xml", 
-            "DetectorDescription/DDCMS/data/cms-test-ddgemangular-algorithm.xml", 
-            "DetectorDescription/DDCMS/data/cms-test-ddvectors.xml", 
-            "DetectorDescription/DDCMS/data/cms-test-shapes.xml", 
-            "DetectorDescription/DDCMS/data/cms-tracker-2021.xml", 
-            "DetectorDescription/DDCMS/data/cms-tracker.xml", 
-            "DetectorDescription/DDCMS/interface/DDParsingContext.h", 
-            "DetectorDescription/DDCMS/plugins/dd4hep/DDDefinitions2Objects.cc", 
-            "DetectorDescription/DDCMS/src/DDNamespace.cc", 
-            "DetectorDescription/DDCMS/test/runTest.sh", 
-            "MagneticField/GeomBuilder/plugins/VolumeBasedMagneticFieldESProducerFromDB.cc"
+            "DataFormats/TauReco/src/classes_3.h"
         ], 
         "created_at": 1571576663, 
         "number": 28219, 
         "state": "open", 
-        "updated_at": 1571642157
+        "updated_at": 1571643379
     }, 
     "28220": {
         "base_branch": "master", 
