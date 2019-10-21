@@ -2278,18 +2278,6 @@
         "state": "open", 
         "updated_at": 1571392729
     }, 
-    "28209": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/CTPPSReco/BuildFile.xml", 
-            "DataFormats/EgammaTrackReco/BuildFile.xml", 
-            "DataFormats/L1TrackTrigger/BuildFile.xml"
-        ], 
-        "created_at": 1571400610, 
-        "number": 28209, 
-        "state": "open", 
-        "updated_at": 1571400665
-    }, 
     "28210": {
         "base_branch": "master", 
         "changed_files_names": [
