@@ -2453,23 +2453,6 @@
         "state": "open", 
         "updated_at": 1571424257
     }, 
-    "28219": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/CTPPSReco/BuildFile.xml", 
-            "DataFormats/Candidate/BuildFile.xml", 
-            "DataFormats/EgammaTrackReco/BuildFile.xml", 
-            "DataFormats/HLTReco/interface/HLTPerformanceInfo.h", 
-            "DataFormats/HLTReco/interface/TriggerEvent.h", 
-            "DataFormats/HeavyIonEvent/BuildFile.xml", 
-            "DataFormats/L1TrackTrigger/BuildFile.xml", 
-            "DataFormats/TauReco/src/classes_3.h"
-        ], 
-        "created_at": 1571576663, 
-        "number": 28219, 
-        "state": "open", 
-        "updated_at": 1571643379
-    }, 
     "28220": {
         "base_branch": "master", 
         "changed_files_names": [
