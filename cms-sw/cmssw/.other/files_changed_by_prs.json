@@ -1143,6 +1143,7 @@
             "DQM/BeamMonitor/plugins/BeamConditionsMonitor.cc", 
             "DQM/BeamMonitor/plugins/BeamConditionsMonitor.h", 
             "DQM/BeamMonitor/python/BeamConditionsMonitor_cff.py", 
+            "DQM/HLTEvF/plugins/DaqTestHistograms.cc", 
             "DQM/HLTEvF/plugins/LumiMonitor.cc", 
             "DQM/HLTEvF/plugins/PSMonitor.cc", 
             "DQM/HLTEvF/plugins/TrigObjTnPHistColl.cc", 
@@ -1197,7 +1198,7 @@
         "created_at": 1569838807, 
         "number": 28092, 
         "state": "open", 
-        "updated_at": 1571386771
+        "updated_at": 1571643809
     }, 
     "28094": {
         "base_branch": "CMSSW_10_6_X", 
