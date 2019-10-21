@@ -1970,27 +1970,6 @@
         "state": "open", 
         "updated_at": 1571242879
     }, 
-    "28175": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "HLTrigger/btau/plugins/HLTDisplacedmumuVtxProducer.cc", 
-            "HLTrigger/btau/plugins/HLTDisplacedmumuVtxProducer.h", 
-            "HLTrigger/btau/plugins/HLTDisplacedmumumuVtxProducer.cc", 
-            "HLTrigger/btau/plugins/HLTDisplacedmumumuVtxProducer.h", 
-            "HLTrigger/btau/plugins/HLTDisplacedtktkVtxProducer.cc", 
-            "HLTrigger/btau/plugins/HLTDisplacedtktkVtxProducer.h", 
-            "HLTrigger/btau/plugins/HLTDisplacedtktktkVtxProducer.cc", 
-            "HLTrigger/btau/plugins/HLTDisplacedtktktkVtxProducer.h", 
-            "HLTrigger/btau/plugins/HLTmumutkVtxProducer.cc", 
-            "HLTrigger/btau/plugins/HLTmumutkVtxProducer.h", 
-            "HLTrigger/btau/plugins/HLTmumutktkVtxProducer.cc", 
-            "HLTrigger/btau/plugins/HLTmumutktkVtxProducer.h"
-        ], 
-        "created_at": 1571135378, 
-        "number": 28175, 
-        "state": "open", 
-        "updated_at": 1571637916
-    }, 
     "28177": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
