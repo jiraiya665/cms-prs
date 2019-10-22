@@ -2095,12 +2095,13 @@
             "Configuration/PyReleaseValidation/python/relval_premix.py", 
             "Configuration/PyReleaseValidation/python/relval_steps.py", 
             "SimCalorimetry/EcalSimAlgos/interface/EcalSignalGenerator.h", 
-            "SimCalorimetry/EcalSimAlgos/src/EcalSignalGenerator.cc"
+            "SimCalorimetry/EcalSimAlgos/src/EcalSignalGenerator.cc", 
+            "SimCalorimetry/EcalSimProducers/plugins/PreMixingEcalWorker.cc"
         ], 
         "created_at": 1571410412, 
         "number": 28214, 
         "state": "open", 
-        "updated_at": 1571664601
+        "updated_at": 1571773735
     }, 
     "28215": {
         "base_branch": "master", 
