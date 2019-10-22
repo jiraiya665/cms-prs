@@ -2239,16 +2239,6 @@
         "state": "open", 
         "updated_at": 1571659169
     }, 
-    "28221": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "MuonAnalysis/MuonAssociators/plugins/MuonFSRProducer.cc"
-        ], 
-        "created_at": 1571600055, 
-        "number": 28221, 
-        "state": "open", 
-        "updated_at": 1571600104
-    }, 
     "28222": {
         "base_branch": "master", 
         "changed_files_names": [
