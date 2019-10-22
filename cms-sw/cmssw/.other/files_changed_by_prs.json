@@ -2198,23 +2198,6 @@
         "state": "open", 
         "updated_at": 1571659084
     }, 
-    "28224": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DetectorDescription/DDCMS/interface/DDFilteredView.h", 
-            "DetectorDescription/DDCMS/src/DDFilteredView.cc", 
-            "DetectorDescription/DDCMS/test/DDSolid.cppunit.cc", 
-            "Geometry/DTGeometryBuilder/plugins/dd4hep/DTGeometryBuilder.cc", 
-            "Geometry/DTGeometryBuilder/plugins/dd4hep/DTGeometryTest.cc", 
-            "Geometry/DTGeometryBuilder/test/dtGeometry.log.org", 
-            "Geometry/DTGeometryBuilder/test/python/testDTGeometry.py", 
-            "Geometry/DTGeometryBuilder/test/runTest.sh"
-        ], 
-        "created_at": 1571662950, 
-        "number": 28224, 
-        "state": "open", 
-        "updated_at": 1571663050
-    }, 
     "28226": {
         "base_branch": "master", 
         "changed_files_names": [
