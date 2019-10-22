@@ -2223,16 +2223,6 @@
         "state": "open", 
         "updated_at": 1571422494
     }, 
-    "28218": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoMTD/TransientTrackingRecHit/plugins/MTDTransientTrackingRecHitBuilderESProducer.cc"
-        ], 
-        "created_at": 1571423458, 
-        "number": 28218, 
-        "state": "open", 
-        "updated_at": 1571424257
-    }, 
     "28220": {
         "base_branch": "master", 
         "changed_files_names": [
