@@ -2138,20 +2138,6 @@
         "state": "open", 
         "updated_at": 1571339426
     }, 
-    "28207": {
-        "base_branch": "CMSSW_11_0_DEVEL_X", 
-        "changed_files_names": [
-            "Geometry/DTGeometryBuilder/plugins/dd4hep/DTGeometryBuilder.cc", 
-            "Geometry/DTGeometryBuilder/plugins/dd4hep/DTGeometryTest.cc", 
-            "Geometry/DTGeometryBuilder/test/dtGeometry.log.org", 
-            "Geometry/DTGeometryBuilder/test/python/testDTGeometry.py", 
-            "Geometry/DTGeometryBuilder/test/runTest.sh"
-        ], 
-        "created_at": 1571386901, 
-        "number": 28207, 
-        "state": "open", 
-        "updated_at": 1571392729
-    }, 
     "28210": {
         "base_branch": "master", 
         "changed_files_names": [
