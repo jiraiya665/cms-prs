@@ -2350,17 +2350,6 @@
         "state": "open", 
         "updated_at": 1571686455
     }, 
-    "28230": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/Framework/interface/DataProxyProvider.h", 
-            "FWCore/Framework/src/DataProxyProvider.cc"
-        ], 
-        "created_at": 1571687991, 
-        "number": 28230, 
-        "state": "open", 
-        "updated_at": 1571688041
-    }, 
     "28231": {
         "base_branch": "master", 
         "changed_files_names": [
