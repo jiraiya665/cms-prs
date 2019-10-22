@@ -2395,6 +2395,18 @@
         "state": "open", 
         "updated_at": 1571757317
     }, 
+    "28242": {
+        "base_branch": "CMSSW_9_4_X", 
+        "changed_files_names": [
+            "FastSimulation/Calorimetry/src/CalorimetryManager.cc", 
+            "FastSimulation/MuonSimHitProducer/src/MuonSimHitProducer.cc", 
+            "FastSimulation/SimplifiedGeometryPropagator/plugins/FastTrackDeDxProducer.cc"
+        ], 
+        "created_at": 1571765589, 
+        "number": 28242, 
+        "state": "open", 
+        "updated_at": 1571765646
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
