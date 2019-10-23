@@ -2349,6 +2349,17 @@
         "state": "open", 
         "updated_at": 1571832497
     }, 
+    "28249": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/ForwardDetId/src/HGCalTriggerDetId.cc", 
+            "DataFormats/ForwardDetId/test/testHFNoseDetId.cc"
+        ], 
+        "created_at": 1571840616, 
+        "number": 28249, 
+        "state": "open", 
+        "updated_at": 1571840642
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
