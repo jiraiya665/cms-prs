@@ -1794,21 +1794,6 @@
         "state": "open", 
         "updated_at": 1571420852
     }, 
-    "28191": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HGCalCommonData/interface/HGCalDDDConstants.h", 
-            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc", 
-            "Geometry/HGCalCommonData/test/HGCalWaferTester.cc", 
-            "Geometry/HGCalCommonData/test/python/dumpExtendedHGCalGeometry_cfg.py", 
-            "Geometry/HGCalGeometry/src/HGCalGeometryLoader.cc", 
-            "SimG4CMS/Calo/src/HGCMouseBite.cc"
-        ], 
-        "created_at": 1571247056, 
-        "number": 28191, 
-        "state": "open", 
-        "updated_at": 1571255557
-    }, 
     "28193": {
         "base_branch": "master", 
         "changed_files_names": [
