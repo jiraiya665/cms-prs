@@ -2342,6 +2342,36 @@
         "state": "open", 
         "updated_at": 1571820667
     }, 
+    "28247": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/EcalCommon/interface/MESet.h", 
+            "DQM/EcalCommon/interface/MESetDet2D.h", 
+            "DQM/EcalCommon/src/MESet.cc", 
+            "DQM/EcalCommon/src/MESetDet2D.cc", 
+            "DQM/EcalMonitorTasks/interface/DQWorkerTask.h", 
+            "DQM/EcalMonitorTasks/plugins/EcalDQMonitorTask.cc", 
+            "DQM/EcalMonitorTasks/src/DQWorkerTask.cc", 
+            "DQM/EcalPreshowerMonitorModule/src/ESIntegrityTask.cc", 
+            "DQM/HLXMonitor/interface/HLXMonitor.h", 
+            "DQM/HLXMonitor/python/hlx_dqm_sourceclient_cfi.py", 
+            "DQM/HLXMonitor/python/hlx_dqm_sourceclient_test_cfi.py", 
+            "DQM/HLXMonitor/python/hlx_dqm_sourceclient_vme22_cfi.py", 
+            "DQM/HLXMonitor/src/HLXMonitor.cc", 
+            "DQM/HLXMonitor/test/hlx_dqm_sourceclient_cfi.py", 
+            "DQM/TrackingMonitor/interface/TrackAnalyzer.h", 
+            "DQM/TrackingMonitor/src/TrackAnalyzer.cc", 
+            "DQMServices/Components/plugins/MEtoEDMConverter.cc", 
+            "DQMServices/Core/interface/DQMStore.h", 
+            "DQMServices/Core/interface/MonitorElement.h", 
+            "DQMServices/Core/src/DQMStore.cc", 
+            "DQMServices/Core/src/MonitorElement.cc"
+        ], 
+        "created_at": 1571832446, 
+        "number": 28247, 
+        "state": "open", 
+        "updated_at": 1571832477
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
