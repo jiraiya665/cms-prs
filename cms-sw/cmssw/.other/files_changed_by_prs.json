@@ -221,17 +221,6 @@
         "state": "open", 
         "updated_at": 1557848266
     }, 
-    "26767": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "PhysicsTools/NanoAOD/python/jets_cff.py", 
-            "RecoJets/JetProducers/plugins/BetaStarVarProducer.cc"
-        ], 
-        "created_at": 1557752324, 
-        "number": 26767, 
-        "state": "open", 
-        "updated_at": 1560000104
-    }, 
     "27305": {
         "base_branch": "master", 
         "changed_files_names": [
