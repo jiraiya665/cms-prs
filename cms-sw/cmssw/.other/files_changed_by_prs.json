@@ -2517,18 +2517,20 @@
             "L1Trigger/L1TGEM/python/simGEMDigis_cff.py", 
             "L1Trigger/L1TGEM/python/simMuonGEMPadDigiClusters_cfi.py", 
             "L1Trigger/L1TGEM/python/simMuonGEMPadDigis_cfi.py", 
+            "L1Trigger/L1TGEM/test/BuildFile.xml", 
             "L1Trigger/L1TGEM/test/GEMPadDigiReader.cc", 
             "L1Trigger/L1TGEM/test/runGEMPadDigiReader_cfg.py", 
             "L1Trigger/L1TMuon/python/simDigis_cff.py", 
             "SimMuon/Configuration/python/SimMuon_EventContent_cff.py", 
             "SimMuon/GEMDigitizer/python/gemChamberMasker_cff.py", 
             "SimMuon/GEMDigitizer/python/muonGEMDigi_cff.py", 
+            "SimMuon/GEMDigitizer/test/BuildFile.xml", 
             "SimMuon/GEMDigitizer/test/runGEMPadDigiReader_cfg.py"
         ], 
         "created_at": 1571913184, 
         "number": 28254, 
         "state": "open", 
-        "updated_at": 1571913247
+        "updated_at": 1571923453
     }, 
     "28257": {
         "base_branch": "master", 
