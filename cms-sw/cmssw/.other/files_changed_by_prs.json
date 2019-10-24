@@ -1729,16 +1729,6 @@
         "state": "open", 
         "updated_at": 1571845188
     }, 
-    "28215": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "GeometryReaders/XMLIdealGeometryESSource/src/XMLIdealGeometryESProducer.cc"
-        ], 
-        "created_at": 1571419276, 
-        "number": 28215, 
-        "state": "open", 
-        "updated_at": 1571419328
-    }, 
     "28216": {
         "base_branch": "master", 
         "changed_files_names": [
