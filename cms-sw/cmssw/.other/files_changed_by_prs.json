@@ -1801,16 +1801,6 @@
         "state": "open", 
         "updated_at": 1571659084
     }, 
-    "28227": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/MTDNumberingBuilder/plugins/MTDTopologyEP.cc"
-        ], 
-        "created_at": 1571686001, 
-        "number": 28227, 
-        "state": "open", 
-        "updated_at": 1571686028
-    }, 
     "28228": {
         "base_branch": "master", 
         "changed_files_names": [
