@@ -2530,6 +2530,16 @@
         "state": "open", 
         "updated_at": 1571913247
     }, 
+    "28255": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "PhysicsTools/NanoAOD/python/jets_cff.py"
+        ], 
+        "created_at": 1571917261, 
+        "number": 28255, 
+        "state": "open", 
+        "updated_at": 1571917291
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
