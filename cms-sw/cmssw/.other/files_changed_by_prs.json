@@ -2530,6 +2530,18 @@
         "state": "open", 
         "updated_at": 1571913247
     }, 
+    "28257": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FastSimulation/SimplifiedGeometryPropagator/plugins/FastTrackDeDxProducer.cc", 
+            "RecoTracker/Configuration/python/RecoTracker_cff.py", 
+            "RecoTracker/DeDx/python/dedxEstimators_cff.py"
+        ], 
+        "created_at": 1571922875, 
+        "number": 28257, 
+        "state": "open", 
+        "updated_at": 1571922934
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
