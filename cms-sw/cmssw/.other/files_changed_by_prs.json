@@ -1801,16 +1801,6 @@
         "state": "open", 
         "updated_at": 1571659084
     }, 
-    "28226": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibPPS/ESProducers/plugins/CTPPSInterpolatedOpticalFunctionsESSource.cc"
-        ], 
-        "created_at": 1571685424, 
-        "number": 28226, 
-        "state": "open", 
-        "updated_at": 1571685474
-    }, 
     "28227": {
         "base_branch": "master", 
         "changed_files_names": [
