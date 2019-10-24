@@ -2362,6 +2362,8 @@
     "28252": {
         "base_branch": "master", 
         "changed_files_names": [
+            "CondFormats/CTPPSReadoutObjects/src/CTPPSRPAlignmentCorrectionsData.cc", 
+            "CondFormats/CTPPSReadoutObjects/src/CTPPSRPAlignmentCorrectionsMethods.cc", 
             "DQM/CTPPS/plugins/CTPPSCommonDQMSource.cc", 
             "DQM/CTPPS/plugins/CTPPSDiamondDQMSource.cc", 
             "DQM/CTPPS/plugins/CTPPSPixelDQMSource.cc", 
@@ -2425,12 +2427,19 @@
             "RecoCTPPS/TotemRPLocal/src/TotemTimingTrackRecognition.cc", 
             "SimPPS/RPDigiProducer/plugins/RPDigiProducer.cc", 
             "SimPPS/RPDigiProducer/plugins/RPDisplacementGenerator.cc", 
-            "SimPPS/RPDigiProducer/plugins/RPVFATSimulator.cc"
+            "SimPPS/RPDigiProducer/plugins/RPVFATSimulator.cc", 
+            "Validation/CTPPS/plugins/CTPPSAcceptancePlotter.cc", 
+            "Validation/CTPPS/plugins/CTPPSDirectProtonSimulation.cc", 
+            "Validation/CTPPS/plugins/CTPPSDirectProtonSimulationValidator.cc", 
+            "Validation/CTPPS/plugins/CTPPSProtonReconstructionPlotter.cc", 
+            "Validation/CTPPS/plugins/CTPPSProtonReconstructionSimulationValidator.cc", 
+            "Validation/CTPPS/plugins/CTPPSProtonReconstructionValidator.cc", 
+            "Validation/CTPPS/plugins/CTPPSTrackDistributionPlotter.cc"
         ], 
         "created_at": 1571855203, 
         "number": 28252, 
         "state": "open", 
-        "updated_at": 1571886745
+        "updated_at": 1571903612
     }, 
     "28253": {
         "base_branch": "master", 
