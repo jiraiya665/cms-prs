@@ -1945,36 +1945,6 @@
         "state": "open", 
         "updated_at": 1571856494
     }, 
-    "28213": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DPGAnalysis/Skims/python/singleElectronSkim_cff.py", 
-            "RecoEgamma/EgammaElectronAlgos/interface/ElectronSeedGenerator.h", 
-            "RecoEgamma/EgammaElectronAlgos/interface/GsfElectronAlgo.h", 
-            "RecoEgamma/EgammaElectronAlgos/interface/GsfElectronAlgoHeavyObjectCache.h", 
-            "RecoEgamma/EgammaElectronAlgos/src/ElectronClassification.cc", 
-            "RecoEgamma/EgammaElectronAlgos/src/ElectronSeedGenerator.cc", 
-            "RecoEgamma/EgammaElectronAlgos/src/GsfElectronAlgo.cc", 
-            "RecoEgamma/EgammaElectronAlgos/src/GsfElectronAlgoHeavyObjectCache.cc", 
-            "RecoEgamma/EgammaElectronProducers/plugins/ElectronSeedProducer.cc", 
-            "RecoEgamma/EgammaElectronProducers/plugins/GEDGsfElectronProducer.cc", 
-            "RecoEgamma/EgammaElectronProducers/plugins/GEDGsfElectronProducer.h", 
-            "RecoEgamma/EgammaElectronProducers/plugins/GsfElectronBaseProducer.cc", 
-            "RecoEgamma/EgammaElectronProducers/plugins/GsfElectronBaseProducer.h", 
-            "RecoEgamma/EgammaElectronProducers/plugins/GsfElectronProducer.cc", 
-            "RecoEgamma/EgammaElectronProducers/plugins/GsfElectronProducer.h", 
-            "RecoEgamma/EgammaElectronProducers/python/cosmicElectronSequence_cff.py", 
-            "RecoEgamma/EgammaElectronProducers/python/ecalDrivenElectronSeeds_cff.py", 
-            "RecoEgamma/EgammaElectronProducers/python/ecalDrivenElectronSeeds_cfi.py", 
-            "RecoEgamma/EgammaElectronProducers/python/uncleanedOnlyElectronSequence_cff.py", 
-            "RecoEgamma/EgammaElectronProducers/test/egammaRecHitsToGsfElectrons_cfg.py", 
-            "TrackingTools/GsfTracking/python/GsfElectronTracking_cff.py"
-        ], 
-        "created_at": 1571409569, 
-        "number": 28213, 
-        "state": "open", 
-        "updated_at": 1571730097
-    }, 
     "28214": {
         "base_branch": "master", 
         "changed_files_names": [
