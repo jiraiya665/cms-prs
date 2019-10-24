@@ -1639,20 +1639,6 @@
         "state": "open", 
         "updated_at": 1571733811
     }, 
-    "28202": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/HcalTasks/plugins/DigiTask.cc", 
-            "DQM/L1TMonitor/src/BxTiming.cc", 
-            "DQM/SiPixelMonitorClient/src/SiPixelDataQuality.cc", 
-            "DQM/TrigXMonitorClient/src/HLTScalersClient.cc", 
-            "DQM/TrigXMonitorClient/src/L1ScalersClient.cc"
-        ], 
-        "created_at": 1571318032, 
-        "number": 28202, 
-        "state": "open", 
-        "updated_at": 1571318081
-    }, 
     "28205": {
         "base_branch": "master", 
         "changed_files_names": [
