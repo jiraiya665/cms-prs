@@ -2032,6 +2032,9 @@
             "DQMServices/Core/interface/MonitorElement.h", 
             "DQMServices/Core/src/DQMStore.cc", 
             "DQMServices/Core/src/MonitorElement.cc", 
+            "DQMServices/Core/src/QStatisticalTests.cc", 
+            "DQMServices/Core/src/QStatisticalTests.h", 
+            "DQMServices/Core/src/QTest.cc", 
             "DQMServices/Core/test/BuildFile.xml", 
             "DQMServices/Core/test/DQMReadFileExample.cc", 
             "HLTrigger/Timer/plugins/ThroughputServiceClient.cc", 
@@ -2043,7 +2046,7 @@
         "created_at": 1571832446, 
         "number": 28247, 
         "state": "open", 
-        "updated_at": 1571905905
+        "updated_at": 1571926713
     }, 
     "28249": {
         "base_branch": "master", 
