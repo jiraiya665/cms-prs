@@ -2281,6 +2281,22 @@
         "state": "open", 
         "updated_at": 1571924115
     }, 
+    "28262": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoEgamma/EgammaElectronAlgos/interface/BarrelMeasurementEstimator.h", 
+            "RecoEgamma/EgammaElectronAlgos/interface/ForwardMeasurementEstimator.h", 
+            "RecoEgamma/EgammaElectronAlgos/interface/PixelHitMatcher.h", 
+            "RecoEgamma/EgammaElectronAlgos/src/BarrelMeasurementEstimator.cc", 
+            "RecoEgamma/EgammaElectronAlgos/src/ForwardMeasurementEstimator.cc", 
+            "RecoEgamma/EgammaElectronAlgos/src/PixelHitMatcher.cc", 
+            "RecoEgamma/Examples/plugins/ElectronSeedAnalyzer.cc"
+        ], 
+        "created_at": 1571927212, 
+        "number": 28262, 
+        "state": "open", 
+        "updated_at": 1571927241
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
