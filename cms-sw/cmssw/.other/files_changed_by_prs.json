@@ -1761,20 +1761,6 @@
         "state": "open", 
         "updated_at": 1571659169
     }, 
-    "28222": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/Candidate/BuildFile.xml", 
-            "DataFormats/HLTReco/interface/HLTPerformanceInfo.h", 
-            "DataFormats/HLTReco/interface/TriggerEvent.h", 
-            "DataFormats/HeavyIonEvent/BuildFile.xml", 
-            "DataFormats/TauReco/src/classes_3.h"
-        ], 
-        "created_at": 1571651972, 
-        "number": 28222, 
-        "state": "open", 
-        "updated_at": 1571756871
-    }, 
     "28223": {
         "base_branch": "master", 
         "changed_files_names": [
