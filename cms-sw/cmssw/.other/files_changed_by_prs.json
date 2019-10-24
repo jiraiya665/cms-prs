@@ -1862,16 +1862,6 @@
         "state": "open", 
         "updated_at": 1571745451
     }, 
-    "28240": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoParticleFlow/PFClusterTools/src/LinkByRecHit.cc"
-        ], 
-        "created_at": 1571757284, 
-        "number": 28240, 
-        "state": "open", 
-        "updated_at": 1571757317
-    }, 
     "28244": {
         "base_branch": "master", 
         "changed_files_names": [
