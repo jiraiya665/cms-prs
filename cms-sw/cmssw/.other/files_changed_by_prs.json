@@ -2338,16 +2338,6 @@
         "state": "open", 
         "updated_at": 1572008153
     }, 
-    "28273": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoTracker/TkHitPairs/src/CombinedHitPairGenerator.cc"
-        ], 
-        "created_at": 1572008227, 
-        "number": 28273, 
-        "state": "open", 
-        "updated_at": 1572008279
-    }, 
     "28274": {
         "base_branch": "master", 
         "changed_files_names": [
