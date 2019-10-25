@@ -2371,6 +2371,16 @@
         "state": "open", 
         "updated_at": 1572010895
     }, 
+    "28277": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "L1Trigger/GlobalTriggerAnalyzer/src/L1GtPatternWriter.cc"
+        ], 
+        "created_at": 1572010983, 
+        "number": 28277, 
+        "state": "open", 
+        "updated_at": 1572011012
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
