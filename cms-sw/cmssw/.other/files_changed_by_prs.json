@@ -2358,16 +2358,6 @@
         "state": "open", 
         "updated_at": 1572010197
     }, 
-    "28276": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoParticleFlow/PFClusterProducer/plugins/Basic2DGenericPFlowPositionCalc.cc"
-        ], 
-        "created_at": 1572010850, 
-        "number": 28276, 
-        "state": "open", 
-        "updated_at": 1572010895
-    }, 
     "28277": {
         "base_branch": "master", 
         "changed_files_names": [
