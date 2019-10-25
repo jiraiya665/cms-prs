@@ -2341,6 +2341,16 @@
         "state": "open", 
         "updated_at": 1572008279
     }, 
+    "28274": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "HLTrigger/JSONMonitoring/plugins/L1TriggerJSONMonitoring.cc"
+        ], 
+        "created_at": 1572009678, 
+        "number": 28274, 
+        "state": "open", 
+        "updated_at": 1572009684
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
