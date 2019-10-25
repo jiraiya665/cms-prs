@@ -1850,21 +1850,6 @@
         "state": "open", 
         "updated_at": 1571744060
     }, 
-    "28237": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HGCalCommonData/data/TB181/Oct181/hgcalEE.xml", 
-            "Geometry/HGCalCommonData/data/TB181/Oct181/hgcalHE.xml", 
-            "Geometry/HGCalCommonData/data/TB181/Oct182/ahcal.xml", 
-            "Geometry/HGCalCommonData/data/TB181/Oct182/hgcalEE.xml", 
-            "Geometry/HGCalCommonData/data/TB181/Oct183/ahcal.xml", 
-            "Geometry/HGCalCommonData/data/TB181/Oct183/hgcalEE.xml"
-        ], 
-        "created_at": 1571745392, 
-        "number": 28237, 
-        "state": "open", 
-        "updated_at": 1571745451
-    }, 
     "28244": {
         "base_branch": "master", 
         "changed_files_names": [
