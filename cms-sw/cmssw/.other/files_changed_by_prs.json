@@ -2368,16 +2368,6 @@
         "state": "open", 
         "updated_at": 1572011170
     }, 
-    "28278": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1TriggerConfig/L1GtConfigProducers/src/L1GtVhdlWriterCore.cc"
-        ], 
-        "created_at": 1572011105, 
-        "number": 28278, 
-        "state": "open", 
-        "updated_at": 1572011139
-    }, 
     "28279": {
         "base_branch": "master", 
         "changed_files_names": [
