@@ -1774,23 +1774,6 @@
         "state": "open", 
         "updated_at": 1571741992
     }, 
-    "28236": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/Geometry/python/dict2026Geometry.py", 
-            "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D46XML_cfi.py", 
-            "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D47XML_cfi.py", 
-            "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D48XML_cfi.py", 
-            "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D49XML_cfi.py", 
-            "Geometry/HGCalCommonData/data/hgcal/v10c/hgcal.xml", 
-            "Geometry/HGCalCommonData/data/hgcal/v11/hgcal.xml", 
-            "Geometry/HGCalCommonData/data/hgcal/v9c/hgcal.xml"
-        ], 
-        "created_at": 1571744014, 
-        "number": 28236, 
-        "state": "open", 
-        "updated_at": 1571744060
-    }, 
     "28244": {
         "base_branch": "master", 
         "changed_files_names": [
