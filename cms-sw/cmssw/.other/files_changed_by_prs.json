@@ -1652,21 +1652,6 @@
         "state": "open", 
         "updated_at": 1571406749
     }, 
-    "28212": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/PatCandidates/interface/Muon.h", 
-            "DataFormats/PatCandidates/src/Muon.cc", 
-            "DataFormats/PatCandidates/src/classes_def_objects.xml", 
-            "PhysicsTools/PatAlgos/plugins/PATMuonProducer.cc", 
-            "PhysicsTools/PatAlgos/plugins/PATMuonProducer.h", 
-            "PhysicsTools/PatAlgos/python/producersLayer1/muonProducer_cfi.py"
-        ], 
-        "created_at": 1571407995, 
-        "number": 28212, 
-        "state": "open", 
-        "updated_at": 1571933179
-    }, 
     "28214": {
         "base_branch": "master", 
         "changed_files_names": [
