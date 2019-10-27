@@ -2195,16 +2195,6 @@
         "state": "open", 
         "updated_at": 1572007363
     }, 
-    "28270": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DetectorDescription/DDCMS/interface/Filter.h"
-        ], 
-        "created_at": 1572007390, 
-        "number": 28270, 
-        "state": "open", 
-        "updated_at": 1572011762
-    }, 
     "28271": {
         "base_branch": "master", 
         "changed_files_names": [
