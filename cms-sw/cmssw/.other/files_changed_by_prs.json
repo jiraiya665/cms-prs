@@ -1621,29 +1621,6 @@
         "state": "open", 
         "updated_at": 1571733811
     }, 
-    "28205": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/Eras/python/Modifier_dd4hep_cff.py", 
-            "Configuration/Geometry/python/GeometryExtended2015CastorMeasured_cff.py", 
-            "Configuration/Geometry/python/GeometryExtended2015CastorSystMinus_cff.py", 
-            "Configuration/Geometry/python/GeometryExtended2015CastorSystPlus_cff.py", 
-            "Configuration/Geometry/python/GeometryExtended2015MuonGEMDev_cff.py", 
-            "Configuration/Geometry/python/GeometryExtended2017_CTPPS_cff.py", 
-            "Configuration/Geometry/python/GeometryExtended2017_cff.py", 
-            "Configuration/Geometry/python/GeometrySimDB_cff.py", 
-            "Geometry/HcalCommonData/python/caloSimulationParameters_cff.py", 
-            "Geometry/HcalCommonData/python/hcalDDConstants_cff.py", 
-            "Geometry/HcalCommonData/python/hcalDDDSimConstants_cff.py", 
-            "Geometry/HcalCommonData/python/testPhase2GeometryFine_cff.py", 
-            "SimG4CMS/Calo/interface/CaloTrkProcessing.h", 
-            "SimG4CMS/Calo/src/CaloTrkProcessing.cc"
-        ], 
-        "created_at": 1571325839, 
-        "number": 28205, 
-        "state": "open", 
-        "updated_at": 1571327373
-    }, 
     "28206": {
         "base_branch": "master", 
         "changed_files_names": [
