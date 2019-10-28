@@ -1935,16 +1935,16 @@
         "changed_files_names": [
             "DQM/Integration/python/clients/mutracking_dqm_sourceclient-live_cfg.py", 
             "DQM/MuonMonitor/BuildFile.xml", 
-            "DQM/MuonMonitor/interface/CosmicMuonRecoAnalyzer.h", 
+            "DQM/MuonMonitor/plugins/BuildFile.xml", 
+            "DQM/MuonMonitor/plugins/CosmicMuonRecoAnalyzer.cc", 
             "DQM/MuonMonitor/python/muonCosmicAnalyzer_cff.py", 
             "DQM/MuonMonitor/python/muonRecoAnalyzer_cfi.py", 
-            "DQM/MuonMonitor/src/CosmicMuonRecoAnalyzer.cc", 
             "DQM/MuonMonitor/test/mutracking_dqm_sourceclient-live_cfg.py"
         ], 
         "created_at": 1571852797, 
         "number": 28251, 
         "state": "open", 
-        "updated_at": 1571853305
+        "updated_at": 1572283907
     }, 
     "28252": {
         "base_branch": "master", 
