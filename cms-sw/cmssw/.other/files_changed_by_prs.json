@@ -1212,6 +1212,8 @@
             "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
             "RecoJets/JetProducers/python/hltParticleFlowForJets_cfi.py", 
             "RecoParticleFlow/PFProducer/interface/PFAlgo.h", 
+            "RecoParticleFlow/PFProducer/interface/PFCandConnector.h", 
+            "RecoParticleFlow/PFProducer/interface/PFEGammaFilters.h", 
             "RecoParticleFlow/PFProducer/interface/PFMuonAlgo.h", 
             "RecoParticleFlow/PFProducer/plugins/PFEGammaProducer.cc", 
             "RecoParticleFlow/PFProducer/plugins/PFProducer.cc", 
@@ -1220,13 +1222,14 @@
             "RecoParticleFlow/PFProducer/python/particleFlow_cff.py", 
             "RecoParticleFlow/PFProducer/python/particleFlow_cfi.py", 
             "RecoParticleFlow/PFProducer/src/PFAlgo.cc", 
+            "RecoParticleFlow/PFProducer/src/PFCandConnector.cc", 
             "RecoParticleFlow/PFProducer/src/PFEGammaFilters.cc", 
             "RecoParticleFlow/PFProducer/src/PFMuonAlgo.cc"
         ], 
         "created_at": 1570105354, 
         "number": 28110, 
         "state": "open", 
-        "updated_at": 1570647294
+        "updated_at": 1572267336
     }, 
     "28112": {
         "base_branch": "master", 
