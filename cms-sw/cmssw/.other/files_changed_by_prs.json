@@ -2166,16 +2166,6 @@
         "state": "open", 
         "updated_at": 1572002799
     }, 
-    "28268": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Validation/EcalDigis/src/EcalMixingModuleValidation.cc"
-        ], 
-        "created_at": 1572007062, 
-        "number": 28268, 
-        "state": "open", 
-        "updated_at": 1572007112
-    }, 
     "28269": {
         "base_branch": "master", 
         "changed_files_names": [
