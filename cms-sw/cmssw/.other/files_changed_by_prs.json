@@ -2441,16 +2441,6 @@
         "state": "open", 
         "updated_at": 1572280176
     }, 
-    "28296": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoTracker/TkNavigation/test/NavigationSchoolAnalyzer.cc"
-        ], 
-        "created_at": 1572279519, 
-        "number": 28296, 
-        "state": "open", 
-        "updated_at": 1572279553
-    }, 
     "28297": {
         "base_branch": "master", 
         "changed_files_names": [
