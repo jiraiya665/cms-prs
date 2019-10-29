@@ -2775,17 +2775,6 @@
         "state": "open", 
         "updated_at": 1571943654
     }, 
-    "28253": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "IOMC/ParticleGuns/src/CloseByParticleGunProducer.cc", 
-            "SimCalorimetry/HGCalSimProducers/python/hgcalDigitizer_cfi.py"
-        ], 
-        "created_at": 1571903121, 
-        "number": 28253, 
-        "state": "open", 
-        "updated_at": 1571903180
-    }, 
     "28254": {
         "base_branch": "master", 
         "changed_files_names": [
