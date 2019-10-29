@@ -2353,22 +2353,6 @@
         "state": "open", 
         "updated_at": 1571309577
     }, 
-    "28200": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoParticleFlow/PFProducer/plugins/importers/GeneralTracksImporter.cc", 
-            "RecoParticleFlow/PFProducer/plugins/importers/GeneralTracksImporterWithVeto.cc", 
-            "RecoParticleFlow/PFProducer/python/particleFlowBlock_cfi.py", 
-            "RecoParticleFlow/PFTracking/interface/PFTrackAlgoTools.h", 
-            "RecoParticleFlow/PFTracking/plugins/HGCalTrackCollectionProducer.cc", 
-            "RecoParticleFlow/PFTracking/python/hgcalTrackCollection_cfi.py", 
-            "RecoParticleFlow/PFTracking/src/PFTrackAlgoTools.cc"
-        ], 
-        "created_at": 1571310283, 
-        "number": 28200, 
-        "state": "open", 
-        "updated_at": 1572274055
-    }, 
     "28201": {
         "base_branch": "master", 
         "changed_files_names": [
