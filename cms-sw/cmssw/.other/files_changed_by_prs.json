@@ -3108,16 +3108,6 @@
         "state": "open", 
         "updated_at": 1572269455
     }, 
-    "28291": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1Trigger/GlobalTriggerAnalyzer/src/L1GtPatternWriter.cc"
-        ], 
-        "created_at": 1572273152, 
-        "number": 28291, 
-        "state": "open", 
-        "updated_at": 1572273209
-    }, 
     "28293": {
         "base_branch": "master", 
         "changed_files_names": [
