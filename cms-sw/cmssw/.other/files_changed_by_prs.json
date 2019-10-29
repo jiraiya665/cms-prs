@@ -3470,6 +3470,17 @@
         "state": "open", 
         "updated_at": 1572364724
     }, 
+    "28306": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Alignment/CommonAlignmentProducer/python/AlcaSiPixelAliHarvester0T_cff.py", 
+            "Alignment/CommonAlignmentProducer/python/AlcaSiPixelAliHarvester_cff.py"
+        ], 
+        "created_at": 1572372460, 
+        "number": 28306, 
+        "state": "open", 
+        "updated_at": 1572372513
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
