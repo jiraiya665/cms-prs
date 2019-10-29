@@ -3070,17 +3070,6 @@
         "state": "open", 
         "updated_at": 1572269169
     }, 
-    "28289": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQMServices/Components/test/runtests.sh", 
-            "DQMServices/Components/test/whiteRabbit3.py"
-        ], 
-        "created_at": 1572269402, 
-        "number": 28289, 
-        "state": "open", 
-        "updated_at": 1572269455
-    }, 
     "28293": {
         "base_branch": "master", 
         "changed_files_names": [
