@@ -1842,20 +1842,6 @@
         "state": "open", 
         "updated_at": 1572015808
     }, 
-    "28281": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/PyReleaseValidation/python/MatrixUtil.py", 
-            "Configuration/PyReleaseValidation/python/relval_2026.py", 
-            "Configuration/PyReleaseValidation/python/relval_steps.py", 
-            "Configuration/PyReleaseValidation/python/relval_upgrade.py", 
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py"
-        ], 
-        "created_at": 1572032938, 
-        "number": 28281, 
-        "state": "open", 
-        "updated_at": 1572033040
-    }, 
     "28282": {
         "base_branch": "master", 
         "changed_files_names": [
