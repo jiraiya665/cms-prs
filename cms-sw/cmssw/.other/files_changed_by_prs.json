@@ -269,18 +269,6 @@
         "state": "open", 
         "updated_at": 1564083904
     }, 
-    "27676": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/Eras/python/Era_Run2_2018_cff.py", 
-            "Configuration/Eras/python/Modifier_run2_onlineMetaData_2018_cff.py", 
-            "Configuration/StandardSequences/python/RawToDigi_cff.py"
-        ], 
-        "created_at": 1564737960, 
-        "number": 27676, 
-        "state": "open", 
-        "updated_at": 1564737988
-    }, 
     "27677": {
         "base_branch": "master", 
         "changed_files_names": [
