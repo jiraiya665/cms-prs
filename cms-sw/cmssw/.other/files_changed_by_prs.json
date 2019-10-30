@@ -2004,11 +2004,9 @@
         "base_branch": "master", 
         "changed_files_names": [
             "CommonTools/RecoAlgos/BuildFile.xml", 
-            "CommonTools/RecoAlgos/interface/MVAComputer.h", 
             "CommonTools/RecoAlgos/interface/TrackPUIDMVA.h", 
             "CommonTools/RecoAlgos/plugins/TOFPIDProducer.cc", 
             "CommonTools/RecoAlgos/plugins/TrackPUIDMVAProducer.cc", 
-            "CommonTools/RecoAlgos/src/MVAComputer.cc", 
             "CommonTools/RecoAlgos/src/TrackPUIDMVA.cc", 
             "PhysicsTools/PatAlgos/plugins/PATPackedCandidateProducer.cc", 
             "PhysicsTools/PatAlgos/python/slimming/packedPFCandidates_cfi.py", 
@@ -2019,7 +2017,7 @@
         "created_at": 1572012327, 
         "number": 28279, 
         "state": "open", 
-        "updated_at": 1572270210
+        "updated_at": 1572449777
     }, 
     "28280": {
         "base_branch": "master", 
