@@ -1528,35 +1528,6 @@
         "state": "open", 
         "updated_at": 1571659084
     }, 
-    "28233": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/HLT/python/addOnTestsHLT.py", 
-            "Configuration/HLT/python/autoCondHLT.py", 
-            "HLTrigger/Configuration/python/HLT_2018_cff.py", 
-            "HLTrigger/Configuration/python/HLT_FULL_cff.py", 
-            "HLTrigger/Configuration/python/HLT_GRun_cff.py", 
-            "HLTrigger/Configuration/python/HLT_HIon_cff.py", 
-            "HLTrigger/Configuration/python/HLT_PIon_cff.py", 
-            "HLTrigger/Configuration/python/HLT_PRef_cff.py", 
-            "HLTrigger/Configuration/python/Tools/options.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_2018.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_FULL.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_GRun.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_HIon.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_PIon.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_PRef.py", 
-            "HLTrigger/Configuration/test/cmsDriver.csh", 
-            "HLTrigger/Configuration/test/examLogs.csh", 
-            "HLTrigger/Configuration/test/getFrozenHLT.sh", 
-            "HLTrigger/Configuration/test/runIntegration.csh", 
-            "HLTrigger/Configuration/test/runOne.csh"
-        ], 
-        "created_at": 1571741457, 
-        "number": 28233, 
-        "state": "open", 
-        "updated_at": 1572344442
-    }, 
     "28244": {
         "base_branch": "master", 
         "changed_files_names": [
