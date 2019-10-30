@@ -2192,17 +2192,6 @@
         "state": "open", 
         "updated_at": 1572277372
     }, 
-    "28294": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/ParameterSet/interface/ParameterSet.h", 
-            "FWCore/ParameterSet/src/ParameterSet.cc"
-        ], 
-        "created_at": 1572278712, 
-        "number": 28294, 
-        "state": "open", 
-        "updated_at": 1572278746
-    }, 
     "28295": {
         "base_branch": "master", 
         "changed_files_names": [
