@@ -2440,16 +2440,6 @@
         "state": "open", 
         "updated_at": 1572340120
     }, 
-    "28302": {
-        "base_branch": "CMSSW_10_6_X", 
-        "changed_files_names": [
-            "PhysicsTools/NanoAOD/python/nano_cff.py"
-        ], 
-        "created_at": 1572346545, 
-        "number": 28302, 
-        "state": "open", 
-        "updated_at": 1572346599
-    }, 
     "28304": {
         "base_branch": "master", 
         "changed_files_names": [
