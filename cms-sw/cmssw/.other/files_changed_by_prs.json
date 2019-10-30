@@ -2573,6 +2573,32 @@
         "state": "open", 
         "updated_at": 1572442297
     }, 
+    "28312": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondCore/CondDB/interface/KeyList.h", 
+            "CondCore/CondDB/interface/KeyListProxy.h", 
+            "CondCore/CondDB/src/KeyList.cc", 
+            "CondCore/CondDB/src/SessionImpl.cc", 
+            "CondCore/CondDB/src/SessionImpl.h", 
+            "CondCore/PopCon/interface/PopConAnalyzer.h", 
+            "CondTools/DT/interface/DTKeyedConfigCache.h", 
+            "CondTools/DT/interface/DTKeyedConfigHandler.h", 
+            "CondTools/DT/interface/DTUserKeyedConfigHandler.h", 
+            "CondTools/DT/plugins/DTKeyedConfigDBDump.cc", 
+            "CondTools/DT/plugins/DTKeyedConfigPopConAnalyzer.cc", 
+            "CondTools/DT/plugins/DTUserKeyedConfigPopConAnalyzer.cc", 
+            "CondTools/DT/src/DTKeyedConfigCache.cc", 
+            "CondTools/DT/src/DTKeyedConfigHandler.cc", 
+            "CondTools/DT/src/DTUserKeyedConfigHandler.cc", 
+            "CondTools/DT/test/stubs/DTKeyedConfigDump.cc", 
+            "L1TriggerConfig/DTTPGConfigProducers/src/DTConfigDBProducer.cc"
+        ], 
+        "created_at": 1572442369, 
+        "number": 28312, 
+        "state": "open", 
+        "updated_at": 1572442395
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
