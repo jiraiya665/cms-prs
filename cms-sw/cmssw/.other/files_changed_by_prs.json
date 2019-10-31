@@ -2124,6 +2124,8 @@
     "28311": {
         "base_branch": "master", 
         "changed_files_names": [
+            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalRecHitWorkerSimple.cc", 
+            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalRecHitWorkerSimple.h", 
             "RecoLocalCalo/HGCalRecProducers/python/HGCalRecHit_cfi.py", 
             "RecoLocalCalo/HGCalRecProducers/python/HGCalUncalibRecHit_cfi.py", 
             "SimTracker/TrackerMaterialAnalysis/plugins/MaterialAccountingGroup.cc", 
@@ -2144,7 +2146,7 @@
         "created_at": 1572442250, 
         "number": 28311, 
         "state": "open", 
-        "updated_at": 1572447038
+        "updated_at": 1572550048
     }, 
     "28312": {
         "base_branch": "master", 
