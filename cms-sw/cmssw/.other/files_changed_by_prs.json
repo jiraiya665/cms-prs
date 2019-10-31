@@ -1861,6 +1861,13 @@
             "DQM/SiStripHistoricInfoClient/test/TrendsWithIOVIterator/testHDQMGraphAnalysis.cc", 
             "DQM/SiStripHistoricInfoClient/test/template_SiStripHistoryDQMService_cfg.py", 
             "DQM/SiStripHistoricInfoClient/test/template_TrackingHistoryDQMService_cfg.py", 
+            "DQMOffline/CalibTracker/plugins/BuildFile.xml", 
+            "DQMOffline/CalibTracker/plugins/GenericPopConHistoryDQM.cc", 
+            "DQMOffline/CalibTracker/plugins/SiStripDQMHistoryHelper.cc", 
+            "DQMOffline/CalibTracker/plugins/SiStripDQMHistoryHelper.h", 
+            "DQMOffline/CalibTracker/plugins/SiStripPopConHistoryDQM.cc", 
+            "DQMOffline/CalibTracker/plugins/SiStripPopConHistoryDQMBase.cc", 
+            "DQMOffline/CalibTracker/plugins/SiStripPopConHistoryDQMBase.h", 
             "DQMServices/Diagnostic/BuildFile.xml", 
             "DQMServices/Diagnostic/bin/BuildFile.xml", 
             "DQMServices/Diagnostic/bin/MakeDeanHTML.cc", 
@@ -1939,7 +1946,7 @@
         "created_at": 1572279839, 
         "number": 28297, 
         "state": "open", 
-        "updated_at": 1572346437
+        "updated_at": 1572512756
     }, 
     "28298": {
         "base_branch": "master", 
