@@ -1891,17 +1891,6 @@
         "state": "open", 
         "updated_at": 1572383154
     }, 
-    "28299": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "PhysicsTools/PythonAnalysis/python/cmstools.py", 
-            "RecoLocalCalo/EcalRecProducers/test/compare_csv.py"
-        ], 
-        "created_at": 1572306755, 
-        "number": 28299, 
-        "state": "open", 
-        "updated_at": 1572306804
-    }, 
     "28300": {
         "base_branch": "master", 
         "changed_files_names": [
