@@ -1721,31 +1721,6 @@
         "state": "open", 
         "updated_at": 1572015808
     }, 
-    "28282": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoEgamma/EgammaElectronAlgos/interface/EgAmbiguityTools.h", 
-            "RecoEgamma/EgammaElectronAlgos/interface/ElectronClassification.h", 
-            "RecoEgamma/EgammaElectronAlgos/interface/ElectronEnergyCorrector.h", 
-            "RecoEgamma/EgammaElectronAlgos/interface/ElectronMomentumCorrector.h", 
-            "RecoEgamma/EgammaElectronAlgos/interface/EnergyUncertaintyElectronSpecific.h", 
-            "RecoEgamma/EgammaElectronAlgos/interface/GsfElectronAlgo.h", 
-            "RecoEgamma/EgammaElectronAlgos/interface/GsfElectronTools.h", 
-            "RecoEgamma/EgammaElectronAlgos/src/EgAmbiguityTools.cc", 
-            "RecoEgamma/EgammaElectronAlgos/src/ElectronClassification.cc", 
-            "RecoEgamma/EgammaElectronAlgos/src/ElectronEnergyCorrector.cc", 
-            "RecoEgamma/EgammaElectronAlgos/src/ElectronMomentumCorrector.cc", 
-            "RecoEgamma/EgammaElectronAlgos/src/EnergyUncertaintyElectronSpecific.cc", 
-            "RecoEgamma/EgammaElectronAlgos/src/GsfElectronAlgo.cc", 
-            "RecoEgamma/EgammaElectronAlgos/src/GsfElectronTools.cc", 
-            "RecoEgamma/EgammaElectronProducers/plugins/GsfElectronBaseProducer.cc", 
-            "RecoEgamma/EgammaElectronProducers/plugins/GsfElectronCoreBaseProducer.cc"
-        ], 
-        "created_at": 1572038868, 
-        "number": 28282, 
-        "state": "open", 
-        "updated_at": 1572395229
-    }, 
     "28295": {
         "base_branch": "master", 
         "changed_files_names": [
