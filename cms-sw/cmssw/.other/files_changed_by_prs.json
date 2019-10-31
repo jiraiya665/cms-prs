@@ -2285,6 +2285,7 @@
             "DQM/Integration/python/clients/sistrip_dqm_sourceclient-live_cfg.py", 
             "DQM/L1TMonitor/BuildFile.xml", 
             "DQM/L1TMonitorClient/BuildFile.xml", 
+            "DQM/L1TMonitorClient/data/L1EmulatorCsctfQualityTests.xml", 
             "DQM/L1TMonitorClient/python/L1EmulatorCsctfQualityTests_cfi.py", 
             "DQM/L1TMonitorClient/python/L1EmulatorCsctpgQualityTests_cfi.py", 
             "DQM/L1TMonitorClient/python/L1EmulatorDttfQualityTests_cfi.py", 
@@ -2510,7 +2511,7 @@
         "created_at": 1572449639, 
         "number": 28316, 
         "state": "open", 
-        "updated_at": 1572450557
+        "updated_at": 1572516145
     }, 
     "28317": {
         "base_branch": "master", 
