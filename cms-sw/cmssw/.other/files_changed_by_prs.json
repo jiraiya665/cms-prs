@@ -2085,23 +2085,6 @@
         "state": "open", 
         "updated_at": 1572448526
     }, 
-    "28314": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "PhysicsTools/PythonAnalysis/test/BuildFile.xml", 
-            "PhysicsTools/PythonAnalysis/test/commands.txt", 
-            "PhysicsTools/PythonAnalysis/test/imports.py", 
-            "PhysicsTools/PythonAnalysis/test/imports.sh", 
-            "PhysicsTools/PythonAnalysis/test/imports.txt", 
-            "PhysicsTools/PythonAnalysis/test/testDownhill.sh", 
-            "PhysicsTools/PythonAnalysis/test/testTheano.sh", 
-            "PhysicsTools/PythonAnalysis/test/testhep_ml.sh"
-        ], 
-        "created_at": 1572448977, 
-        "number": 28314, 
-        "state": "open", 
-        "updated_at": 1572449071
-    }, 
     "28315": {
         "base_branch": "master", 
         "changed_files_names": [
