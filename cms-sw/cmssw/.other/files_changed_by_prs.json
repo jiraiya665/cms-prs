@@ -2370,22 +2370,6 @@
         "state": "open", 
         "updated_at": 1572454136
     }, 
-    "28319": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoMTD/DetLayers/plugins/BTLDetLayerGeometryBuilder.cc", 
-            "RecoMTD/DetLayers/plugins/BTLDetLayerGeometryBuilder.h", 
-            "RecoMTD/DetLayers/plugins/ETLDetLayerGeometryBuilder.cc", 
-            "RecoMTD/DetLayers/plugins/ETLDetLayerGeometryBuilder.h", 
-            "RecoMTD/DetLayers/plugins/MTDDetLayerGeometryESProducer.cc", 
-            "RecoMTD/DetLayers/plugins/MTDDetLayerGeometryESProducer.h", 
-            "RecoMTD/DetLayers/plugins/SealModule.cc"
-        ], 
-        "created_at": 1572454857, 
-        "number": 28319, 
-        "state": "open", 
-        "updated_at": 1572454974
-    }, 
     "28320": {
         "base_branch": "master", 
         "changed_files_names": [
