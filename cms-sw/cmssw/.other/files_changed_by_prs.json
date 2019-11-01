@@ -2010,18 +2010,6 @@
         "state": "open", 
         "updated_at": 1572359687
     }, 
-    "28309": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoLocalCalo/HcalRecAlgos/interface/MahiFit.h", 
-            "RecoLocalCalo/HcalRecAlgos/src/MahiFit.cc", 
-            "RecoLocalCalo/HcalRecAlgos/test/MahiDebugger.cc"
-        ], 
-        "created_at": 1572410712, 
-        "number": 28309, 
-        "state": "open", 
-        "updated_at": 1572411296
-    }, 
     "28310": {
         "base_branch": "master", 
         "changed_files_names": [
