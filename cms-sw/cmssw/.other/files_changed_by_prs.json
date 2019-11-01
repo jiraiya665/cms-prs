@@ -2317,20 +2317,6 @@
         "state": "open", 
         "updated_at": 1572622761
     }, 
-    "28318": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Alignment/MillePedeAlignmentAlgorithm/interface/MillePedeFileReader.h", 
-            "Alignment/MillePedeAlignmentAlgorithm/plugins/MillePedeDQMModule.cc", 
-            "Alignment/MillePedeAlignmentAlgorithm/plugins/MillePedeDQMModule.h", 
-            "Alignment/MillePedeAlignmentAlgorithm/python/MillePedeFileReader_cfi.py", 
-            "Alignment/MillePedeAlignmentAlgorithm/src/MillePedeFileReader.cc"
-        ], 
-        "created_at": 1572453224, 
-        "number": 28318, 
-        "state": "open", 
-        "updated_at": 1572454136
-    }, 
     "28320": {
         "base_branch": "master", 
         "changed_files_names": [
