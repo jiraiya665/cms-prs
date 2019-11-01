@@ -1593,8 +1593,11 @@
         "base_branch": "master", 
         "changed_files_names": [
             "RecoEgamma/EgammaElectronAlgos/interface/BarrelMeasurementEstimator.h", 
+            "RecoEgamma/EgammaElectronAlgos/interface/ElectronSeedGenerator.h", 
             "RecoEgamma/EgammaElectronAlgos/interface/ForwardMeasurementEstimator.h", 
             "RecoEgamma/EgammaElectronAlgos/interface/PixelHitMatcher.h", 
+            "RecoEgamma/EgammaElectronAlgos/interface/TrajSeedMatcher.h", 
+            "RecoEgamma/EgammaElectronAlgos/interface/utils.h", 
             "RecoEgamma/EgammaElectronAlgos/src/BarrelMeasurementEstimator.cc", 
             "RecoEgamma/EgammaElectronAlgos/src/ForwardMeasurementEstimator.cc", 
             "RecoEgamma/EgammaElectronAlgos/src/PixelHitMatcher.cc", 
@@ -1603,7 +1606,7 @@
         "created_at": 1571927212, 
         "number": 28262, 
         "state": "open", 
-        "updated_at": 1572468653
+        "updated_at": 1572613479
     }, 
     "28271": {
         "base_branch": "master", 
