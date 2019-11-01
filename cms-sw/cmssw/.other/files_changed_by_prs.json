@@ -2356,16 +2356,6 @@
         "state": "open", 
         "updated_at": 1572516206
     }, 
-    "28317": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/PyDevParameterSet/test/BuildFile.xml"
-        ], 
-        "created_at": 1572451577, 
-        "number": 28317, 
-        "state": "open", 
-        "updated_at": 1572451626
-    }, 
     "28318": {
         "base_branch": "master", 
         "changed_files_names": [
