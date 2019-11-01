@@ -2323,11 +2323,13 @@
             "DQMServices/Components/python/DQMFEDIntegrityClient_cff.py", 
             "DQMServices/Components/python/DQMMessageLoggerClient_cff.py", 
             "DQMServices/Components/src/QualityTester.cc", 
+            "DQMServices/Core/interface/DQMEDHarvester.h", 
             "DQMServices/Core/interface/DQMStore.h", 
             "DQMServices/Core/interface/MonitorElement.h", 
             "DQMServices/Core/interface/QReport.h", 
             "DQMServices/Core/interface/QTest.h", 
             "DQMServices/Core/python/DQMQualityTester.py", 
+            "DQMServices/Core/src/DQMEDHarvester.cc", 
             "DQMServices/Core/src/DQMStore.cc", 
             "DQMServices/Core/src/MonitorElement.cc", 
             "DQMServices/Examples/python/test/DQMExample_qTester_cfi.py", 
@@ -2357,7 +2359,7 @@
         "created_at": 1572449639, 
         "number": 28316, 
         "state": "open", 
-        "updated_at": 1572516206
+        "updated_at": 1572622761
     }, 
     "28318": {
         "base_branch": "master", 
