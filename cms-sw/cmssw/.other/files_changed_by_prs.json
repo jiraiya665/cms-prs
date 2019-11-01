@@ -2491,17 +2491,6 @@
         "state": "open", 
         "updated_at": 1572512472
     }, 
-    "28325": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQMOffline/Configuration/python/DQMOffline_cff.py", 
-            "DQMOffline/Configuration/python/autoDQM.py"
-        ], 
-        "created_at": 1572532972, 
-        "number": 28325, 
-        "state": "open", 
-        "updated_at": 1572533035
-    }, 
     "28326": {
         "base_branch": "master", 
         "changed_files_names": [
