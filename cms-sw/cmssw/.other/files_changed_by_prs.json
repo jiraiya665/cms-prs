@@ -2010,27 +2010,6 @@
         "state": "open", 
         "updated_at": 1572359687
     }, 
-    "28308": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimG4CMS/Calo/interface/HFFibre.h", 
-            "SimG4CMS/Calo/interface/HFShowerFibreBundle.h", 
-            "SimG4CMS/Calo/interface/HFShowerPMT.h", 
-            "SimG4CMS/Calo/macros/MakeGVPlots.C", 
-            "SimG4CMS/Calo/macros/MakeHFNPlots.C", 
-            "SimG4CMS/Calo/plugins/CaloSimHitAnalysis.cc", 
-            "SimG4CMS/Calo/plugins/HcalTestNumberingTest.cc", 
-            "SimG4CMS/Calo/src/HFFibre.cc", 
-            "SimG4CMS/Calo/src/HFShowerFibreBundle.cc", 
-            "SimG4CMS/Calo/src/HFShowerPMT.cc", 
-            "SimG4CMS/Calo/src/HGCScintSD.cc", 
-            "SimG4CMS/Calo/src/HcalTestAnalysis.cc"
-        ], 
-        "created_at": 1572376431, 
-        "number": 28308, 
-        "state": "open", 
-        "updated_at": 1572376481
-    }, 
     "28309": {
         "base_branch": "master", 
         "changed_files_names": [
