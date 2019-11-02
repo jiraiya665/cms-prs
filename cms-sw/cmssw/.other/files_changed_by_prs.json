@@ -2433,16 +2433,6 @@
         "state": "open", 
         "updated_at": 1572618075
     }, 
-    "28333": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Alignment/CommonAlignment/scripts/tkal_create_file_lists.py"
-        ], 
-        "created_at": 1572618002, 
-        "number": 28333, 
-        "state": "open", 
-        "updated_at": 1572618076
-    }, 
     "28334": {
         "base_branch": "master", 
         "changed_files_names": [
