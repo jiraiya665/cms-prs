@@ -2330,18 +2330,6 @@
         "state": "open", 
         "updated_at": 1572551608
     }, 
-    "28328": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CommonTools/ParticleFlow/interface/PFCandidateWithSrcPtrFactory.h", 
-            "CommonTools/ParticleFlow/python/EITopPAG_cff.py", 
-            "CommonTools/ParticleFlow/python/pfTaus_cff.py"
-        ], 
-        "created_at": 1572556699, 
-        "number": 28328, 
-        "state": "open", 
-        "updated_at": 1572557385
-    }, 
     "28329": {
         "base_branch": "master", 
         "changed_files_names": [
