@@ -1592,16 +1592,6 @@
         "state": "open", 
         "updated_at": 1572613953
     }, 
-    "28271": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoParticleFlow/PFProducer/plugins/PFEGammaProducer.cc"
-        ], 
-        "created_at": 1572007731, 
-        "number": 28271, 
-        "state": "open", 
-        "updated_at": 1572643931
-    }, 
     "28274": {
         "base_branch": "master", 
         "changed_files_names": [
