@@ -2008,23 +2008,6 @@
         "state": "open", 
         "updated_at": 1572628599
     }, 
-    "28315": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "PhysicsTools/PythonAnalysis/test/BuildFile.xml", 
-            "Utilities/StaticAnalyzers/bin/BuildFile.xml", 
-            "Utilities/StaticAnalyzers/bin/bloom_filter_generator.c", 
-            "Utilities/StaticAnalyzers/scripts/bloom.bin", 
-            "Utilities/StaticAnalyzers/scripts/classname-blmflt.py", 
-            "Utilities/StaticAnalyzers/scripts/classnames-extract.py", 
-            "Utilities/StaticAnalyzers/scripts/create_calls_db.sh", 
-            "Utilities/StaticAnalyzers/scripts/run_class_dumper.sh"
-        ], 
-        "created_at": 1572449247, 
-        "number": 28315, 
-        "state": "open", 
-        "updated_at": 1572598358
-    }, 
     "28316": {
         "base_branch": "master", 
         "changed_files_names": [
