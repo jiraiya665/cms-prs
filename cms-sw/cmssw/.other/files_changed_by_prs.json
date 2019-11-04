@@ -2437,17 +2437,6 @@
         "state": "open", 
         "updated_at": 1572801667
     }, 
-    "28338": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoLocalFastTime/FTLClusterizer/plugins/MTDCPEESProducer.cc", 
-            "RecoLocalFastTime/FTLRecProducers/plugins/MTDTimeCalibESProducer.cc"
-        ], 
-        "created_at": 1572848783, 
-        "number": 28338, 
-        "state": "open", 
-        "updated_at": 1572848836
-    }, 
     "28340": {
         "base_branch": "master", 
         "changed_files_names": [
