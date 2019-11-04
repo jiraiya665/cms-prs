@@ -2479,7 +2479,7 @@
         "created_at": 1572855384, 
         "number": 28340, 
         "state": "open", 
-        "updated_at": 1572855432
+        "updated_at": 1572873934
     }, 
     "28342": {
         "base_branch": "master", 
