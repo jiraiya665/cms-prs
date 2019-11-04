@@ -2412,20 +2412,6 @@
         "state": "open", 
         "updated_at": 1572727928
     }, 
-    "28335": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/GEMDigi/interface/GEMDigi.h", 
-            "DataFormats/GEMDigi/interface/GEMPadDigiCluster.h", 
-            "DataFormats/GEMDigi/src/GEMDigi.cc", 
-            "DataFormats/GEMDigi/src/GEMPadDigi.cc", 
-            "DataFormats/GEMDigi/src/GEMPadDigiCluster.cc"
-        ], 
-        "created_at": 1572645711, 
-        "number": 28335, 
-        "state": "open", 
-        "updated_at": 1572645764
-    }, 
     "28337": {
         "base_branch": "master", 
         "changed_files_names": [
