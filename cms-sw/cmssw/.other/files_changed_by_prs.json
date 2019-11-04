@@ -435,9 +435,7 @@
             "EventFilter/SiPixelRawToDigi/plugins/SiPixelDigisSoAFromCUDA.cc", 
             "EventFilter/SiPixelRawToDigi/python/SiPixelRawToDigi_cfi.py", 
             "EventFilter/SiPixelRawToDigi/python/siPixelDigis_cff.py", 
-            "EventFilter/Utilities/src/EvFDaqDirector.cc", 
             "FWCore/Concurrency/interface/WaitingTaskWithArenaHolder.h", 
-            "FWCore/Utilities/interface/propagate_const.h", 
             "FastSimulation/Tracking/python/SeedingMigration.py", 
             "Geometry/TrackerGeometryBuilder/interface/phase1PixelTopology.h", 
             "Geometry/TrackerGeometryBuilder/test/phase1PixelTopology_t.cpp", 
@@ -536,10 +534,12 @@
             "HeterogeneousCore/CUDAUtilities/interface/cudastdAlgorithm.h", 
             "HeterogeneousCore/CUDAUtilities/interface/device_unique_ptr.h", 
             "HeterogeneousCore/CUDAUtilities/interface/eigenSoA.h", 
+            "HeterogeneousCore/CUDAUtilities/interface/eventIsOccurred.h", 
             "HeterogeneousCore/CUDAUtilities/interface/exitSansCUDADevices.h", 
             "HeterogeneousCore/CUDAUtilities/interface/getCudaDrvErrorString.h", 
             "HeterogeneousCore/CUDAUtilities/interface/host_noncached_unique_ptr.h", 
             "HeterogeneousCore/CUDAUtilities/interface/host_unique_ptr.h", 
+            "HeterogeneousCore/CUDAUtilities/interface/launch.h", 
             "HeterogeneousCore/CUDAUtilities/interface/memsetAsync.h", 
             "HeterogeneousCore/CUDAUtilities/interface/prefixScan.h", 
             "HeterogeneousCore/CUDAUtilities/interface/radixSort.h", 
@@ -795,7 +795,7 @@
         "created_at": 1568296225, 
         "number": 27983, 
         "state": "open", 
-        "updated_at": 1568296278
+        "updated_at": 1572900255
     }, 
     "28010": {
         "base_branch": "master", 
