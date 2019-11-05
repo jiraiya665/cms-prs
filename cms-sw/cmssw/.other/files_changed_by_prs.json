@@ -978,17 +978,6 @@
         "state": "open", 
         "updated_at": 1572516528
     }, 
-    "28100": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimTracker/SiPhase2Digitizer/plugins/PixelDigitizerAlgorithm.cc", 
-            "SimTracker/SiPhase2Digitizer/python/phase2TrackerDigitizer_cfi.py"
-        ], 
-        "created_at": 1569934705, 
-        "number": 28100, 
-        "state": "open", 
-        "updated_at": 1572373860
-    }, 
     "28101": {
         "base_branch": "master", 
         "changed_files_names": [
