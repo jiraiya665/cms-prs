@@ -2553,16 +2553,6 @@
         "state": "open", 
         "updated_at": 1572867162
     }, 
-    "28344": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "PhysicsTools/PythonAnalysis/test/BuildFile.xml"
-        ], 
-        "created_at": 1572892043, 
-        "number": 28344, 
-        "state": "open", 
-        "updated_at": 1572892594
-    }, 
     "28345": {
         "base_branch": "master", 
         "changed_files_names": [
