@@ -2577,7 +2577,6 @@
         "changed_files_names": [
             "DataFormats/HGCDigi/bin/BuildFile.xml", 
             "DataFormats/HGCDigi/bin/HGCSampleTest.cpp", 
-            "DataFormats/HGCDigi/interface/HGCDataFrame.h", 
             "DataFormats/HGCDigi/interface/HGCSample.h", 
             "SLHCUpgradeSimulations/Configuration/python/aging.py", 
             "SimCalorimetry/HGCalSimAlgos/interface/HGCalRadiationMap.h", 
@@ -2596,7 +2595,7 @@
         "created_at": 1572964772, 
         "number": 28349, 
         "state": "open", 
-        "updated_at": 1572965173
+        "updated_at": 1572967507
     }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
