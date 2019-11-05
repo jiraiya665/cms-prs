@@ -2214,6 +2214,8 @@
             "CondFormats/GeometryObjects/src/classes.h", 
             "CondFormats/GeometryObjects/src/classes_def.xml", 
             "Geometry/EcalCommonData/BuildFile.xml", 
+            "Geometry/EcalCommonData/data/dd4hep/cms-ecal-geometry-dump.xml", 
+            "Geometry/EcalCommonData/data/dd4hep/cms-ecal-geometry.xml", 
             "Geometry/EcalCommonData/interface/EcalSimParametersFromDD.h", 
             "Geometry/EcalCommonData/plugins/BuildFile.xml", 
             "Geometry/EcalCommonData/plugins/EcalSimParametersESModule.cc", 
@@ -2231,7 +2233,7 @@
         "created_at": 1572551023, 
         "number": 28327, 
         "state": "open", 
-        "updated_at": 1572551608
+        "updated_at": 1572962516
     }, 
     "28329": {
         "base_branch": "master", 
