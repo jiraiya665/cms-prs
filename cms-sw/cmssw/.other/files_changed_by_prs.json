@@ -1335,6 +1335,7 @@
         "changed_files_names": [
             "Geometry/HcalAlgo/data/cms-test-ddhcalForwardShield-algorithm.xml", 
             "Geometry/HcalAlgo/data/cms-test-ddhcalHEPhase0-algorithm.xml", 
+            "Geometry/HcalAlgo/data/cms-test-ddhcalHEPhase1-algorithm.xml", 
             "Geometry/HcalAlgo/data/cms-test-ddhcalHF-algorithm.xml", 
             "Geometry/HcalAlgo/data/cms-test-ddhcalHO-algorithm.xml", 
             "Geometry/HcalAlgo/python/testGeomForwardShield_cfi.py", 
@@ -1351,7 +1352,7 @@
         "created_at": 1571584831, 
         "number": 28220, 
         "state": "open", 
-        "updated_at": 1572441696
+        "updated_at": 1572960704
     }, 
     "28223": {
         "base_branch": "master", 
