@@ -2572,6 +2572,32 @@
         "state": "open", 
         "updated_at": 1572959689
     }, 
+    "28349": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/HGCDigi/bin/BuildFile.xml", 
+            "DataFormats/HGCDigi/bin/HGCSampleTest.cpp", 
+            "DataFormats/HGCDigi/interface/HGCDataFrame.h", 
+            "DataFormats/HGCDigi/interface/HGCSample.h", 
+            "SLHCUpgradeSimulations/Configuration/python/aging.py", 
+            "SimCalorimetry/HGCalSimAlgos/interface/HGCalRadiationMap.h", 
+            "SimCalorimetry/HGCalSimAlgos/interface/HGCalSiNoiseMap.h", 
+            "SimCalorimetry/HGCalSimAlgos/src/HGCalRadiationMap.cc", 
+            "SimCalorimetry/HGCalSimAlgos/src/HGCalSiNoiseMap.cc", 
+            "SimCalorimetry/HGCalSimAlgos/test/HGCHEbackSignalScalerAnalyzer.cc", 
+            "SimCalorimetry/HGCalSimAlgos/test/HGCSiNoiseMapAnalyzer.cc", 
+            "SimCalorimetry/HGCalSimAlgos/test/hgcsiNoiseMapTester_cfg.py", 
+            "SimCalorimetry/HGCalSimProducers/interface/HGCFEElectronics.h", 
+            "SimCalorimetry/HGCalSimProducers/python/hgcalDigitizer_cfi.py", 
+            "SimCalorimetry/HGCalSimProducers/src/HGCDigitizerBase.cc", 
+            "SimCalorimetry/HGCalSimProducers/src/HGCFEElectronics.cc", 
+            "SimCalorimetry/HGCalSimProducers/src/HGCHEbackDigitizer.cc"
+        ], 
+        "created_at": 1572964772, 
+        "number": 28349, 
+        "state": "open", 
+        "updated_at": 1572965110
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
