@@ -1168,16 +1168,6 @@
         "state": "open", 
         "updated_at": 1572861779
     }, 
-    "28169": {
-        "base_branch": "CMSSW_10_6_X", 
-        "changed_files_names": [
-            "CommonTools/PileupAlgos/plugins/PuppiProducer.cc"
-        ], 
-        "created_at": 1571060567, 
-        "number": 28169, 
-        "state": "open", 
-        "updated_at": 1571060599
-    }, 
     "28177": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
