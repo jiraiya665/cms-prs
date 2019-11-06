@@ -2296,6 +2296,21 @@
         "state": "open", 
         "updated_at": 1573053709
     }, 
+    "28355": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/AlCa/python/autoCond.py", 
+            "Configuration/Eras/python/Era_Run2_2016_cff.py", 
+            "Configuration/Eras/python/Era_Run2_2016_pA_cff.py", 
+            "Configuration/Eras/python/Era_Run2_2017_cff.py", 
+            "Configuration/Eras/python/Modifier_strips_vfp30_2016_cff.py", 
+            "SimGeneral/MixingModule/python/SiStripSimParameters_cfi.py"
+        ], 
+        "created_at": 1573055565, 
+        "number": 28355, 
+        "state": "open", 
+        "updated_at": 1573055565
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
