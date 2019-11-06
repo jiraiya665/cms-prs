@@ -1999,7 +1999,7 @@
         "created_at": 1572592442, 
         "number": 28330, 
         "state": "open", 
-        "updated_at": 1573051866
+        "updated_at": 1573051900
     }, 
     "28331": {
         "base_branch": "master", 
@@ -2280,7 +2280,7 @@
         "created_at": 1572964772, 
         "number": 28349, 
         "state": "open", 
-        "updated_at": 1573044924
+        "updated_at": 1573051952
     }, 
     "28351": {
         "base_branch": "master", 
