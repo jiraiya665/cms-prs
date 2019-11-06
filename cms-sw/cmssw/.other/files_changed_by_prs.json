@@ -2454,17 +2454,6 @@
         "state": "open", 
         "updated_at": 1572907422
     }, 
-    "28346": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DetectorDescription/DDCMS/plugins/DDCompactViewESProducer.cc", 
-            "DetectorDescription/DDCMS/plugins/DDDetectorESProducer.cc"
-        ], 
-        "created_at": 1572932026, 
-        "number": 28346, 
-        "state": "open", 
-        "updated_at": 1572982353
-    }, 
     "28347": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
