@@ -1845,30 +1845,6 @@
         "state": "open", 
         "updated_at": 1572975621
     }, 
-    "28330": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/HcalDigi/interface/QIE11DataFrame.h", 
-            "DataFormats/HcalDigi/src/QIE11DataFrame.cc", 
-            "EventFilter/HcalRawToDigi/plugins/HcalDigiToRawuHTR.cc", 
-            "EventFilter/HcalRawToDigi/plugins/PackerHelp.h", 
-            "SimCalorimetry/HcalSimAlgos/interface/HcalElectronicsSim.h", 
-            "SimCalorimetry/HcalSimAlgos/interface/HcalSimParameters.h", 
-            "SimCalorimetry/HcalSimAlgos/interface/HcalTDC.h", 
-            "SimCalorimetry/HcalSimAlgos/src/HcalElectronicsSim.cc", 
-            "SimCalorimetry/HcalSimAlgos/src/HcalSimParameters.cc", 
-            "SimCalorimetry/HcalSimAlgos/src/HcalTDC.cc", 
-            "SimCalorimetry/HcalSimAlgos/test/HcalDigitizerTest.cc", 
-            "SimCalorimetry/HcalSimProducers/python/hcalSimParameters_cfi.py", 
-            "SimCalorimetry/HcalSimProducers/src/HcalDigitizer.cc", 
-            "SimCalorimetry/HcalTestBeam/interface/HcalTBDigiProducer.h", 
-            "SimCalorimetry/HcalTestBeam/src/HcalTBDigiProducer.cc"
-        ], 
-        "created_at": 1572592442, 
-        "number": 28330, 
-        "state": "open", 
-        "updated_at": 1573052595
-    }, 
     "28331": {
         "base_branch": "master", 
         "changed_files_names": [
