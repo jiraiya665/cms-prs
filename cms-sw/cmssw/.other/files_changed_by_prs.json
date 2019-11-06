@@ -1196,27 +1196,6 @@
         "state": "open", 
         "updated_at": 1572938675
     }, 
-    "28210": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/CSCDigi/interface/CSCALCTPreTriggerDigi.h", 
-            "DataFormats/CSCDigi/interface/CSCALCTPreTriggerDigiCollection.h", 
-            "DataFormats/CSCDigi/src/CSCALCTPreTriggerDigi.cc", 
-            "DataFormats/CSCDigi/src/classes.h", 
-            "DataFormats/CSCDigi/src/classes_def.xml", 
-            "L1Trigger/CSCTriggerPrimitives/interface/CSCAnodeLCTProcessor.h", 
-            "L1Trigger/CSCTriggerPrimitives/interface/CSCTriggerPrimitivesBuilder.h", 
-            "L1Trigger/CSCTriggerPrimitives/plugins/CSCTriggerPrimitivesProducer.cc", 
-            "L1Trigger/CSCTriggerPrimitives/plugins/CSCTriggerPrimitivesProducer.h", 
-            "L1Trigger/CSCTriggerPrimitives/python/cscTriggerPrimitiveDigis_cfi.py", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCAnodeLCTProcessor.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCTriggerPrimitivesBuilder.cc"
-        ], 
-        "created_at": 1571406699, 
-        "number": 28210, 
-        "state": "open", 
-        "updated_at": 1573047936
-    }, 
     "28214": {
         "base_branch": "master", 
         "changed_files_names": [
