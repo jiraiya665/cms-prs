@@ -2262,6 +2262,7 @@
             "DataFormats/HGCDigi/bin/BuildFile.xml", 
             "DataFormats/HGCDigi/bin/HGCSampleTest.cpp", 
             "DataFormats/HGCDigi/interface/HGCSample.h", 
+            "RecoLocalCalo/HGCalRecProducers/interface/HGCalCLUEAlgo.h", 
             "SLHCUpgradeSimulations/Configuration/python/aging.py", 
             "SimCalorimetry/HGCalSimAlgos/interface/HGCalRadiationMap.h", 
             "SimCalorimetry/HGCalSimAlgos/interface/HGCalSiNoiseMap.h", 
@@ -2279,7 +2280,7 @@
         "created_at": 1572964772, 
         "number": 28349, 
         "state": "open", 
-        "updated_at": 1573030900
+        "updated_at": 1573044508
     }, 
     "28351": {
         "base_branch": "master", 
