@@ -1208,19 +1208,6 @@
         "state": "open", 
         "updated_at": 1571846197
     }, 
-    "28199": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondTools/Ecal/test/EcalDAQ_O2O_test.sh", 
-            "CondTools/Ecal/test/EcalIntercalibConstants_O2O_test.sh", 
-            "CondTools/Ecal/test/EcalLaser_O2O_test.sh", 
-            "CondTools/SiStrip/test/testSiStripDCSO2O.sh"
-        ], 
-        "created_at": 1571309524, 
-        "number": 28199, 
-        "state": "open", 
-        "updated_at": 1571309577
-    }, 
     "28201": {
         "base_branch": "master", 
         "changed_files_names": [
