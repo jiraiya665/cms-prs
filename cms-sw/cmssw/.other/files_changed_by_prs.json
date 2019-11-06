@@ -1276,22 +1276,6 @@
         "state": "open", 
         "updated_at": 1573063689
     }, 
-    "28244": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/Integration/python/clients/mutracking_dqm_sourceclient-live_cfg.py", 
-            "DQM/MuonMonitor/BuidFile.xml", 
-            "DQM/MuonMonitor/plugins/BuildFile.xml", 
-            "DQM/MuonMonitor/plugins/CosmicMuonRecoAnalyzer.cc", 
-            "DQM/MuonMonitor/python/muonCosmicAnalyzer_cff.py", 
-            "DQM/MuonMonitor/python/muonRecoAnalyzer_cfi.py", 
-            "DQM/MuonMonitor/test/mutracking_dqm_sourceclient-live_cfg.py"
-        ], 
-        "created_at": 1571814343, 
-        "number": 28244, 
-        "state": "open", 
-        "updated_at": 1573033104
-    }, 
     "28247": {
         "base_branch": "master", 
         "changed_files_names": [
