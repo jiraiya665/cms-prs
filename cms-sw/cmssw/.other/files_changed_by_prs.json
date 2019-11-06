@@ -2254,7 +2254,7 @@
         "created_at": 1572959630, 
         "number": 28348, 
         "state": "open", 
-        "updated_at": 1573063164
+        "updated_at": 1573063304
     }, 
     "28349": {
         "base_branch": "master", 
