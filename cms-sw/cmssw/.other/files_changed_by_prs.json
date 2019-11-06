@@ -2052,6 +2052,7 @@
             "RecoEcal/EgammaCoreTools/plugins/EcalClusterLocalContCorrectionBaseClass.cc", 
             "RecoEcal/EgammaCoreTools/plugins/EcalClusterLocalContCorrectionBaseClass.h", 
             "RecoEcal/EgammaCoreTools/plugins/EcalNextToDeadChannelESProducer.cc", 
+            "RecoEcal/EgammaCoreTools/test/testEcalClusterFunctions.py", 
             "RecoEgamma/EgammaPhotonProducers/src/GEDPhotonProducer.cc", 
             "RecoEgamma/EgammaPhotonProducers/src/PhotonProducer.cc", 
             "RecoEgamma/EgammaPhotonProducers/src/ReducedEGProducer.cc"
@@ -2059,7 +2060,7 @@
         "created_at": 1572617920, 
         "number": 28332, 
         "state": "open", 
-        "updated_at": 1572618075
+        "updated_at": 1573030218
     }, 
     "28334": {
         "base_branch": "master", 
