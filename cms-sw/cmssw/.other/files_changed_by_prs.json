@@ -1447,38 +1447,6 @@
         "state": "open", 
         "updated_at": 1572992032
     }, 
-    "28304": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Alignment/APEEstimation/plugins/ApeEstimator.cc", 
-            "Alignment/OfflineValidation/plugins/OverlapValidation.cc", 
-            "CondFormats/SiStripObjects/interface/FedChannelConnection.h", 
-            "CondFormats/SiStripObjects/interface/SiStripNoises.h", 
-            "CondFormats/SiStripObjects/src/FedChannelConnection.cc", 
-            "DQM/SiStripMonitorTrack/src/SiStripMonitorTrack.cc", 
-            "DataFormats/SiStripCluster/interface/SiStripCluster.h", 
-            "DataFormats/SiStripCluster/src/SiStripCluster.cc", 
-            "EventFilter/SiStripRawToDigi/interface/SiStripFEDBuffer.h", 
-            "EventFilter/SiStripRawToDigi/interface/SiStripFEDBufferComponents.h", 
-            "EventFilter/SiStripRawToDigi/src/SiStripFEDBuffer.cc", 
-            "EventFilter/SiStripRawToDigi/src/SiStripFEDBufferComponents.cc", 
-            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelClusterProducer.cc", 
-            "RecoLocalTracker/SiStripClusterizer/interface/StripClusterizerAlgorithm.h", 
-            "RecoLocalTracker/SiStripClusterizer/interface/ThreeThresholdAlgorithm.h", 
-            "RecoLocalTracker/SiStripClusterizer/plugins/ClustersFromRawProducer.cc", 
-            "RecoLocalTracker/SiStripClusterizer/plugins/ClustersFromZSRawAlgorithm.h", 
-            "RecoLocalTracker/SiStripClusterizer/plugins/ClustersFromZSRawProducer.cc", 
-            "RecoLocalTracker/SiStripClusterizer/src/StripClusterizerAlgorithm.cc", 
-            "RecoLocalTracker/SiStripClusterizer/src/ThreeThresholdAlgorithm.cc", 
-            "RecoLocalTracker/SiStripClusterizer/test/ClusterRefinerTagMCmerged.cc", 
-            "RecoLocalTracker/SubCollectionProducers/src/HITrackClusterRemover.cc", 
-            "Validation/TrackerRecHits/test/StripClusterMCanalysis.cc"
-        ], 
-        "created_at": 1572358773, 
-        "number": 28304, 
-        "state": "open", 
-        "updated_at": 1573110291
-    }, 
     "28312": {
         "base_branch": "master", 
         "changed_files_names": [
