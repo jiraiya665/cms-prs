@@ -1642,6 +1642,8 @@
             "DQM/SiStripMonitorClient/data/sistrip_qualitytest_config_tier0_cosmic.xml", 
             "DQM/SiStripMonitorClient/interface/SiStripConfigParser.h", 
             "DQM/SiStripMonitorClient/interface/SiStripLayoutParser.h", 
+            "DQM/SiStripMonitorClient/plugins/SiStripOfflineDQM.cc", 
+            "DQM/SiStripMonitorClient/plugins/SiStripOfflineDQM.h", 
             "DQM/SiStripMonitorClient/python/SiStripClientConfig_Tier0_Cosmic_cff.py", 
             "DQM/SiStripMonitorClient/python/SiStripClientConfig_Tier0_HeavyIons_cff.py", 
             "DQM/SiStripMonitorClient/python/SiStripClientConfig_Tier0_cff.py", 
@@ -1681,7 +1683,11 @@
             "DQMOffline/Ecal/python/ecal_dqm_client_offline_cosmic_cff.py", 
             "DQMOffline/JetMET/python/dataCertificationJetMET_cfi.py", 
             "DQMOffline/L1Trigger/BuildFile.xml", 
+            "DQMOffline/Muon/interface/MuonRecoTest.h", 
+            "DQMOffline/Muon/interface/MuonTrackResidualsTest.h", 
             "DQMOffline/Muon/python/muonQualityTests_cff.py", 
+            "DQMOffline/Muon/src/MuonRecoTest.cc", 
+            "DQMOffline/Muon/src/MuonTrackResidualsTest.cc", 
             "DQMOffline/Muon/test/simMuAnalyzer_cfg.py", 
             "DQMOffline/Trigger/python/EgHLTOfflineSummaryClient_cfi.py", 
             "DQMOffline/Trigger/python/HLTGeneralOfflineClient_cff.py", 
@@ -1760,7 +1766,7 @@
         "created_at": 1572449639, 
         "number": 28316, 
         "state": "open", 
-        "updated_at": 1573114425
+        "updated_at": 1573133073
     }, 
     "28324": {
         "base_branch": "master", 
@@ -1811,7 +1817,7 @@
         "created_at": 1572551023, 
         "number": 28327, 
         "state": "open", 
-        "updated_at": 1573132869
+        "updated_at": 1573132890
     }, 
     "28331": {
         "base_branch": "master", 
