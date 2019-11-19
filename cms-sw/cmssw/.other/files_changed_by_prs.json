@@ -1351,24 +1351,6 @@
         "state": "open", 
         "updated_at": 1574166583
     }, 
-    "28366": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoLocalCalo/HcalRecAlgos/interface/EigenMatrixTypes.h", 
-            "RecoLocalCalo/HcalRecAlgos/interface/MahiFit.h", 
-            "RecoLocalCalo/HcalRecAlgos/interface/PulseShapeFunctor.h", 
-            "RecoLocalCalo/HcalRecAlgos/src/HcalDeterministicFit.cc", 
-            "RecoLocalCalo/HcalRecAlgos/src/MahiFit.cc", 
-            "RecoLocalCalo/HcalRecAlgos/src/PulseShapeFunctor.cc", 
-            "RecoLocalCalo/HcalRecAlgos/src/SimpleHBHEPhase1Algo.cc", 
-            "RecoLocalCalo/HcalRecAlgos/src/parseHBHEPhase1AlgoDescription.cc", 
-            "RecoLocalCalo/HcalRecProducers/src/HBHEPhase1Reconstructor.cc"
-        ], 
-        "created_at": 1573205022, 
-        "number": 28366, 
-        "state": "open", 
-        "updated_at": 1574166069
-    }, 
     "28375": {
         "base_branch": "master", 
         "changed_files_names": [
