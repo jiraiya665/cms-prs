@@ -2948,6 +2948,17 @@
         "state": "open", 
         "updated_at": 1574168958
     }, 
+    "28425": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondCore/CondDB/test/testConnectionPool.cpp", 
+            "CondCore/CondDB/test/testFrontier.cpp"
+        ], 
+        "created_at": 1574169306, 
+        "number": 28425, 
+        "state": "open", 
+        "updated_at": 1574169340
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
