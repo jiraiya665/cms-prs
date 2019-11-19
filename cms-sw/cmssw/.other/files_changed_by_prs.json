@@ -2299,17 +2299,6 @@
         "state": "open", 
         "updated_at": 1574166624
     }, 
-    "28388": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibCalorimetry/HcalPlugins/src/HcalTextCalibrations.cc", 
-            "CalibCalorimetry/HcalPlugins/src/HcalTextCalibrations.h"
-        ], 
-        "created_at": 1573593377, 
-        "number": 28388, 
-        "state": "open", 
-        "updated_at": 1574166796
-    }, 
     "28399": {
         "base_branch": "master", 
         "changed_files_names": [
