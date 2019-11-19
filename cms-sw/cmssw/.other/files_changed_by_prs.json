@@ -2273,32 +2273,6 @@
         "state": "open", 
         "updated_at": 1574166624
     }, 
-    "28399": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoCTPPS/PixelLocal/python/ctppsPixelLocalReconstruction_cff.py", 
-            "RecoCTPPS/TotemRPLocal/python/ctppsDiamondLocalReconstruction_cff.py", 
-            "RecoCTPPS/TotemRPLocal/python/totemRPLocalReconstruction_cff.py", 
-            "RecoCTPPS/TotemRPLocal/python/totemTimingLocalReconstruction_cff.py", 
-            "RecoEgamma/EgammaIsolationAlgos/python/eleIsoDeposits_cff.py", 
-            "RecoEgamma/EgammaIsolationAlgos/python/eleIsoFromDeposits_cff.py", 
-            "RecoEgamma/EgammaIsolationAlgos/python/eleIsolationSequence_cff.py", 
-            "RecoEgamma/EgammaIsolationAlgos/python/gamIsoDeposits_cff.py", 
-            "RecoEgamma/EgammaIsolationAlgos/python/gamIsoFromDeposits_cff.py", 
-            "RecoEgamma/EgammaIsolationAlgos/python/gamIsolationSequence_cff.py", 
-            "RecoEgamma/EgammaPhotonProducers/python/conversionTrackSequenceForReReco_cff.py", 
-            "RecoEgamma/EgammaPhotonProducers/python/conversionTracks_cff.py", 
-            "RecoTauTag/Configuration/python/PFTauVertexandImpactParameters_cff.py", 
-            "RecoTauTag/RecoTau/python/PATTauDiscriminationByMVAIsolationRun2_cff.py", 
-            "RecoTauTag/RecoTau/python/PFRecoTauDiscriminationByMVAIsolation2_cff.py", 
-            "RecoTauTag/RecoTau/python/PFRecoTauDiscriminationByMVAIsolationRun2_cff.py", 
-            "RecoTracker/IterativeTracking/python/LowPtForwardTripletStep_cff.py"
-        ], 
-        "created_at": 1573731382, 
-        "number": 28399, 
-        "state": "open", 
-        "updated_at": 1574166750
-    }, 
     "28402": {
         "base_branch": "master", 
         "changed_files_names": [
