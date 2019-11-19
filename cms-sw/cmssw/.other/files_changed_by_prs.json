@@ -2576,20 +2576,6 @@
         "state": "open", 
         "updated_at": 1574166592
     }, 
-    "28416": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimG4Core/CustomPhysics/python/Exotica_HSCP_SIM_cfi.py", 
-            "SimG4Core/CustomPhysics/python/Exotica_MT_SIM_cfi.py", 
-            "SimG4Core/PhysicsLists/plugins/FTFPCMS_BERT_EMY.cc", 
-            "SimG4Core/PhysicsLists/plugins/QGSPCMS_FTFP_BERT_EMY.cc", 
-            "SimG4Core/PhysicsLists/src/CMSEmStandardPhysicsLPM.cc"
-        ], 
-        "created_at": 1574089426, 
-        "number": 28416, 
-        "state": "open", 
-        "updated_at": 1574166823
-    }, 
     "28417": {
         "base_branch": "master", 
         "changed_files_names": [
