@@ -2641,36 +2641,6 @@
         "state": "open", 
         "updated_at": 1574166592
     }, 
-    "28412": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/Geometry/README.md", 
-            "Configuration/Geometry/python/GeometryExtended2026D50Reco_cff.py", 
-            "Configuration/Geometry/python/GeometryExtended2026D50_cff.py", 
-            "Configuration/Geometry/python/dict2026Geometry.py", 
-            "Configuration/StandardSequences/python/GeometryConf.py", 
-            "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D50XML_cfi.py", 
-            "Geometry/MTDCommonData/data/btl/v1/btl.xml", 
-            "Geometry/MTDCommonData/data/btl/v1/btlStructureTopology.xml", 
-            "Geometry/MTDCommonData/data/dd4hep/cms-mtd-geometry.xml", 
-            "Geometry/MTDCommonData/data/dd4hep/tracker.xml", 
-            "Geometry/MTDCommonData/data/etl/v3/etl.xml", 
-            "Geometry/MTDCommonData/data/mtdMaterial/v1/mtdMaterial.xml", 
-            "Geometry/MTDCommonData/data/mtdParameters/v1/mtdParameters.xml", 
-            "Geometry/MTDCommonData/test/BuildFile.xml", 
-            "Geometry/MTDCommonData/test/DD4hep_TestMTDNumbering.cc", 
-            "Geometry/MTDCommonData/test/DD4hep_TestMTDPosition.cc", 
-            "Geometry/MTDCommonData/test/TestMTDPosition.cc", 
-            "Geometry/MTDCommonData/test/testMTDinDD4hep.py", 
-            "Geometry/MTDCommonData/test/testMTDinDDD.py", 
-            "Geometry/MTDSimData/data/v1/mtdProdCuts.xml", 
-            "Geometry/MTDSimData/data/v1/mtdsens.xml"
-        ], 
-        "created_at": 1573924439, 
-        "number": 28412, 
-        "state": "open", 
-        "updated_at": 1574166091
-    }, 
     "28416": {
         "base_branch": "master", 
         "changed_files_names": [
