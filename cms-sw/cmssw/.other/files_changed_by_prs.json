@@ -1283,13 +1283,12 @@
     "28337": {
         "base_branch": "master", 
         "changed_files_names": [
-            "Validation/HGCalValidation/python/hgcalPlots.py", 
             "Validation/HGCalValidation/scripts/makeHGCalValidationPlots.py"
         ], 
         "created_at": 1572801594, 
         "number": 28337, 
         "state": "open", 
-        "updated_at": 1574166104
+        "updated_at": 1574192937
     }, 
     "28342": {
         "base_branch": "master", 
