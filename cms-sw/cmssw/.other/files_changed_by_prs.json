@@ -2786,7 +2786,6 @@
             "DQMOffline/Configuration/python/autoDQM.py", 
             "SimTracker/SiPhase2Digitizer/test/BuildFile.xml", 
             "SimTracker/SiPhase2Digitizer/test/Phase2TrackerMonitorDigi.cc", 
-            "SimTracker/SiPhase2Digitizer/test/Phase2TrackerValidateDigi.cc", 
             "Validation/Configuration/python/autoValidation.py", 
             "Validation/Configuration/python/globalValidation_cff.py", 
             "Validation/Configuration/python/postValidation_cff.py", 
@@ -2803,7 +2802,7 @@
         "created_at": 1574242127, 
         "number": 28432, 
         "state": "open", 
-        "updated_at": 1574242159
+        "updated_at": 1574250408
     }, 
     "28433": {
         "base_branch": "master", 
