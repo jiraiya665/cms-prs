@@ -2770,17 +2770,15 @@
     "28432": {
         "base_branch": "master", 
         "changed_files_names": [
-            "DQM/TrackerPhase2/plugins/BuildFile.xml", 
-            "DQM/TrackerPhase2/plugins/Phase2TrackerMonitorDigi.cc", 
-            "DQM/TrackerPhase2/plugins/Phase2TrackerMonitorDigi.h", 
-            "DQM/TrackerPhase2/python/Phase2TrackerDQMFirstStep_cff.py", 
-            "DQM/TrackerPhase2/python/Phase2TrackerDQMHarvesting_cff.py", 
-            "DQM/TrackerPhase2/python/Phase2TrackerMonitorDigi_cff.py", 
-            "DQM/TrackerPhase2/python/Phase2TrackerMonitorDigi_cfi.py", 
-            "DQM/TrackerPhase2/test/DigiTest_Harvest_cfg.py", 
-            "DQM/TrackerPhase2/test/DigiTest_TrackerPhase2Standalone_cfg.py", 
-            "DQM/TrackerPhase2/test/test_catch2_TrackerPhase2.cc", 
-            "DQM/TrackerPhase2/test/test_catch2_main.cc", 
+            "DQM/SiTrackerPhase2/plugins/BuildFile.xml", 
+            "DQM/SiTrackerPhase2/plugins/Phase2TrackerMonitorDigi.cc", 
+            "DQM/SiTrackerPhase2/plugins/Phase2TrackerMonitorDigi.h", 
+            "DQM/SiTrackerPhase2/python/Phase2TrackerDQMFirstStep_cff.py", 
+            "DQM/SiTrackerPhase2/python/Phase2TrackerDQMHarvesting_cff.py", 
+            "DQM/SiTrackerPhase2/python/Phase2TrackerMonitorDigi_cff.py", 
+            "DQM/SiTrackerPhase2/python/Phase2TrackerMonitorDigi_cfi.py", 
+            "DQM/SiTrackerPhase2/test/DigiTest_Harvest_cfg.py", 
+            "DQM/SiTrackerPhase2/test/DigiTest_TrackerPhase2Standalone_cfg.py", 
             "DQMOffline/Configuration/python/DQMOffline_SecondStep_cff.py", 
             "DQMOffline/Configuration/python/DQMOffline_cff.py", 
             "DQMOffline/Configuration/python/autoDQM.py", 
@@ -2802,7 +2800,7 @@
         "created_at": 1574242127, 
         "number": 28432, 
         "state": "open", 
-        "updated_at": 1574250408
+        "updated_at": 1574256913
     }, 
     "28433": {
         "base_branch": "master", 
