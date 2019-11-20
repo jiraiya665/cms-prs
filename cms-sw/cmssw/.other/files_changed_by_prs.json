@@ -2138,16 +2138,6 @@
         "state": "open", 
         "updated_at": 1574166624
     }, 
-    "28402": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQMOffline/Configuration/scripts/cmsswConfigtrace.py"
-        ], 
-        "created_at": 1573811975, 
-        "number": 28402, 
-        "state": "open", 
-        "updated_at": 1574166801
-    }, 
     "28407": {
         "base_branch": "master", 
         "changed_files_names": [
