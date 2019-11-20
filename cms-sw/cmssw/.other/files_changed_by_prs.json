@@ -2441,19 +2441,6 @@
         "state": "open", 
         "updated_at": 1574166806
     }, 
-    "28408": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoEgamma/EgammaElectronAlgos/interface/TrajSeedMatcher.h", 
-            "RecoEgamma/EgammaElectronAlgos/src/TrajSeedMatcher.cc", 
-            "RecoEgamma/EgammaElectronProducers/plugins/ElectronNHitSeedProducer.cc", 
-            "RecoEgamma/EgammaHLTProducers/plugins/EgammaHLTFilteredObjProducer.h"
-        ], 
-        "created_at": 1573833112, 
-        "number": 28408, 
-        "state": "open", 
-        "updated_at": 1574166578
-    }, 
     "28409": {
         "base_branch": "CMSSW_10_2_X", 
         "changed_files_names": [
