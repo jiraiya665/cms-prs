@@ -2730,12 +2730,13 @@
             "Configuration/Eras/python/Era_Run2_2017_cff.py", 
             "Configuration/Eras/python/Modifier_run2_ECAL_2016_cff.py", 
             "RecoEgamma/EgammaTools/python/regressionModifier_cfi.py", 
-            "RecoParticleFlow/PFClusterProducer/python/particleFlowClusterECAL_cff.py"
+            "RecoParticleFlow/PFClusterProducer/python/particleFlowClusterECAL_cff.py", 
+            "RecoParticleFlow/PFClusterProducer/python/particleFlowClusterOOTECAL_cff.py"
         ], 
         "created_at": 1574156133, 
         "number": 28422, 
         "state": "open", 
-        "updated_at": 1574166771
+        "updated_at": 1574207816
     }, 
     "28424": {
         "base_branch": "master", 
