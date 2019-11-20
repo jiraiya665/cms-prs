@@ -2691,38 +2691,6 @@
         "state": "open", 
         "updated_at": 1574166777
     }, 
-    "28421": {
-        "base_branch": "CMSSW_10_6_X", 
-        "changed_files_names": [
-            "DQM/RPCMonitorClient/interface/RPCEfficiencyPerRingLayer.h", 
-            "DQM/RPCMonitorClient/interface/RPCEfficiencySecond.h", 
-            "DQM/RPCMonitorClient/interface/RPCEfficiencyShiftHisto.h", 
-            "DQM/RPCMonitorClient/python/RPCEfficiencyPerRingLayer_cfi.py", 
-            "DQM/RPCMonitorClient/python/RPCEfficiencySecondStep_cfi.py", 
-            "DQM/RPCMonitorClient/python/RPCEfficiencyShiftHisto_cfi.py", 
-            "DQM/RPCMonitorClient/python/RPCTier0Client_cff.py", 
-            "DQM/RPCMonitorClient/python/RPCTier0Source_cff.py", 
-            "DQM/RPCMonitorClient/src/RPCChamberQuality.cc", 
-            "DQM/RPCMonitorClient/src/RPCClusterSizeTest.cc", 
-            "DQM/RPCMonitorClient/src/RPCDqmClient.cc", 
-            "DQM/RPCMonitorClient/src/RPCEfficiencyPerRingLayer.cc", 
-            "DQM/RPCMonitorClient/src/RPCEfficiencySecond.cc", 
-            "DQM/RPCMonitorClient/src/RPCEfficiencyShiftHisto.cc", 
-            "DQM/RPCMonitorClient/src/RPCOccupancyTest.cc", 
-            "DQM/RPCMonitorClient/src/SealModule.cc", 
-            "DQM/RPCMonitorClient/test/rpcefficiencySecondHLT_cfg.py", 
-            "DQM/RPCMonitorClient/test/rpcefficiencySecond_cfg.py", 
-            "DQM/RPCMonitorDigi/interface/RPCEfficiency.h", 
-            "DQM/RPCMonitorDigi/python/RPCEfficiency_cfi.py", 
-            "DQM/RPCMonitorDigi/src/RPCEfficiency.cc", 
-            "DQM/RPCMonitorDigi/src/RPCEfficiencyBook.cc", 
-            "DQM/RPCMonitorDigi/src/SealModule.cc"
-        ], 
-        "created_at": 1574140331, 
-        "number": 28421, 
-        "state": "open", 
-        "updated_at": 1574166566
-    }, 
     "28422": {
         "base_branch": "master", 
         "changed_files_names": [
