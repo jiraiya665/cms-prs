@@ -2590,16 +2590,6 @@
         "state": "open", 
         "updated_at": 1574344712
     }, 
-    "28440": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/ParameterSet/python/Config.py"
-        ], 
-        "created_at": 1574284268, 
-        "number": 28440, 
-        "state": "open", 
-        "updated_at": 1574284268
-    }, 
     "28441": {
         "base_branch": "master", 
         "changed_files_names": [
