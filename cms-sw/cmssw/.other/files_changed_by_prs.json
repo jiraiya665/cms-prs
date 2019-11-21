@@ -2739,6 +2739,17 @@
         "state": "open", 
         "updated_at": 1574308948
     }, 
+    "28443": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "GeneratorInterface/GenFilters/plugins/LHEPtFilter.cc", 
+            "GeneratorInterface/GenFilters/plugins/LHEPtFilter.h"
+        ], 
+        "created_at": 1574322365, 
+        "number": 28443, 
+        "state": "open", 
+        "updated_at": 1574322397
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
