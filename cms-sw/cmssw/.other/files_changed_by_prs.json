@@ -2613,6 +2613,8 @@
     "28437": {
         "base_branch": "master", 
         "changed_files_names": [
+            "SimG4CMS/Calo/interface/CaloSD.h", 
+            "SimG4CMS/Calo/src/CaloSD.cc", 
             "SimG4Core/Application/interface/LowEnergyFastSimModel.h", 
             "SimG4Core/Application/interface/LowEnergyFastSimParam.h", 
             "SimG4Core/Application/python/g4SimHits_cfi.py", 
@@ -2622,7 +2624,7 @@
         "created_at": 1574266091, 
         "number": 28437, 
         "state": "open", 
-        "updated_at": 1574266140
+        "updated_at": 1574329112
     }, 
     "28438": {
         "base_branch": "CMSSW_10_2_X", 
