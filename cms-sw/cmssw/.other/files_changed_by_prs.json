@@ -1243,12 +1243,13 @@
             "Configuration/PyReleaseValidation/python/relval_steps.py", 
             "DQMOffline/Configuration/python/DQMOfflineFS_cff.py", 
             "DQMOffline/Configuration/python/DQMOffline_Certification_cff.py", 
+            "DQMOffline/Configuration/python/DQMOffline_cff.py", 
             "DQMOffline/Configuration/python/autoDQM.py"
         ], 
         "created_at": 1572972959, 
         "number": 28351, 
         "state": "open", 
-        "updated_at": 1574166632
+        "updated_at": 1574356417
     }, 
     "28355": {
         "base_branch": "master", 
