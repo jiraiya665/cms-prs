@@ -1251,26 +1251,6 @@
         "state": "open", 
         "updated_at": 1574356417
     }, 
-    "28355": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/AlCa/python/autoCond.py", 
-            "Configuration/Eras/python/Era_Run2_2016_cff.py", 
-            "Configuration/Eras/python/Era_Run2_2017_cff.py", 
-            "Configuration/Eras/python/Modifier_strips_vfp30_2016_cff.py", 
-            "Configuration/PyReleaseValidation/python/relval_steps.py", 
-            "PhysicsTools/PatAlgos/python/slimming/MicroEventContent_cff.py", 
-            "SimGeneral/MixingModule/python/SiStripSimParameters_cfi.py", 
-            "SimGeneral/MixingModule/python/aliases_PreMix_cfi.py", 
-            "SimGeneral/MixingModule/python/aliases_cfi.py", 
-            "SimGeneral/MixingModule/python/stripDigitizer_cfi.py", 
-            "SimTracker/Configuration/python/SimTracker_EventContent_cff.py"
-        ], 
-        "created_at": 1573055565, 
-        "number": 28355, 
-        "state": "open", 
-        "updated_at": 1574166583
-    }, 
     "28379": {
         "base_branch": "master", 
         "changed_files_names": [
