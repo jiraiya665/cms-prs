@@ -2652,6 +2652,20 @@
         "state": "open", 
         "updated_at": 1574367785
     }, 
+    "28447": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/Framework/src/PathsAndConsumesOfModules.cc", 
+            "FWCore/Framework/test/BuildFile.xml", 
+            "FWCore/Framework/test/test_emptyEndPathWithTask_cfg.py", 
+            "FWCore/Framework/test/test_emptyPath.sh", 
+            "FWCore/Framework/test/test_emptyPathWithTask_cfg.py"
+        ], 
+        "created_at": 1574369308, 
+        "number": 28447, 
+        "state": "open", 
+        "updated_at": 1574369356
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
