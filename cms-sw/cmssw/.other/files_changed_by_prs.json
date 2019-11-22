@@ -2629,17 +2629,6 @@
         "state": "open", 
         "updated_at": 1574331372
     }, 
-    "28445": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "HLTrigger/HLTfilters/plugins/HLTHighLevel.cc", 
-            "HLTrigger/HLTfilters/plugins/HLTHighLevel.h"
-        ], 
-        "created_at": 1574359333, 
-        "number": 28445, 
-        "state": "open", 
-        "updated_at": 1574359333
-    }, 
     "28446": {
         "base_branch": "master", 
         "changed_files_names": [
