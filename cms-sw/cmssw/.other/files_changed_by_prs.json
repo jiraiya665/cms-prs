@@ -2690,17 +2690,6 @@
         "state": "open", 
         "updated_at": 1574370395
     }, 
-    "28450": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/MessageService/interface/MessageLogger.h", 
-            "FWCore/MessageService/src/MessageLogger.cc"
-        ], 
-        "created_at": 1574370507, 
-        "number": 28450, 
-        "state": "open", 
-        "updated_at": 1574370532
-    }, 
     "28452": {
         "base_branch": "master", 
         "changed_files_names": [
