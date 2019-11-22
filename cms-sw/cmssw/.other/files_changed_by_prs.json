@@ -2366,14 +2366,13 @@
             "Geometry/HcalCommonData/python/hcalDDConstants_cff.py", 
             "Geometry/HcalCommonData/python/hcalDDDSimConstants_cff.py", 
             "Geometry/HcalCommonData/python/hcalParameters_cff.py", 
-            "Geometry/HcalCommonData/src/HcalGeomParameters.cc", 
             "Geometry/HcalCommonData/src/HcalParametersFromDD.cc", 
             "Geometry/HcalCommonData/test/python/runHcalParametersFromDDAnalyzer_cfg.py"
         ], 
         "created_at": 1574096143, 
         "number": 28418, 
         "state": "open", 
-        "updated_at": 1574166086
+        "updated_at": 1574420260
     }, 
     "28422": {
         "base_branch": "master", 
