@@ -2312,27 +2312,6 @@
         "state": "open", 
         "updated_at": 1574171815
     }, 
-    "28428": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoEgamma/EgammaPhotonAlgos/interface/PhotonEnergyCorrector.h", 
-            "RecoEgamma/EgammaPhotonAlgos/src/PhotonEnergyCorrector.cc", 
-            "RecoEgamma/EgammaPhotonProducers/interface/GEDPhotonProducer.h", 
-            "RecoEgamma/EgammaPhotonProducers/interface/PhotonProducer.h", 
-            "RecoEgamma/EgammaPhotonProducers/interface/ReducedEGProducer.h", 
-            "RecoEgamma/EgammaPhotonProducers/src/GEDPhotonProducer.cc", 
-            "RecoEgamma/EgammaPhotonProducers/src/PhotonProducer.cc", 
-            "RecoEgamma/EgammaPhotonProducers/src/ReducedEGProducer.cc", 
-            "RecoHI/HiEgammaAlgos/interface/HiEgammaSCEnergyCorrectionAlgo.h", 
-            "RecoHI/HiEgammaAlgos/plugins/HiEgammaSCCorrectionMaker.cc", 
-            "RecoHI/HiEgammaAlgos/plugins/HiEgammaSCCorrectionMaker.h", 
-            "RecoHI/HiEgammaAlgos/src/HiEgammaSCEnergyCorrectionAlgo.cc"
-        ], 
-        "created_at": 1574206736, 
-        "number": 28428, 
-        "state": "open", 
-        "updated_at": 1574206794
-    }, 
     "28429": {
         "base_branch": "master", 
         "changed_files_names": [
