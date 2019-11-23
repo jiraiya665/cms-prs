@@ -2918,21 +2918,6 @@
         "state": "open", 
         "updated_at": 1574430853
     }, 
-    "28458": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/Framework/interface/InputSource.h", 
-            "FWCore/Modules/src/EmptySource.cc", 
-            "FWCore/Sources/interface/IDGeneratorSourceBase.h", 
-            "FWCore/Sources/interface/ProducerSourceBase.h", 
-            "FWCore/Sources/src/IDGeneratorSourceBase.cc", 
-            "FWCore/Sources/src/ProducerSourceBase.cc"
-        ], 
-        "created_at": 1574447661, 
-        "number": 28458, 
-        "state": "open", 
-        "updated_at": 1574447708
-    }, 
     "28459": {
         "base_branch": "master", 
         "changed_files_names": [
