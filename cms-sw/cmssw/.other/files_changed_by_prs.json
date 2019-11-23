@@ -1161,21 +1161,6 @@
         "state": "open", 
         "updated_at": 1572966753
     }, 
-    "28351": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/Applications/python/ConfigBuilder.py", 
-            "Configuration/PyReleaseValidation/python/relval_steps.py", 
-            "DQMOffline/Configuration/python/DQMOfflineFS_cff.py", 
-            "DQMOffline/Configuration/python/DQMOffline_Certification_cff.py", 
-            "DQMOffline/Configuration/python/DQMOffline_cff.py", 
-            "DQMOffline/Configuration/python/autoDQM.py"
-        ], 
-        "created_at": 1572972959, 
-        "number": 28351, 
-        "state": "open", 
-        "updated_at": 1574356417
-    }, 
     "28379": {
         "base_branch": "master", 
         "changed_files_names": [
