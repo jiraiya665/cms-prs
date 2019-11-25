@@ -1032,16 +1032,6 @@
         "state": "open", 
         "updated_at": 1573477786
     }, 
-    "28301": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "GeneratorInterface/Pythia8Interface/plugins/Pythia8Hadronizer.cc"
-        ], 
-        "created_at": 1572340058, 
-        "number": 28301, 
-        "state": "open", 
-        "updated_at": 1574166614
-    }, 
     "28313": {
         "base_branch": "master", 
         "changed_files_names": [
