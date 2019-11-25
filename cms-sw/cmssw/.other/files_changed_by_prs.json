@@ -2110,23 +2110,6 @@
         "state": "open", 
         "updated_at": 1574166720
     }, 
-    "28418": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HcalCommonData/interface/HcalParametersFromDD.h", 
-            "Geometry/HcalCommonData/plugins/HcalParametersESModule.cc", 
-            "Geometry/HcalCommonData/plugins/HcalSimParametersESModule.cc", 
-            "Geometry/HcalCommonData/python/hcalDDConstants_cff.py", 
-            "Geometry/HcalCommonData/python/hcalDDDSimConstants_cff.py", 
-            "Geometry/HcalCommonData/python/hcalParameters_cff.py", 
-            "Geometry/HcalCommonData/src/HcalParametersFromDD.cc", 
-            "Geometry/HcalCommonData/test/python/runHcalParametersFromDDAnalyzer_cfg.py"
-        ], 
-        "created_at": 1574096143, 
-        "number": 28418, 
-        "state": "open", 
-        "updated_at": 1574420260
-    }, 
     "28427": {
         "base_branch": "master", 
         "changed_files_names": [
