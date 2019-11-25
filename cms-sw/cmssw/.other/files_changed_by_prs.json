@@ -2461,6 +2461,21 @@
         "state": "open", 
         "updated_at": 1574716797
     }, 
+    "28471": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoLocalTracker/SiStripRecHitConverter/interface/SiStripRecHitConverterAlgorithm.h", 
+            "RecoLocalTracker/SiStripRecHitConverter/plugins/SiStripRecHitConverter.cc", 
+            "RecoLocalTracker/SiStripRecHitConverter/plugins/SiStripRecHitConverter.h", 
+            "RecoLocalTracker/SiStripRecHitConverter/python/SiStripRecHitConverter_cfi.py", 
+            "RecoLocalTracker/SiStripRecHitConverter/src/ES_SiStripRecHitMatcher.cc", 
+            "RecoLocalTracker/SiStripRecHitConverter/src/SiStripRecHitConverterAlgorithm.cc"
+        ], 
+        "created_at": 1574720108, 
+        "number": 28471, 
+        "state": "open", 
+        "updated_at": 1574720136
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
