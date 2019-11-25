@@ -2513,6 +2513,26 @@
         "state": "open", 
         "updated_at": 1574699411
     }, 
+    "28468": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/CaloRecHit/interface/CaloCluster.h", 
+            "RecoLocalCalo/Configuration/python/RecoLocalCalo_EventContent_cff.py", 
+            "RecoLocalCalo/Configuration/python/hgcalLocalReco_cff.py", 
+            "RecoLocalCalo/HGCalRecProducers/interface/HFNoseTilesConstants.h", 
+            "RecoLocalCalo/HGCalRecProducers/interface/HGCalCLUEAlgo.h", 
+            "RecoLocalCalo/HGCalRecProducers/interface/HGCalLayerTiles.h", 
+            "RecoLocalCalo/HGCalRecProducers/interface/HGCalTilesConstants.h", 
+            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalCLUEAlgo.cc", 
+            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalLayerClusterPluginFactory.cc", 
+            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalLayerClusterProducer.cc", 
+            "RecoLocalCalo/HGCalRecProducers/python/hgcalLayerClusters_cff.py"
+        ], 
+        "created_at": 1574700970, 
+        "number": 28468, 
+        "state": "open", 
+        "updated_at": 1574701020
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
