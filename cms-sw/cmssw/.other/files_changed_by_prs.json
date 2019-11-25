@@ -2181,41 +2181,6 @@
         "state": "open", 
         "updated_at": 1574231108
     }, 
-    "28432": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/SiTrackerPhase2/plugins/BuildFile.xml", 
-            "DQM/SiTrackerPhase2/plugins/Phase2TrackerMonitorDigi.cc", 
-            "DQM/SiTrackerPhase2/plugins/Phase2TrackerMonitorDigi.h", 
-            "DQM/SiTrackerPhase2/python/Phase2TrackerDQMFirstStep_cff.py", 
-            "DQM/SiTrackerPhase2/python/Phase2TrackerDQMHarvesting_cff.py", 
-            "DQM/SiTrackerPhase2/python/Phase2TrackerMonitorDigi_cff.py", 
-            "DQM/SiTrackerPhase2/python/Phase2TrackerMonitorDigi_cfi.py", 
-            "DQM/SiTrackerPhase2/test/DigiTest_Harvest_cfg.py", 
-            "DQM/SiTrackerPhase2/test/DigiTest_TrackerPhase2Standalone_cfg.py", 
-            "DQMOffline/Configuration/python/DQMOffline_SecondStep_cff.py", 
-            "DQMOffline/Configuration/python/DQMOffline_cff.py", 
-            "DQMOffline/Configuration/python/autoDQM.py", 
-            "SimTracker/SiPhase2Digitizer/test/BuildFile.xml", 
-            "SimTracker/SiPhase2Digitizer/test/Phase2TrackerMonitorDigi.cc", 
-            "Validation/Configuration/python/autoValidation.py", 
-            "Validation/Configuration/python/globalValidation_cff.py", 
-            "Validation/Configuration/python/postValidation_cff.py", 
-            "Validation/SiTrackerPhase2V/plugins/BuildFile.xml", 
-            "Validation/SiTrackerPhase2V/plugins/Phase2TrackerValidateDigi.cc", 
-            "Validation/SiTrackerPhase2V/plugins/Phase2TrackerValidateDigi.h", 
-            "Validation/SiTrackerPhase2V/python/Phase2TrackerMCHarvesting_cff.py", 
-            "Validation/SiTrackerPhase2V/python/Phase2TrackerValidateDigi_cff.py", 
-            "Validation/SiTrackerPhase2V/python/Phase2TrackerValidateDigi_cfi.py", 
-            "Validation/SiTrackerPhase2V/python/Phase2TrackerValidationFirstStep_cff.py", 
-            "Validation/SiTrackerPhase2V/test/DigiTest_Harvest_cfg.py", 
-            "Validation/SiTrackerPhase2V/test/ValidateDigi_TrackerPhase2Standalone_cfg.py"
-        ], 
-        "created_at": 1574242127, 
-        "number": 28432, 
-        "state": "open", 
-        "updated_at": 1574256913
-    }, 
     "28433": {
         "base_branch": "master", 
         "changed_files_names": [
