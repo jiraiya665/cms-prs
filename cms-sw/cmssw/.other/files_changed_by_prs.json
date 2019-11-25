@@ -2773,18 +2773,6 @@
         "state": "open", 
         "updated_at": 1574370004
     }, 
-    "28449": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibTracker/SiStripCommon/interface/SiStripDCSStatus.h", 
-            "CalibTracker/SiStripCommon/plugins/SiStripDCSFilter.cc", 
-            "CalibTracker/SiStripCommon/src/SiStripDCSStatus.cc"
-        ], 
-        "created_at": 1574370360, 
-        "number": 28449, 
-        "state": "open", 
-        "updated_at": 1574370395
-    }, 
     "28452": {
         "base_branch": "master", 
         "changed_files_names": [
