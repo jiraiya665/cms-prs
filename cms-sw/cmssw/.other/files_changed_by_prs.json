@@ -2270,18 +2270,6 @@
         "state": "open", 
         "updated_at": 1574270137
     }, 
-    "28439": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/PythonUtilities/python/XML2Python.py", 
-            "FWCore/PythonUtilities/scripts/edmDumpEventContent", 
-            "FWCore/PythonUtilities/scripts/generateEDF.py"
-        ], 
-        "created_at": 1574283813, 
-        "number": 28439, 
-        "state": "open", 
-        "updated_at": 1574344712
-    }, 
     "28441": {
         "base_branch": "master", 
         "changed_files_names": [
