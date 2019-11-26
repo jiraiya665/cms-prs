@@ -2259,6 +2259,7 @@
         "changed_files_names": [
             "CondFormats/SiPixelTransient/interface/SiPixelGenError.h", 
             "CondFormats/SiPixelTransient/interface/SiPixelTemplate.h", 
+            "CondFormats/SiPixelTransient/interface/SiPixelTemplateDefs.h", 
             "Configuration/AlCa/python/autoCondPhase2.py", 
             "DQM/TrackingMonitor/python/trackingRecoMaterialAnalyzer_cfi.py", 
             "RecoEgamma/EgammaElectronProducers/python/lowPtGsfElectronSeeds_cfi.py", 
@@ -2278,7 +2279,7 @@
         "created_at": 1574369978, 
         "number": 28448, 
         "state": "open", 
-        "updated_at": 1574370004
+        "updated_at": 1574785102
     }, 
     "28452": {
         "base_branch": "master", 
