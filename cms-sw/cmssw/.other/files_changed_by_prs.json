@@ -2205,17 +2205,6 @@
         "state": "open", 
         "updated_at": 1574270137
     }, 
-    "28441": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/AlCa/python/autoCond.py", 
-            "SimGeneral/MixingModule/python/SiPixelSimParameters_cfi.py"
-        ], 
-        "created_at": 1574289178, 
-        "number": 28441, 
-        "state": "open", 
-        "updated_at": 1574289214
-    }, 
     "28442": {
         "base_branch": "master", 
         "changed_files_names": [
