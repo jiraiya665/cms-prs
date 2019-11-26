@@ -2512,6 +2512,16 @@
         "state": "open", 
         "updated_at": 1574761355
     }, 
+    "28475": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "DQM/Integration/python/clients/visualization-live-secondInstance_cfg.py"
+        ], 
+        "created_at": 1574762381, 
+        "number": 28475, 
+        "state": "open", 
+        "updated_at": 1574762407
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
