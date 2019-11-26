@@ -254,19 +254,6 @@
         "state": "open", 
         "updated_at": 1565098323
     }, 
-    "27530": {
-        "base_branch": "CMSSW_10_6_X", 
-        "changed_files_names": [
-            "DQM/Integration/python/clients/visualization-live-secondInstance_cfg.py", 
-            "DQM/Integration/python/clients/visualization-live_cfg.py", 
-            "DQM/Integration/python/config/FrontierCondition_GT_autoExpress_cfi.py", 
-            "DQM/Integration/python/config/FrontierCondition_GT_cfi.py"
-        ], 
-        "created_at": 1563266534, 
-        "number": 27530, 
-        "state": "open", 
-        "updated_at": 1571143783
-    }, 
     "27677": {
         "base_branch": "master", 
         "changed_files_names": [
