@@ -2437,17 +2437,6 @@
         "state": "open", 
         "updated_at": 1574725486
     }, 
-    "28473": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoTracker/TkSeedGenerator/plugins/SeedGeneratorFromProtoTracksEDProducer.cc", 
-            "RecoTracker/TkSeedGenerator/plugins/SeedGeneratorFromProtoTracksEDProducer.h"
-        ], 
-        "created_at": 1574730324, 
-        "number": 28473, 
-        "state": "open", 
-        "updated_at": 1574730377
-    }, 
     "28474": {
         "base_branch": "master", 
         "changed_files_names": [
