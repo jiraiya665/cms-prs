@@ -2140,6 +2140,18 @@
         "state": "open", 
         "updated_at": 1574870120
     }, 
+    "28495": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "L1Trigger/L1THGCal/interface/veryfrontend/HGCalVFELinearizationImpl.h", 
+            "L1Trigger/L1THGCal/python/hgcalVFEProducer_cfi.py", 
+            "L1Trigger/L1THGCal/src/veryfrontend/HGCalVFELinearizationImpl.cc"
+        ], 
+        "created_at": 1574870713, 
+        "number": 28495, 
+        "state": "open", 
+        "updated_at": 1574870747
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
