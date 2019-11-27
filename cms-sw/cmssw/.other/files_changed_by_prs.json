@@ -1715,21 +1715,6 @@
         "state": "open", 
         "updated_at": 1574585916
     }, 
-    "28463": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoLocalCalo/HGCalRecAlgos/interface/HGCalUncalibRecHitRecWeightsAlgo.h", 
-            "RecoLocalCalo/HGCalRecProducers/python/HGCalUncalibRecHit_cfi.py", 
-            "SimCalorimetry/HGCalSimProducers/python/hgcROCParameters_cfi.py", 
-            "SimCalorimetry/HGCalSimProducers/python/hgcalDigitizer_cfi.py", 
-            "SimCalorimetry/HGCalSimProducers/src/HGCFEElectronics.cc", 
-            "SimCalorimetry/HGCalSimProducers/src/HGCHEbackDigitizer.cc"
-        ], 
-        "created_at": 1574678431, 
-        "number": 28463, 
-        "state": "open", 
-        "updated_at": 1574678496
-    }, 
     "28464": {
         "base_branch": "CMSSW_10_2_X", 
         "changed_files_names": [
