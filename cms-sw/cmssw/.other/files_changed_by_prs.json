@@ -2000,17 +2000,6 @@
         "state": "open", 
         "updated_at": 1574811279
     }, 
-    "28486": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/SiTrackerPhase2/python/Phase2TrackerMonitorDigi_cfi.py", 
-            "Validation/SiTrackerPhase2V/python/Phase2TrackerValidateDigi_cfi.py"
-        ], 
-        "created_at": 1574827125, 
-        "number": 28486, 
-        "state": "open", 
-        "updated_at": 1574827179
-    }, 
     "28487": {
         "base_branch": "master", 
         "changed_files_names": [
