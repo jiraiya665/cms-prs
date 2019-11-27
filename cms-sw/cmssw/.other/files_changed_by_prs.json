@@ -2011,17 +2011,6 @@
         "state": "open", 
         "updated_at": 1574832165
     }, 
-    "28488": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/Integration/python/clients/mutracking_dqm_sourceclient-live_cfg.py", 
-            "DQM/MuonMonitor/test/mutracking_dqm_sourceclient-live_cfg.py"
-        ], 
-        "created_at": 1574840985, 
-        "number": 28488, 
-        "state": "open", 
-        "updated_at": 1574841069
-    }, 
     "28489": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
