@@ -2600,17 +2600,6 @@
         "state": "open", 
         "updated_at": 1574780276
     }, 
-    "28481": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "HLTrigger/JetMET/plugins/HLTScoutingPFProducer.cc", 
-            "HLTrigger/Muon/plugins/HLTScoutingMuonProducer.cc"
-        ], 
-        "created_at": 1574780970, 
-        "number": 28481, 
-        "state": "open", 
-        "updated_at": 1574781026
-    }, 
     "28484": {
         "base_branch": "master", 
         "changed_files_names": [
