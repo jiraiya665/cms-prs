@@ -2007,22 +2007,6 @@
         "state": "open", 
         "updated_at": 1574848402
     }, 
-    "28490": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/Geometry/README.md", 
-            "Configuration/Geometry/python/GeometryExtended2026D51Reco_cff.py", 
-            "Configuration/Geometry/python/GeometryExtended2026D51_cff.py", 
-            "Configuration/Geometry/python/dict2026Geometry.py", 
-            "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D51XML_cfi.py", 
-            "Geometry/MTDCommonData/data/etl/v4/etl.xml", 
-            "Geometry/MTDCommonData/data/mtdMaterial/v2/mtdMaterial.xml"
-        ], 
-        "created_at": 1574856599, 
-        "number": 28490, 
-        "state": "open", 
-        "updated_at": 1574856626
-    }, 
     "28491": {
         "base_branch": "master", 
         "changed_files_names": [
