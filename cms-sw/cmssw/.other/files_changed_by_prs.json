@@ -2169,6 +2169,16 @@
         "state": "open", 
         "updated_at": 1574958134
     }, 
+    "28502": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondCore/EcalPlugins/src/plugin.cc"
+        ], 
+        "created_at": 1574958272, 
+        "number": 28502, 
+        "state": "open", 
+        "updated_at": 1574958299
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
