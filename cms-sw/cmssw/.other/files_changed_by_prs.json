@@ -46,7 +46,7 @@
         "created_at": 1526474805, 
         "number": 23219, 
         "state": "open", 
-        "updated_at": 1574166641
+        "updated_at": 1574995991
     }, 
     "24389": {
         "base_branch": "master", 
@@ -898,7 +898,7 @@
         "created_at": 1569947248, 
         "number": 28101, 
         "state": "open", 
-        "updated_at": 1574166680
+        "updated_at": 1574996101
     }, 
     "28112": {
         "base_branch": "master", 
@@ -940,7 +940,7 @@
         "created_at": 1570114506, 
         "number": 28112, 
         "state": "open", 
-        "updated_at": 1574166697
+        "updated_at": 1574996034
     }, 
     "28190": {
         "base_branch": "master", 
@@ -967,7 +967,7 @@
         "created_at": 1571246447, 
         "number": 28190, 
         "state": "open", 
-        "updated_at": 1574166571
+        "updated_at": 1574995907
     }, 
     "28201": {
         "base_branch": "master", 
@@ -977,7 +977,7 @@
         "created_at": 1571315015, 
         "number": 28201, 
         "state": "open", 
-        "updated_at": 1574166714
+        "updated_at": 1574996014
     }, 
     "28214": {
         "base_branch": "master", 
@@ -998,7 +998,7 @@
         "created_at": 1571410412, 
         "number": 28214, 
         "state": "open", 
-        "updated_at": 1574166557
+        "updated_at": 1574996006
     }, 
     "28279": {
         "base_branch": "master", 
@@ -1017,7 +1017,7 @@
         "created_at": 1572012327, 
         "number": 28279, 
         "state": "open", 
-        "updated_at": 1573477786
+        "updated_at": 1574996085
     }, 
     "28313": {
         "base_branch": "master", 
@@ -1141,7 +1141,7 @@
         "created_at": 1573555298, 
         "number": 28379, 
         "state": "open", 
-        "updated_at": 1574850099
+        "updated_at": 1574996111
     }, 
     "28380": {
         "base_branch": "master", 
@@ -1257,7 +1257,7 @@
         "created_at": 1573562628, 
         "number": 28380, 
         "state": "open", 
-        "updated_at": 1574856539
+        "updated_at": 1574996064
     }, 
     "28407": {
         "base_branch": "master", 
@@ -1369,7 +1369,7 @@
         "created_at": 1573830474, 
         "number": 28407, 
         "state": "open", 
-        "updated_at": 1574851150
+        "updated_at": 1574995972
     }, 
     "28409": {
         "base_branch": "CMSSW_10_2_X", 
@@ -1381,7 +1381,7 @@
         "created_at": 1573836056, 
         "number": 28409, 
         "state": "open", 
-        "updated_at": 1574166608
+        "updated_at": 1574995986
     }, 
     "28411": {
         "base_branch": "CMSSW_10_6_X", 
@@ -1393,7 +1393,7 @@
         "created_at": 1573854027, 
         "number": 28411, 
         "state": "open", 
-        "updated_at": 1574166592
+        "updated_at": 1574995982
     }, 
     "28417": {
         "base_branch": "master", 
@@ -1469,7 +1469,7 @@
         "created_at": 1574090386, 
         "number": 28417, 
         "state": "open", 
-        "updated_at": 1574166720
+        "updated_at": 1574995914
     }, 
     "28427": {
         "base_branch": "master", 
@@ -1483,7 +1483,7 @@
         "created_at": 1574171794, 
         "number": 28427, 
         "state": "open", 
-        "updated_at": 1574171815
+        "updated_at": 1574996002
     }, 
     "28429": {
         "base_branch": "master", 
@@ -1512,7 +1512,7 @@
         "created_at": 1574223459, 
         "number": 28429, 
         "state": "open", 
-        "updated_at": 1574707235
+        "updated_at": 1574995946
     }, 
     "28430": {
         "base_branch": "master", 
@@ -1523,7 +1523,7 @@
         "created_at": 1574231060, 
         "number": 28430, 
         "state": "open", 
-        "updated_at": 1574231108
+        "updated_at": 1574995968
     }, 
     "28435": {
         "base_branch": "master", 
@@ -1550,7 +1550,7 @@
         "created_at": 1574262710, 
         "number": 28435, 
         "state": "open", 
-        "updated_at": 1574262764
+        "updated_at": 1574996054
     }, 
     "28438": {
         "base_branch": "CMSSW_10_2_X", 
@@ -1560,7 +1560,7 @@
         "created_at": 1574270085, 
         "number": 28438, 
         "state": "open", 
-        "updated_at": 1574270137
+        "updated_at": 1574996029
     }, 
     "28442": {
         "base_branch": "master", 
@@ -1577,7 +1577,7 @@
         "created_at": 1574308891, 
         "number": 28442, 
         "state": "open", 
-        "updated_at": 1574308948
+        "updated_at": 1574996091
     }, 
     "28443": {
         "base_branch": "master", 
@@ -1587,7 +1587,7 @@
         "created_at": 1574322365, 
         "number": 28443, 
         "state": "open", 
-        "updated_at": 1574325138
+        "updated_at": 1574996024
     }, 
     "28444": {
         "base_branch": "master", 
@@ -1598,7 +1598,7 @@
         "created_at": 1574331372, 
         "number": 28444, 
         "state": "open", 
-        "updated_at": 1574331372
+        "updated_at": 1574997149
     }, 
     "28448": {
         "base_branch": "master", 
@@ -1625,7 +1625,7 @@
         "created_at": 1574369978, 
         "number": 28448, 
         "state": "open", 
-        "updated_at": 1574785102
+        "updated_at": 1574995961
     }, 
     "28452": {
         "base_branch": "master", 
@@ -1635,7 +1635,7 @@
         "created_at": 1574392396, 
         "number": 28452, 
         "state": "open", 
-        "updated_at": 1574392448
+        "updated_at": 1574996019
     }, 
     "28456": {
         "base_branch": "master", 
@@ -1646,7 +1646,7 @@
         "created_at": 1574430800, 
         "number": 28456, 
         "state": "open", 
-        "updated_at": 1574430853
+        "updated_at": 1574995956
     }, 
     "28461": {
         "base_branch": "master", 
@@ -1682,7 +1682,7 @@
         "created_at": 1574585863, 
         "number": 28461, 
         "state": "open", 
-        "updated_at": 1574585916
+        "updated_at": 1574996059
     }, 
     "28464": {
         "base_branch": "CMSSW_10_2_X", 
@@ -1693,7 +1693,7 @@
         "created_at": 1574685332, 
         "number": 28464, 
         "state": "open", 
-        "updated_at": 1574685382
+        "updated_at": 1574997170
     }, 
     "28465": {
         "base_branch": "CMSSW_10_6_X", 
@@ -1704,7 +1704,7 @@
         "created_at": 1574685399, 
         "number": 28465, 
         "state": "open", 
-        "updated_at": 1574685423
+        "updated_at": 1574997161
     }, 
     "28467": {
         "base_branch": "master", 
@@ -1718,7 +1718,7 @@
         "created_at": 1574699358, 
         "number": 28467, 
         "state": "open", 
-        "updated_at": 1574699411
+        "updated_at": 1574996050
     }, 
     "28468": {
         "base_branch": "master", 
@@ -1738,7 +1738,7 @@
         "created_at": 1574700970, 
         "number": 28468, 
         "state": "open", 
-        "updated_at": 1574701020
+        "updated_at": 1574995952
     }, 
     "28470": {
         "base_branch": "master", 
@@ -1749,7 +1749,7 @@
         "created_at": 1574716771, 
         "number": 28470, 
         "state": "open", 
-        "updated_at": 1574716797
+        "updated_at": 1574995902
     }, 
     "28472": {
         "base_branch": "master", 
@@ -1763,7 +1763,7 @@
         "created_at": 1574725486, 
         "number": 28472, 
         "state": "open", 
-        "updated_at": 1574725486
+        "updated_at": 1574995998
     }, 
     "28474": {
         "base_branch": "master", 
@@ -1774,7 +1774,7 @@
         "created_at": 1574761291, 
         "number": 28474, 
         "state": "open", 
-        "updated_at": 1574761355
+        "updated_at": 1574996096
     }, 
     "28475": {
         "base_branch": "CMSSW_10_6_X", 
@@ -1784,7 +1784,7 @@
         "created_at": 1574762381, 
         "number": 28475, 
         "state": "open", 
-        "updated_at": 1574762407
+        "updated_at": 1574995942
     }, 
     "28477": {
         "base_branch": "master", 
@@ -1911,7 +1911,7 @@
         "created_at": 1574766166, 
         "number": 28477, 
         "state": "open", 
-        "updated_at": 1574766228
+        "updated_at": 1574995935
     }, 
     "28480": {
         "base_branch": "master", 
@@ -1926,7 +1926,7 @@
         "created_at": 1574780222, 
         "number": 28480, 
         "state": "open", 
-        "updated_at": 1574780276
+        "updated_at": 1574995926
     }, 
     "28484": {
         "base_branch": "master", 
@@ -1939,7 +1939,7 @@
         "created_at": 1574811221, 
         "number": 28484, 
         "state": "open", 
-        "updated_at": 1574811284
+        "updated_at": 1574995931
     }, 
     "28485": {
         "base_branch": "CMSSW_10_6_X", 
@@ -1952,7 +1952,7 @@
         "created_at": 1574811224, 
         "number": 28485, 
         "state": "open", 
-        "updated_at": 1574811279
+        "updated_at": 1574995921
     }, 
     "28489": {
         "base_branch": "CMSSW_10_6_X", 
@@ -1963,7 +1963,7 @@
         "created_at": 1574848347, 
         "number": 28489, 
         "state": "open", 
-        "updated_at": 1574848402
+        "updated_at": 1574996073
     }, 
     "28492": {
         "base_branch": "master", 
@@ -2022,7 +2022,7 @@
         "created_at": 1574866730, 
         "number": 28492, 
         "state": "open", 
-        "updated_at": 1574866785
+        "updated_at": 1574996125
     }, 
     "28493": {
         "base_branch": "CMSSW_7_1_X", 
@@ -2033,7 +2033,7 @@
         "created_at": 1574869021, 
         "number": 28493, 
         "state": "open", 
-        "updated_at": 1574869051
+        "updated_at": 1574996081
     }, 
     "28494": {
         "base_branch": "master", 
@@ -2045,7 +2045,7 @@
         "created_at": 1574870070, 
         "number": 28494, 
         "state": "open", 
-        "updated_at": 1574932460
+        "updated_at": 1574995884
     }, 
     "28496": {
         "base_branch": "master", 
@@ -2055,7 +2055,7 @@
         "created_at": 1574892380, 
         "number": 28496, 
         "state": "open", 
-        "updated_at": 1574892437
+        "updated_at": 1574995868
     }, 
     "28497": {
         "base_branch": "CMSSW_10_2_X", 
@@ -2066,7 +2066,7 @@
         "created_at": 1574923267, 
         "number": 28497, 
         "state": "open", 
-        "updated_at": 1574923347
+        "updated_at": 1574996121
     }, 
     "28500": {
         "base_branch": "master", 
@@ -2230,7 +2230,7 @@
         "created_at": 1574951853, 
         "number": 28500, 
         "state": "open", 
-        "updated_at": 1574974518
+        "updated_at": 1574995872
     }, 
     "28501": {
         "base_branch": "master", 
@@ -2240,7 +2240,7 @@
         "created_at": 1574958081, 
         "number": 28501, 
         "state": "open", 
-        "updated_at": 1574958134
+        "updated_at": 1574995893
     }, 
     "28502": {
         "base_branch": "master", 
@@ -2250,7 +2250,7 @@
         "created_at": 1574958272, 
         "number": 28502, 
         "state": "open", 
-        "updated_at": 1574958299
+        "updated_at": 1574995889
     }, 
     "28503": {
         "base_branch": "master", 
@@ -2272,7 +2272,7 @@
         "created_at": 1574959903, 
         "number": 28503, 
         "state": "open", 
-        "updated_at": 1574959958
+        "updated_at": 1574996131
     }, 
     "28504": {
         "base_branch": "master", 
@@ -2289,7 +2289,7 @@
         "created_at": 1574965101, 
         "number": 28504, 
         "state": "open", 
-        "updated_at": 1574965133
+        "updated_at": 1574996077
     }, 
     "28505": {
         "base_branch": "master", 
@@ -2359,7 +2359,21 @@
         "created_at": 1574971607, 
         "number": 28505, 
         "state": "open", 
-        "updated_at": 1574971661
+        "updated_at": 1574996136
+    }, 
+    "28506": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HcalCommonData/interface/HcalGeomParameters.h", 
+            "Geometry/HcalCommonData/interface/HcalParametersFromDD.h", 
+            "Geometry/HcalCommonData/src/HcalGeomParameters.cc", 
+            "Geometry/HcalCommonData/src/HcalParametersFromDD.cc", 
+            "Geometry/HcalCommonData/test/python/runHcalParametersFromDD4HepAnalyzer_cfg.py"
+        ], 
+        "created_at": 1574997558, 
+        "number": 28506, 
+        "state": "open", 
+        "updated_at": 1574997614
     }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
