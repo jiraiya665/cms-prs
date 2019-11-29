@@ -2274,23 +2274,6 @@
         "state": "open", 
         "updated_at": 1574996131
     }, 
-    "28504": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/FTLDigi/interface/PMTDSimAccumulator.h", 
-            "SimFastTiming/FastTimingCommon/interface/BTLElectronicsSim.h", 
-            "SimFastTiming/FastTimingCommon/interface/MTDDigitizer.h", 
-            "SimFastTiming/FastTimingCommon/interface/MTDDigitizerTypes.h", 
-            "SimFastTiming/FastTimingCommon/python/mtdDigitizer_cfi.py", 
-            "SimFastTiming/FastTimingCommon/src/BTLBarDeviceSim.cc", 
-            "SimFastTiming/FastTimingCommon/src/BTLElectronicsSim.cc", 
-            "SimFastTiming/FastTimingCommon/src/BTLTileDeviceSim.cc"
-        ], 
-        "created_at": 1574965101, 
-        "number": 28504, 
-        "state": "open", 
-        "updated_at": 1574996077
-    }, 
     "28505": {
         "base_branch": "master", 
         "changed_files_names": [
