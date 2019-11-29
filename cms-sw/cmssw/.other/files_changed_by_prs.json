@@ -2372,6 +2372,17 @@
         "state": "open", 
         "updated_at": 1575030609
     }, 
+    "28511": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Validation/Configuration/python/autoValidation.py", 
+            "Validation/RecoEgamma/python/photonValidationSequence_cff.py"
+        ], 
+        "created_at": 1575037484, 
+        "number": 28511, 
+        "state": "open", 
+        "updated_at": 1575037557
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
