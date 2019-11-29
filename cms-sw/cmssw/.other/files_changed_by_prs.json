@@ -2346,6 +2346,21 @@
         "state": "open", 
         "updated_at": 1575017478
     }, 
+    "28508": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "Configuration/Eras/python/Era_Run2_2016_cff.py", 
+            "Configuration/Eras/python/Era_Run2_2017_cff.py", 
+            "Configuration/Eras/python/Modifier_run2_ECAL_2016_cff.py", 
+            "RecoEgamma/EgammaTools/python/regressionModifier_cfi.py", 
+            "RecoParticleFlow/PFClusterProducer/python/particleFlowClusterECAL_cff.py", 
+            "RecoParticleFlow/PFClusterProducer/python/particleFlowClusterOOTECAL_cff.py"
+        ], 
+        "created_at": 1575022313, 
+        "number": 28508, 
+        "state": "open", 
+        "updated_at": 1575022342
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
