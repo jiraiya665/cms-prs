@@ -2572,6 +2572,16 @@
         "state": "open", 
         "updated_at": 1575301884
     }, 
+    "28523": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondFormats/L1TObjects/src/classes_def.xml"
+        ], 
+        "created_at": 1575309498, 
+        "number": 28523, 
+        "state": "open", 
+        "updated_at": 1575309556
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
