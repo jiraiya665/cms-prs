@@ -509,6 +509,7 @@
             "HeterogeneousCore/CUDAUtilities/interface/GPUSimpleVector.h", 
             "HeterogeneousCore/CUDAUtilities/interface/GPUVecArray.h", 
             "HeterogeneousCore/CUDAUtilities/interface/HistoContainer.h", 
+            "HeterogeneousCore/CUDAUtilities/interface/MessageLogger.h", 
             "HeterogeneousCore/CUDAUtilities/interface/ScopedSetDevice.h", 
             "HeterogeneousCore/CUDAUtilities/interface/SharedEventPtr.h", 
             "HeterogeneousCore/CUDAUtilities/interface/SharedStreamPtr.h", 
@@ -525,7 +526,6 @@
             "HeterogeneousCore/CUDAUtilities/interface/device_unique_ptr.h", 
             "HeterogeneousCore/CUDAUtilities/interface/eigenSoA.h", 
             "HeterogeneousCore/CUDAUtilities/interface/eventIsOccurred.h", 
-            "HeterogeneousCore/CUDAUtilities/interface/exitSansCUDADevices.h", 
             "HeterogeneousCore/CUDAUtilities/interface/getCudaDrvErrorString.h", 
             "HeterogeneousCore/CUDAUtilities/interface/host_noncached_unique_ptr.h", 
             "HeterogeneousCore/CUDAUtilities/interface/host_unique_ptr.h", 
@@ -533,10 +533,12 @@
             "HeterogeneousCore/CUDAUtilities/interface/memsetAsync.h", 
             "HeterogeneousCore/CUDAUtilities/interface/prefixScan.h", 
             "HeterogeneousCore/CUDAUtilities/interface/radixSort.h", 
+            "HeterogeneousCore/CUDAUtilities/interface/requireCUDADevices.h", 
             "HeterogeneousCore/CUDAUtilities/src/CUDAEventCache.cc", 
             "HeterogeneousCore/CUDAUtilities/src/CUDAStreamCache.cc", 
             "HeterogeneousCore/CUDAUtilities/src/CachingDeviceAllocator.h", 
             "HeterogeneousCore/CUDAUtilities/src/CachingHostAllocator.h", 
+            "HeterogeneousCore/CUDAUtilities/src/MessageLogger.cc", 
             "HeterogeneousCore/CUDAUtilities/src/allocate_device.cc", 
             "HeterogeneousCore/CUDAUtilities/src/allocate_host.cc", 
             "HeterogeneousCore/CUDAUtilities/src/cudaCompat.cc", 
@@ -761,7 +763,7 @@
         "created_at": 1568296225, 
         "number": 27983, 
         "state": "open", 
-        "updated_at": 1575291428
+        "updated_at": 1575301178
     }, 
     "28040": {
         "base_branch": "master", 
