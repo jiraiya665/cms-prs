@@ -1996,17 +1996,6 @@
         "state": "open", 
         "updated_at": 1575291385
     }, 
-    "28497": {
-        "base_branch": "CMSSW_10_2_X", 
-        "changed_files_names": [
-            "Configuration/Generator/python/MCTunes2017/PythiaCP5CR1TuneSettings_cfi.py", 
-            "Configuration/Generator/python/MCTunes2017/PythiaCP5CR2TuneSettings_cfi.py"
-        ], 
-        "created_at": 1574923267, 
-        "number": 28497, 
-        "state": "open", 
-        "updated_at": 1575291558
-    }, 
     "28500": {
         "base_branch": "master", 
         "changed_files_names": [
