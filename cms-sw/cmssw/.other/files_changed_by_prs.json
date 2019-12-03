@@ -2186,16 +2186,6 @@
         "state": "open", 
         "updated_at": 1575291487
     }, 
-    "28501": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQMServices/FileIO/scripts/compareFilesFromPR.sh"
-        ], 
-        "created_at": 1574958081, 
-        "number": 28501, 
-        "state": "open", 
-        "updated_at": 1575291137
-    }, 
     "28502": {
         "base_branch": "master", 
         "changed_files_names": [
