@@ -2301,17 +2301,6 @@
         "state": "open", 
         "updated_at": 1575291534
     }, 
-    "28509": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoVertex/BeamSpotProducer/interface/PVFitter.h", 
-            "RecoVertex/BeamSpotProducer/src/PVFitter.cc"
-        ], 
-        "created_at": 1575030576, 
-        "number": 28509, 
-        "state": "open", 
-        "updated_at": 1575291112
-    }, 
     "28511": {
         "base_branch": "master", 
         "changed_files_names": [
