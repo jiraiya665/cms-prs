@@ -1583,17 +1583,6 @@
         "state": "open", 
         "updated_at": 1575291249
     }, 
-    "28444": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "GeneratorInterface/RivetInterface/src/HiggsTemplateCrossSections.cc", 
-            "SimDataFormats/HTXS/interface/HiggsTemplateCrossSections.h"
-        ], 
-        "created_at": 1574331372, 
-        "number": 28444, 
-        "state": "open", 
-        "updated_at": 1575291243
-    }, 
     "28448": {
         "base_branch": "master", 
         "changed_files_names": [
