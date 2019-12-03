@@ -2288,13 +2288,15 @@
             "IOPool/Streamer/src/StreamerInputSource.cc", 
             "PhysicsTools/JetMCAlgos/plugins/HadronAndPartonSelector.cc", 
             "RecoBTag/FeatureTools/plugins/DeepFlavourTagInfoProducer.cc", 
+            "RecoEgamma/EgammaElectronProducers/plugins/GsfElectronBaseProducer.cc", 
+            "RecoEgamma/EgammaElectronProducers/plugins/GsfElectronProducer.cc", 
             "SimCalorimetry/EcalSelectiveReadoutProducers/src/EcalSelectiveReadoutProducer.cc", 
             "TopQuarkAnalysis/TopEventProducers/src/TopDecaySubset.cc"
         ], 
         "created_at": 1574971607, 
         "number": 28505, 
         "state": "open", 
-        "updated_at": 1575322827
+        "updated_at": 1575381098
     }, 
     "28506": {
         "base_branch": "master", 
