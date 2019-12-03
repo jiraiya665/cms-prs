@@ -2011,16 +2011,6 @@
         "state": "open", 
         "updated_at": 1575291553
     }, 
-    "28496": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DetectorDescription/DDCMS/src/DDShapes.cc"
-        ], 
-        "created_at": 1574892380, 
-        "number": 28496, 
-        "state": "open", 
-        "updated_at": 1575291143
-    }, 
     "28497": {
         "base_branch": "CMSSW_10_2_X", 
         "changed_files_names": [
