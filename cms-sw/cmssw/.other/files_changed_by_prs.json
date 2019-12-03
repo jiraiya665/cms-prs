@@ -2022,20 +2022,6 @@
         "state": "open", 
         "updated_at": 1575291553
     }, 
-    "28494": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQMServices/FileIO/python/blacklist.py", 
-            "DQMServices/FileIO/python/visDQMUtils.py", 
-            "DQMServices/FileIO/scripts/compareDQMOutput.py", 
-            "DQMServices/FileIO/scripts/compareHistograms.py", 
-            "DQMServices/FileIO/scripts/visDQMUpload.py"
-        ], 
-        "created_at": 1574870070, 
-        "number": 28494, 
-        "state": "open", 
-        "updated_at": 1575301295
-    }, 
     "28496": {
         "base_branch": "master", 
         "changed_files_names": [
