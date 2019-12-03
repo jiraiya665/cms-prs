@@ -2591,6 +2591,17 @@
         "state": "open", 
         "updated_at": 1575309556
     }, 
+    "28524": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/AlCa/python/autoCond.py", 
+            "Configuration/PyReleaseValidation/python/relval_steps.py"
+        ], 
+        "created_at": 1575342704, 
+        "number": 28524, 
+        "state": "open", 
+        "updated_at": 1575342758
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
