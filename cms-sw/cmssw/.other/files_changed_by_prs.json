@@ -46,7 +46,7 @@
         "created_at": 1526474805, 
         "number": 23219, 
         "state": "open", 
-        "updated_at": 1575291466
+        "updated_at": 1575406591
     }, 
     "24389": {
         "base_branch": "master", 
@@ -64,7 +64,7 @@
         "created_at": 1535178144, 
         "number": 24389, 
         "state": "open", 
-        "updated_at": 1575291453
+        "updated_at": 1575406580
     }, 
     "25912": {
         "base_branch": "master", 
@@ -178,7 +178,7 @@
         "created_at": 1549971183, 
         "number": 25912, 
         "state": "open", 
-        "updated_at": 1575291442
+        "updated_at": 1575406571
     }, 
     "26094": {
         "base_branch": "CMSSW_7_1_X", 
@@ -219,7 +219,7 @@
         "created_at": 1555070856, 
         "number": 26446, 
         "state": "open", 
-        "updated_at": 1575291436
+        "updated_at": 1575406566
     }, 
     "27416": {
         "base_branch": "CMSSW_10_6_X", 
@@ -235,7 +235,7 @@
         "created_at": 1561918660, 
         "number": 27416, 
         "state": "open", 
-        "updated_at": 1575291458
+        "updated_at": 1575406586
     }, 
     "27483": {
         "base_branch": "CMSSW_10_6_X", 
@@ -271,7 +271,7 @@
         "created_at": 1564738426, 
         "number": 27677, 
         "state": "open", 
-        "updated_at": 1575291430
+        "updated_at": 1575406562
     }, 
     "27955": {
         "base_branch": "master", 
@@ -289,7 +289,7 @@
         "created_at": 1568030413, 
         "number": 27955, 
         "state": "open", 
-        "updated_at": 1575291423
+        "updated_at": 1575406552
     }, 
     "27962": {
         "base_branch": "master", 
@@ -299,7 +299,7 @@
         "created_at": 1568123217, 
         "number": 27962, 
         "state": "open", 
-        "updated_at": 1575291418
+        "updated_at": 1575406538
     }, 
     "27983": {
         "base_branch": "CMSSW_11_0_X", 
@@ -759,7 +759,7 @@
         "created_at": 1568296225, 
         "number": 27983, 
         "state": "open", 
-        "updated_at": 1575391000
+        "updated_at": 1575406277
     }, 
     "28040": {
         "base_branch": "master", 
@@ -773,7 +773,7 @@
         "created_at": 1568984199, 
         "number": 28040, 
         "state": "open", 
-        "updated_at": 1575291411
+        "updated_at": 1575406533
     }, 
     "28059": {
         "base_branch": "master", 
@@ -788,7 +788,7 @@
         "created_at": 1569307794, 
         "number": 28059, 
         "state": "open", 
-        "updated_at": 1575291405
+        "updated_at": 1575406528
     }, 
     "28101": {
         "base_branch": "master", 
@@ -875,7 +875,7 @@
         "created_at": 1569947248, 
         "number": 28101, 
         "state": "open", 
-        "updated_at": 1575291393
+        "updated_at": 1575406381
     }, 
     "28112": {
         "base_branch": "master", 
@@ -917,7 +917,7 @@
         "created_at": 1570114506, 
         "number": 28112, 
         "state": "open", 
-        "updated_at": 1575291363
+        "updated_at": 1575406399
     }, 
     "28190": {
         "base_branch": "master", 
@@ -944,7 +944,7 @@
         "created_at": 1571246447, 
         "number": 28190, 
         "state": "open", 
-        "updated_at": 1575291348
+        "updated_at": 1575406321
     }, 
     "28201": {
         "base_branch": "master", 
@@ -954,7 +954,7 @@
         "created_at": 1571315015, 
         "number": 28201, 
         "state": "open", 
-        "updated_at": 1575291341
+        "updated_at": 1575406343
     }, 
     "28214": {
         "base_branch": "master", 
@@ -975,7 +975,7 @@
         "created_at": 1571410412, 
         "number": 28214, 
         "state": "open", 
-        "updated_at": 1575291331
+        "updated_at": 1575406685
     }, 
     "28279": {
         "base_branch": "master", 
@@ -994,7 +994,7 @@
         "created_at": 1572012327, 
         "number": 28279, 
         "state": "open", 
-        "updated_at": 1575291323
+        "updated_at": 1575406392
     }, 
     "28313": {
         "base_branch": "master", 
@@ -1027,7 +1027,7 @@
         "created_at": 1572448498, 
         "number": 28313, 
         "state": "open", 
-        "updated_at": 1575291318
+        "updated_at": 1575406523
     }, 
     "28379": {
         "base_branch": "master", 
@@ -1118,7 +1118,7 @@
         "created_at": 1573555298, 
         "number": 28379, 
         "state": "open", 
-        "updated_at": 1575291374
+        "updated_at": 1575406333
     }, 
     "28380": {
         "base_branch": "master", 
@@ -1243,7 +1243,7 @@
         "created_at": 1573562628, 
         "number": 28380, 
         "state": "open", 
-        "updated_at": 1575291304
+        "updated_at": 1575406513
     }, 
     "28407": {
         "base_branch": "master", 
@@ -1355,7 +1355,7 @@
         "created_at": 1573830474, 
         "number": 28407, 
         "state": "open", 
-        "updated_at": 1575291292
+        "updated_at": 1575406503
     }, 
     "28409": {
         "base_branch": "CMSSW_10_2_X", 
@@ -1367,7 +1367,7 @@
         "created_at": 1573836056, 
         "number": 28409, 
         "state": "open", 
-        "updated_at": 1575291577
+        "updated_at": 1575406628
     }, 
     "28411": {
         "base_branch": "CMSSW_10_6_X", 
@@ -1379,7 +1379,7 @@
         "created_at": 1573854027, 
         "number": 28411, 
         "state": "open", 
-        "updated_at": 1575291570
+        "updated_at": 1575406624
     }, 
     "28417": {
         "base_branch": "master", 
@@ -1455,7 +1455,7 @@
         "created_at": 1574090386, 
         "number": 28417, 
         "state": "open", 
-        "updated_at": 1575291281
+        "updated_at": 1575406490
     }, 
     "28427": {
         "base_branch": "master", 
@@ -1469,7 +1469,7 @@
         "created_at": 1574171794, 
         "number": 28427, 
         "state": "open", 
-        "updated_at": 1575291275
+        "updated_at": 1575406415
     }, 
     "28429": {
         "base_branch": "master", 
@@ -1498,7 +1498,7 @@
         "created_at": 1574223459, 
         "number": 28429, 
         "state": "open", 
-        "updated_at": 1575291356
+        "updated_at": 1575406484
     }, 
     "28430": {
         "base_branch": "master", 
@@ -1509,7 +1509,7 @@
         "created_at": 1574231060, 
         "number": 28430, 
         "state": "open", 
-        "updated_at": 1575291268
+        "updated_at": 1575406364
     }, 
     "28435": {
         "base_branch": "master", 
@@ -1536,7 +1536,7 @@
         "created_at": 1574262710, 
         "number": 28435, 
         "state": "open", 
-        "updated_at": 1575291262
+        "updated_at": 1575406420
     }, 
     "28438": {
         "base_branch": "CMSSW_10_2_X", 
@@ -1546,7 +1546,7 @@
         "created_at": 1574270085, 
         "number": 28438, 
         "state": "open", 
-        "updated_at": 1575291539
+        "updated_at": 1575406411
     }, 
     "28442": {
         "base_branch": "master", 
@@ -1567,7 +1567,7 @@
         "created_at": 1574308891, 
         "number": 28442, 
         "state": "open", 
-        "updated_at": 1575296365
+        "updated_at": 1575406633
     }, 
     "28443": {
         "base_branch": "master", 
@@ -1577,7 +1577,7 @@
         "created_at": 1574322365, 
         "number": 28443, 
         "state": "open", 
-        "updated_at": 1575291249
+        "updated_at": 1575406557
     }, 
     "28448": {
         "base_branch": "master", 
@@ -1604,7 +1604,7 @@
         "created_at": 1574369978, 
         "number": 28448, 
         "state": "open", 
-        "updated_at": 1575291233
+        "updated_at": 1575406449
     }, 
     "28452": {
         "base_branch": "master", 
@@ -1618,7 +1618,7 @@
         "created_at": 1574392396, 
         "number": 28452, 
         "state": "open", 
-        "updated_at": 1575322767
+        "updated_at": 1575406349
     }, 
     "28456": {
         "base_branch": "master", 
@@ -1629,7 +1629,7 @@
         "created_at": 1574430800, 
         "number": 28456, 
         "state": "open", 
-        "updated_at": 1575291222
+        "updated_at": 1575406543
     }, 
     "28461": {
         "base_branch": "master", 
@@ -1665,7 +1665,7 @@
         "created_at": 1574585863, 
         "number": 28461, 
         "state": "open", 
-        "updated_at": 1575291216
+        "updated_at": 1575406376
     }, 
     "28464": {
         "base_branch": "CMSSW_10_2_X", 
@@ -1676,7 +1676,7 @@
         "created_at": 1574685332, 
         "number": 28464, 
         "state": "open", 
-        "updated_at": 1575291528
+        "updated_at": 1575406608
     }, 
     "28465": {
         "base_branch": "CMSSW_10_6_X", 
@@ -1687,7 +1687,7 @@
         "created_at": 1574685399, 
         "number": 28465, 
         "state": "open", 
-        "updated_at": 1575291564
+        "updated_at": 1575406617
     }, 
     "28467": {
         "base_branch": "master", 
@@ -1701,7 +1701,7 @@
         "created_at": 1574699358, 
         "number": 28467, 
         "state": "open", 
-        "updated_at": 1575291209
+        "updated_at": 1575406473
     }, 
     "28468": {
         "base_branch": "master", 
@@ -1721,7 +1721,7 @@
         "created_at": 1574700970, 
         "number": 28468, 
         "state": "open", 
-        "updated_at": 1575291202
+        "updated_at": 1575406770
     }, 
     "28470": {
         "base_branch": "master", 
@@ -1732,7 +1732,7 @@
         "created_at": 1574716771, 
         "number": 28470, 
         "state": "open", 
-        "updated_at": 1575291196
+        "updated_at": 1575406430
     }, 
     "28472": {
         "base_branch": "master", 
@@ -1746,7 +1746,7 @@
         "created_at": 1574725486, 
         "number": 28472, 
         "state": "open", 
-        "updated_at": 1575291190
+        "updated_at": 1575406468
     }, 
     "28475": {
         "base_branch": "CMSSW_10_6_X", 
@@ -1756,7 +1756,7 @@
         "created_at": 1574762381, 
         "number": 28475, 
         "state": "open", 
-        "updated_at": 1575291514
+        "updated_at": 1575406426
     }, 
     "28477": {
         "base_branch": "master", 
@@ -1883,7 +1883,7 @@
         "created_at": 1574766166, 
         "number": 28477, 
         "state": "open", 
-        "updated_at": 1575291167
+        "updated_at": 1575406461
     }, 
     "28480": {
         "base_branch": "master", 
@@ -1898,7 +1898,7 @@
         "created_at": 1574780222, 
         "number": 28480, 
         "state": "open", 
-        "updated_at": 1575291161
+        "updated_at": 1575406457
     }, 
     "28484": {
         "base_branch": "master", 
@@ -1911,7 +1911,7 @@
         "created_at": 1574811221, 
         "number": 28484, 
         "state": "open", 
-        "updated_at": 1575291155
+        "updated_at": 1575404758
     }, 
     "28485": {
         "base_branch": "CMSSW_10_6_X", 
@@ -1924,7 +1924,7 @@
         "created_at": 1574811224, 
         "number": 28485, 
         "state": "open", 
-        "updated_at": 1575291508
+        "updated_at": 1575406603
     }, 
     "28489": {
         "base_branch": "CMSSW_10_6_X", 
@@ -1935,7 +1935,7 @@
         "created_at": 1574848347, 
         "number": 28489, 
         "state": "open", 
-        "updated_at": 1575291546
+        "updated_at": 1575406613
     }, 
     "28492": {
         "base_branch": "master", 
@@ -1994,7 +1994,7 @@
         "created_at": 1574866730, 
         "number": 28492, 
         "state": "open", 
-        "updated_at": 1575291385
+        "updated_at": 1575406693
     }, 
     "28500": {
         "base_branch": "master", 
@@ -2158,7 +2158,7 @@
         "created_at": 1574951853, 
         "number": 28500, 
         "state": "open", 
-        "updated_at": 1575291487
+        "updated_at": 1575406644
     }, 
     "28502": {
         "base_branch": "master", 
@@ -2168,7 +2168,7 @@
         "created_at": 1574958272, 
         "number": 28502, 
         "state": "open", 
-        "updated_at": 1575291132
+        "updated_at": 1575406444
     }, 
     "28503": {
         "base_branch": "master", 
@@ -2190,7 +2190,7 @@
         "created_at": 1574959903, 
         "number": 28503, 
         "state": "open", 
-        "updated_at": 1575291124
+        "updated_at": 1575406675
     }, 
     "28505": {
         "base_branch": "master", 
@@ -2270,7 +2270,7 @@
         "created_at": 1574971607, 
         "number": 28505, 
         "state": "open", 
-        "updated_at": 1575381098
+        "updated_at": 1575406298
     }, 
     "28506": {
         "base_branch": "master", 
@@ -2284,7 +2284,7 @@
         "created_at": 1574997558, 
         "number": 28506, 
         "state": "open", 
-        "updated_at": 1575291118
+        "updated_at": 1575406312
     }, 
     "28508": {
         "base_branch": "CMSSW_10_6_X", 
@@ -2299,7 +2299,7 @@
         "created_at": 1575022313, 
         "number": 28508, 
         "state": "open", 
-        "updated_at": 1575291534
+        "updated_at": 1575406639
     }, 
     "28511": {
         "base_branch": "master", 
@@ -2310,7 +2310,7 @@
         "created_at": 1575037484, 
         "number": 28511, 
         "state": "open", 
-        "updated_at": 1575292743
+        "updated_at": 1575406657
     }, 
     "28512": {
         "base_branch": "CMSSW_10_6_X", 
@@ -2329,7 +2329,7 @@
         "created_at": 1575041577, 
         "number": 28512, 
         "state": "open", 
-        "updated_at": 1575291476
+        "updated_at": 1575406292
     }, 
     "28513": {
         "base_branch": "CMSSW_10_6_X", 
@@ -2342,7 +2342,7 @@
         "created_at": 1575042836, 
         "number": 28513, 
         "state": "open", 
-        "updated_at": 1575291481
+        "updated_at": 1575406599
     }, 
     "28514": {
         "base_branch": "master", 
@@ -2369,7 +2369,7 @@
         "created_at": 1575093023, 
         "number": 28514, 
         "state": "open", 
-        "updated_at": 1575292113
+        "updated_at": 1575406478
     }, 
     "28515": {
         "base_branch": "master", 
@@ -2379,7 +2379,7 @@
         "created_at": 1575277604, 
         "number": 28515, 
         "state": "open", 
-        "updated_at": 1575291107
+        "updated_at": 1575406439
     }, 
     "28516": {
         "base_branch": "master", 
@@ -2389,7 +2389,7 @@
         "created_at": 1575277903, 
         "number": 28516, 
         "state": "open", 
-        "updated_at": 1575291828
+        "updated_at": 1575406547
     }, 
     "28517": {
         "base_branch": "CMSSW_10_6_X", 
@@ -2404,7 +2404,7 @@
         "created_at": 1575278366, 
         "number": 28517, 
         "state": "open", 
-        "updated_at": 1575291582
+        "updated_at": 1575404763
     }, 
     "28518": {
         "base_branch": "CMSSW_10_2_X", 
@@ -2419,7 +2419,7 @@
         "created_at": 1575278367, 
         "number": 28518, 
         "state": "open", 
-        "updated_at": 1575291587
+        "updated_at": 1575406434
     }, 
     "28520": {
         "base_branch": "CMSSW_11_0_X", 
@@ -2446,7 +2446,7 @@
         "created_at": 1575291334, 
         "number": 28520, 
         "state": "open", 
-        "updated_at": 1575291479
+        "updated_at": 1575406498
     }, 
     "28522": {
         "base_branch": "master", 
@@ -2461,7 +2461,7 @@
         "created_at": 1575301857, 
         "number": 28522, 
         "state": "open", 
-        "updated_at": 1575301884
+        "updated_at": 1575406354
     }, 
     "28523": {
         "base_branch": "master", 
@@ -2471,7 +2471,7 @@
         "created_at": 1575309498, 
         "number": 28523, 
         "state": "open", 
-        "updated_at": 1575309556
+        "updated_at": 1575406667
     }, 
     "28524": {
         "base_branch": "master", 
@@ -2482,7 +2482,7 @@
         "created_at": 1575342704, 
         "number": 28524, 
         "state": "open", 
-        "updated_at": 1575342758
+        "updated_at": 1575406359
     }, 
     "28525": {
         "base_branch": "CMSSW_11_0_X", 
@@ -2493,7 +2493,7 @@
         "created_at": 1575361691, 
         "number": 28525, 
         "state": "open", 
-        "updated_at": 1575361749
+        "updated_at": 1575406670
     }, 
     "28526": {
         "base_branch": "master", 
@@ -2503,7 +2503,7 @@
         "created_at": 1575366019, 
         "number": 28526, 
         "state": "open", 
-        "updated_at": 1575366081
+        "updated_at": 1575406407
     }, 
     "28528": {
         "base_branch": "master", 
@@ -2517,7 +2517,7 @@
         "created_at": 1575382045, 
         "number": 28528, 
         "state": "open", 
-        "updated_at": 1575382073
+        "updated_at": 1575406328
     }, 
     "28529": {
         "base_branch": "CMSSW_11_0_X", 
@@ -2531,7 +2531,7 @@
         "created_at": 1575387363, 
         "number": 28529, 
         "state": "open", 
-        "updated_at": 1575387403
+        "updated_at": 1575406680
     }, 
     "28530": {
         "base_branch": "master", 
@@ -2543,7 +2543,7 @@
         "created_at": 1575387735, 
         "number": 28530, 
         "state": "open", 
-        "updated_at": 1575387797
+        "updated_at": 1575406317
     }, 
     "28531": {
         "base_branch": "master", 
@@ -2554,7 +2554,7 @@
         "created_at": 1575389756, 
         "number": 28531, 
         "state": "open", 
-        "updated_at": 1575389810
+        "updated_at": 1575406704
     }, 
     "28532": {
         "base_branch": "master", 
@@ -2564,7 +2564,7 @@
         "created_at": 1575391719, 
         "number": 28532, 
         "state": "open", 
-        "updated_at": 1575391768
+        "updated_at": 1575406709
     }, 
     "28533": {
         "base_branch": "master", 
@@ -2574,7 +2574,7 @@
         "created_at": 1575392335, 
         "number": 28533, 
         "state": "open", 
-        "updated_at": 1575392391
+        "updated_at": 1575406700
     }, 
     "28535": {
         "base_branch": "master", 
@@ -2592,7 +2592,7 @@
         "created_at": 1575401364, 
         "number": 28535, 
         "state": "open", 
-        "updated_at": 1575401423
+        "updated_at": 1575406307
     }, 
     "28536": {
         "base_branch": "master", 
@@ -2611,7 +2611,134 @@
         "created_at": 1575407815, 
         "number": 28536, 
         "state": "open", 
-        "updated_at": 1575407815
+        "updated_at": 1575407900
+    }, 
+    "28537": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CUDADataFormats/Common/BuildFile.xml", 
+            "CUDADataFormats/Common/interface/CUDAProduct.h", 
+            "CUDADataFormats/Common/interface/CUDAProductBase.h", 
+            "CUDADataFormats/Common/src/CUDAProductBase.cc", 
+            "CUDADataFormats/Common/test/BuildFile.xml", 
+            "CUDADataFormats/Common/test/test_CUDAProduct.cc", 
+            "CUDADataFormats/Common/test/test_main.cc", 
+            "FWCore/Concurrency/interface/WaitingTaskWithArenaHolder.h", 
+            "HeterogeneousCore/CUDACore/BuildFile.xml", 
+            "HeterogeneousCore/CUDACore/README.md", 
+            "HeterogeneousCore/CUDACore/interface/CUDAContextState.h", 
+            "HeterogeneousCore/CUDACore/interface/CUDAESProduct.h", 
+            "HeterogeneousCore/CUDACore/interface/CUDAScopedContext.h", 
+            "HeterogeneousCore/CUDACore/python/SwitchProducerCUDA.py", 
+            "HeterogeneousCore/CUDACore/src/CUDAContextState.cc", 
+            "HeterogeneousCore/CUDACore/src/CUDAScopedContext.cc", 
+            "HeterogeneousCore/CUDACore/src/chooseCUDADevice.cc", 
+            "HeterogeneousCore/CUDACore/src/chooseCUDADevice.h", 
+            "HeterogeneousCore/CUDACore/test/BuildFile.xml", 
+            "HeterogeneousCore/CUDACore/test/testStreamEvent.cu", 
+            "HeterogeneousCore/CUDACore/test/test_CUDAScopedContext.cc", 
+            "HeterogeneousCore/CUDACore/test/test_CUDAScopedContextKernels.cu", 
+            "HeterogeneousCore/CUDACore/test/test_CUDAScopedContextKernels.h", 
+            "HeterogeneousCore/CUDACore/test/test_main.cc", 
+            "HeterogeneousCore/CUDAServices/BuildFile.xml", 
+            "HeterogeneousCore/CUDAServices/bin/BuildFile.xml", 
+            "HeterogeneousCore/CUDAServices/bin/cudaComputeCapabilities.cpp", 
+            "HeterogeneousCore/CUDAServices/bin/cudaIsEnabled.cpp", 
+            "HeterogeneousCore/CUDAServices/interface/CUDAService.h", 
+            "HeterogeneousCore/CUDAServices/interface/numberOfCUDADevices.h", 
+            "HeterogeneousCore/CUDAServices/plugins/BuildFile.xml", 
+            "HeterogeneousCore/CUDAServices/plugins/CUDAMonitoringService.cc", 
+            "HeterogeneousCore/CUDAServices/plugins/NVProfilerService.cc", 
+            "HeterogeneousCore/CUDAServices/plugins/plugins.cc", 
+            "HeterogeneousCore/CUDAServices/scripts/cmsCudaRebuild.sh", 
+            "HeterogeneousCore/CUDAServices/scripts/cmsCudaSetup.sh", 
+            "HeterogeneousCore/CUDAServices/scripts/cudaPreallocate.py", 
+            "HeterogeneousCore/CUDAServices/scripts/nvprof-remote", 
+            "HeterogeneousCore/CUDAServices/src/CUDAService.cc", 
+            "HeterogeneousCore/CUDAServices/src/numberOfCUDADevices.cc", 
+            "HeterogeneousCore/CUDAServices/test/BuildFile.xml", 
+            "HeterogeneousCore/CUDAServices/test/testCUDAService.cpp", 
+            "HeterogeneousCore/CUDAServices/test/testCUDAService.py", 
+            "HeterogeneousCore/CUDAServices/test/test_main.cc", 
+            "HeterogeneousCore/CUDAServices/test/test_main.cpp", 
+            "HeterogeneousCore/CUDATest/BuildFile.xml", 
+            "HeterogeneousCore/CUDATest/interface/CUDAThing.h", 
+            "HeterogeneousCore/CUDATest/plugins/BuildFile.xml", 
+            "HeterogeneousCore/CUDATest/plugins/TestCUDAAnalyzerGPU.cc", 
+            "HeterogeneousCore/CUDATest/plugins/TestCUDAAnalyzerGPUKernel.cu", 
+            "HeterogeneousCore/CUDATest/plugins/TestCUDAAnalyzerGPUKernel.h", 
+            "HeterogeneousCore/CUDATest/plugins/TestCUDAProducerCPU.cc", 
+            "HeterogeneousCore/CUDATest/plugins/TestCUDAProducerGPU.cc", 
+            "HeterogeneousCore/CUDATest/plugins/TestCUDAProducerGPUEW.cc", 
+            "HeterogeneousCore/CUDATest/plugins/TestCUDAProducerGPUEWTask.cc", 
+            "HeterogeneousCore/CUDATest/plugins/TestCUDAProducerGPUFirst.cc", 
+            "HeterogeneousCore/CUDATest/plugins/TestCUDAProducerGPUKernel.cu", 
+            "HeterogeneousCore/CUDATest/plugins/TestCUDAProducerGPUKernel.h", 
+            "HeterogeneousCore/CUDATest/plugins/TestCUDAProducerGPUtoCPU.cc", 
+            "HeterogeneousCore/CUDATest/python/prod1CPU_cfi.py", 
+            "HeterogeneousCore/CUDATest/python/prod1CUDA_cfi.py", 
+            "HeterogeneousCore/CUDATest/python/prod1FromCUDA_cfi.py", 
+            "HeterogeneousCore/CUDATest/python/prod1Switch_cff.py", 
+            "HeterogeneousCore/CUDATest/python/prod5CPU_cfi.py", 
+            "HeterogeneousCore/CUDATest/python/prod5CUDA_cfi.py", 
+            "HeterogeneousCore/CUDATest/python/prod5FromCUDA_cfi.py", 
+            "HeterogeneousCore/CUDATest/python/prod5Switch_cff.py", 
+            "HeterogeneousCore/CUDATest/python/prod6CPU_cfi.py", 
+            "HeterogeneousCore/CUDATest/python/prod6CUDA_cfi.py", 
+            "HeterogeneousCore/CUDATest/python/prod6FromCUDA_cfi.py", 
+            "HeterogeneousCore/CUDATest/python/prod6Switch_cff.py", 
+            "HeterogeneousCore/CUDATest/src/classes.h", 
+            "HeterogeneousCore/CUDATest/src/classes_def.xml", 
+            "HeterogeneousCore/CUDATest/test/BuildFile.xml", 
+            "HeterogeneousCore/CUDATest/test/TestCUDATest.cc", 
+            "HeterogeneousCore/CUDATest/test/runtests.sh", 
+            "HeterogeneousCore/CUDATest/test/testCUDASwitch_cfg.py", 
+            "HeterogeneousCore/CUDATest/test/test_TestCUDAProducerGPUFirst.cc", 
+            "HeterogeneousCore/CUDATest/test/test_main.cc", 
+            "HeterogeneousCore/CUDAUtilities/BuildFile.xml", 
+            "HeterogeneousCore/CUDAUtilities/interface/CUDAEventCache.h", 
+            "HeterogeneousCore/CUDAUtilities/interface/CUDAStreamCache.h", 
+            "HeterogeneousCore/CUDAUtilities/interface/MessageLogger.h", 
+            "HeterogeneousCore/CUDAUtilities/interface/ScopedSetDevice.h", 
+            "HeterogeneousCore/CUDAUtilities/interface/SharedEventPtr.h", 
+            "HeterogeneousCore/CUDAUtilities/interface/SharedStreamPtr.h", 
+            "HeterogeneousCore/CUDAUtilities/interface/allocate_device.h", 
+            "HeterogeneousCore/CUDAUtilities/interface/allocate_host.h", 
+            "HeterogeneousCore/CUDAUtilities/interface/copyAsync.h", 
+            "HeterogeneousCore/CUDAUtilities/interface/cudaCheck.h", 
+            "HeterogeneousCore/CUDAUtilities/interface/cudaDeviceCount.h", 
+            "HeterogeneousCore/CUDAUtilities/interface/cuda_assert.h", 
+            "HeterogeneousCore/CUDAUtilities/interface/currentDevice.h", 
+            "HeterogeneousCore/CUDAUtilities/interface/device_unique_ptr.h", 
+            "HeterogeneousCore/CUDAUtilities/interface/eventIsOccurred.h", 
+            "HeterogeneousCore/CUDAUtilities/interface/host_noncached_unique_ptr.h", 
+            "HeterogeneousCore/CUDAUtilities/interface/host_unique_ptr.h", 
+            "HeterogeneousCore/CUDAUtilities/interface/launch.h", 
+            "HeterogeneousCore/CUDAUtilities/interface/memsetAsync.h", 
+            "HeterogeneousCore/CUDAUtilities/interface/requireCUDADevices.h", 
+            "HeterogeneousCore/CUDAUtilities/src/CUDAEventCache.cc", 
+            "HeterogeneousCore/CUDAUtilities/src/CUDAStreamCache.cc", 
+            "HeterogeneousCore/CUDAUtilities/src/CachingDeviceAllocator.h", 
+            "HeterogeneousCore/CUDAUtilities/src/CachingHostAllocator.h", 
+            "HeterogeneousCore/CUDAUtilities/src/MessageLogger.cc", 
+            "HeterogeneousCore/CUDAUtilities/src/allocate_device.cc", 
+            "HeterogeneousCore/CUDAUtilities/src/allocate_host.cc", 
+            "HeterogeneousCore/CUDAUtilities/src/getCachingDeviceAllocator.h", 
+            "HeterogeneousCore/CUDAUtilities/src/getCachingHostAllocator.h", 
+            "HeterogeneousCore/CUDAUtilities/src/requireCUDADevices.cc", 
+            "HeterogeneousCore/CUDAUtilities/test/BuildFile.xml", 
+            "HeterogeneousCore/CUDAUtilities/test/assert_t.cu", 
+            "HeterogeneousCore/CUDAUtilities/test/copyAsync_t.cpp", 
+            "HeterogeneousCore/CUDAUtilities/test/device_unique_ptr_t.cpp", 
+            "HeterogeneousCore/CUDAUtilities/test/host_noncached_unique_ptr_t.cpp", 
+            "HeterogeneousCore/CUDAUtilities/test/host_unique_ptr_t.cpp", 
+            "HeterogeneousCore/CUDAUtilities/test/memsetAsync_t.cpp", 
+            "HeterogeneousCore/CUDAUtilities/test/testCatch2Main.cpp"
+        ], 
+        "created_at": 1575407941, 
+        "number": 28537, 
+        "state": "open", 
+        "updated_at": 1575407974
     }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
