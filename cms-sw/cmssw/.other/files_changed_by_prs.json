@@ -2161,16 +2161,6 @@
         "state": "open", 
         "updated_at": 1575406439
     }, 
-    "28516": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Alignment/OfflineValidation/macros/FitPVResiduals.C"
-        ], 
-        "created_at": 1575277903, 
-        "number": 28516, 
-        "state": "open", 
-        "updated_at": 1575406547
-    }, 
     "28517": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
