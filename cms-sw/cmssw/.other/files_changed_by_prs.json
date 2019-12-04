@@ -2376,12 +2376,13 @@
             "FWCore/Framework/interface/Principal.h", 
             "FWCore/Framework/src/EventPrincipal.cc", 
             "FWCore/Framework/src/Principal.cc", 
+            "GeneratorInterface/LHEInterface/plugins/LHEProvenanceHelper.cc", 
             "IOPool/Streamer/src/StreamerInputSource.cc"
         ], 
         "created_at": 1575407815, 
         "number": 28536, 
         "state": "open", 
-        "updated_at": 1575407900
+        "updated_at": 1575470891
     }, 
     "28537": {
         "base_branch": "master", 
