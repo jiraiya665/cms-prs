@@ -1569,16 +1569,6 @@
         "state": "open", 
         "updated_at": 1575406633
     }, 
-    "28443": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "GeneratorInterface/GenFilters/plugins/LHEPtFilter.cc"
-        ], 
-        "created_at": 1574322365, 
-        "number": 28443, 
-        "state": "open", 
-        "updated_at": 1575406557
-    }, 
     "28448": {
         "base_branch": "master", 
         "changed_files_names": [
