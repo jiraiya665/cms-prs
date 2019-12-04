@@ -1552,22 +1552,23 @@
         "base_branch": "master", 
         "changed_files_names": [
             "CommonTools/BaseParticlePropagator/src/BaseParticlePropagator.cc", 
+            "DataFormats/ParticleFlowReco/interface/PFTrajectoryPoint.h", 
             "RecoParticleFlow/PFProducer/interface/KDTreeLinkerBase.h", 
             "RecoParticleFlow/PFProducer/interface/PFAlgo.h", 
             "RecoParticleFlow/PFProducer/plugins/PFProducer.cc", 
             "RecoParticleFlow/PFProducer/plugins/kdtrees/KDTreeLinkerPSEcal.cc", 
             "RecoParticleFlow/PFProducer/plugins/kdtrees/KDTreeLinkerTrackEcal.cc", 
-            "RecoParticleFlow/PFProducer/plugins/kdtrees/KDTreeLinkerTrackHF.cc", 
             "RecoParticleFlow/PFProducer/plugins/kdtrees/KDTreeLinkerTrackHcal.cc", 
-            "RecoParticleFlow/PFProducer/plugins/linkers/TrackAndHFLinker.cc", 
+            "RecoParticleFlow/PFProducer/plugins/linkers/TrackAndHCALLinker.cc", 
             "RecoParticleFlow/PFProducer/python/particleFlowBlock_cfi.py", 
             "RecoParticleFlow/PFProducer/src/PFAlgo.cc", 
+            "RecoParticleFlow/PFProducer/src/PFBlockAlgo.cc", 
             "RecoParticleFlow/PFTracking/src/PFTrackTransformer.cc"
         ], 
         "created_at": 1574308891, 
         "number": 28442, 
         "state": "open", 
-        "updated_at": 1575406633
+        "updated_at": 1575483453
     }, 
     "28448": {
         "base_branch": "master", 
