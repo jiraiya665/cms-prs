@@ -2867,6 +2867,17 @@
         "state": "open", 
         "updated_at": 1575408751
     }, 
+    "28539": {
+        "base_branch": "CMSSW_11_0_X", 
+        "changed_files_names": [
+            "Geometry/HcalCommonData/src/CaloDDDSimulationConstants.cc", 
+            "Geometry/HcalCommonData/src/HcalParametersFromDD.cc"
+        ], 
+        "created_at": 1575427850, 
+        "number": 28539, 
+        "state": "open", 
+        "updated_at": 1575427877
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
