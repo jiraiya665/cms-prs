@@ -1596,20 +1596,6 @@
         "state": "open", 
         "updated_at": 1575406449
     }, 
-    "28452": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Calibration/LumiAlCaRecoProducers/plugins/CorrPCCProducer.cc", 
-            "Calibration/LumiAlCaRecoProducers/test/BuildFile.xml", 
-            "Calibration/LumiAlCaRecoProducers/test/test.cpp", 
-            "Calibration/LumiAlCaRecoProducers/test/test.sh", 
-            "Calibration/LumiAlCaRecoProducers/test/test_cfg.py"
-        ], 
-        "created_at": 1574392396, 
-        "number": 28452, 
-        "state": "open", 
-        "updated_at": 1575406349
-    }, 
     "28456": {
         "base_branch": "master", 
         "changed_files_names": [
