@@ -2625,16 +2625,6 @@
         "state": "open", 
         "updated_at": 1575427877
     }, 
-    "28540": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/PyDevParameterSet/test/makepset_t.cppunit.cc"
-        ], 
-        "created_at": 1575444306, 
-        "number": 28540, 
-        "state": "open", 
-        "updated_at": 1575444336
-    }, 
     "28541": {
         "base_branch": "master", 
         "changed_files_names": [
