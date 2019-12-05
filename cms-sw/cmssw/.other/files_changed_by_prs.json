@@ -2627,16 +2627,6 @@
         "state": "open", 
         "updated_at": 1575427877
     }, 
-    "28541": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/Math/src/classes_def.xml"
-        ], 
-        "created_at": 1575446255, 
-        "number": 28541, 
-        "state": "open", 
-        "updated_at": 1575446297
-    }, 
     "28542": {
         "base_branch": "CMSSW_10_2_X", 
         "changed_files_names": [
