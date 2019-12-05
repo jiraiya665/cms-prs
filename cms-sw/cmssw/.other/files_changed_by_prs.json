@@ -2076,16 +2076,6 @@
         "state": "open", 
         "updated_at": 1575557870
     }, 
-    "28526": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "PhysicsTools/TensorFlow/test/BuildFile.xml"
-        ], 
-        "created_at": 1575366019, 
-        "number": 28526, 
-        "state": "open", 
-        "updated_at": 1575557874
-    }, 
     "28528": {
         "base_branch": "master", 
         "changed_files_names": [
