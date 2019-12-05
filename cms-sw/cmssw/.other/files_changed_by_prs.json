@@ -1397,6 +1397,7 @@
             "PhysicsTools/PatAlgos/plugins/PATTauProducer.h", 
             "PhysicsTools/PatAlgos/python/producersLayer1/tauProducer_cfi.py", 
             "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py", 
+            "PhysicsTools/PatAlgos/python/tools/tauTools.py", 
             "RecoTauTag/Configuration/python/HPSPFTaus_cff.py", 
             "RecoTauTag/Configuration/python/RecoTauTag_EventContent_cff.py", 
             "RecoTauTag/Configuration/python/boostedHPSPFTaus_cfi.py", 
@@ -1427,6 +1428,7 @@
             "RecoTauTag/RecoTau/python/PFRecoTauDiscriminationByMVAIsolation2_cff.py", 
             "RecoTauTag/RecoTau/python/PFRecoTauDiscriminationByMVAIsolationRun2_cff.py", 
             "RecoTauTag/RecoTau/python/PFTauSelector_cfi.py", 
+            "RecoTauTag/RecoTau/python/RecoTauDiscriminantCutMultiplexer_cfi.py", 
             "RecoTauTag/RecoTau/python/hpsPFTauDiscriminationByAMuonRejectionSimple_cff.py", 
             "RecoTauTag/RecoTau/python/tools/runTauIdMVA.py", 
             "RecoTauTag/RecoTau/src/DeepTauBase.cc", 
@@ -1439,7 +1441,7 @@
         "created_at": 1574090386, 
         "number": 28417, 
         "state": "open", 
-        "updated_at": 1575550553
+        "updated_at": 1575554295
     }, 
     "28427": {
         "base_branch": "master", 
