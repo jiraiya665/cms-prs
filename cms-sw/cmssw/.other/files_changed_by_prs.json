@@ -2155,16 +2155,6 @@
         "state": "open", 
         "updated_at": 1575557791
     }, 
-    "28523": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondFormats/L1TObjects/src/classes_def.xml"
-        ], 
-        "created_at": 1575309498, 
-        "number": 28523, 
-        "state": "open", 
-        "updated_at": 1575557509
-    }, 
     "28524": {
         "base_branch": "master", 
         "changed_files_names": [
