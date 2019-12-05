@@ -2803,13 +2803,14 @@
             "Validation/RecoMuon/src/MuonTrackResidualAnalyzer.h", 
             "Validation/RecoMuon/src/RecoMuonValidator.h", 
             "Validation/RecoParticleFlow/plugins/OffsetAnalyzerDQM.cc", 
+            "Validation/RecoParticleFlow/plugins/PFJetAnalyzerDQM.cc", 
             "Validation/SiTrackerPhase2V/plugins/Phase2TrackerValidateDigi.cc", 
             "Validation/SiTrackerPhase2V/plugins/Phase2TrackerValidateDigi.h"
         ], 
         "created_at": 1575478665, 
         "number": 28552, 
         "state": "open", 
-        "updated_at": 1575478728
+        "updated_at": 1575551509
     }, 
     "28554": {
         "base_branch": "master", 
