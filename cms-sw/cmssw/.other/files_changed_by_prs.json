@@ -2839,6 +2839,16 @@
         "state": "open", 
         "updated_at": 1575486695
     }, 
+    "28556": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Validation/HcalHits/src/SimHitsValidationHcal.cc"
+        ], 
+        "created_at": 1575549730, 
+        "number": 28556, 
+        "state": "open", 
+        "updated_at": 1575549790
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
