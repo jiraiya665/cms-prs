@@ -2238,16 +2238,6 @@
         "state": "open", 
         "updated_at": 1575557966
     }, 
-    "28532": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondCore/AlignmentPlugins/plugins/TrackerAlignment_PayloadInspector.cc"
-        ], 
-        "created_at": 1575391719, 
-        "number": 28532, 
-        "state": "open", 
-        "updated_at": 1575557847
-    }, 
     "28533": {
         "base_branch": "master", 
         "changed_files_names": [
