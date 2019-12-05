@@ -2167,7 +2167,6 @@
             "HeterogeneousCore/CUDAServices/test/BuildFile.xml", 
             "HeterogeneousCore/CUDAServices/test/testCUDAService.cpp", 
             "HeterogeneousCore/CUDAServices/test/testCUDAService.py", 
-            "HeterogeneousCore/CUDAServices/test/test_main.cc", 
             "HeterogeneousCore/CUDAServices/test/test_main.cpp", 
             "HeterogeneousCore/CUDATest/BuildFile.xml", 
             "HeterogeneousCore/CUDATest/interface/CUDAThing.h", 
@@ -2246,7 +2245,7 @@
         "created_at": 1575407941, 
         "number": 28537, 
         "state": "open", 
-        "updated_at": 1575557596
+        "updated_at": 1575578873
     }, 
     "28538": {
         "base_branch": "CMSSW_11_0_X", 
