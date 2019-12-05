@@ -2104,16 +2104,6 @@
         "state": "open", 
         "updated_at": 1575557605
     }, 
-    "28515": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondCore/SiStripPlugins/plugins/SiStripApvGain_PayloadInspector.cc"
-        ], 
-        "created_at": 1575277604, 
-        "number": 28515, 
-        "state": "open", 
-        "updated_at": 1575557894
-    }, 
     "28517": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
