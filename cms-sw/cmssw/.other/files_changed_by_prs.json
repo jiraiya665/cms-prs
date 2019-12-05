@@ -2204,18 +2204,6 @@
         "state": "open", 
         "updated_at": 1575557556
     }, 
-    "28530": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondCore/ESSources/test/TestConcurrentIOVsCondCore.sh", 
-            "CondCore/ESSources/test/stubs/TestConcurrentIOVsCondCore.cc", 
-            "CondCore/ESSources/test/unit_test_outputs/TestConcurrentIOVsCondCore.log"
-        ], 
-        "created_at": 1575387735, 
-        "number": 28530, 
-        "state": "open", 
-        "updated_at": 1575557647
-    }, 
     "28531": {
         "base_branch": "master", 
         "changed_files_names": [
