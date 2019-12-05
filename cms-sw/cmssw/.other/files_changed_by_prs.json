@@ -2547,19 +2547,6 @@
         "state": "open", 
         "updated_at": 1575557561
     }, 
-    "28551": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQMServices/FwkIO/plugins/DQMRootOutputModule.cc", 
-            "DQMServices/FwkIO/plugins/DQMRootSource.cc", 
-            "DQMServices/FwkIO/test/check_guid_file1.py", 
-            "DQMServices/FwkIO/test/run_tests.sh"
-        ], 
-        "created_at": 1575478123, 
-        "number": 28551, 
-        "state": "open", 
-        "updated_at": 1575557579
-    }, 
     "28552": {
         "base_branch": "master", 
         "changed_files_names": [
