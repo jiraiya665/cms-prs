@@ -2405,16 +2405,6 @@
         "state": "open", 
         "updated_at": 1575558575
     }, 
-    "28547": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQMServices/FileIO/scripts/visDQMUpload.py"
-        ], 
-        "created_at": 1575461283, 
-        "number": 28547, 
-        "state": "open", 
-        "updated_at": 1575557561
-    }, 
     "28552": {
         "base_branch": "master", 
         "changed_files_names": [
