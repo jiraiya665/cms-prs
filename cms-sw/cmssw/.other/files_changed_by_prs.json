@@ -1908,17 +1908,6 @@
         "state": "open", 
         "updated_at": 1575557556
     }, 
-    "28531": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CommonTools/Utils/test/ExpressionEvaluatorUnitTest.cpp", 
-            "CommonTools/Utils/test/testCutParser.cc"
-        ], 
-        "created_at": 1575389756, 
-        "number": 28531, 
-        "state": "open", 
-        "updated_at": 1575557966
-    }, 
     "28533": {
         "base_branch": "master", 
         "changed_files_names": [
