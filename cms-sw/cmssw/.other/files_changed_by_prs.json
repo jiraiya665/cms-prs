@@ -2397,18 +2397,6 @@
         "state": "open", 
         "updated_at": 1575558774
     }, 
-    "28554": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/Framework/interface/Event.h", 
-            "FWCore/Utilities/interface/thread_safety_macros.h", 
-            "Utilities/StaticAnalyzers/src/MutableMemberChecker.cpp"
-        ], 
-        "created_at": 1575485618, 
-        "number": 28554, 
-        "state": "open", 
-        "updated_at": 1575557590
-    }, 
     "28558": {
         "base_branch": "master", 
         "changed_files_names": [
