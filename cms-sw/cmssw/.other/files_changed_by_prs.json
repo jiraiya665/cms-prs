@@ -2499,16 +2499,6 @@
         "state": "open", 
         "updated_at": 1575557590
     }, 
-    "28556": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Validation/HcalHits/src/SimHitsValidationHcal.cc"
-        ], 
-        "created_at": 1575549730, 
-        "number": 28556, 
-        "state": "open", 
-        "updated_at": 1575557491
-    }, 
     "28558": {
         "base_branch": "master", 
         "changed_files_names": [
