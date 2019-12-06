@@ -1782,20 +1782,6 @@
         "state": "open", 
         "updated_at": 1575557801
     }, 
-    "28506": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HcalCommonData/interface/HcalGeomParameters.h", 
-            "Geometry/HcalCommonData/interface/HcalParametersFromDD.h", 
-            "Geometry/HcalCommonData/src/HcalGeomParameters.cc", 
-            "Geometry/HcalCommonData/src/HcalParametersFromDD.cc", 
-            "Geometry/HcalCommonData/test/python/runHcalParametersFromDD4HepAnalyzer_cfg.py"
-        ], 
-        "created_at": 1574997558, 
-        "number": 28506, 
-        "state": "open", 
-        "updated_at": 1575557585
-    }, 
     "28512": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
