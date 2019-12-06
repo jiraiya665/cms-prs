@@ -2324,16 +2324,6 @@
         "state": "open", 
         "updated_at": 1575578863
     }, 
-    "28544": {
-        "base_branch": "CMSSW_7_1_X", 
-        "changed_files_names": [
-            "GeneratorInterface/GenFilters/src/LHEPtFilter.cc"
-        ], 
-        "created_at": 1575449302, 
-        "number": 28544, 
-        "state": "open", 
-        "updated_at": 1575558575
-    }, 
     "28552": {
         "base_branch": "master", 
         "changed_files_names": [
