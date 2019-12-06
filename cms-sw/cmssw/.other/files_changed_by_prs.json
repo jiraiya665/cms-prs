@@ -1413,33 +1413,6 @@
         "state": "open", 
         "updated_at": 1575557759
     }, 
-    "28448": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondFormats/SiPixelTransient/interface/SiPixelGenError.h", 
-            "CondFormats/SiPixelTransient/interface/SiPixelTemplate.h", 
-            "CondFormats/SiPixelTransient/interface/SiPixelTemplateDefs.h", 
-            "Configuration/AlCa/python/autoCondPhase2.py", 
-            "DQM/TrackingMonitor/python/trackingRecoMaterialAnalyzer_cfi.py", 
-            "RecoEgamma/EgammaElectronProducers/python/lowPtGsfElectronSeeds_cfi.py", 
-            "RecoLocalTracker/SiPixelRecHits/python/PixelCPEClusterRepair_cfi.py", 
-            "RecoLocalTracker/SiPixelRecHits/python/PixelCPEGeneric_cfi.py", 
-            "RecoLocalTracker/SiPixelRecHits/python/PixelCPETemplateReco_cfi.py", 
-            "RecoMuon/Configuration/python/MergeDisplacedTrackCollections_cff.py", 
-            "RecoMuon/GlobalTrackingTools/python/GlobalMuonRefitter_cff.py", 
-            "RecoMuon/GlobalTrackingTools/python/GlobalTrajectoryBuilderCommon_cff.py", 
-            "RecoMuon/MuonIdentification/python/TrackerKinkFinder_cfi.py", 
-            "RecoMuon/TrackingTools/python/MuonTrackLoader_cff.py", 
-            "RecoParticleFlow/PFTracking/python/trackerDrivenElectronSeeds_cfi.py", 
-            "RecoTracker/FinalTrackSelectors/python/MergeTrackCollections_cff.py", 
-            "RecoTracker/SpecialSeedGenerators/python/inOutSeedsFromTrackerMuons_cfi.py", 
-            "RecoTracker/TrackProducer/python/TrackProducer_cfi.py"
-        ], 
-        "created_at": 1574369978, 
-        "number": 28448, 
-        "state": "open", 
-        "updated_at": 1575557495
-    }, 
     "28461": {
         "base_branch": "master", 
         "changed_files_names": [
