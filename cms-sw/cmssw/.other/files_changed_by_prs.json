@@ -1908,16 +1908,6 @@
         "state": "open", 
         "updated_at": 1575557556
     }, 
-    "28533": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "TrackingTools/KalmanUpdators/test/KFUpdator_t.cpp"
-        ], 
-        "created_at": 1575392335, 
-        "number": 28533, 
-        "state": "open", 
-        "updated_at": 1575557853
-    }, 
     "28535": {
         "base_branch": "master", 
         "changed_files_names": [
