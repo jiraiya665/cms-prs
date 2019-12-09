@@ -1718,26 +1718,6 @@
         "state": "open", 
         "updated_at": 1575651753
     }, 
-    "28536": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/Provenance/interface/BranchDescription.h", 
-            "DataFormats/Provenance/interface/ProductProvenance.h", 
-            "DataFormats/Provenance/interface/ProductProvenanceRetriever.h", 
-            "DataFormats/Provenance/src/ProductProvenanceRetriever.cc", 
-            "DataFormats/Streamer/src/StreamedProducts.cc", 
-            "FWCore/Framework/interface/EventPrincipal.h", 
-            "FWCore/Framework/interface/Principal.h", 
-            "FWCore/Framework/src/EventPrincipal.cc", 
-            "FWCore/Framework/src/Principal.cc", 
-            "GeneratorInterface/LHEInterface/plugins/LHEProvenanceHelper.cc", 
-            "IOPool/Streamer/src/StreamerInputSource.cc"
-        ], 
-        "created_at": 1575407815, 
-        "number": 28536, 
-        "state": "open", 
-        "updated_at": 1575557835
-    }, 
     "28537": {
         "base_branch": "master", 
         "changed_files_names": [
