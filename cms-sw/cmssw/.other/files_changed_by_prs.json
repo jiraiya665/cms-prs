@@ -888,17 +888,6 @@
         "state": "open", 
         "updated_at": 1575557903
     }, 
-    "28201": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "GeneratorInterface/GenFilters/python/pMSSMFilter_cfi.py", 
-            "GeneratorInterface/GenFilters/src/pMSSMFilter.cc"
-        ], 
-        "created_at": 1571315015, 
-        "number": 28201, 
-        "state": "open", 
-        "updated_at": 1575625569
-    }, 
     "28214": {
         "base_branch": "master", 
         "changed_files_names": [
