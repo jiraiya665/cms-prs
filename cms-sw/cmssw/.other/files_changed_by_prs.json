@@ -1237,17 +1237,6 @@
         "state": "open", 
         "updated_at": 1575557724
     }, 
-    "28430": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "PhysicsTools/NanoAOD/plugins/PileupJetIDVarProducer.cc", 
-            "PhysicsTools/NanoAOD/python/custom_jme_cff.py"
-        ], 
-        "created_at": 1574231060, 
-        "number": 28430, 
-        "state": "open", 
-        "updated_at": 1575557545
-    }, 
     "28435": {
         "base_branch": "master", 
         "changed_files_names": [
