@@ -1037,18 +1037,6 @@
         "state": "open", 
         "updated_at": 1575989509
     }, 
-    "28409": {
-        "base_branch": "CMSSW_10_2_X", 
-        "changed_files_names": [
-            "GeneratorInterface/RivetInterface/interface/RivetAnalysis.h", 
-            "GeneratorInterface/RivetInterface/python/particleLevel_cfi.py", 
-            "PhysicsTools/NanoAOD/python/particlelevel_cff.py"
-        ], 
-        "created_at": 1573836056, 
-        "number": 28409, 
-        "state": "open", 
-        "updated_at": 1575989623
-    }, 
     "28417": {
         "base_branch": "master", 
         "changed_files_names": [
