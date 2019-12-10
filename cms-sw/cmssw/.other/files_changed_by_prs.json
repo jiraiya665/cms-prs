@@ -2497,6 +2497,7 @@
             "L1Trigger/L1TGlobal/src/L1TGlobalUtil.cc", 
             "L1Trigger/L1TGlobal/src/L1TGlobalUtilHelper.cc", 
             "L1Trigger/L1TNtuples/plugins/L1MenuTreeProducer.cc", 
+            "PhysicsTools/PatAlgos/python/patTemplate_cfg.py", 
             "PhysicsTools/PatAlgos/python/triggerLayer1/triggerProducer_cfi.py", 
             "Validation/RecoTau/src/TauTagValidation.cc", 
             "Validation/RecoVertex/python/anotherprimaryvertexanalyzer_cfi.py"
@@ -2504,7 +2505,7 @@
         "created_at": 1575927475, 
         "number": 28592, 
         "state": "open", 
-        "updated_at": 1575989877
+        "updated_at": 1576007829
     }, 
     "28593": {
         "base_branch": "master", 
