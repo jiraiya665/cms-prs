@@ -2538,12 +2538,14 @@
         "changed_files_names": [
             "DQMServices/Components/plugins/DQMFileSaver.cc", 
             "DQMServices/Components/plugins/DQMFileSaver.h", 
-            "DQMServices/Components/plugins/SealModule.cc"
+            "DQMServices/Components/plugins/SealModule.cc", 
+            "DQMServices/Core/interface/MonitorElement.h", 
+            "DQMServices/Core/interface/QReport.h"
         ], 
         "created_at": 1575914465, 
         "number": 28588, 
         "state": "open", 
-        "updated_at": 1575914497
+        "updated_at": 1575971131
     }, 
     "28589": {
         "base_branch": "CMSSW_10_2_X", 
