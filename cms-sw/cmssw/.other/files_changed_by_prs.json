@@ -1611,12 +1611,13 @@
             "Configuration/EventContent/python/AlCaRecoOutput_RelVal_cff.py", 
             "Configuration/EventContent/python/AlCaRecoOutput_cff.py", 
             "Configuration/PyReleaseValidation/python/relval_steps.py", 
+            "Configuration/StandardSequences/python/AlCaRecoStreamsHeavyIons_cff.py", 
             "Configuration/StandardSequences/python/AlCaRecoStreams_cff.py"
         ], 
         "created_at": 1575401364, 
         "number": 28535, 
         "state": "open", 
-        "updated_at": 1575651753
+        "updated_at": 1575989373
     }, 
     "28537": {
         "base_branch": "master", 
