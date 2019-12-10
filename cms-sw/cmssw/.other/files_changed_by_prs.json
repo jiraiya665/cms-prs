@@ -2098,16 +2098,6 @@
         "state": "open", 
         "updated_at": 1575632385
     }, 
-    "28570": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1Trigger/L1THGCal/src/backend/HGCalShowerShape.cc"
-        ], 
-        "created_at": 1575633736, 
-        "number": 28570, 
-        "state": "open", 
-        "updated_at": 1575633788
-    }, 
     "28572": {
         "base_branch": "master", 
         "changed_files_names": [
