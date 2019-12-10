@@ -2452,9 +2452,9 @@
             "FWCore/GuiBrowsers/test/testShare.py", 
             "FWCore/GuiBrowsers/test/testViews.py", 
             "FWCore/GuiBrowsers/test/test_parameterssets.py", 
-            "FWCore/Utilities/python/ConfigToolBase.py", 
             "FWCore/Utilities/scripts/cfg-viewer.py", 
             "FWCore/Utilities/test/BuildFile.xml", 
+            "PhysicsTools/PatAlgos/python/tools/ConfigToolBase.py", 
             "PhysicsTools/PatAlgos/python/tools/cmsswVersionTools.py", 
             "PhysicsTools/PatAlgos/python/tools/coreTools.py", 
             "PhysicsTools/PatAlgos/python/tools/heavyIonTools.py", 
@@ -2473,7 +2473,7 @@
         "created_at": 1575884539, 
         "number": 28584, 
         "state": "open", 
-        "updated_at": 1575901280
+        "updated_at": 1575971167
     }, 
     "28586": {
         "base_branch": "CMSSW_11_0_X", 
