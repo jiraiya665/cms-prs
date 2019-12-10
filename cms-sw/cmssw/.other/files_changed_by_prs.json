@@ -2642,6 +2642,17 @@
         "state": "open", 
         "updated_at": 1575927523
     }, 
+    "28593": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "GeneratorInterface/GenFilters/plugins/ModelpMSSMFilter.cc", 
+            "GeneratorInterface/GenFilters/python/ModelpMSSMFilter_cfi.py"
+        ], 
+        "created_at": 1575967421, 
+        "number": 28593, 
+        "state": "open", 
+        "updated_at": 1575967479
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
