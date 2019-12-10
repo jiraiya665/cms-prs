@@ -2587,6 +2587,16 @@
         "state": "open", 
         "updated_at": 1575975472
     }, 
+    "28596": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Documentation/ReferenceManualScripts/scripts/generate_reference_manual"
+        ], 
+        "created_at": 1575981425, 
+        "number": 28596, 
+        "state": "open", 
+        "updated_at": 1575981506
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
