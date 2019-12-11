@@ -2451,17 +2451,6 @@
         "state": "open", 
         "updated_at": 1576025755
     }, 
-    "28595": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/StandardSequences/python/Mixing.py", 
-            "SimGeneral/MixingModule/python/mix_2016_25ns_UltraLegacy_PoissonOOTPU_cfi.py"
-        ], 
-        "created_at": 1575975446, 
-        "number": 28595, 
-        "state": "open", 
-        "updated_at": 1576025481
-    }, 
     "28596": {
         "base_branch": "master", 
         "changed_files_names": [
