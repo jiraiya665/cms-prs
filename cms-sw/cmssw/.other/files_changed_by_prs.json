@@ -2565,18 +2565,6 @@
         "state": "open", 
         "updated_at": 1576085950
     }, 
-    "28611": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HcalAlgo/data/cms-test-ddhcalHB-algorithm.xml", 
-            "Geometry/HcalAlgo/plugins/DDHCalBarrelAlgo.cc", 
-            "Geometry/HcalAlgo/plugins/dd4hep/DDHCalBarrelAlgo.cc"
-        ], 
-        "created_at": 1576124362, 
-        "number": 28611, 
-        "state": "open", 
-        "updated_at": 1576124416
-    }, 
     "28612": {
         "base_branch": "master", 
         "changed_files_names": [
