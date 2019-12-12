@@ -2642,19 +2642,6 @@
         "state": "open", 
         "updated_at": 1576025815
     }, 
-    "28594": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQMOffline/Hcal/src/CaloTowersAnalyzer.cc", 
-            "DQMOffline/Hcal/src/HcalRecHitsAnalyzer.cc", 
-            "Validation/Configuration/python/globalValidation_cff.py", 
-            "Validation/HcalDigis/src/HcalDigisValidation.cc"
-        ], 
-        "created_at": 1575967954, 
-        "number": 28594, 
-        "state": "open", 
-        "updated_at": 1576025755
-    }, 
     "28596": {
         "base_branch": "master", 
         "changed_files_names": [
