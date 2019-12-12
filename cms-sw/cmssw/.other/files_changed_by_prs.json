@@ -1481,6 +1481,7 @@
             "Calibration/TkAlCaRecoProducers/python/ALCARECOSiPixelLorentzAngle_Output_cff.py", 
             "Calibration/TkAlCaRecoProducers/python/ALCARECOSiPixelLorentzAngle_cff.py", 
             "Calibration/TkAlCaRecoProducers/python/SiPixelLorentzAngleHLTFilter_cfi.py", 
+            "Configuration/AlCa/python/autoAlca.py", 
             "Configuration/AlCa/python/autoCond.py", 
             "Configuration/EventContent/python/AlCaRecoOutput_RelVal_cff.py", 
             "Configuration/EventContent/python/AlCaRecoOutput_cff.py", 
@@ -1491,7 +1492,7 @@
         "created_at": 1575401364, 
         "number": 28535, 
         "state": "open", 
-        "updated_at": 1576146271
+        "updated_at": 1576147714
     }, 
     "28537": {
         "base_branch": "master", 
