@@ -3468,6 +3468,16 @@
         "state": "open", 
         "updated_at": 1576244897
     }, 
+    "28623": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DetectorDescription/DDCMS/src/DDNamespace.cc"
+        ], 
+        "created_at": 1576260750, 
+        "number": 28623, 
+        "state": "open", 
+        "updated_at": 1576260807
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
