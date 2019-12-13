@@ -1943,39 +1943,6 @@
         "state": "open", 
         "updated_at": 1576250122
     }, 
-    "28583": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Fireworks/Calo/BuildFile.xml", 
-            "Fireworks/Calo/plugins/BuildFile.xml", 
-            "Fireworks/Candidates/BuildFile.xml", 
-            "Fireworks/Candidates/plugins/BuildFile.xml", 
-            "Fireworks/Core/BuildFile.xml", 
-            "Fireworks/Core/bin/BuildFile.xml", 
-            "Fireworks/Electrons/BuildFile.xml", 
-            "Fireworks/Electrons/plugins/BuildFile.xml", 
-            "Fireworks/Eve/BuildFile.xml", 
-            "Fireworks/Eve/plugins/BuildFile.xml", 
-            "Fireworks/FWInterface/BuildFile.xml", 
-            "Fireworks/FWInterface/plugins/BuildFile.xml", 
-            "Fireworks/GenParticle/plugins/BuildFile.xml", 
-            "Fireworks/Geometry/BuildFile.xml", 
-            "Fireworks/Geometry/plugins/BuildFile.xml", 
-            "Fireworks/Muons/BuildFile.xml", 
-            "Fireworks/Muons/plugins/BuildFile.xml", 
-            "Fireworks/ParticleFlow/BuildFile.xml", 
-            "Fireworks/ParticleFlow/plugins/BuildFile.xml", 
-            "Fireworks/SimData/plugins/BuildFile.xml", 
-            "Fireworks/Tracks/BuildFile.xml", 
-            "Fireworks/Tracks/plugins/BuildFile.xml", 
-            "Fireworks/Vertices/BuildFile.xml", 
-            "Fireworks/Vertices/plugins/BuildFile.xml"
-        ], 
-        "created_at": 1575878212, 
-        "number": 28583, 
-        "state": "open", 
-        "updated_at": 1576025668
-    }, 
     "28584": {
         "base_branch": "master", 
         "changed_files_names": [
