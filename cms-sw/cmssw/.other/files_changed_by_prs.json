@@ -1202,6 +1202,7 @@
         "base_branch": "master", 
         "changed_files_names": [
             "DataFormats/CaloRecHit/interface/CaloCluster.h", 
+            "DataFormats/Math/interface/constexpr_cmath.h", 
             "RecoLocalCalo/Configuration/python/RecoLocalCalo_EventContent_cff.py", 
             "RecoLocalCalo/Configuration/python/hgcalLocalReco_cff.py", 
             "RecoLocalCalo/HGCalRecProducers/interface/HFNoseTilesConstants.h", 
@@ -1216,7 +1217,7 @@
         "created_at": 1574700970, 
         "number": 28468, 
         "state": "open", 
-        "updated_at": 1576025727
+        "updated_at": 1576236786
     }, 
     "28470": {
         "base_branch": "master", 
