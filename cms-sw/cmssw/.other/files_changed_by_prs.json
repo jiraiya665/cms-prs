@@ -1535,7 +1535,6 @@
             "HeterogeneousCore/CUDATest/src/classes.h", 
             "HeterogeneousCore/CUDATest/src/classes_def.xml", 
             "HeterogeneousCore/CUDATest/test/BuildFile.xml", 
-            "HeterogeneousCore/CUDATest/test/TestCUDATest.cc", 
             "HeterogeneousCore/CUDATest/test/runtests.sh", 
             "HeterogeneousCore/CUDATest/test/testCUDASwitch_cfg.py", 
             "HeterogeneousCore/CUDATest/test/test_TestCUDAProducerGPUFirst.cc", 
@@ -1583,7 +1582,7 @@
         "created_at": 1575407941, 
         "number": 28537, 
         "state": "open", 
-        "updated_at": 1576025720
+        "updated_at": 1576265125
     }, 
     "28538": {
         "base_branch": "CMSSW_11_0_X", 
