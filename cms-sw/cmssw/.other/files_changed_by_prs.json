@@ -2897,20 +2897,6 @@
         "state": "open", 
         "updated_at": 1576173304
     }, 
-    "28619": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Validation/Geometry/test/genTrackerPlots.sh", 
-            "Validation/Geometry/test/runMaterialDumpAnalyser.sh", 
-            "Validation/Geometry/test/runMaterialDumpAnalyser_PhaseI.sh", 
-            "Validation/Geometry/test/runMaterialDumpAnalyser_PhaseII.sh", 
-            "Validation/Geometry/test/runP_Tracker.py"
-        ], 
-        "created_at": 1576174068, 
-        "number": 28619, 
-        "state": "open", 
-        "updated_at": 1576174099
-    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
