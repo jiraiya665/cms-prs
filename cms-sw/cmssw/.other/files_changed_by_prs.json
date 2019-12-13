@@ -2459,18 +2459,6 @@
         "state": "open", 
         "updated_at": 1576039107
     }, 
-    "28606": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/L1TrackTrigger/BuildFile.xml", 
-            "DataFormats/RecoCandidate/BuildFile.xml", 
-            "DataFormats/TrackerCommon/BuildFile.xml"
-        ], 
-        "created_at": 1576055214, 
-        "number": 28606, 
-        "state": "open", 
-        "updated_at": 1576055259
-    }, 
     "28607": {
         "base_branch": "CMSSW_8_0_X", 
         "changed_files_names": [
