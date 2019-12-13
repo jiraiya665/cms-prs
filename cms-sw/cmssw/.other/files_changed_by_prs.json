@@ -2224,12 +2224,13 @@
             "DQMServices/Core/src/LegacyIOHelper.cc", 
             "DQMServices/FileIO/plugins/DQMFileSaverOnline.cc", 
             "DQMServices/FileIO/plugins/DQMFileSaverPB.cc", 
-            "DQMServices/FileIO/plugins/DQMFileSaverPB.h"
+            "DQMServices/FileIO/plugins/DQMFileSaverPB.h", 
+            "DQMServices/FileIO/python/DQMFileSaverPB_cfi.py"
         ], 
         "created_at": 1575914465, 
         "number": 28588, 
         "state": "open", 
-        "updated_at": 1576025800
+        "updated_at": 1576257397
     }, 
     "28589": {
         "base_branch": "CMSSW_10_2_X", 
