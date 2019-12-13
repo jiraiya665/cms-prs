@@ -2830,21 +2830,6 @@
         "state": "open", 
         "updated_at": 1576170777
     }, 
-    "28618": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/Common/interface/ProductData.h", 
-            "DataFormats/Provenance/interface/FileIndex.h", 
-            "DataFormats/Provenance/interface/IndexIntoFile.h", 
-            "DataFormats/Provenance/src/IndexIntoFile.cc", 
-            "FWCore/Framework/interface/LuminosityBlock.h", 
-            "FWCore/MessageLogger/src/MessageDrop.cc"
-        ], 
-        "created_at": 1576173249, 
-        "number": 28618, 
-        "state": "open", 
-        "updated_at": 1576173304
-    }, 
     "28621": {
         "base_branch": "master", 
         "changed_files_names": [
