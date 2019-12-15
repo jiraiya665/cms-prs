@@ -3396,6 +3396,24 @@
         "state": "open", 
         "updated_at": 1576267660
     }, 
+    "28625": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoPixelVertexing/PixelVertexFinding/BuildFile.xml", 
+            "RecoPixelVertexing/PixelVertexFinding/plugins/BuildFile.xml", 
+            "RecoPixelVertexing/PixelVertexFinding/plugins/FastPrimaryVertexProducer.cc", 
+            "RecoPixelVertexing/PixelVertexFinding/plugins/FastPrimaryVertexWithWeightsProducer.cc", 
+            "RecoPixelVertexing/PixelVertexFinding/plugins/JetVertexChecker.cc", 
+            "RecoPixelVertexing/PixelVertexFinding/plugins/PixelVertexCollectionTrimmer.cc", 
+            "RecoPixelVertexing/PixelVertexFinding/plugins/PixelVertexProducer.cc", 
+            "RecoPixelVertexing/PixelVertexFinding/plugins/PixelVertexProducer.h", 
+            "RecoPixelVertexing/PixelVertexFinding/src/SealModules.cc"
+        ], 
+        "created_at": 1576424908, 
+        "number": 28625, 
+        "state": "open", 
+        "updated_at": 1576424966
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
