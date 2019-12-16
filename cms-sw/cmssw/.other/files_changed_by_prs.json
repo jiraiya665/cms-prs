@@ -2786,18 +2786,6 @@
         "state": "open", 
         "updated_at": 1576146999
     }, 
-    "28615": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibPPS/ESProducers/plugins/CTPPSLHCInfoRandomXangleESSource.cc", 
-            "Configuration/Generator/python/randomXiThetaGunProducer_cfi.py", 
-            "Validation/CTPPS/python/simu_config/base_cff.py"
-        ], 
-        "created_at": 1576159041, 
-        "number": 28615, 
-        "state": "open", 
-        "updated_at": 1576159096
-    }, 
     "28617": {
         "base_branch": "master", 
         "changed_files_names": [
