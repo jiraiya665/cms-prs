@@ -2786,17 +2786,6 @@
         "state": "open", 
         "updated_at": 1576146999
     }, 
-    "28617": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/SiPixelDetId/interface/PixelChannelIdentifier.h", 
-            "DataFormats/SiPixelDetId/src/PixelChannelIdentifier.cc"
-        ], 
-        "created_at": 1576170709, 
-        "number": 28617, 
-        "state": "open", 
-        "updated_at": 1576170777
-    }, 
     "28621": {
         "base_branch": "master", 
         "changed_files_names": [
