@@ -275,16 +275,6 @@
         "state": "open", 
         "updated_at": 1576025601
     }, 
-    "27962": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/Catalog/BuildFile.xml"
-        ], 
-        "created_at": 1568123217, 
-        "number": 27962, 
-        "state": "open", 
-        "updated_at": 1576025744
-    }, 
     "27983": {
         "base_branch": "CMSSW_11_0_X", 
         "changed_files_names": [
