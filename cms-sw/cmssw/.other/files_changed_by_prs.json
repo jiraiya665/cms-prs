@@ -3161,24 +3161,6 @@
         "state": "open", 
         "updated_at": 1576565481
     }, 
-    "28631": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/FWLite/interface/DataGetterHelper.h", 
-            "DataFormats/FWLite/interface/Event.h", 
-            "DataFormats/FWLite/interface/EventSetup.h", 
-            "DataFormats/FWLite/interface/LuminosityBlock.h", 
-            "DataFormats/FWLite/interface/Record.h", 
-            "DataFormats/FWLite/interface/Run.h", 
-            "DataFormats/FWLite/interface/RunFactory.h", 
-            "DataFormats/FWLite/src/DataGetterHelper.cc", 
-            "DataFormats/FWLite/src/IOVSyncValue.cc"
-        ], 
-        "created_at": 1576509377, 
-        "number": 28631, 
-        "state": "open", 
-        "updated_at": 1576565753
-    }, 
     "28633": {
         "base_branch": "master", 
         "changed_files_names": [
