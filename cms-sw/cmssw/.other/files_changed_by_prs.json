@@ -2037,17 +2037,6 @@
         "state": "open", 
         "updated_at": 1576565628
     }, 
-    "28600": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1Trigger/CSCTriggerPrimitives/interface/CSCPatternBank.h", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCPatternBank.cc"
-        ], 
-        "created_at": 1575994856, 
-        "number": 28600, 
-        "state": "open", 
-        "updated_at": 1576565773
-    }, 
     "28602": {
         "base_branch": "CMSSW_9_3_X", 
         "changed_files_names": [
