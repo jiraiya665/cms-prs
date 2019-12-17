@@ -1123,20 +1123,6 @@
         "state": "open", 
         "updated_at": 1576565550
     }, 
-    "28472": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1Trigger/CSCTriggerPrimitives/interface/CSCBaseboard.h", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCAnodeLCTProcessor.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCBaseboard.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCCathodeLCTProcessor.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCMotherboard.cc"
-        ], 
-        "created_at": 1574725486, 
-        "number": 28472, 
-        "state": "open", 
-        "updated_at": 1576565777
-    }, 
     "28477": {
         "base_branch": "master", 
         "changed_files_names": [
