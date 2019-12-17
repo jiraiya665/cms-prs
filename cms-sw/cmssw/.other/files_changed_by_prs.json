@@ -3087,6 +3087,28 @@
         "state": "open", 
         "updated_at": 1576599417
     }, 
+    "28642": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DetectorDescription/DDCMS/plugins/DDCompactViewMFESProducer.cc", 
+            "DetectorDescription/DDCMS/test/python/testMFGeometry.py", 
+            "MagneticField/Engine/python/volumeBasedMagneticField_71212_cfi.py", 
+            "MagneticField/Engine/python/volumeBasedMagneticField_dd4hep_160812_cfi.py", 
+            "MagneticField/Engine/test/regression.py", 
+            "MagneticField/Engine/test/testMagneticField.cc", 
+            "MagneticField/GeomBuilder/data/cms-mf-geometry_160812.xml", 
+            "MagneticField/GeomBuilder/data/cms-mf-geometry_71212.xml", 
+            "MagneticField/GeomBuilder/plugins/VolumeBasedMagneticFieldESProducerFromDB.cc", 
+            "MagneticField/GeomBuilder/python/cmsMagneticFieldXML_1103l_cfi.py", 
+            "MagneticField/GeomBuilder/test/python/testMagGeometry.py", 
+            "MagneticField/GeomBuilder/test/python/testMagGeometryOldDD.py", 
+            "SimPPS/PPSPixelDigiProducer/test/FromGun2DigiAnal_.py"
+        ], 
+        "created_at": 1576602749, 
+        "number": 28642, 
+        "state": "open", 
+        "updated_at": 1576602795
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
