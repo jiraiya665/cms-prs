@@ -2022,34 +2022,6 @@
         "state": "open", 
         "updated_at": 1576572708
     }, 
-    "28597": {
-        "base_branch": "CMSSW_9_4_X", 
-        "changed_files_names": [
-            "FWCore/Framework/python/test/cmsExceptionsFatalOption_cff.py", 
-            "FWCore/MessageLogger/scripts/edmFjrDump", 
-            "FWCore/Utilities/interface/EDMException.h", 
-            "FWCore/Utilities/interface/stemFromPath.h", 
-            "FWCore/Utilities/src/EDMException.cc", 
-            "FWCore/Utilities/src/stemFromPath.cc", 
-            "FWCore/Utilities/test/BuildFile.xml", 
-            "FWCore/Utilities/test/test_stemFromPath.cc", 
-            "IOPool/Input/src/RootEmbeddedFileSequence.cc", 
-            "IOPool/Input/src/RootEmbeddedFileSequence.h", 
-            "IOPool/Input/src/RootFile.cc", 
-            "IOPool/Input/src/RootFile.h", 
-            "IOPool/Input/src/RootPrimaryFileSequence.cc", 
-            "IOPool/Input/src/RootPrimaryFileSequence.h", 
-            "IOPool/Input/src/RootSecondaryFileSequence.cc", 
-            "IOPool/Input/src/RootSecondaryFileSequence.h", 
-            "IOPool/Input/test/PoolGUIDTest_cfg.py", 
-            "IOPool/Input/test/PrePoolInputTest_cfg.py", 
-            "IOPool/Input/test/TestPoolInput.sh"
-        ], 
-        "created_at": 1575985538, 
-        "number": 28597, 
-        "state": "open", 
-        "updated_at": 1576248710
-    }, 
     "28599": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
