@@ -46,7 +46,7 @@
         "created_at": 1526474805, 
         "number": 23219, 
         "state": "open", 
-        "updated_at": 1576565632
+        "updated_at": 1576572887
     }, 
     "24389": {
         "base_branch": "master", 
@@ -64,7 +64,7 @@
         "created_at": 1535178144, 
         "number": 24389, 
         "state": "open", 
-        "updated_at": 1576565649
+        "updated_at": 1576572915
     }, 
     "25912": {
         "base_branch": "master", 
@@ -245,7 +245,7 @@
         "created_at": 1564738426, 
         "number": 27677, 
         "state": "open", 
-        "updated_at": 1576565519
+        "updated_at": 1576572744
     }, 
     "27955": {
         "base_branch": "master", 
@@ -263,7 +263,7 @@
         "created_at": 1568030413, 
         "number": 27955, 
         "state": "open", 
-        "updated_at": 1576565514
+        "updated_at": 1576572738
     }, 
     "27983": {
         "base_branch": "CMSSW_11_0_X", 
@@ -723,7 +723,7 @@
         "created_at": 1568296225, 
         "number": 27983, 
         "state": "open", 
-        "updated_at": 1576565566
+        "updated_at": 1576572804
     }, 
     "28040": {
         "base_branch": "master", 
@@ -737,7 +737,7 @@
         "created_at": 1568984199, 
         "number": 28040, 
         "state": "open", 
-        "updated_at": 1576566350
+        "updated_at": 1576573024
     }, 
     "28059": {
         "base_branch": "master", 
@@ -752,7 +752,7 @@
         "created_at": 1569307794, 
         "number": 28059, 
         "state": "open", 
-        "updated_at": 1576566427
+        "updated_at": 1576573031
     }, 
     "28190": {
         "base_branch": "master", 
@@ -779,7 +779,7 @@
         "created_at": 1571246447, 
         "number": 28190, 
         "state": "open", 
-        "updated_at": 1576565670
+        "updated_at": 1576572944
     }, 
     "28214": {
         "base_branch": "master", 
@@ -800,7 +800,7 @@
         "created_at": 1571410412, 
         "number": 28214, 
         "state": "open", 
-        "updated_at": 1576565723
+        "updated_at": 1576572981
     }, 
     "28279": {
         "base_branch": "master", 
@@ -819,7 +819,7 @@
         "created_at": 1572012327, 
         "number": 28279, 
         "state": "open", 
-        "updated_at": 1576565681
+        "updated_at": 1576572952
     }, 
     "28313": {
         "base_branch": "master", 
@@ -896,7 +896,7 @@
         "created_at": 1573562628, 
         "number": 28380, 
         "state": "open", 
-        "updated_at": 1576565716
+        "updated_at": 1576572973
     }, 
     "28407": {
         "base_branch": "master", 
@@ -919,7 +919,7 @@
         "created_at": 1573830474, 
         "number": 28407, 
         "state": "open", 
-        "updated_at": 1576565473
+        "updated_at": 1576572731
     }, 
     "28417": {
         "base_branch": "master", 
@@ -997,7 +997,7 @@
         "created_at": 1574090386, 
         "number": 28417, 
         "state": "open", 
-        "updated_at": 1576565600
+        "updated_at": 1576572842
     }, 
     "28429": {
         "base_branch": "master", 
@@ -1026,7 +1026,7 @@
         "created_at": 1574223459, 
         "number": 28429, 
         "state": "open", 
-        "updated_at": 1576565617
+        "updated_at": 1576572869
     }, 
     "28435": {
         "base_branch": "master", 
@@ -1055,7 +1055,7 @@
         "created_at": 1574262710, 
         "number": 28435, 
         "state": "open", 
-        "updated_at": 1576565710
+        "updated_at": 1576572940
     }, 
     "28438": {
         "base_branch": "CMSSW_10_2_X", 
@@ -1089,7 +1089,7 @@
         "created_at": 1574308891, 
         "number": 28442, 
         "state": "open", 
-        "updated_at": 1576565697
+        "updated_at": 1576572964
     }, 
     "28468": {
         "base_branch": "master", 
@@ -1110,7 +1110,7 @@
         "created_at": 1574700970, 
         "number": 28468, 
         "state": "open", 
-        "updated_at": 1576565555
+        "updated_at": 1576572791
     }, 
     "28470": {
         "base_branch": "master", 
@@ -1121,7 +1121,7 @@
         "created_at": 1574716771, 
         "number": 28470, 
         "state": "open", 
-        "updated_at": 1576565550
+        "updated_at": 1576572777
     }, 
     "28477": {
         "base_branch": "master", 
@@ -1248,7 +1248,7 @@
         "created_at": 1574766166, 
         "number": 28477, 
         "state": "open", 
-        "updated_at": 1576565654
+        "updated_at": 1576572929
     }, 
     "28485": {
         "base_branch": "CMSSW_10_6_X", 
@@ -1261,7 +1261,7 @@
         "created_at": 1574811224, 
         "number": 28485, 
         "state": "open", 
-        "updated_at": 1576565639
+        "updated_at": 1576572902
     }, 
     "28489": {
         "base_branch": "CMSSW_10_6_X", 
@@ -1272,7 +1272,7 @@
         "created_at": 1574848347, 
         "number": 28489, 
         "state": "open", 
-        "updated_at": 1576565644
+        "updated_at": 1576572909
     }, 
     "28517": {
         "base_branch": "CMSSW_10_6_X", 
@@ -1287,7 +1287,7 @@
         "created_at": 1575278366, 
         "number": 28517, 
         "state": "open", 
-        "updated_at": 1576565789
+        "updated_at": 1576572718
     }, 
     "28518": {
         "base_branch": "CMSSW_10_2_X", 
@@ -1302,7 +1302,7 @@
         "created_at": 1575278367, 
         "number": 28518, 
         "state": "open", 
-        "updated_at": 1576565468
+        "updated_at": 1576572724
     }, 
     "28525": {
         "base_branch": "CMSSW_11_0_X", 
@@ -1336,7 +1336,7 @@
         "created_at": 1575401364, 
         "number": 28535, 
         "state": "open", 
-        "updated_at": 1576565691
+        "updated_at": 1576572895
     }, 
     "28537": {
         "base_branch": "master", 
@@ -1461,7 +1461,7 @@
         "created_at": 1575407941, 
         "number": 28537, 
         "state": "open", 
-        "updated_at": 1576565537
+        "updated_at": 1576572763
     }, 
     "28538": {
         "base_branch": "CMSSW_11_0_X", 
@@ -1586,7 +1586,7 @@
         "created_at": 1575408724, 
         "number": 28538, 
         "state": "open", 
-        "updated_at": 1576565609
+        "updated_at": 1576572853
     }, 
     "28552": {
         "base_branch": "master", 
@@ -1749,7 +1749,7 @@
         "created_at": 1575478665, 
         "number": 28552, 
         "state": "open", 
-        "updated_at": 1576565491
+        "updated_at": 1576573048
     }, 
     "28560": {
         "base_branch": "CMSSW_10_6_X", 
@@ -1773,7 +1773,7 @@
         "created_at": 1575632347, 
         "number": 28569, 
         "state": "open", 
-        "updated_at": 1576565624
+        "updated_at": 1576572876
     }, 
     "28572": {
         "base_branch": "master", 
@@ -1803,7 +1803,7 @@
         "created_at": 1575658392, 
         "number": 28574, 
         "state": "open", 
-        "updated_at": 1576565595
+        "updated_at": 1576572831
     }, 
     "28579": {
         "base_branch": "master", 
@@ -1820,7 +1820,7 @@
         "created_at": 1575735829, 
         "number": 28579, 
         "state": "open", 
-        "updated_at": 1576565705
+        "updated_at": 1576573036
     }, 
     "28586": {
         "base_branch": "CMSSW_11_0_X", 
@@ -1900,7 +1900,7 @@
         "created_at": 1575914465, 
         "number": 28588, 
         "state": "open", 
-        "updated_at": 1576565485
+        "updated_at": 1576572863
     }, 
     "28589": {
         "base_branch": "CMSSW_10_2_X", 
@@ -1947,7 +1947,7 @@
         "created_at": 1575925183, 
         "number": 28590, 
         "state": "open", 
-        "updated_at": 1576565666
+        "updated_at": 1576572938
     }, 
     "28592": {
         "base_branch": "master", 
@@ -1996,7 +1996,7 @@
         "created_at": 1575927475, 
         "number": 28592, 
         "state": "open", 
-        "updated_at": 1576565502
+        "updated_at": 1576572708
     }, 
     "28597": {
         "base_branch": "CMSSW_9_4_X", 
@@ -2035,7 +2035,7 @@
         "created_at": 1575991352, 
         "number": 28599, 
         "state": "open", 
-        "updated_at": 1576565628
+        "updated_at": 1576572881
     }, 
     "28602": {
         "base_branch": "CMSSW_9_3_X", 
@@ -2078,7 +2078,7 @@
         "created_at": 1576026507, 
         "number": 28604, 
         "state": "open", 
-        "updated_at": 1576565561
+        "updated_at": 1576572799
     }, 
     "28605": {
         "base_branch": "master", 
@@ -2097,7 +2097,7 @@
         "created_at": 1576039079, 
         "number": 28605, 
         "state": "open", 
-        "updated_at": 1576565590
+        "updated_at": 1576573042
     }, 
     "28607": {
         "base_branch": "CMSSW_8_0_X", 
@@ -2148,7 +2148,7 @@
         "created_at": 1576085892, 
         "number": 28610, 
         "state": "open", 
-        "updated_at": 1576565585
+        "updated_at": 1576572825
     }, 
     "28612": {
         "base_branch": "master", 
@@ -2457,7 +2457,7 @@
         "created_at": 1576146780, 
         "number": 28612, 
         "state": "open", 
-        "updated_at": 1576565525
+        "updated_at": 1576572749
     }, 
     "28613": {
         "base_branch": "CMSSW_11_1_DEVEL_X", 
@@ -3025,7 +3025,7 @@
         "created_at": 1576244849, 
         "number": 28622, 
         "state": "open", 
-        "updated_at": 1576565732
+        "updated_at": 1576573969
     }, 
     "28624": {
         "base_branch": "master", 
@@ -3036,7 +3036,25 @@
         "created_at": 1576267631, 
         "number": 28624, 
         "state": "open", 
-        "updated_at": 1576565580
+        "updated_at": 1576572819
+    }, 
+    "28625": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoPixelVertexing/PixelVertexFinding/BuildFile.xml", 
+            "RecoPixelVertexing/PixelVertexFinding/interface/PixelVertexProducer.h", 
+            "RecoPixelVertexing/PixelVertexFinding/plugins/BuildFile.xml", 
+            "RecoPixelVertexing/PixelVertexFinding/plugins/FastPrimaryVertexProducer.cc", 
+            "RecoPixelVertexing/PixelVertexFinding/plugins/FastPrimaryVertexWithWeightsProducer.cc", 
+            "RecoPixelVertexing/PixelVertexFinding/plugins/JetVertexChecker.cc", 
+            "RecoPixelVertexing/PixelVertexFinding/plugins/PixelVertexCollectionTrimmer.cc", 
+            "RecoPixelVertexing/PixelVertexFinding/plugins/PixelVertexProducer.cc", 
+            "RecoPixelVertexing/PixelVertexFinding/src/SealModules.cc"
+        ], 
+        "created_at": 1576424908, 
+        "number": 28625, 
+        "state": "open", 
+        "updated_at": 1576572837
     }, 
     "28626": {
         "base_branch": "master", 
@@ -3046,7 +3064,7 @@
         "created_at": 1576436763, 
         "number": 28626, 
         "state": "open", 
-        "updated_at": 1576565758
+        "updated_at": 1576574319
     }, 
     "28627": {
         "base_branch": "master", 
@@ -3104,7 +3122,7 @@
         "created_at": 1576484480, 
         "number": 28627, 
         "state": "open", 
-        "updated_at": 1576565747
+        "updated_at": 1576572784
     }, 
     "28628": {
         "base_branch": "master", 
@@ -3114,7 +3132,7 @@
         "created_at": 1576487764, 
         "number": 28628, 
         "state": "open", 
-        "updated_at": 1576565545
+        "updated_at": 1576572773
     }, 
     "28629": {
         "base_branch": "master", 
@@ -3137,7 +3155,7 @@
         "created_at": 1576501222, 
         "number": 28629, 
         "state": "open", 
-        "updated_at": 1576565763
+        "updated_at": 1576574319
     }, 
     "28630": {
         "base_branch": "master", 
@@ -3159,7 +3177,7 @@
         "created_at": 1576506908, 
         "number": 28630, 
         "state": "open", 
-        "updated_at": 1576565481
+        "updated_at": 1576572923
     }, 
     "28633": {
         "base_branch": "master", 
@@ -3174,7 +3192,7 @@
         "created_at": 1576515976, 
         "number": 28633, 
         "state": "open", 
-        "updated_at": 1576565781
+        "updated_at": 1576573018
     }, 
     "28635": {
         "base_branch": "master", 
@@ -3189,7 +3207,7 @@
         "created_at": 1576533252, 
         "number": 28635, 
         "state": "open", 
-        "updated_at": 1576565687
+        "updated_at": 1576572959
     }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
