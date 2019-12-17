@@ -1771,20 +1771,6 @@
         "state": "open", 
         "updated_at": 1576573048
     }, 
-    "28560": {
-        "base_branch": "CMSSW_10_6_X", 
-        "changed_files_names": [
-            "CommonTools/PileupAlgos/interface/PuppiContainer.h", 
-            "CommonTools/PileupAlgos/plugins/PuppiProducer.cc", 
-            "CommonTools/PileupAlgos/plugins/PuppiProducer.h", 
-            "CommonTools/PileupAlgos/python/Puppi_cff.py", 
-            "CommonTools/PileupAlgos/src/PuppiContainer.cc"
-        ], 
-        "created_at": 1575552540, 
-        "number": 28560, 
-        "state": "open", 
-        "updated_at": 1576248750
-    }, 
     "28569": {
         "base_branch": "master", 
         "changed_files_names": [
