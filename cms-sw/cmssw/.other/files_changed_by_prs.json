@@ -2470,16 +2470,6 @@
         "state": "open", 
         "updated_at": 1576246084
     }, 
-    "28621": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoCTPPS/ProtonReconstruction/plugins/CTPPSProtonProducer.cc"
-        ], 
-        "created_at": 1576227690, 
-        "number": 28621, 
-        "state": "open", 
-        "updated_at": 1576565677
-    }, 
     "28622": {
         "base_branch": "master", 
         "changed_files_names": [
