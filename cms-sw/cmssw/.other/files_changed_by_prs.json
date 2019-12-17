@@ -2127,16 +2127,6 @@
         "state": "open", 
         "updated_at": 1576248705
     }, 
-    "28609": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1Trigger/L1THGCal/src/backend/HGCalTowerMap2DImpl.cc"
-        ], 
-        "created_at": 1576083599, 
-        "number": 28609, 
-        "state": "open", 
-        "updated_at": 1576565769
-    }, 
     "28610": {
         "base_branch": "CMSSW_7_1_X", 
         "changed_files_names": [
