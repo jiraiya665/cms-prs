@@ -2856,16 +2856,6 @@
         "state": "open", 
         "updated_at": 1576572819
     }, 
-    "28626": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimG4Core/PrintGeomInfo/src/PrintGeomInfoAction.cc"
-        ], 
-        "created_at": 1576436763, 
-        "number": 28626, 
-        "state": "open", 
-        "updated_at": 1576574319
-    }, 
     "28627": {
         "base_branch": "master", 
         "changed_files_names": [
