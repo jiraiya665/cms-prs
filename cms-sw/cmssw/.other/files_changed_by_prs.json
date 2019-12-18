@@ -1752,16 +1752,6 @@
         "state": "open", 
         "updated_at": 1576573048
     }, 
-    "28569": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Validation/RecoTrack/python/TrackValidation_cff.py"
-        ], 
-        "created_at": 1575632347, 
-        "number": 28569, 
-        "state": "open", 
-        "updated_at": 1576572876
-    }, 
     "28572": {
         "base_branch": "master", 
         "changed_files_names": [
