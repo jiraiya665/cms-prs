@@ -1774,9 +1774,7 @@
     "28579": {
         "base_branch": "master", 
         "changed_files_names": [
-            "Configuration/Eras/python/Era_Run3_ecalClustering_cff.py", 
-            "Configuration/Eras/python/Modifier_run3_ecalclustering_cff.py", 
-            "Configuration/StandardSequences/python/Eras.py", 
+            "Configuration/ProcessModifiers/python/run3_ecalclustering_cff.py", 
             "SimDataFormats/CaloAnalysis/interface/SimCluster.h", 
             "SimDataFormats/CaloAnalysis/src/classes_def.xml", 
             "SimGeneral/CaloAnalysis/plugins/CaloTruthAccumulator.cc", 
@@ -1786,7 +1784,7 @@
         "created_at": 1575735829, 
         "number": 28579, 
         "state": "open", 
-        "updated_at": 1576573036
+        "updated_at": 1576672901
     }, 
     "28588": {
         "base_branch": "master", 
