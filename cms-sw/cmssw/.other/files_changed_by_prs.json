@@ -2926,29 +2926,6 @@
         "state": "open", 
         "updated_at": 1576572773
     }, 
-    "28629": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimG4CMS/Calo/src/CaloSD.cc", 
-            "SimG4CMS/Calo/src/HcalTestAnalysis.cc", 
-            "SimG4CMS/FP420/plugins/FP420SD.cc", 
-            "SimG4CMS/FP420/plugins/FP420Test.cc", 
-            "SimG4CMS/Forward/src/BscTest.cc", 
-            "SimG4CMS/Forward/src/TimingSD.cc", 
-            "SimG4CMS/Forward/src/TotemSD.cc", 
-            "SimG4CMS/HcalTestBeam/plugins/HcalTB04Analysis.cc", 
-            "SimG4CMS/PPS/src/PPSPixelSD.cc", 
-            "SimG4CMS/ShowerLibraryProducer/src/CastorShowerLibraryMaker.cc", 
-            "SimG4CMS/ShowerLibraryProducer/src/HcalForwardAnalysis.cc", 
-            "SimG4Core/GFlash/src/GflashHadronWrapperProcess.cc", 
-            "Validation/EcalHits/src/EcalSimHitsValidProducer.cc", 
-            "Validation/HcalHits/src/SimG4HcalValidation.cc"
-        ], 
-        "created_at": 1576501222, 
-        "number": 28629, 
-        "state": "open", 
-        "updated_at": 1576574319
-    }, 
     "28630": {
         "base_branch": "master", 
         "changed_files_names": [
