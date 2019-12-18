@@ -2898,6 +2898,7 @@
             "DQMOffline/Trigger/python/LepHTMonitor_cff.py", 
             "DQMOffline/Trigger/python/MssmHbbBtagTriggerMonitor_cfi.py", 
             "DQMOffline/Trigger/python/NoBPTXMonitor_cfi.py", 
+            "DQMOffline/Trigger/python/TopMonitor_cfi.py", 
             "DQMOffline/Trigger/src/HMesonGammaDQM.cc", 
             "DQMOffline/Trigger/src/HTDQM.cc", 
             "DQMOffline/Trigger/src/JetDQM.cc", 
@@ -2907,7 +2908,7 @@
         "created_at": 1576484480, 
         "number": 28627, 
         "state": "open", 
-        "updated_at": 1576623600
+        "updated_at": 1576695447
     }, 
     "28628": {
         "base_branch": "master", 
