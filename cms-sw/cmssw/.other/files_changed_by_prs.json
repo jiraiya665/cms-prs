@@ -2999,19 +2999,6 @@
         "state": "open", 
         "updated_at": 1576594540
     }, 
-    "28640": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/Common/interface/AssociativeIterator.h", 
-            "DataFormats/Common/interface/DataFrameContainer.h", 
-            "DataFormats/Common/interface/MapOfVectors.h", 
-            "DataFormats/Common/test/DetSetNew_t.cpp"
-        ], 
-        "created_at": 1576598252, 
-        "number": 28640, 
-        "state": "open", 
-        "updated_at": 1576598299
-    }, 
     "28641": {
         "base_branch": "master", 
         "changed_files_names": [
