@@ -2803,12 +2803,13 @@
         "base_branch": "master", 
         "changed_files_names": [
             "Configuration/AlCa/python/autoCond.py", 
-            "Configuration/PyReleaseValidation/python/relval_steps.py"
+            "Configuration/PyReleaseValidation/python/relval_steps.py", 
+            "TauAnalysis/MCEmbeddingTools/test/runtests.sh"
         ], 
         "created_at": 1576267631, 
         "number": 28624, 
         "state": "open", 
-        "updated_at": 1576572819
+        "updated_at": 1576691810
     }, 
     "28627": {
         "base_branch": "master", 
