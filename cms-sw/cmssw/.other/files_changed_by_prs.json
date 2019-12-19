@@ -1217,17 +1217,6 @@
         "state": "open", 
         "updated_at": 1576572724
     }, 
-    "28525": {
-        "base_branch": "CMSSW_11_0_X", 
-        "changed_files_names": [
-            "EventFilter/HcalRawToDigi/plugins/HcalDigiToRawuHTR.cc", 
-            "EventFilter/HcalRawToDigi/plugins/PackerHelp.h"
-        ], 
-        "created_at": 1575361691, 
-        "number": 28525, 
-        "state": "open", 
-        "updated_at": 1576248815
-    }, 
     "28535": {
         "base_branch": "master", 
         "changed_files_names": [
