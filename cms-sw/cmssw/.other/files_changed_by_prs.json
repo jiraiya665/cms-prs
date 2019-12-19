@@ -3112,7 +3112,6 @@
     "28652": {
         "base_branch": "master", 
         "changed_files_names": [
-            "BigProducts/Simulation/BuildFile.xml", 
             "CondCore/ESSources/bin/CondDataProxy_t.cpp", 
             "CondCore/ESSources/test/stubs/TestUpdater.cc", 
             "CondCore/EcalPlugins/src/plugin.cc", 
@@ -3153,7 +3152,7 @@
         "created_at": 1576749216, 
         "number": 28652, 
         "state": "open", 
-        "updated_at": 1576749247
+        "updated_at": 1576767149
     }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
