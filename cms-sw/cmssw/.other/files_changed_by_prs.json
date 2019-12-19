@@ -3157,13 +3157,12 @@
     "28657": {
         "base_branch": "master", 
         "changed_files_names": [
-            "Geometry/HcalCommonData/src/CaloDDDSimulationConstants.cc", 
             "RecoJets/Configuration/python/RecoJets_EventContent_cff.py"
         ], 
         "created_at": 1576771907, 
         "number": 28657, 
         "state": "open", 
-        "updated_at": 1576771934
+        "updated_at": 1576778493
     }, 
     "28658": {
         "base_branch": "master", 
