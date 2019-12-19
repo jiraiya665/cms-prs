@@ -1009,35 +1009,6 @@
         "state": "open", 
         "updated_at": 1576572869
     }, 
-    "28435": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/SiOuterTracker/plugins/OuterTrackerMonitorTTStub.cc", 
-            "DataFormats/L1TrackTrigger/interface/TTStub.h", 
-            "Geometry/TrackerGeometryBuilder/src/TrackerGeometry.cc", 
-            "L1Trigger/L1TMuon/src/TTMuonTriggerPrimitive.cc", 
-            "L1Trigger/TrackTrigger/interface/TTStubAlgorithm.h", 
-            "L1Trigger/TrackTrigger/interface/TTStubAlgorithm_cbc3.h", 
-            "L1Trigger/TrackTrigger/interface/TTStubAlgorithm_official.h", 
-            "L1Trigger/TrackTrigger/plugins/TTStubBuilder.cc", 
-            "L1Trigger/TrackTrigger/plugins/TTStubBuilder.h", 
-            "L1Trigger/TrackTrigger/src/StubPtConsistency.cc", 
-            "L1Trigger/TrackTrigger/src/TTStubAlgorithm_cbc3.cc", 
-            "L1Trigger/TrackTrigger/src/TTStubAlgorithm_official.cc", 
-            "L1Trigger/TrackTrigger/test/AnalyzerClusterStub.cc", 
-            "SimTracker/TrackTriggerAssociation/interface/TTStubAssociationMap.h", 
-            "SimTracker/TrackTriggerAssociation/interface/TTTrackAssociationMap.h", 
-            "SimTracker/TrackTriggerAssociation/plugins/TTStubAssociator.cc", 
-            "SimTracker/TrackTriggerAssociation/plugins/TTTrackAssociator.cc", 
-            "SimTracker/TrackTriggerAssociation/plugins/TTTrackAssociator.h", 
-            "SimTracker/TrackTriggerAssociation/python/TTTrackAssociation_cfi.py", 
-            "SimTracker/TrackTriggerAssociation/src/TTTrackAssociationMap.cc"
-        ], 
-        "created_at": 1574262710, 
-        "number": 28435, 
-        "state": "open", 
-        "updated_at": 1576572940
-    }, 
     "28438": {
         "base_branch": "CMSSW_10_2_X", 
         "changed_files_names": [
