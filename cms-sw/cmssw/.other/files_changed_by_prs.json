@@ -1202,21 +1202,6 @@
         "state": "open", 
         "updated_at": 1576572909
     }, 
-    "28518": {
-        "base_branch": "CMSSW_10_2_X", 
-        "changed_files_names": [
-            "CondFormats/JetMETObjects/interface/JetResolutionObject.h", 
-            "CondFormats/JetMETObjects/src/JetResolutionObject.cc", 
-            "JetMETCorrections/Modules/interface/JetResolution.h", 
-            "JetMETCorrections/Modules/src/JetResolution.cc", 
-            "PhysicsTools/PatUtils/interface/SmearedJetProducerT.h", 
-            "PhysicsTools/PatUtils/test/runJERsmearingOnMiniAOD.py"
-        ], 
-        "created_at": 1575278367, 
-        "number": 28518, 
-        "state": "open", 
-        "updated_at": 1576572724
-    }, 
     "28535": {
         "base_branch": "master", 
         "changed_files_names": [
