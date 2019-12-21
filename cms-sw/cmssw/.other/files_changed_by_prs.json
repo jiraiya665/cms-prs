@@ -3246,16 +3246,6 @@
         "state": "open", 
         "updated_at": 1576885886
     }, 
-    "28673": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Utilities/ReleaseScripts/BuildFile.xml"
-        ], 
-        "created_at": 1576920219, 
-        "number": 28673, 
-        "state": "open", 
-        "updated_at": 1576920261
-    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
