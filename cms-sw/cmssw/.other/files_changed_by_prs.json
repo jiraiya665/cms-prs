@@ -2861,16 +2861,6 @@
         "state": "open", 
         "updated_at": 1576594540
     }, 
-    "28641": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/TrackerCommonData/plugins/dd4hep/DDTOBRadCableAlgo.cc"
-        ], 
-        "created_at": 1576599417, 
-        "number": 28641, 
-        "state": "open", 
-        "updated_at": 1576599417
-    }, 
     "28648": {
         "base_branch": "master", 
         "changed_files_names": [
