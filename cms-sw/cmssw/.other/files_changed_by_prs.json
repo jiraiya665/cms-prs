@@ -3260,6 +3260,7 @@
     "28679": {
         "base_branch": "CMSSW_11_0_X", 
         "changed_files_names": [
+            "HLTrigger/Configuration/python/HLT_2018_cff.py", 
             "HLTrigger/Configuration/python/HLT_FULL_cff.py", 
             "HLTrigger/Configuration/python/HLT_Fake1_cff.py", 
             "HLTrigger/Configuration/python/HLT_Fake2_cff.py", 
@@ -3270,6 +3271,7 @@
             "HLTrigger/Configuration/python/HLT_PRef_cff.py", 
             "HLTrigger/Configuration/python/HLTrigger_EventContent_cff.py", 
             "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
+            "HLTrigger/Configuration/test/OnLine_HLT_2018.py", 
             "HLTrigger/Configuration/test/OnLine_HLT_FULL.py", 
             "HLTrigger/Configuration/test/OnLine_HLT_Fake.py", 
             "HLTrigger/Configuration/test/OnLine_HLT_Fake1.py", 
@@ -3282,7 +3284,7 @@
         "created_at": 1577098175, 
         "number": 28679, 
         "state": "open", 
-        "updated_at": 1577098242
+        "updated_at": 1577108117
     }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
