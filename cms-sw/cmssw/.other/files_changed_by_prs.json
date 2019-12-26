@@ -3156,16 +3156,6 @@
         "state": "open", 
         "updated_at": 1577004975
     }, 
-    "28676": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HcalCommonData/src/CaloDDDSimulationConstants.cc"
-        ], 
-        "created_at": 1577006329, 
-        "number": 28676, 
-        "state": "open", 
-        "updated_at": 1577006356
-    }, 
     "28678": {
         "base_branch": "master", 
         "changed_files_names": [
