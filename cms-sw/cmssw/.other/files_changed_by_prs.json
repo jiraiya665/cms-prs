@@ -2851,16 +2851,6 @@
         "state": "open", 
         "updated_at": 1577004884
     }, 
-    "28639": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1Trigger/L1THGCal/plugins/geometries/HGCalTriggerGeometryV9Imp2.cc"
-        ], 
-        "created_at": 1576594493, 
-        "number": 28639, 
-        "state": "open", 
-        "updated_at": 1577004889
-    }, 
     "28648": {
         "base_branch": "master", 
         "changed_files_names": [
