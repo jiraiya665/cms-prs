@@ -3005,6 +3005,8 @@
         "changed_files_names": [
             "GeneratorInterface/Pythia8Interface/plugins/Py8PtotGun.cc", 
             "SimMuon/MCTruth/plugins/MuonTrackProducer.cc", 
+            "SimMuon/MCTruth/plugins/MuonTrackProducer.h", 
+            "SimMuon/MCTruth/python/MuonTrackProducer_cfi.py", 
             "Validation/RecoMuon/python/associators_cff.py", 
             "Validation/RecoMuon/python/muonValidationHLT_cff.py", 
             "Validation/RecoMuon/python/muonValidation_cff.py", 
@@ -3013,7 +3015,7 @@
         "created_at": 1576794591, 
         "number": 28662, 
         "state": "open", 
-        "updated_at": 1577173460
+        "updated_at": 1577546086
     }, 
     "28664": {
         "base_branch": "master", 
