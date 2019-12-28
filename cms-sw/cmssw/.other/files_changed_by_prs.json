@@ -2815,21 +2815,6 @@
         "state": "open", 
         "updated_at": 1577004679
     }, 
-    "28633": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoEgamma/EgammaHLTProducers/plugins/BuildFile.xml", 
-            "RecoEgamma/EgammaHLTProducers/plugins/EgammaHLTBcHcalIsolationProducersRegional.cc", 
-            "RecoEgamma/EgammaHLTProducers/plugins/EgammaHLTGsfTrackVarProducer.cc", 
-            "TrackingTools/GsfTools/interface/MultiTrajectoryStateTransform.h", 
-            "TrackingTools/GsfTools/src/MultiTrajectoryStateTransform.cc", 
-            "TrackingTools/TransientTrack/src/GsfTransientTrack.cc"
-        ], 
-        "created_at": 1576515976, 
-        "number": 28633, 
-        "state": "open", 
-        "updated_at": 1577004861
-    }, 
     "28638": {
         "base_branch": "master", 
         "changed_files_names": [
