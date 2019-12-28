@@ -3241,16 +3241,6 @@
         "state": "open", 
         "updated_at": 1577117331
     }, 
-    "28682": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQMOffline/Trigger/interface/EgHLTOfflineClient.h"
-        ], 
-        "created_at": 1577370342, 
-        "number": 28682, 
-        "state": "open", 
-        "updated_at": 1577370383
-    }, 
     "28683": {
         "base_branch": "master", 
         "changed_files_names": [
