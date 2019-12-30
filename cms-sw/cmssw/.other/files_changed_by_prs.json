@@ -3336,6 +3336,16 @@
         "state": "open", 
         "updated_at": 1577730316
     }, 
+    "28690": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "AnalysisDataFormats/SUSYBSMObjects/src/classes.h"
+        ], 
+        "created_at": 1577731274, 
+        "number": 28690, 
+        "state": "open", 
+        "updated_at": 1577731317
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
