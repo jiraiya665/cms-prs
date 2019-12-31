@@ -3274,25 +3274,6 @@
         "state": "open", 
         "updated_at": 1577463444
     }, 
-    "28686": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/Framework/src/ProductResolvers.cc", 
-            "FWCore/Framework/src/ProductResolvers.h", 
-            "FWCore/Framework/test/stubs/DeleteEarlyModules.cc", 
-            "FWCore/Framework/test/test_consumeAfterEarlyDeletePath_cfg.py", 
-            "FWCore/Framework/test/test_consumeAfterEarlyDeleteTask_cfg.py", 
-            "FWCore/Framework/test/test_deleteEarly.sh", 
-            "FWCore/Integration/test/run_TestSwitchProducer.sh", 
-            "FWCore/Integration/test/testSwitchProducerPathFilter_cfg.py", 
-            "FWCore/Integration/test/testSwitchProducerPath_cfg.py", 
-            "FWCore/Integration/test/testSwitchProducerTask_cfg.py"
-        ], 
-        "created_at": 1577473293, 
-        "number": 28686, 
-        "state": "open", 
-        "updated_at": 1577723878
-    }, 
     "28687": {
         "base_branch": "master", 
         "changed_files_names": [
