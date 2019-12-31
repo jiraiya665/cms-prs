@@ -3285,17 +3285,6 @@
         "state": "open", 
         "updated_at": 1577709069
     }, 
-    "28688": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoMuon/TrackerSeedGenerator/plugins/TSGForOI.cc", 
-            "RecoMuon/TrackerSeedGenerator/plugins/TSGForOIFromL2.cc"
-        ], 
-        "created_at": 1577729579, 
-        "number": 28688, 
-        "state": "open", 
-        "updated_at": 1577729722
-    }, 
     "28689": {
         "base_branch": "master", 
         "changed_files_names": [
