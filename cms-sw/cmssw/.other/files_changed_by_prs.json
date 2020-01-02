@@ -1027,10 +1027,10 @@
             "RecoLocalCalo/Configuration/python/RecoLocalCalo_EventContent_cff.py", 
             "RecoLocalCalo/Configuration/python/hgcalLocalReco_cff.py", 
             "RecoLocalCalo/HGCalRecProducers/interface/HFNoseTilesConstants.h", 
-            "RecoLocalCalo/HGCalRecProducers/interface/HGCalCLUEAlgo.h", 
             "RecoLocalCalo/HGCalRecProducers/interface/HGCalLayerTiles.h", 
             "RecoLocalCalo/HGCalRecProducers/interface/HGCalTilesConstants.h", 
             "RecoLocalCalo/HGCalRecProducers/plugins/HGCalCLUEAlgo.cc", 
+            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalCLUEAlgoT.h", 
             "RecoLocalCalo/HGCalRecProducers/plugins/HGCalLayerClusterPluginFactory.cc", 
             "RecoLocalCalo/HGCalRecProducers/plugins/HGCalLayerClusterProducer.cc", 
             "RecoLocalCalo/HGCalRecProducers/python/hgcalLayerClusters_cff.py"
@@ -1038,7 +1038,7 @@
         "created_at": 1574700970, 
         "number": 28468, 
         "state": "open", 
-        "updated_at": 1577004924
+        "updated_at": 1577972866
     }, 
     "28470": {
         "base_branch": "master", 
