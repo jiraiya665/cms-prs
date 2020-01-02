@@ -3444,6 +3444,24 @@
         "state": "open", 
         "updated_at": 1577981721
     }, 
+    "28704": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoTracker/ConversionSeedGenerators/plugins/HitPairGeneratorFromLayerPairForPhotonConversion.cc", 
+            "RecoTracker/ConversionSeedGenerators/plugins/HitQuadrupletGeneratorFromLayerPairForPhotonConversion.cc", 
+            "RecoTracker/SpecialSeedGenerators/interface/CosmicTrackingRegion.h", 
+            "RecoTracker/TkHitPairs/src/HitPairGeneratorFromLayerPair.cc", 
+            "RecoTracker/TkTrackingRegions/interface/GlobalTrackingRegion.h", 
+            "RecoTracker/TkTrackingRegions/interface/RectangularEtaPhiTrackingRegion.h", 
+            "RecoTracker/TkTrackingRegions/interface/TrackingRegion.h", 
+            "RecoTracker/TkTrackingRegions/src/GlobalTrackingRegion.cc", 
+            "RecoTracker/TkTrackingRegions/src/RectangularEtaPhiTrackingRegion.cc"
+        ], 
+        "created_at": 1577998743, 
+        "number": 28704, 
+        "state": "open", 
+        "updated_at": 1577998787
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
