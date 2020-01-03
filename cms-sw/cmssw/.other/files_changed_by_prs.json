@@ -3508,6 +3508,35 @@
         "state": "open", 
         "updated_at": 1578062506
     }, 
+    "28710": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Alignment/OfflineValidation/interface/TrackerValidationVariables.h", 
+            "Alignment/OfflineValidation/src/TrackerValidationVariables.cc", 
+            "CalibTracker/SiPixelQuality/plugins/SiPixelStatusHarvester.cc", 
+            "CalibTracker/SiPixelQuality/plugins/SiPixelStatusHarvester.h", 
+            "CalibTracker/SiPixelQuality/plugins/SiPixelStatusProducer.cc", 
+            "CalibTracker/SiPixelQuality/plugins/SiPixelStatusProducer.h", 
+            "CondFormats/SiPixelObjects/interface/SiPixelFrameReverter.h", 
+            "CondFormats/SiPixelObjects/interface/SiPixelQuality.h", 
+            "CondFormats/SiPixelObjects/src/SiPixelFrameReverter.cc", 
+            "CondFormats/SiPixelObjects/src/SiPixelQuality.cc", 
+            "DQM/SiPixelPhase1Common/interface/GeometryInterface.h", 
+            "DQM/SiPixelPhase1Common/interface/SiPixelCoordinates.h", 
+            "DQM/SiPixelPhase1Common/interface/SiPixelPhase1Base.h", 
+            "DQM/SiPixelPhase1Common/plugins/SiPixelPhase1Clusters.cc", 
+            "DQM/SiPixelPhase1Common/src/GeometryInterface.cc", 
+            "DQM/SiPixelPhase1Common/src/SiPixelCoordinates.cc", 
+            "DQM/SiPixelPhase1Common/src/SiPixelPhase1Base.cc", 
+            "DQM/TrackerMonitorTrack/interface/MonitorTrackResiduals.h", 
+            "DQM/TrackerMonitorTrack/src/MonitorTrackResiduals.cc", 
+            "EventFilter/SiPixelRawToDigi/plugins/SiPixelDigiToRaw.cc"
+        ], 
+        "created_at": 1578076897, 
+        "number": 28710, 
+        "state": "open", 
+        "updated_at": 1578076938
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
