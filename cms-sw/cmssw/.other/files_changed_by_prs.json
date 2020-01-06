@@ -3475,12 +3475,13 @@
             "Geometry/HGCalCommonData/test/python/runTest_cfg.py", 
             "SimG4CMS/Calo/src/HGCNumberingScheme.cc", 
             "SimG4CMS/Calo/src/HGCSD.cc", 
+            "SimG4CMS/HGCalTestBeam/macros/HexGeometry.C", 
             "SimG4CMS/HGCalTestBeam/plugins/HGCalTBAnalyzer.cc"
         ], 
         "created_at": 1578058532, 
         "number": 28705, 
         "state": "open", 
-        "updated_at": 1578058572
+        "updated_at": 1578326072
     }, 
     "28706": {
         "base_branch": "master", 
