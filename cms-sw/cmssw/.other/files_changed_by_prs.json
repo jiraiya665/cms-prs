@@ -3532,16 +3532,6 @@
         "state": "open", 
         "updated_at": 1578344264
     }, 
-    "28712": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Utilities/StaticAnalyzers/src/CmsSupport.cpp"
-        ], 
-        "created_at": 1578328645, 
-        "number": 28712, 
-        "state": "open", 
-        "updated_at": 1578343864
-    }, 
     "28714": {
         "base_branch": "master", 
         "changed_files_names": [
