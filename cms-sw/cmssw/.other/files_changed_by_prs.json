@@ -3269,16 +3269,6 @@
         "state": "open", 
         "updated_at": 1578344238
     }, 
-    "28691": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimDataFormats/CaloAnalysis/src/classes.h"
-        ], 
-        "created_at": 1577732224, 
-        "number": 28691, 
-        "state": "open", 
-        "updated_at": 1578343891
-    }, 
     "28692": {
         "base_branch": "master", 
         "changed_files_names": [
