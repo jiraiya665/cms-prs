@@ -3542,16 +3542,6 @@
         "state": "open", 
         "updated_at": 1578343864
     }, 
-    "28713": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Validation/RecoTrack/plugins/TrackingNtuple.cc"
-        ], 
-        "created_at": 1578345494, 
-        "number": 28713, 
-        "state": "open", 
-        "updated_at": 1578345563
-    }, 
     "28714": {
         "base_branch": "master", 
         "changed_files_names": [
