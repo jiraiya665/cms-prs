@@ -3258,17 +3258,6 @@
         "state": "open", 
         "updated_at": 1578343929
     }, 
-    "28687": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Validation/RecoEgamma/plugins/PhotonValidator.cc", 
-            "Validation/RecoEgamma/plugins/TkConvValidator.cc"
-        ], 
-        "created_at": 1577709027, 
-        "number": 28687, 
-        "state": "open", 
-        "updated_at": 1578344238
-    }, 
     "28692": {
         "base_branch": "master", 
         "changed_files_names": [
