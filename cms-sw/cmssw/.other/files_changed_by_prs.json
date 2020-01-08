@@ -148,24 +148,6 @@
         "state": "open", 
         "updated_at": 1565098323
     }, 
-    "27955": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoPixelVertexing/PixelTriplets/interface/CAHitQuadrupletGenerator.h", 
-            "RecoPixelVertexing/PixelTriplets/interface/CAHitTripletGenerator.h", 
-            "RecoPixelVertexing/PixelTriplets/src/CACell.h", 
-            "RecoPixelVertexing/PixelTriplets/src/CACut.h", 
-            "RecoPixelVertexing/PixelTriplets/src/CAGraph.h", 
-            "RecoPixelVertexing/PixelTriplets/src/CAHitQuadrupletGenerator.cc", 
-            "RecoPixelVertexing/PixelTriplets/src/CAHitTripletGenerator.cc", 
-            "RecoPixelVertexing/PixelTriplets/src/CellularAutomaton.cc", 
-            "RecoPixelVertexing/PixelTriplets/src/CellularAutomaton.h"
-        ], 
-        "created_at": 1568030413, 
-        "number": 27955, 
-        "state": "open", 
-        "updated_at": 1578344143
-    }, 
     "27983": {
         "base_branch": "CMSSW_11_0_X", 
         "changed_files_names": [
