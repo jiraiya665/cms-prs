@@ -3226,5 +3226,15 @@
         "number": 28718, 
         "state": "open", 
         "updated_at": 1578494722
+    }, 
+    "28719": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimCalorimetry/HGCalSimProducers/src/HGCDigitizer.cc"
+        ], 
+        "created_at": 1578497216, 
+        "number": 28719, 
+        "state": "open", 
+        "updated_at": 1578497246
     }
 }
