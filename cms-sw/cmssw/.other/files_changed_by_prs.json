@@ -663,29 +663,6 @@
         "state": "open", 
         "updated_at": 1578344054
     }, 
-    "28407": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibTracker/SiStripChannelGain/python/SiStripGainsPCLWorker_cfi.py", 
-            "DQM/HLTEvF/python/trigObjTnPSource_cfi.py", 
-            "DQMServices/Components/python/DQMLumiMonitor_cfi.py", 
-            "DQMServices/Core/interface/DQMGlobalEDAnalyzer.h", 
-            "DQMServices/Core/interface/DQMStore.h", 
-            "DQMServices/Core/src/DQMStore.cc", 
-            "DQMServices/Core/test/BuildFile.xml", 
-            "DQMServices/Core/test/DQMFastMatchTest.cc", 
-            "HLTrigger/Timer/plugins/FastTimerService.cc", 
-            "HLTrigger/Timer/plugins/ThroughputService.cc", 
-            "Validation/DTRecHits/python/DTRecHitQualityAll_cfi.py", 
-            "Validation/DTRecHits/python/DTRecHitQuality_cfi.py", 
-            "Validation/HGCalValidation/python/HGCalValidator_cfi.py", 
-            "Validation/RecoTrack/python/MultiTrackValidator_cfi.py"
-        ], 
-        "created_at": 1573830474, 
-        "number": 28407, 
-        "state": "open", 
-        "updated_at": 1578344074
-    }, 
     "28417": {
         "base_branch": "master", 
         "changed_files_names": [
