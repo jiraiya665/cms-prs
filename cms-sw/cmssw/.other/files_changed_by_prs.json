@@ -2881,16 +2881,6 @@
         "state": "open", 
         "updated_at": 1578343882
     }, 
-    "28685": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Calibration/HcalCalibAlgos/macros/CalibPlotProperties.C"
-        ], 
-        "created_at": 1577463379, 
-        "number": 28685, 
-        "state": "open", 
-        "updated_at": 1578343929
-    }, 
     "28692": {
         "base_branch": "master", 
         "changed_files_names": [
