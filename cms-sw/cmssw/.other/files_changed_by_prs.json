@@ -962,29 +962,6 @@
         "state": "open", 
         "updated_at": 1578343956
     }, 
-    "28535": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Calibration/TkAlCaRecoProducers/python/ALCARECOSiPixelCalCosmics_Output_cff.py", 
-            "Calibration/TkAlCaRecoProducers/python/ALCARECOSiPixelCalCosmics_cff.py", 
-            "Calibration/TkAlCaRecoProducers/python/ALCARECOSiPixelCalSingleMuon_Output_cff.py", 
-            "Calibration/TkAlCaRecoProducers/python/ALCARECOSiPixelCalSingleMuon_cff.py", 
-            "Calibration/TkAlCaRecoProducers/python/ALCARECOSiPixelLorentzAngle_Output_cff.py", 
-            "Calibration/TkAlCaRecoProducers/python/ALCARECOSiPixelLorentzAngle_cff.py", 
-            "Calibration/TkAlCaRecoProducers/python/SiPixelLorentzAngleHLTFilter_cfi.py", 
-            "Configuration/AlCa/python/autoAlca.py", 
-            "Configuration/AlCa/python/autoCond.py", 
-            "Configuration/EventContent/python/AlCaRecoOutput_RelVal_cff.py", 
-            "Configuration/EventContent/python/AlCaRecoOutput_cff.py", 
-            "Configuration/PyReleaseValidation/python/relval_steps.py", 
-            "Configuration/StandardSequences/python/AlCaRecoStreamsHeavyIons_cff.py", 
-            "Configuration/StandardSequences/python/AlCaRecoStreams_cff.py"
-        ], 
-        "created_at": 1575401364, 
-        "number": 28535, 
-        "state": "open", 
-        "updated_at": 1578343944
-    }, 
     "28537": {
         "base_branch": "master", 
         "changed_files_names": [
