@@ -3458,6 +3458,17 @@
         "state": "open", 
         "updated_at": 1578423971
     }, 
+    "28717": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/BTauReco/interface/DeepFlavourFeatures.h", 
+            "DataFormats/NanoAOD/interface/FlatTable.h"
+        ], 
+        "created_at": 1578469516, 
+        "number": 28717, 
+        "state": "open", 
+        "updated_at": 1578469554
+    }, 
     "8484": {
         "base_branch": "CMSSW_7_2_X", 
         "changed_files_names": [
