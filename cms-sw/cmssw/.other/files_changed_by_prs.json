@@ -607,21 +607,17 @@
             "Geometry/TrackerCommonData/data/flat10services30percent/trackermaterial.xml", 
             "Geometry/TrackerCommonData/data/flat20percent/trackermaterial.xml", 
             "Geometry/TrackerCommonData/data/flat20services30percent/trackermaterial.xml", 
-            "Geometry/TrackerCommonData/data/limax/trackermaterial.xml", 
-            "Geometry/TrackerCommonData/data/limin/trackermaterial.xml", 
             "Geometry/TrackerCommonData/data/pixbarmaterial/2017ZeroMaterial/v1/pixbarmaterial.xml", 
             "Geometry/TrackerCommonData/data/services30percent/trackermaterial.xml", 
             "Geometry/TrackerCommonData/data/test2014/trackermaterial.xml", 
             "Geometry/TrackerCommonData/data/trackermaterial.xml", 
             "Geometry/TrackerCommonData/data/trackermaterial/2017ZeroMaterial/v1/trackermaterial.xml", 
-            "Geometry/TrackerCommonData/data/x0max/trackermaterial.xml", 
-            "Geometry/TrackerCommonData/data/x0min/trackermaterial.xml", 
             "Geometry/TrackerCommonData/data/zeroMaterial/trackermaterial.xml"
         ], 
         "created_at": 1572448498, 
         "number": 28313, 
         "state": "open", 
-        "updated_at": 1576248739
+        "updated_at": 1578506735
     }, 
     "28380": {
         "base_branch": "master", 
