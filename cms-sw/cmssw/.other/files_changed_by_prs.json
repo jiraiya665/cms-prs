@@ -2968,17 +2968,6 @@
         "state": "open", 
         "updated_at": 1578344104
     }, 
-    "28708": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/Integration/test/ESTestAnalyzers.cc", 
-            "FWCore/TestProcessor/src/TestProcessor.cc"
-        ], 
-        "created_at": 1578062479, 
-        "number": 28708, 
-        "state": "open", 
-        "updated_at": 1578344252
-    }, 
     "28710": {
         "base_branch": "master", 
         "changed_files_names": [
