@@ -3042,7 +3042,6 @@
             "FWCore/Framework/bin/cmsRunPython3.cpp", 
             "FWCore/Framework/src/EventProcessor.cc", 
             "FWCore/Framework/src/EventSetupRecordIOVQueue.cc", 
-            "FWCore/Framework/src/EventSetupRecordIntervalFinder.cc", 
             "FWCore/Framework/src/EventSetupsController.cc", 
             "FWCore/Framework/src/GlobalSchedule.h", 
             "FWCore/Framework/src/OutputModuleCommunicatorT.cc", 
@@ -3065,7 +3064,7 @@
         "created_at": 1578423946, 
         "number": 28715, 
         "state": "open", 
-        "updated_at": 1578423971
+        "updated_at": 1578519225
     }, 
     "28717": {
         "base_branch": "master", 
