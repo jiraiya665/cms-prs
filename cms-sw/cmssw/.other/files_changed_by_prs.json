@@ -801,17 +801,6 @@
         "state": "open", 
         "updated_at": 1578343868
     }, 
-    "28470": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/PyReleaseValidation/python/relval_steps.py", 
-            "Configuration/PyReleaseValidation/python/relval_upgrade.py"
-        ], 
-        "created_at": 1574716771, 
-        "number": 28470, 
-        "state": "open", 
-        "updated_at": 1578344060
-    }, 
     "28477": {
         "base_branch": "master", 
         "changed_files_names": [
