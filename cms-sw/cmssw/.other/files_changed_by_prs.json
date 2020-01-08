@@ -3058,35 +3058,6 @@
         "state": "open", 
         "updated_at": 1578344109
     }, 
-    "28679": {
-        "base_branch": "CMSSW_11_0_X", 
-        "changed_files_names": [
-            "HLTrigger/Configuration/python/HLT_2018_cff.py", 
-            "HLTrigger/Configuration/python/HLT_FULL_cff.py", 
-            "HLTrigger/Configuration/python/HLT_Fake1_cff.py", 
-            "HLTrigger/Configuration/python/HLT_Fake2_cff.py", 
-            "HLTrigger/Configuration/python/HLT_Fake_cff.py", 
-            "HLTrigger/Configuration/python/HLT_GRun_cff.py", 
-            "HLTrigger/Configuration/python/HLT_HIon_cff.py", 
-            "HLTrigger/Configuration/python/HLT_PIon_cff.py", 
-            "HLTrigger/Configuration/python/HLT_PRef_cff.py", 
-            "HLTrigger/Configuration/python/HLTrigger_EventContent_cff.py", 
-            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_2018.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_FULL.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_Fake.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_Fake1.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_Fake2.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_GRun.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_HIon.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_PIon.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_PRef.py"
-        ], 
-        "created_at": 1577098175, 
-        "number": 28679, 
-        "state": "open", 
-        "updated_at": 1578343989
-    }, 
     "28683": {
         "base_branch": "master", 
         "changed_files_names": [
