@@ -1178,19 +1178,6 @@
         "state": "open", 
         "updated_at": 1578343956
     }, 
-    "28485": {
-        "base_branch": "CMSSW_10_6_X", 
-        "changed_files_names": [
-            "DQM/HcalCommon/interface/Constants.h", 
-            "DQM/Integration/python/clients/hcal2_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/hcal_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/hcalcalib_dqm_sourceclient-live_cfg.py"
-        ], 
-        "created_at": 1574811224, 
-        "number": 28485, 
-        "state": "open", 
-        "updated_at": 1578344182
-    }, 
     "28489": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
