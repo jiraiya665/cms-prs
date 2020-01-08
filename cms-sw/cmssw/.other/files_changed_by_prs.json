@@ -3415,19 +3415,5 @@
         "number": 28717, 
         "state": "open", 
         "updated_at": 1578469554
-    }, 
-    "8484": {
-        "base_branch": "CMSSW_7_2_X", 
-        "changed_files_names": [
-            "CondTools/SiStrip/data/tickheight.txt", 
-            "CondTools/SiStrip/plugins/SealModules.cc", 
-            "CondTools/SiStrip/plugins/SiStripApvGainFromFileBuilder.cc", 
-            "CondTools/SiStrip/plugins/SiStripApvGainFromFileBuilder.h", 
-            "CondTools/SiStrip/test/SiStripApvGainFromASCIIFile_cfg.py"
-        ], 
-        "created_at": 1427149326, 
-        "number": 8484, 
-        "state": "open", 
-        "updated_at": 1448278608
     }
 }
