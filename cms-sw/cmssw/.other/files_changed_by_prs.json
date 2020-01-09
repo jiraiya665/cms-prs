@@ -2933,16 +2933,6 @@
         "state": "open", 
         "updated_at": 1578577619
     }, 
-    "28722": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Calibration/TkAlCaRecoProducers/python/ALCARECOSiPixelCalCosmics_cff.py"
-        ], 
-        "created_at": 1578563282, 
-        "number": 28722, 
-        "state": "open", 
-        "updated_at": 1578567930
-    }, 
     "28723": {
         "base_branch": "master", 
         "changed_files_names": [
