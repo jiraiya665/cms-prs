@@ -2671,16 +2671,6 @@
         "state": "open", 
         "updated_at": 1578343882
     }, 
-    "28695": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondFormats/JetMETObjects/src/classes.h"
-        ], 
-        "created_at": 1577734347, 
-        "number": 28695, 
-        "state": "open", 
-        "updated_at": 1578344006
-    }, 
     "28700": {
         "base_branch": "master", 
         "changed_files_names": [
