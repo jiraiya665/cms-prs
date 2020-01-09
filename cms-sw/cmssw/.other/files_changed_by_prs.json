@@ -2681,16 +2681,6 @@
         "state": "open", 
         "updated_at": 1578344006
     }, 
-    "28698": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondTools/DT/src/DTDeadFlagHandler.cc"
-        ], 
-        "created_at": 1577739645, 
-        "number": 28698, 
-        "state": "open", 
-        "updated_at": 1578343900
-    }, 
     "28700": {
         "base_branch": "master", 
         "changed_files_names": [
