@@ -2766,19 +2766,6 @@
         "state": "open", 
         "updated_at": 1578567160
     }, 
-    "28714": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/CTPPS/plugins/CTPPSPixelDQMSource.cc", 
-            "DQM/CTPPS/python/ctppsDQM_cff.py", 
-            "DQM/CTPPS/python/ctppsPixelDQMSource_cfi.py", 
-            "DQMOffline/Configuration/python/DQMOffline_cff.py"
-        ], 
-        "created_at": 1578406671, 
-        "number": 28714, 
-        "state": "open", 
-        "updated_at": 1578567292
-    }, 
     "28715": {
         "base_branch": "master", 
         "changed_files_names": [
