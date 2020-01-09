@@ -2671,16 +2671,6 @@
         "state": "open", 
         "updated_at": 1578343882
     }, 
-    "28692": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1Trigger/L1TNtuples/src/classes.h"
-        ], 
-        "created_at": 1577732903, 
-        "number": 28692, 
-        "state": "open", 
-        "updated_at": 1578343916
-    }, 
     "28693": {
         "base_branch": "master", 
         "changed_files_names": [
