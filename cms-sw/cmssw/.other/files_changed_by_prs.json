@@ -2565,19 +2565,6 @@
         "state": "open", 
         "updated_at": 1578661129
     }, 
-    "28700": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HcalAlgo/plugins/dd4hep/DDHCalLinearXY.cc", 
-            "Geometry/HcalCommonData/interface/HcalGeomParameters.h", 
-            "Geometry/HcalCommonData/src/HcalGeomParameters.cc", 
-            "Geometry/HcalCommonData/src/HcalParametersFromDD.cc"
-        ], 
-        "created_at": 1577804713, 
-        "number": 28700, 
-        "state": "open", 
-        "updated_at": 1578567377
-    }, 
     "28710": {
         "base_branch": "master", 
         "changed_files_names": [
