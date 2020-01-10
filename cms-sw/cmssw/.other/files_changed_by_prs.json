@@ -2484,7 +2484,6 @@
             "DQMOffline/EGamma/plugins/BuildFile.xml", 
             "DQMOffline/Ecal/plugins/BuildFile.xml", 
             "DQMOffline/Trigger/BuildFile.xml", 
-            "DQMOffline/Trigger/plugins/LepHTMonitor.cc", 
             "EgammaAnalysis/ElectronTools/src/ElectronEnergyRegressionEvaluate.cc", 
             "ElectroWeakAnalysis/WENu/interface/GenPurposeSkimmer.h", 
             "ElectroWeakAnalysis/WENu/interface/GenPurposeSkimmerAcceptance.h", 
@@ -2564,7 +2563,7 @@
         "created_at": 1577450167, 
         "number": 28684, 
         "state": "open", 
-        "updated_at": 1578567228
+        "updated_at": 1578661129
     }, 
     "28700": {
         "base_branch": "master", 
