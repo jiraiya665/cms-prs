@@ -2802,5 +2802,15 @@
         "number": 28723, 
         "state": "open", 
         "updated_at": 1578582122
+    }, 
+    "28724": {
+        "base_branch": "CMSSW_11_0_X", 
+        "changed_files_names": [
+            "RecoEgamma/EgammaIsolationAlgos/python/interestingEgammaIsoDetIdsSequence_cff.py"
+        ], 
+        "created_at": 1578643034, 
+        "number": 28724, 
+        "state": "open", 
+        "updated_at": 1578643079
     }
 }
