@@ -2218,27 +2218,6 @@
         "state": "open", 
         "updated_at": 1578567108
     }, 
-    "28638": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Alignment/APEEstimation/python/AlignmentTrackSelector_cff.py", 
-            "Alignment/APEEstimation/python/samples/MC_UL16_ttbar_cff.py", 
-            "Alignment/APEEstimation/scripts/initialise.bash", 
-            "Alignment/APEEstimation/test/SkimProducer/cmsRemove.sh", 
-            "Alignment/APEEstimation/test/SkimProducer/cmsRename.sh", 
-            "Alignment/APEEstimation/test/SkimProducer/skimProducer_cfg.py", 
-            "Alignment/APEEstimation/test/SkimProducer/skimTemplates.py", 
-            "Alignment/APEEstimation/test/SkimProducer/startSkim.py", 
-            "Alignment/APEEstimation/test/autoSubmitter/autoSubmitterTemplates.py", 
-            "Alignment/APEEstimation/test/batch/cp.bash", 
-            "Alignment/APEEstimation/test/batch/skimProducer.bash", 
-            "Alignment/APEEstimation/test/plottingTools/granularity.py"
-        ], 
-        "created_at": 1576592352, 
-        "number": 28638, 
-        "state": "open", 
-        "updated_at": 1578567073
-    }, 
     "28648": {
         "base_branch": "master", 
         "changed_files_names": [
