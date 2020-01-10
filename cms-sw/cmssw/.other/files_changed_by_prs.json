@@ -2447,30 +2447,6 @@
         "state": "open", 
         "updated_at": 1578567319
     }, 
-    "28683": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Alignment/APEEstimation/plugins/ApeEstimator.cc", 
-            "CalibTracker/SiStripCommon/interface/ShallowClustersProducer.h", 
-            "CalibTracker/SiStripCommon/plugins/ShallowClustersProducer.cc", 
-            "CalibTracker/SiStripHitEfficiency/interface/HitEff.h", 
-            "CalibTracker/SiStripHitEfficiency/src/HitEff.cc", 
-            "DPGAnalysis/SiStripTools/plugins/TrackerDpgAnalysis.cc", 
-            "DQM/SiStripMonitorCluster/interface/SiStripMonitorCluster.h", 
-            "DQM/SiStripMonitorCluster/src/SiStripMonitorCluster.cc", 
-            "DQM/SiStripMonitorTrack/interface/SiStripMonitorTrack.h", 
-            "DQM/SiStripMonitorTrack/src/SiStripMonitorTrack.cc", 
-            "DQM/TrackingMonitorSource/interface/StandaloneTrackMonitor.h", 
-            "DQM/TrackingMonitorSource/plugins/StandaloneTrackMonitor.cc", 
-            "RecoLocalTracker/SiStripClusterizer/interface/SiStripClusterInfo.h", 
-            "RecoLocalTracker/SiStripClusterizer/src/SiStripClusterInfo.cc", 
-            "RecoTracker/FinalTrackSelectors/plugins/TrackerTrackHitFilter.cc"
-        ], 
-        "created_at": 1577384638, 
-        "number": 28683, 
-        "state": "open", 
-        "updated_at": 1578567078
-    }, 
     "28684": {
         "base_branch": "master", 
         "changed_files_names": [
