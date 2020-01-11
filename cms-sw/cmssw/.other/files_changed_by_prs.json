@@ -2578,8 +2578,6 @@
             "FWCore/Concurrency/interface/SerialTaskQueueChain.h", 
             "FWCore/Framework/bin/cmsRun.cpp", 
             "FWCore/Framework/bin/cmsRunPython3.cpp", 
-            "FWCore/Framework/src/._EventProcessor.cc", 
-            "FWCore/Framework/src/._StreamSchedule.h", 
             "FWCore/Framework/src/EventProcessor.cc", 
             "FWCore/Framework/src/EventSetupRecordIOVQueue.cc", 
             "FWCore/Framework/src/EventSetupsController.cc", 
@@ -2604,7 +2602,7 @@
         "created_at": 1578423946, 
         "number": 28715, 
         "state": "open", 
-        "updated_at": 1578689754
+        "updated_at": 1578700672
     }, 
     "28719": {
         "base_branch": "master", 
