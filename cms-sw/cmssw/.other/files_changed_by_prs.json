@@ -1266,9 +1266,6 @@
     "28612": {
         "base_branch": "master", 
         "changed_files_names": [
-            "CalibTracker/SiStripChannelGain/python/SiStripGainsPCLWorker_cfi.py", 
-            "DQM/HLTEvF/python/trigObjTnPSource_cfi.py", 
-            "DQMServices/Components/python/DQMLumiMonitor_cfi.py", 
             "DQMServices/Components/python/test/MERGE_Runs.py", 
             "DQMServices/Components/python/test/MessageLogger_cfi.py", 
             "DQMServices/Components/python/test/SELECT_NONE.py", 
@@ -1539,11 +1536,6 @@
             "DQMServices/Components/test/test_reharvest_from_dqmio.sh", 
             "DQMServices/Components/test/whiteRabbit.py", 
             "DQMServices/Components/test/whiteRabbit3.py", 
-            "DQMServices/Core/interface/DQMGlobalEDAnalyzer.h", 
-            "DQMServices/Core/interface/DQMStore.h", 
-            "DQMServices/Core/src/DQMStore.cc", 
-            "DQMServices/Core/test/BuildFile.xml", 
-            "DQMServices/Core/test/DQMFastMatchTest.cc", 
             "DQMServices/Demo/README.md", 
             "DQMServices/Demo/plugins/BuildFile.xml", 
             "DQMServices/Demo/plugins/DemoGlobalDQMEDAnalyzer.cc", 
@@ -1560,18 +1552,12 @@
             "DQMServices/Demo/test/run_analyzers_cfg.py", 
             "DQMServices/Demo/test/run_harvesters_cfg.py", 
             "DQMServices/Demo/test/rundemo_cfg.py", 
-            "DQMServices/Demo/test/runtests.sh", 
-            "HLTrigger/Timer/plugins/FastTimerService.cc", 
-            "HLTrigger/Timer/plugins/ThroughputService.cc", 
-            "Validation/DTRecHits/python/DTRecHitQualityAll_cfi.py", 
-            "Validation/DTRecHits/python/DTRecHitQuality_cfi.py", 
-            "Validation/HGCalValidation/python/HGCalValidator_cfi.py", 
-            "Validation/RecoTrack/python/MultiTrackValidator_cfi.py"
+            "DQMServices/Demo/test/runtests.sh"
         ], 
         "created_at": 1576146780, 
         "number": 28612, 
         "state": "open", 
-        "updated_at": 1578689631
+        "updated_at": 1578908770
     }, 
     "28613": {
         "base_branch": "CMSSW_11_1_DEVEL_X", 
