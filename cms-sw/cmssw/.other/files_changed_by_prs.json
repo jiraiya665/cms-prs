@@ -2312,12 +2312,13 @@
             "RecoJets/JetProducers/python/ak4PFJets_cfi.py", 
             "RecoJets/JetProducers/python/ak8PFJets_cfi.py", 
             "RecoParticleFlow/Configuration/python/RecoParticleFlow_cff.py", 
-            "RecoParticleFlow/PFProducer/python/pfLinker_cff.py"
+            "RecoParticleFlow/PFProducer/python/pfLinker_cff.py", 
+            "TauAnalysis/MCEmbeddingTools/python/customisers.py"
         ], 
         "created_at": 1576786158, 
         "number": 28659, 
         "state": "open", 
-        "updated_at": 1578689488
+        "updated_at": 1578936738
     }, 
     "28662": {
         "base_branch": "master", 
