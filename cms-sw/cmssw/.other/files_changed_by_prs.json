@@ -1148,28 +1148,6 @@
         "state": "open", 
         "updated_at": 1578689482
     }, 
-    "28588": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQMServices/Components/plugins/DQMFileSaver.cc", 
-            "DQMServices/Components/plugins/DQMFileSaver.h", 
-            "DQMServices/Components/plugins/SealModule.cc", 
-            "DQMServices/Core/interface/DQMStore.h", 
-            "DQMServices/Core/interface/LegacyIOHelper.h", 
-            "DQMServices/Core/interface/MonitorElement.h", 
-            "DQMServices/Core/interface/QReport.h", 
-            "DQMServices/Core/src/DQMStore.cc", 
-            "DQMServices/Core/src/LegacyIOHelper.cc", 
-            "DQMServices/FileIO/plugins/DQMFileSaverOnline.cc", 
-            "DQMServices/FileIO/plugins/DQMFileSaverPB.cc", 
-            "DQMServices/FileIO/plugins/DQMFileSaverPB.h", 
-            "DQMServices/FileIO/python/DQMFileSaverPB_cfi.py"
-        ], 
-        "created_at": 1575914465, 
-        "number": 28588, 
-        "state": "open", 
-        "updated_at": 1578689659
-    }, 
     "28604": {
         "base_branch": "master", 
         "changed_files_names": [
