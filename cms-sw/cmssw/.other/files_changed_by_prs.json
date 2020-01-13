@@ -2605,17 +2605,6 @@
         "state": "open", 
         "updated_at": 1578689561
     }, 
-    "28727": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/HLTReco/interface/HLTPerformanceInfo.h", 
-            "DataFormats/HLTReco/src/HLTPerformanceInfo.cc"
-        ], 
-        "created_at": 1578665530, 
-        "number": 28727, 
-        "state": "open", 
-        "updated_at": 1578689566
-    }, 
     "28730": {
         "base_branch": "master", 
         "changed_files_names": [
