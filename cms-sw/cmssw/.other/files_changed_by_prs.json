@@ -2313,24 +2313,6 @@
         "state": "open", 
         "updated_at": 1578689540
     }, 
-    "28678": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/StandardSequences/python/ReconstructionCosmics_cff.py", 
-            "Configuration/StandardSequences/python/ReconstructionHeavyIons_cff.py", 
-            "Configuration/StandardSequences/python/Reconstruction_cff.py", 
-            "RecoCTPPS/Configuration/python/recoCTPPS_cff.py", 
-            "RecoEgamma/EgammaPhotonProducers/python/conversionOpenTrackSequence_cff.py", 
-            "RecoLocalFastTime/Configuration/python/RecoLocalFastTime_cff.py", 
-            "RecoMTD/Configuration/python/RecoMTD_cff.py", 
-            "RecoParticleFlow/PFTracking/python/particleFlowTrack_cff.py", 
-            "RecoVertex/Configuration/python/RecoVertexCosmicTracks_cff.py"
-        ], 
-        "created_at": 1577026533, 
-        "number": 28678, 
-        "state": "open", 
-        "updated_at": 1578689691
-    }, 
     "28684": {
         "base_branch": "master", 
         "changed_files_names": [
