@@ -2580,31 +2580,6 @@
         "state": "open", 
         "updated_at": 1578689524
     }, 
-    "28726": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/CTPPS/plugins/TotemRPDQMSource.cc", 
-            "Geometry/VeryForwardGeometryBuilder/BuildFile.xml", 
-            "Geometry/VeryForwardGeometryBuilder/interface/CTPPSGeometry.h", 
-            "Geometry/VeryForwardGeometryBuilder/plugins/CTPPSGeometryInfo.cc", 
-            "Geometry/VeryForwardGeometryBuilder/src/CTPPSGeometry.cc", 
-            "Geometry/VeryForwardRPTopology/BuildFile.xml", 
-            "Geometry/VeryForwardRPTopology/interface/RPSimTopology.h", 
-            "Geometry/VeryForwardRPTopology/interface/RPTopology.h", 
-            "RecoCTPPS/PixelLocal/interface/RPixDetPatternFinder.h", 
-            "RecoCTPPS/PixelLocal/interface/RPixDetTrackFinder.h", 
-            "RecoCTPPS/PixelLocal/src/RPixPlaneCombinatoryTracking.cc", 
-            "RecoCTPPS/PixelLocal/src/RPixRoadFinder.cc", 
-            "RecoCTPPS/TotemRPLocal/interface/TotemRPLocalTrackFitterAlgorithm.h", 
-            "RecoCTPPS/TotemRPLocal/src/FastLineRecognition.cc", 
-            "RecoCTPPS/TotemRPLocal/src/TotemRPLocalTrackFitterAlgorithm.cc", 
-            "Validation/CTPPS/plugins/CTPPSDirectProtonSimulation.cc"
-        ], 
-        "created_at": 1578664970, 
-        "number": 28726, 
-        "state": "open", 
-        "updated_at": 1578689561
-    }, 
     "28730": {
         "base_branch": "master", 
         "changed_files_names": [
