@@ -2573,16 +2573,6 @@
         "state": "open", 
         "updated_at": 1578700672
     }, 
-    "28719": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimCalorimetry/HGCalSimProducers/src/HGCDigitizer.cc"
-        ], 
-        "created_at": 1578497216, 
-        "number": 28719, 
-        "state": "open", 
-        "updated_at": 1578689615
-    }, 
     "28720": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
