@@ -1264,7 +1264,6 @@
             "DQMServices/Components/plugins/DQMFileReader.cc", 
             "DQMServices/Components/plugins/DQMFileReader.h", 
             "DQMServices/Components/plugins/DQMFileSaver.cc", 
-            "DQMServices/Components/plugins/DQMFileSaver.h", 
             "DQMServices/Components/plugins/DQMStoreStats.cc", 
             "DQMServices/Components/plugins/EDMtoMEConverter.cc", 
             "DQMServices/Components/plugins/EDMtoMEConverter.h", 
@@ -1306,8 +1305,6 @@
             "DQMServices/FileIO/plugins/DQMFileSaverBase.h", 
             "DQMServices/FileIO/plugins/DQMFileSaverOnline.cc", 
             "DQMServices/FileIO/plugins/DQMFileSaverPB.cc", 
-            "DQMServices/FileIO/plugins/DQMFileSaverPB.h", 
-            "DQMServices/FileIO/python/DQMFileSaverPB_cfi.py", 
             "DQMServices/FwkIO/plugins/BuildFile.xml", 
             "DQMServices/FwkIO/plugins/DQMRootOutputModule.cc", 
             "DQMServices/FwkIO/plugins/DQMRootSource.cc", 
@@ -1364,7 +1361,7 @@
         "created_at": 1576244849, 
         "number": 28622, 
         "state": "open", 
-        "updated_at": 1578999679
+        "updated_at": 1579004012
     }, 
     "28648": {
         "base_branch": "master", 
