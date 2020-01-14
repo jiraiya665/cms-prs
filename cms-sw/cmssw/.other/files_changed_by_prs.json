@@ -1860,5 +1860,18 @@
         "number": 28736, 
         "state": "open", 
         "updated_at": 1579000991
+    }, 
+    "28738": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoCTPPS/ProtonReconstruction/interface/ProtonReconstructionAlgorithm.h", 
+            "RecoCTPPS/ProtonReconstruction/plugins/CTPPSProtonProducer.cc", 
+            "RecoCTPPS/ProtonReconstruction/src/ProtonReconstructionAlgorithm.cc", 
+            "Validation/CTPPS/plugins/CTPPSProtonReconstructionDiffPlotter.cc"
+        ], 
+        "created_at": 1579017993, 
+        "number": 28738, 
+        "state": "open", 
+        "updated_at": 1579018033
     }
 }
