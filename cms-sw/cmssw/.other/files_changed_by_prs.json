@@ -1147,21 +1147,6 @@
         "state": "open", 
         "updated_at": 1578992137
     }, 
-    "28604": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/CSCDigi/interface/CSCCLCTDigi.h", 
-            "DataFormats/CSCDigi/interface/CSCCLCTRun3Digi.h", 
-            "DataFormats/CSCDigi/interface/CSCCLCTRun3DigiCollection.h", 
-            "DataFormats/CSCDigi/src/CSCCLCTRun3Digi.cc", 
-            "DataFormats/CSCDigi/src/classes.h", 
-            "DataFormats/CSCDigi/src/classes_def.xml"
-        ], 
-        "created_at": 1576026507, 
-        "number": 28604, 
-        "state": "open", 
-        "updated_at": 1578992091
-    }, 
     "28605": {
         "base_branch": "master", 
         "changed_files_names": [
