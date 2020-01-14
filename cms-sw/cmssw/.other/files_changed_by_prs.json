@@ -1705,40 +1705,6 @@
         "state": "open", 
         "updated_at": 1578991994
     }, 
-    "28715": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/Concurrency/interface/LimitedTaskQueue.h", 
-            "FWCore/Concurrency/interface/SerialTaskQueue.h", 
-            "FWCore/Concurrency/interface/SerialTaskQueueChain.h", 
-            "FWCore/Framework/bin/cmsRun.cpp", 
-            "FWCore/Framework/bin/cmsRunPython3.cpp", 
-            "FWCore/Framework/src/EventProcessor.cc", 
-            "FWCore/Framework/src/EventSetupRecordIOVQueue.cc", 
-            "FWCore/Framework/src/EventSetupsController.cc", 
-            "FWCore/Framework/src/GlobalSchedule.h", 
-            "FWCore/Framework/src/OutputModuleCommunicatorT.cc", 
-            "FWCore/Framework/src/Path.cc", 
-            "FWCore/Framework/src/ProductResolvers.cc", 
-            "FWCore/Framework/src/Schedule.cc", 
-            "FWCore/Framework/src/StreamSchedule.cc", 
-            "FWCore/Framework/src/StreamSchedule.h", 
-            "FWCore/Framework/src/TransitionProcessors.icc", 
-            "FWCore/Framework/src/Worker.cc", 
-            "FWCore/Framework/src/Worker.h", 
-            "FWCore/Framework/src/WorkerMaker.cc", 
-            "FWCore/PythonFramework/src/PythonEventProcessor.cc", 
-            "FWCore/Services/plugins/CondorStatusUpdater.cc", 
-            "FWCore/TFWLiteSelectorTest/src/ThingsTSelector.cc", 
-            "FWCore/TFWLiteSelectorTest/src/ThingsTSelector2.cc", 
-            "FWCore/Utilities/interface/ConvertException.h", 
-            "FWCore/Utilities/src/TestHelper.cc"
-        ], 
-        "created_at": 1578423946, 
-        "number": 28715, 
-        "state": "open", 
-        "updated_at": 1578992144
-    }, 
     "28720": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
