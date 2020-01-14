@@ -1864,5 +1864,17 @@
         "number": 28734, 
         "state": "open", 
         "updated_at": 1578991957
+    }, 
+    "28735": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CommonTools/PileupAlgos/plugins/PuppiProducer.cc", 
+            "CommonTools/PileupAlgos/plugins/PuppiProducer.h", 
+            "CommonTools/PileupAlgos/python/Puppi_cff.py"
+        ], 
+        "created_at": 1579000783, 
+        "number": 28735, 
+        "state": "open", 
+        "updated_at": 1579000811
     }
 }
