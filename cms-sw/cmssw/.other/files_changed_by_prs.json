@@ -1798,25 +1798,6 @@
         "state": "open", 
         "updated_at": 1578992037
     }, 
-    "28725": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondCore/AlignmentPlugins/interface/AlignmentPayloadInspectorHelper.h", 
-            "CondCore/AlignmentPlugins/plugins/TrackerAlignmentErrorExtended_PayloadInspector.cc", 
-            "CondCore/AlignmentPlugins/plugins/TrackerAlignment_PayloadInspector.cc", 
-            "CondCore/AlignmentPlugins/plugins/TrackerSurfaceDeformations_PayloadInspector.cc", 
-            "CondCore/AlignmentPlugins/test/testTrackerAlignment.sh", 
-            "CondCore/AlignmentPlugins/test/testTrackerAlignmentErrosExtended.sh", 
-            "CondCore/AlignmentPlugins/test/testTrackerAlignmentPayloadInspector.cpp", 
-            "CondCore/HLTPlugins/plugins/AlCaRecoTriggerBits_PayloadInspector.cc", 
-            "CondCore/HLTPlugins/test/BuildFile.xml", 
-            "CondCore/HLTPlugins/test/testAlCaRecoTriggerBitsPayloadInspector.cpp"
-        ], 
-        "created_at": 1578652064, 
-        "number": 28725, 
-        "state": "open", 
-        "updated_at": 1578991944
-    }, 
     "28733": {
         "base_branch": "master", 
         "changed_files_names": [
