@@ -1827,16 +1827,6 @@
         "state": "open", 
         "updated_at": 1578991937
     }, 
-    "28734": {
-        "base_branch": "CMSSW_10_2_X", 
-        "changed_files_names": [
-            "GeneratorInterface/Pythia8Interface/plugins/Py8EGun.cc"
-        ], 
-        "created_at": 1578931712, 
-        "number": 28734, 
-        "state": "open", 
-        "updated_at": 1578991957
-    }, 
     "28735": {
         "base_branch": "master", 
         "changed_files_names": [
