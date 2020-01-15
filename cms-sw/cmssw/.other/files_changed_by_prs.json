@@ -1712,5 +1712,28 @@
         "number": 28745, 
         "state": "open", 
         "updated_at": 1579109951
+    }, 
+    "28746": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoEgamma/EgammaElectronProducers/plugins/GEDGsfElectronCoreProducer.cc", 
+            "RecoEgamma/EgammaElectronProducers/plugins/GEDGsfElectronCoreProducer.h", 
+            "RecoEgamma/EgammaElectronProducers/plugins/GEDGsfElectronFinalizer.cc", 
+            "RecoEgamma/EgammaElectronProducers/plugins/GEDGsfElectronFinalizer.h", 
+            "RecoEgamma/EgammaElectronProducers/plugins/GEDGsfElectronProducer.cc", 
+            "RecoEgamma/EgammaElectronProducers/plugins/GsfElectronCoreBaseProducer.cc", 
+            "RecoEgamma/EgammaElectronProducers/plugins/GsfElectronCoreBaseProducer.h", 
+            "RecoEgamma/EgammaElectronProducers/plugins/GsfElectronCoreEcalDrivenProducer.cc", 
+            "RecoEgamma/EgammaElectronProducers/plugins/GsfElectronCoreEcalDrivenProducer.h", 
+            "RecoEgamma/EgammaElectronProducers/plugins/LowPtGsfElectronCoreProducer.cc", 
+            "RecoEgamma/EgammaElectronProducers/plugins/LowPtGsfElectronCoreProducer.h", 
+            "RecoEgamma/EgammaElectronProducers/plugins/LowPtGsfElectronSCProducer.cc", 
+            "RecoEgamma/EgammaElectronProducers/plugins/LowPtGsfElectronSCProducer.h", 
+            "RecoEgamma/EgammaElectronProducers/plugins/SealModule.cc"
+        ], 
+        "created_at": 1579122215, 
+        "number": 28746, 
+        "state": "open", 
+        "updated_at": 1579122257
     }
 }
