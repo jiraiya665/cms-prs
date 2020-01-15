@@ -1289,20 +1289,6 @@
         "state": "open", 
         "updated_at": 1579004012
     }, 
-    "28648": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondCore/Utilities/interface/PayloadInspector.h", 
-            "CondCore/Utilities/plugins/BasicP_PayloadInspector.cc", 
-            "CondCore/Utilities/plugins/Module_PayloadInspector.cc", 
-            "CondCore/Utilities/scripts/getPayloadData.py", 
-            "CondCore/Utilities/src/PayloadInspector.cc"
-        ], 
-        "created_at": 1576663208, 
-        "number": 28648, 
-        "state": "open", 
-        "updated_at": 1578774561
-    }, 
     "28649": {
         "base_branch": "CMSSW_9_4_X", 
         "changed_files_names": [
