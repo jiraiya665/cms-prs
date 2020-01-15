@@ -700,16 +700,6 @@
         "state": "open", 
         "updated_at": 1578992114
     }, 
-    "28438": {
-        "base_branch": "CMSSW_10_2_X", 
-        "changed_files_names": [
-            "Calibration/LumiAlCaRecoProducers/plugins/CorrPCCProducer.cc"
-        ], 
-        "created_at": 1574270085, 
-        "number": 28438, 
-        "state": "open", 
-        "updated_at": 1578992131
-    }, 
     "28477": {
         "base_branch": "master", 
         "changed_files_names": [
