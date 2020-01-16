@@ -1725,16 +1725,6 @@
         "state": "open", 
         "updated_at": 1579164671
     }, 
-    "28749": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/L1TMuon/BuildFile.xml"
-        ], 
-        "created_at": 1579166274, 
-        "number": 28749, 
-        "state": "open", 
-        "updated_at": 1579166315
-    }, 
     "28750": {
         "base_branch": "master", 
         "changed_files_names": [
