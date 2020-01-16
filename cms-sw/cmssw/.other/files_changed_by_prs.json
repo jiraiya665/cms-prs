@@ -1649,21 +1649,6 @@
         "state": "open", 
         "updated_at": 1579164722
     }, 
-    "28742": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/CTPPS/plugins/CTPPSCommonDQMSource.cc", 
-            "DQM/CTPPS/python/ctppsCommonDQMSource_cfi.py", 
-            "DQM/CTPPS/python/ctppsDQM_cff.py", 
-            "DQM/Integration/python/clients/ctpps_dqm_sourceclient-live_cfg.py", 
-            "DQMOffline/Configuration/python/DQMOffline_SecondStep_cff.py", 
-            "DQMOffline/Configuration/python/DQMOffline_cff.py"
-        ], 
-        "created_at": 1579104672, 
-        "number": 28742, 
-        "state": "open", 
-        "updated_at": 1579166049
-    }, 
     "28744": {
         "base_branch": "master", 
         "changed_files_names": [
