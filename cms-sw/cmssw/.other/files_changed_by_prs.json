@@ -1136,6 +1136,7 @@
             "DQM/DTMonitorModule/src/DTDCSByLumiTask.cc", 
             "DQM/EcalCommon/src/MESetEcal.cc", 
             "DQM/EcalCommon/src/MESetNonObject.cc", 
+            "DQM/EcalMonitorClient/python/SummaryClient_cfi.py", 
             "DQM/EcalMonitorDbModule/plugins/EcalBarrelMonitorDbModule.cc", 
             "DQM/EcalPreshowerMonitorModule/src/ESIntegrityTask.cc", 
             "DQM/HcalCommon/interface/Container1D.h", 
@@ -1231,6 +1232,7 @@
             "DQMServices/FileIO/plugins/DQMFileSaverBase.h", 
             "DQMServices/FileIO/plugins/DQMFileSaverOnline.cc", 
             "DQMServices/FileIO/plugins/DQMFileSaverPB.cc", 
+            "DQMServices/FileIO/scripts/compareFilesFromPR.sh", 
             "DQMServices/FwkIO/plugins/BuildFile.xml", 
             "DQMServices/FwkIO/plugins/DQMRootOutputModule.cc", 
             "DQMServices/FwkIO/plugins/DQMRootSource.cc", 
@@ -1287,7 +1289,7 @@
         "created_at": 1576244849, 
         "number": 28622, 
         "state": "open", 
-        "updated_at": 1579164759
+        "updated_at": 1579192641
     }, 
     "28649": {
         "base_branch": "CMSSW_9_4_X", 
