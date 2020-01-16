@@ -1701,6 +1701,7 @@
             "RecoEgamma/EgammaElectronProducers/plugins/GEDGsfElectronFinalizer.cc", 
             "RecoEgamma/EgammaElectronProducers/plugins/GEDGsfElectronFinalizer.h", 
             "RecoEgamma/EgammaElectronProducers/plugins/GEDGsfElectronProducer.cc", 
+            "RecoEgamma/EgammaElectronProducers/plugins/GEDGsfElectronProducer.h", 
             "RecoEgamma/EgammaElectronProducers/plugins/GsfElectronCoreBaseProducer.cc", 
             "RecoEgamma/EgammaElectronProducers/plugins/GsfElectronCoreBaseProducer.h", 
             "RecoEgamma/EgammaElectronProducers/plugins/GsfElectronCoreEcalDrivenProducer.cc", 
@@ -1709,11 +1710,17 @@
             "RecoEgamma/EgammaElectronProducers/plugins/LowPtGsfElectronCoreProducer.h", 
             "RecoEgamma/EgammaElectronProducers/plugins/LowPtGsfElectronSCProducer.cc", 
             "RecoEgamma/EgammaElectronProducers/plugins/LowPtGsfElectronSCProducer.h", 
-            "RecoEgamma/EgammaElectronProducers/plugins/SealModule.cc"
+            "RecoEgamma/EgammaElectronProducers/plugins/LowPtGsfElectronSeedProducer.cc", 
+            "RecoEgamma/EgammaElectronProducers/plugins/LowPtGsfElectronSeedProducer.h", 
+            "RecoEgamma/EgammaElectronProducers/plugins/LowPtGsfElectronSeedValueMapsProducer.cc", 
+            "RecoEgamma/EgammaElectronProducers/plugins/LowPtGsfElectronSeedValueMapsProducer.h", 
+            "RecoEgamma/EgammaElectronProducers/plugins/SealModule.cc", 
+            "RecoEgamma/EgammaElectronProducers/plugins/TrackingRegionsFromSuperClustersEDProducer.cc", 
+            "RecoEgamma/EgammaElectronProducers/plugins/TrackingRegionsFromSuperClustersProducer.cc"
         ], 
         "created_at": 1579122215, 
         "number": 28746, 
         "state": "open", 
-        "updated_at": 1579122257
+        "updated_at": 1579163207
     }
 }
