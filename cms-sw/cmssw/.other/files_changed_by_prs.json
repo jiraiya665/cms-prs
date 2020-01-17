@@ -1712,16 +1712,6 @@
         "state": "open", 
         "updated_at": 1579185531
     }, 
-    "28751": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/HLTEvF/plugins/DaqTestHistograms.cc"
-        ], 
-        "created_at": 1579185533, 
-        "number": 28751, 
-        "state": "open", 
-        "updated_at": 1579185583
-    }, 
     "28752": {
         "base_branch": "CMSSW_11_0_X", 
         "changed_files_names": [
