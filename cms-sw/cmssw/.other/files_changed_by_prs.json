@@ -1649,17 +1649,6 @@
         "state": "open", 
         "updated_at": 1579164722
     }, 
-    "28744": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Utilities/StaticAnalyzers/scripts/run_class_dumper.sh", 
-            "Utilities/StaticAnalyzers/src/ClangCmsCheckerPluginRegister.cpp"
-        ], 
-        "created_at": 1579109491, 
-        "number": 28744, 
-        "state": "open", 
-        "updated_at": 1579164696
-    }, 
     "28745": {
         "base_branch": "master", 
         "changed_files_names": [
