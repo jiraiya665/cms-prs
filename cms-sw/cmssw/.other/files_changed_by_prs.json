@@ -1567,19 +1567,6 @@
         "state": "open", 
         "updated_at": 1579164777
     }, 
-    "28739": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Alignment/MillePedeAlignmentAlgorithm/templates/alignment_config.ini", 
-            "Alignment/OfflineValidation/scripts/validateAlignments.py", 
-            "Alignment/OfflineValidation/test/testValidate.ini", 
-            "Alignment/OfflineValidation/test/test_all.sh"
-        ], 
-        "created_at": 1579082969, 
-        "number": 28739, 
-        "state": "open", 
-        "updated_at": 1579164862
-    }, 
     "28740": {
         "base_branch": "master", 
         "changed_files_names": [
