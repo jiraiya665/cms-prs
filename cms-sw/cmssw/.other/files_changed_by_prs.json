@@ -1613,18 +1613,6 @@
         "state": "open", 
         "updated_at": 1579271646
     }, 
-    "28758": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimG4Core/Application/test/SimTrackSimVertexDumper.cc", 
-            "SimG4Core/Application/test/SimTrackSimVertexDumper.h", 
-            "SimG4Core/Application/test/runSimTrackSimVertexDumper_cfg.py"
-        ], 
-        "created_at": 1579277009, 
-        "number": 28758, 
-        "state": "open", 
-        "updated_at": 1579277051
-    }, 
     "28761": {
         "base_branch": "master", 
         "changed_files_names": [
