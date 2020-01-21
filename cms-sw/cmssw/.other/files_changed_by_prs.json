@@ -1120,29 +1120,6 @@
         "state": "open", 
         "updated_at": 1579164712
     }, 
-    "28664": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimTracker/SiPhase2Digitizer/plugins/DigitizerUtility.h", 
-            "SimTracker/SiPhase2Digitizer/plugins/PSPDigitizerAlgorithm.cc", 
-            "SimTracker/SiPhase2Digitizer/plugins/PSPDigitizerAlgorithm.h", 
-            "SimTracker/SiPhase2Digitizer/plugins/PSSDigitizerAlgorithm.cc", 
-            "SimTracker/SiPhase2Digitizer/plugins/PSSDigitizerAlgorithm.h", 
-            "SimTracker/SiPhase2Digitizer/plugins/Phase2TrackerDigitizer.cc", 
-            "SimTracker/SiPhase2Digitizer/plugins/Phase2TrackerDigitizer.h", 
-            "SimTracker/SiPhase2Digitizer/plugins/Phase2TrackerDigitizerAlgorithm.cc", 
-            "SimTracker/SiPhase2Digitizer/plugins/Phase2TrackerDigitizerAlgorithm.h", 
-            "SimTracker/SiPhase2Digitizer/plugins/PixelDigitizerAlgorithm.cc", 
-            "SimTracker/SiPhase2Digitizer/plugins/PixelDigitizerAlgorithm.h", 
-            "SimTracker/SiPhase2Digitizer/plugins/PreMixingPhase2TrackerWorker.cc", 
-            "SimTracker/SiPhase2Digitizer/plugins/SSDigitizerAlgorithm.cc", 
-            "SimTracker/SiPhase2Digitizer/plugins/SSDigitizerAlgorithm.h"
-        ], 
-        "created_at": 1576840838, 
-        "number": 28664, 
-        "state": "open", 
-        "updated_at": 1579164728
-    }, 
     "28672": {
         "base_branch": "master", 
         "changed_files_names": [
