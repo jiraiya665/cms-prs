@@ -1437,5 +1437,28 @@
         "number": 28773, 
         "state": "open", 
         "updated_at": 1579624331
+    }, 
+    "28774": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalModule-algorithm.xml", 
+            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalModuleAlgo-algorithm.xml", 
+            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalNoTaperEndcap-algorithm.xml", 
+            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalTBModule-algorithm.xml", 
+            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalTBModuleX-algorithm.xml", 
+            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalWaferAlgo-algorithm.xml", 
+            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalcell-algorithm.xml", 
+            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalwafer-algorithm.xml", 
+            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalwafer8-algorithm.xml", 
+            "Geometry/HGCalCommonData/interface/HGCalGeomParameters.h", 
+            "Geometry/HGCalCommonData/interface/HGCalParameters.h", 
+            "Geometry/HGCalCommonData/src/HGCalGeomParameters.cc", 
+            "Geometry/HGCalCommonData/test/python/testHGCalParametersDD4Hep_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/testHGCalParametersDDD_cfg.py"
+        ], 
+        "created_at": 1579635958, 
+        "number": 28774, 
+        "state": "open", 
+        "updated_at": 1579636003
     }
 }
