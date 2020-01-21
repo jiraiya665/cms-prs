@@ -838,25 +838,6 @@
         "state": "open", 
         "updated_at": 1576248799
     }, 
-    "28605": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1Trigger/CSCTriggerPrimitives/interface/CSCGEMMotherboard.h", 
-            "L1Trigger/CSCTriggerPrimitives/interface/CSCGEMMotherboardME11.h", 
-            "L1Trigger/CSCTriggerPrimitives/interface/CSCGEMMotherboardME21.h", 
-            "L1Trigger/CSCTriggerPrimitives/plugins/CSCTriggerPrimitivesProducer.cc", 
-            "L1Trigger/CSCTriggerPrimitives/python/cscTriggerPrimitiveDigis_cfi.py", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCBaseboard.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCGEMMotherboard.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCGEMMotherboardME11.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCGEMMotherboardME21.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCTriggerPrimitivesBuilder.cc"
-        ], 
-        "created_at": 1576039079, 
-        "number": 28605, 
-        "state": "open", 
-        "updated_at": 1579164678
-    }, 
     "28613": {
         "base_branch": "CMSSW_11_1_DEVEL_X", 
         "changed_files_names": [
