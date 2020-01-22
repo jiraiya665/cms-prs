@@ -1278,6 +1278,8 @@
             "DataFormats/SiStripDigi/interface/SiStripRawDigi.h", 
             "EventFilter/SiStripRawToDigi/interface/SiStripFEDBuffer.h", 
             "EventFilter/SiStripRawToDigi/interface/SiStripFEDBufferComponents.h", 
+            "EventFilter/SiStripRawToDigi/interface/SiStripFEDBufferGenerator.h", 
+            "EventFilter/SiStripRawToDigi/interface/TFHeaderDescription.h", 
             "EventFilter/SiStripRawToDigi/plugins/SiStripDigiToRaw.cc", 
             "EventFilter/SiStripRawToDigi/plugins/SiStripRawToDigiUnpacker.cc", 
             "EventFilter/SiStripRawToDigi/plugins/SiStripRawToDigiUnpacker.h", 
@@ -1291,7 +1293,7 @@
         "created_at": 1579266634, 
         "number": 28756, 
         "state": "open", 
-        "updated_at": 1579266666
+        "updated_at": 1579698492
     }, 
     "28757": {
         "base_branch": "master", 
