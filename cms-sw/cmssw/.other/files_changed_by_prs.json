@@ -858,6 +858,7 @@
             "CalibTracker/SiStripChannelGain/plugins/SiStripGainFromCalibTree.cc", 
             "Calibration/HcalCalibAlgos/plugins/Analyzer_minbias.cc", 
             "Calibration/LumiAlCaRecoProducers/plugins/CorrPCCProducer.cc", 
+            "Calibration/TkAlCaRecoProducers/python/AlcaSiStripGainsAAGHarvester_cff.py", 
             "Calibration/TkAlCaRecoProducers/test/DQMRootFileReader.cc", 
             "Configuration/DataProcessing/python/Merge.py", 
             "DQM/BeamMonitor/plugins/AlcaBeamMonitor.cc", 
@@ -1022,7 +1023,7 @@
         "created_at": 1576244849, 
         "number": 28622, 
         "state": "open", 
-        "updated_at": 1579257214
+        "updated_at": 1579799975
     }, 
     "28649": {
         "base_branch": "CMSSW_9_4_X", 
