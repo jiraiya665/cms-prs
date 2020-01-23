@@ -1476,6 +1476,8 @@
     "28779": {
         "base_branch": "master", 
         "changed_files_names": [
+            "DataFormats/CLHEP/BuildFile.xml", 
+            "DataFormats/PatCandidates/BuildFile.xml", 
             "PhysicsTools/FWLite/BuildFile.xml", 
             "PhysicsTools/HepMCCandAlgos/BuildFile.xml", 
             "PhysicsTools/JetCharge/BuildFile.xml", 
@@ -1504,6 +1506,6 @@
         "created_at": 1579721286, 
         "number": 28779, 
         "state": "open", 
-        "updated_at": 1579721314
+        "updated_at": 1579738039
     }
 }
