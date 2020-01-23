@@ -1542,5 +1542,16 @@
         "number": 28784, 
         "state": "open", 
         "updated_at": 1579793724
+    }, 
+    "28785": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "GeneratorInterface/PhotosInterface/plugins/PhotosppInterface.cc", 
+            "GeneratorInterface/PhotosInterface/test/DYphotospp_Tune4C_13TeV_pythia8.py"
+        ], 
+        "created_at": 1579796791, 
+        "number": 28785, 
+        "state": "open", 
+        "updated_at": 1579796832
     }
 }
