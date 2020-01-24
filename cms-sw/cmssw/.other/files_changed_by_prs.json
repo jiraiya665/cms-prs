@@ -1482,16 +1482,6 @@
         "state": "open", 
         "updated_at": 1579792860
     }, 
-    "28784": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/Framework/interface/Frameworkfwd.h"
-        ], 
-        "created_at": 1579793697, 
-        "number": 28784, 
-        "state": "open", 
-        "updated_at": 1579793724
-    }, 
     "28785": {
         "base_branch": "master", 
         "changed_files_names": [
