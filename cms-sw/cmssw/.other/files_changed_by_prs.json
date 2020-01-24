@@ -1092,6 +1092,7 @@
             "DataFormats/ParticleFlowCandidate/src/classes_def.xml", 
             "DataFormats/PatCandidates/src/classes_def_objects.xml", 
             "HLTriggerOffline/B2G/python/b2gHadronicHLTEventValidation_cfi.py", 
+            "PhysicsTools/JetMCAlgos/plugins/JetFlavourClustering.cc", 
             "PhysicsTools/NanoAOD/python/jets_cff.py", 
             "PhysicsTools/PatAlgos/python/slimming/applySubstructure_cff.py", 
             "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py", 
@@ -1100,6 +1101,7 @@
             "RecoBTag/FeatureTools/plugins/DeepDoubleXTagInfoProducer.cc", 
             "RecoBTag/ImpactParameter/python/pfImpactParameterAK8TagInfos_cfi.py", 
             "RecoBTag/ONNXRuntime/test/test_deep_doubleb_cfg_AOD.py", 
+            "RecoBTag/SecondaryVertex/plugins/TemplatedSecondaryVertexProducer.cc", 
             "RecoHI/Configuration/python/Reconstruction_hiPF_cff.py", 
             "RecoJets/Configuration/python/RecoJets_EventContent_cff.py", 
             "RecoJets/Configuration/python/RecoPFJets_cff.py", 
@@ -1119,7 +1121,7 @@
         "created_at": 1576786158, 
         "number": 28659, 
         "state": "open", 
-        "updated_at": 1579164712
+        "updated_at": 1579887733
     }, 
     "28672": {
         "base_branch": "master", 
