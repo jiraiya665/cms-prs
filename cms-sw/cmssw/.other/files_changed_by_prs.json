@@ -1141,19 +1141,6 @@
         "state": "open", 
         "updated_at": 1579518558
     }, 
-    "28741": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HGCalCommonData/interface/HGCalGeomTools.h", 
-            "Geometry/HGCalCommonData/interface/HGCalWaferMask.h", 
-            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc", 
-            "Geometry/HGCalCommonData/src/HGCalWaferMask.cc"
-        ], 
-        "created_at": 1579101099, 
-        "number": 28741, 
-        "state": "open", 
-        "updated_at": 1579164722
-    }, 
     "28746": {
         "base_branch": "master", 
         "changed_files_names": [
