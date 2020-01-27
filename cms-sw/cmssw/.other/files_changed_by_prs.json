@@ -1321,19 +1321,6 @@
         "state": "open", 
         "updated_at": 1579445123
     }, 
-    "28762": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Calibration/TkAlCaRecoProducers/python/ALCARECOSiPixelCalCosmics_cff.py", 
-            "Calibration/TkAlCaRecoProducers/python/ALCARECOSiPixelCalSingleMuon_cff.py", 
-            "Calibration/TkAlCaRecoProducers/python/ALCARECOSiStripCalCosmics_cff.py", 
-            "Configuration/AlCa/python/autoCond.py"
-        ], 
-        "created_at": 1579445103, 
-        "number": 28762, 
-        "state": "open", 
-        "updated_at": 1579445146
-    }, 
     "28764": {
         "base_branch": "master", 
         "changed_files_names": [
