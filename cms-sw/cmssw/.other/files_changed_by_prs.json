@@ -1308,17 +1308,6 @@
         "state": "open", 
         "updated_at": 1579609004
     }, 
-    "28773": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/PyReleaseValidation/python/relval_upgrade.py", 
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py"
-        ], 
-        "created_at": 1579624303, 
-        "number": 28773, 
-        "state": "open", 
-        "updated_at": 1579624331
-    }, 
     "28777": {
         "base_branch": "master", 
         "changed_files_names": [
