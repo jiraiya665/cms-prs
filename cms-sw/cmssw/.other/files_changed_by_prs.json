@@ -17,37 +17,6 @@
         "state": "open", 
         "updated_at": 1578774641
     }, 
-    "26094": {
-        "base_branch": "CMSSW_7_1_X", 
-        "changed_files_names": [
-            "SimG4Core/CustomPhysics/data/particles_simp_1000_GeV.txt", 
-            "SimG4Core/CustomPhysics/data/particles_simp_100_GeV.txt", 
-            "SimG4Core/CustomPhysics/data/particles_simp_10_GeV.txt", 
-            "SimG4Core/CustomPhysics/data/particles_simp_1_GeV.txt", 
-            "SimG4Core/CustomPhysics/data/particles_simp_200_GeV.txt", 
-            "SimG4Core/CustomPhysics/data/particles_simp_400_GeV.txt", 
-            "SimG4Core/CustomPhysics/data/particles_simp_700_GeV.txt", 
-            "SimG4Core/CustomPhysics/interface/CustomPDGParser.h", 
-            "SimG4Core/CustomPhysics/src/CustomPDGParser.cc", 
-            "SimG4Core/CustomPhysics/src/CustomParticleFactory.cc", 
-            "SimG4Core/CustomPhysics/src/CustomPhysicsList.cc", 
-            "SimG4Core/CustomPhysics/src/G4AntiSIMP.cc", 
-            "SimG4Core/CustomPhysics/src/G4AntiSIMP.hh", 
-            "SimG4Core/CustomPhysics/src/G4ProcessHelper.cc", 
-            "SimG4Core/CustomPhysics/src/G4QGSPSIMPBuilder.cc", 
-            "SimG4Core/CustomPhysics/src/G4QGSPSIMPBuilder.hh", 
-            "SimG4Core/CustomPhysics/src/G4SIMP.cc", 
-            "SimG4Core/CustomPhysics/src/G4SIMP.hh", 
-            "SimG4Core/CustomPhysics/src/G4SIMPInelasticProcess.cc", 
-            "SimG4Core/CustomPhysics/src/G4SIMPInelasticProcess.hh", 
-            "SimG4Core/CustomPhysics/src/G4SIMPInelasticXS.cc", 
-            "SimG4Core/CustomPhysics/src/G4SIMPInelasticXS.hh"
-        ], 
-        "created_at": 1551913885, 
-        "number": 26094, 
-        "state": "open", 
-        "updated_at": 1578774618
-    }, 
     "27983": {
         "base_branch": "CMSSW_11_0_X", 
         "changed_files_names": [
