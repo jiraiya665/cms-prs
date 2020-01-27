@@ -1471,20 +1471,6 @@
         "state": "open", 
         "updated_at": 1580052956
     }, 
-    "28789": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimG4Core/Application/interface/RunManager.h", 
-            "SimG4Core/Application/interface/RunManagerMT.h", 
-            "SimG4Core/Application/src/RunManager.cc", 
-            "SimG4Core/Application/src/RunManagerMT.cc", 
-            "SimG4Core/Application/src/RunManagerMTWorker.cc"
-        ], 
-        "created_at": 1579888655, 
-        "number": 28789, 
-        "state": "open", 
-        "updated_at": 1579888655
-    }, 
     "28790": {
         "base_branch": "master", 
         "changed_files_names": [
