@@ -1525,9 +1525,7 @@
         "base_branch": "master", 
         "changed_files_names": [
             "DetectorDescription/DDCMS/data/cms-geometry-2021.xml", 
-            "DetectorDescription/DDCMS/interface/DDFilteredView.h", 
             "DetectorDescription/DDCMS/src/DDFilteredView.cc", 
-            "DetectorDescription/DDCMS/test/DDSolid.cppunit.cc", 
             "Geometry/GEMGeometryBuilder/BuildFile.xml", 
             "Geometry/GEMGeometryBuilder/data/v8/GEMSpecsFilter17.xml", 
             "Geometry/GEMGeometryBuilder/plugins/BuildFile.xml", 
@@ -1539,15 +1537,12 @@
             "Geometry/GEMGeometryBuilder/test/python/validateGEMGeometry_cfg.py", 
             "Geometry/MuonNumbering/interface/DD4hep_GEMNumberingScheme.h", 
             "Geometry/MuonNumbering/src/DD4hep_GEMNumberingScheme.cc", 
-            "Geometry/MuonNumbering/src/MuonBaseNumber.cc", 
-            "SimG4Core/Application/test/SimTrackSimVertexDumper.cc", 
-            "SimG4Core/Application/test/SimTrackSimVertexDumper.h", 
-            "SimG4Core/Application/test/runSimTrackSimVertexDumper_cfg.py"
+            "Geometry/MuonNumbering/src/MuonBaseNumber.cc"
         ], 
         "created_at": 1580117242, 
         "number": 28796, 
         "state": "open", 
-        "updated_at": 1580137999
+        "updated_at": 1580138166
     }, 
     "28797": {
         "base_branch": "master", 
