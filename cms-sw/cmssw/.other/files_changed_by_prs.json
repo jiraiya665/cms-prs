@@ -1181,19 +1181,6 @@
         "state": "open", 
         "updated_at": 1579191136
     }, 
-    "28754": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/MTDCommonData/test/DD4hep_TestMTDPosition.cc", 
-            "Geometry/MTDCommonData/test/TestMTDNumbering.cc", 
-            "Geometry/MTDCommonData/test/TestMTDPosition.cc", 
-            "Geometry/MTDCommonData/test/testMTDinDDD.py"
-        ], 
-        "created_at": 1579192278, 
-        "number": 28754, 
-        "state": "open", 
-        "updated_at": 1579192330
-    }, 
     "28756": {
         "base_branch": "master", 
         "changed_files_names": [
