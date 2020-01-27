@@ -1501,7 +1501,6 @@
         "base_branch": "master", 
         "changed_files_names": [
             "DetectorDescription/DDCMS/data/cms-geometry-2021.xml", 
-            "DetectorDescription/DDCMS/src/DDFilteredView.cc", 
             "Geometry/GEMGeometryBuilder/BuildFile.xml", 
             "Geometry/GEMGeometryBuilder/data/v8/GEMSpecsFilter17.xml", 
             "Geometry/GEMGeometryBuilder/plugins/BuildFile.xml", 
@@ -1518,7 +1517,7 @@
         "created_at": 1580117242, 
         "number": 28796, 
         "state": "open", 
-        "updated_at": 1580138166
+        "updated_at": 1580144206
     }, 
     "28797": {
         "base_branch": "master", 
