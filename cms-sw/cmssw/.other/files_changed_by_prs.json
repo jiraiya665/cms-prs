@@ -1337,20 +1337,6 @@
         "state": "open", 
         "updated_at": 1579534348
     }, 
-    "28767": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Alignment/OfflineValidation/macros/CMS_lumi.C", 
-            "Alignment/OfflineValidation/macros/FitPVResiduals.C", 
-            "Alignment/OfflineValidation/test/BuildFile.xml", 
-            "Alignment/OfflineValidation/test/testPVPlotting.cpp", 
-            "Alignment/OfflineValidation/test/testPVValidation_all_ini_one.ini"
-        ], 
-        "created_at": 1579596075, 
-        "number": 28767, 
-        "state": "open", 
-        "updated_at": 1579596105
-    }, 
     "28769": {
         "base_branch": "master", 
         "changed_files_names": [
