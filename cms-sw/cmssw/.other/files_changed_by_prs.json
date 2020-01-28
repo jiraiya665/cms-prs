@@ -1053,24 +1053,6 @@
         "state": "open", 
         "updated_at": 1580133508
     }, 
-    "28761": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondCore/SiStripPlugins/plugins/SiStripApvGain_PayloadInspector.cc", 
-            "CondCore/SiStripPlugins/plugins/SiStripNoises_PayloadInspector.cc", 
-            "CondCore/SiStripPlugins/plugins/SiStripPedestals_PayloadInspector.cc", 
-            "CondCore/SiStripPlugins/test/test.sh", 
-            "CondCore/SiStripPlugins/test/testGainsPayloadInspector.sh", 
-            "CondCore/SiStripPlugins/test/testNoisePayloadInspector.sh", 
-            "CondCore/SiStripPlugins/test/testPedestalsPayloadInspector.sh", 
-            "CondCore/SiStripPlugins/test/testSiStripPayloadInspector.cpp", 
-            "CondCore/Utilities/scripts/getPayloadData.py"
-        ], 
-        "created_at": 1579445078, 
-        "number": 28761, 
-        "state": "open", 
-        "updated_at": 1579614688
-    }, 
     "28764": {
         "base_branch": "master", 
         "changed_files_names": [
