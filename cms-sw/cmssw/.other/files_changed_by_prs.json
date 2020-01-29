@@ -903,42 +903,6 @@
         "state": "open", 
         "updated_at": 1579764734
     }, 
-    "28756": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Alignment/LaserAlignment/plugins/LaserAlignmentEventFilter.cc", 
-            "CalibTracker/SiStripAPVAnalysis/src/ApvAnalysisFactory.cc", 
-            "DQM/SiStripMonitorHardware/interface/FEDErrors.hh", 
-            "DQM/SiStripMonitorHardware/interface/SiStripFEDSpyBuffer.h", 
-            "DQM/SiStripMonitorHardware/src/FEDErrors.cc", 
-            "DQM/SiStripMonitorHardware/src/SiStripCMMonitor.cc", 
-            "DQM/SiStripMonitorHardware/src/SiStripFEDDataCheck.cc", 
-            "DQM/SiStripMonitorHardware/src/SiStripFEDDump.cc", 
-            "DQM/SiStripMonitorHardware/src/SiStripFEDSpyBuffer.cc", 
-            "DQM/SiStripMonitorHardware/src/SiStripSpyEventMatcherModule.cc", 
-            "DQM/SiStripMonitorHardware/src/SiStripSpyEventSummaryProducer.cc", 
-            "DQM/SiStripMonitorHardware/src/SiStripSpyIdentifyRuns.cc", 
-            "DQM/SiStripMonitorHardware/src/SiStripSpyUnpacker.cc", 
-            "DataFormats/SiStripDigi/interface/SiStripRawDigi.h", 
-            "EventFilter/SiStripRawToDigi/interface/SiStripFEDBuffer.h", 
-            "EventFilter/SiStripRawToDigi/interface/SiStripFEDBufferComponents.h", 
-            "EventFilter/SiStripRawToDigi/interface/SiStripFEDBufferGenerator.h", 
-            "EventFilter/SiStripRawToDigi/interface/TFHeaderDescription.h", 
-            "EventFilter/SiStripRawToDigi/plugins/SiStripDigiToRaw.cc", 
-            "EventFilter/SiStripRawToDigi/plugins/SiStripRawToDigiUnpacker.cc", 
-            "EventFilter/SiStripRawToDigi/plugins/SiStripRawToDigiUnpacker.h", 
-            "EventFilter/SiStripRawToDigi/src/SiStripFEDBuffer.cc", 
-            "EventFilter/SiStripRawToDigi/src/SiStripFEDBufferComponents.cc", 
-            "EventFilter/SiStripRawToDigi/test/plugins/SiStripFEDRawDataAnalyzer.cc", 
-            "RecoLocalTracker/SiStripClusterizer/interface/StripClusterizerAlgorithm.h", 
-            "RecoLocalTracker/SiStripClusterizer/interface/ThreeThresholdAlgorithm.h", 
-            "RecoLocalTracker/SiStripClusterizer/plugins/ClustersFromRawProducer.cc"
-        ], 
-        "created_at": 1579266634, 
-        "number": 28756, 
-        "state": "open", 
-        "updated_at": 1580223940
-    }, 
     "28764": {
         "base_branch": "master", 
         "changed_files_names": [
