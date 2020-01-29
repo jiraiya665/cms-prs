@@ -1493,5 +1493,17 @@
         "number": 28823, 
         "state": "open", 
         "updated_at": 1580327839
+    }, 
+    "28824": {
+        "base_branch": "CMSSW_11_0_X", 
+        "changed_files_names": [
+            "Configuration/AlCa/python/autoCond.py", 
+            "Configuration/PyReleaseValidation/python/relval_steps.py", 
+            "TauAnalysis/MCEmbeddingTools/test/runtests.sh"
+        ], 
+        "created_at": 1580333100, 
+        "number": 28824, 
+        "state": "open", 
+        "updated_at": 1580333130
     }
 }
