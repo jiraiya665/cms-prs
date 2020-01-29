@@ -1038,16 +1038,6 @@
         "state": "open", 
         "updated_at": 1580224659
     }, 
-    "28787": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/Services/src/JobReportService.cc"
-        ], 
-        "created_at": 1579875600, 
-        "number": 28787, 
-        "state": "open", 
-        "updated_at": 1579876556
-    }, 
     "28788": {
         "base_branch": "master", 
         "changed_files_names": [
