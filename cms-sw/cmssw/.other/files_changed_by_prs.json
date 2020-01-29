@@ -1117,18 +1117,6 @@
         "state": "open", 
         "updated_at": 1580219385
     }, 
-    "28809": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DetectorDescription/DDCMS/interface/DDFilteredView.h", 
-            "DetectorDescription/DDCMS/src/DDFilteredView.cc", 
-            "DetectorDescription/DDCMS/test/DDFilteredView.cppunit.cc"
-        ], 
-        "created_at": 1580206794, 
-        "number": 28809, 
-        "state": "open", 
-        "updated_at": 1580216868
-    }, 
     "28810": {
         "base_branch": "master", 
         "changed_files_names": [
