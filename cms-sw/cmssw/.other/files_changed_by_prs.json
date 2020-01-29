@@ -1030,16 +1030,6 @@
         "state": "open", 
         "updated_at": 1580227397
     }, 
-    "28790": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/PyReleaseValidation/scripts/runTheMatrix.py"
-        ], 
-        "created_at": 1579897072, 
-        "number": 28790, 
-        "state": "open", 
-        "updated_at": 1580225285
-    }, 
     "28792": {
         "base_branch": "master", 
         "changed_files_names": [
