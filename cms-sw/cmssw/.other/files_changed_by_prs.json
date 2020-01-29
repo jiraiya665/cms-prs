@@ -1439,16 +1439,6 @@
         "state": "open", 
         "updated_at": 1580289112
     }, 
-    "28819": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Utilities/ReleaseScripts/test/test-valgrind.sh"
-        ], 
-        "created_at": 1580298014, 
-        "number": 28819, 
-        "state": "open", 
-        "updated_at": 1580298089
-    }, 
     "28820": {
         "base_branch": "master", 
         "changed_files_names": [
