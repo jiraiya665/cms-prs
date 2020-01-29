@@ -1438,15 +1438,5 @@
         "number": 28817, 
         "state": "open", 
         "updated_at": 1580289112
-    }, 
-    "28818": {
-        "base_branch": "CMSSW_11_1_Patatrack_X", 
-        "changed_files_names": [
-            "Utilities/ReleaseScripts/test/run.sh"
-        ], 
-        "created_at": 1580292845, 
-        "number": 28818, 
-        "state": "open", 
-        "updated_at": 1580292869
     }
 }
