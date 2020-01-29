@@ -1083,16 +1083,6 @@
         "state": "open", 
         "updated_at": 1580225296
     }, 
-    "28794": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/AlCa/python/autoCond.py"
-        ], 
-        "created_at": 1580075316, 
-        "number": 28794, 
-        "state": "open", 
-        "updated_at": 1580223932
-    }, 
     "28796": {
         "base_branch": "master", 
         "changed_files_names": [
