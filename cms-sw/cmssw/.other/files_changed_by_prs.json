@@ -1079,19 +1079,6 @@
         "state": "open", 
         "updated_at": 1580161600
     }, 
-    "28806": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HGCalCommonData/python/testHGCalV11XML_cfi.py", 
-            "Geometry/HGCalCommonData/src/HGCalGeomParameters.cc", 
-            "Geometry/HGCalCommonData/src/HGCalParametersFromDD.cc", 
-            "Geometry/HGCalCommonData/test/python/hgcalV11_cfg.py"
-        ], 
-        "created_at": 1580197262, 
-        "number": 28806, 
-        "state": "open", 
-        "updated_at": 1580240059
-    }, 
     "28807": {
         "base_branch": "master", 
         "changed_files_names": [
