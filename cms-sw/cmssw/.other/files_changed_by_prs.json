@@ -1325,7 +1325,6 @@
         "base_branch": "master", 
         "changed_files_names": [
             "Alignment/APEEstimation/test/autoSubmitter/autoSubmitter.py", 
-            "Alignment/OfflineValidation/python/TkAlAllInOneTool/betterConfigParser.py", 
             "Alignment/OfflineValidation/python/TkAlAllInOneTool/geometryComparison.py", 
             "Alignment/OfflineValidation/test/submitAllJobs.py", 
             "CondCore/DBOutputService/scripts/cmscond_logdb_dump", 
@@ -1340,7 +1339,7 @@
         "created_at": 1580312227, 
         "number": 28822, 
         "state": "open", 
-        "updated_at": 1580312252
+        "updated_at": 1580385783
     }, 
     "28823": {
         "base_branch": "master", 
