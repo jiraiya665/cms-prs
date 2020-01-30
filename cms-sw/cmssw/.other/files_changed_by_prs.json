@@ -890,34 +890,6 @@
         "state": "open", 
         "updated_at": 1580229224
     }, 
-    "28788": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/Geometry/README.md", 
-            "Configuration/Geometry/python/GeometryExtended2026D53Reco_cff.py", 
-            "Configuration/Geometry/python/GeometryExtended2026D53_cff.py", 
-            "Configuration/Geometry/python/dict2026Geometry.py", 
-            "Configuration/StandardSequences/python/GeometryConf.py", 
-            "DataFormats/ForwardDetId/interface/ETLDetId.h", 
-            "DataFormats/ForwardDetId/src/ETLDetId.cc", 
-            "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D53XML_cfi.py", 
-            "Geometry/MTDCommonData/data/dd4hep/cms-mtdD50-geometry.xml", 
-            "Geometry/MTDCommonData/data/dd4hep/cms-mtdD53-geometry.xml", 
-            "Geometry/MTDCommonData/data/etl/v4/etl.xml", 
-            "Geometry/MTDCommonData/data/mtdMaterial/v2/mtdMaterial.xml", 
-            "Geometry/MTDCommonData/plugins/BuildFile.xml", 
-            "Geometry/MTDCommonData/plugins/DDMTDLinear.cc", 
-            "Geometry/MTDCommonData/src/ETLNumberingScheme.cc", 
-            "Geometry/MTDCommonData/test/testMTDinDD4hep.py", 
-            "Geometry/MTDGeometryBuilder/test/python/testMTDGeometry.py", 
-            "Geometry/MTDSimData/data/v2/mtdProdCuts.xml", 
-            "Geometry/MTDSimData/data/v2/mtdsens.xml"
-        ], 
-        "created_at": 1579879919, 
-        "number": 28788, 
-        "state": "open", 
-        "updated_at": 1580227397
-    }, 
     "28792": {
         "base_branch": "master", 
         "changed_files_names": [
