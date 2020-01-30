@@ -890,39 +890,6 @@
         "state": "open", 
         "updated_at": 1580229224
     }, 
-    "28779": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "PhysicsTools/FWLite/BuildFile.xml", 
-            "PhysicsTools/HepMCCandAlgos/BuildFile.xml", 
-            "PhysicsTools/JetCharge/BuildFile.xml", 
-            "PhysicsTools/JetMCAlgos/BuildFile.xml", 
-            "PhysicsTools/JetMCUtils/BuildFile.xml", 
-            "PhysicsTools/MXNet/BuildFile.xml", 
-            "PhysicsTools/ONNXRuntime/BuildFile.xml", 
-            "PhysicsTools/ParallelAnalysis/BuildFile.xml", 
-            "PhysicsTools/PatAlgos/BuildFile.xml", 
-            "PhysicsTools/PatAlgos/plugins/BuildFile.xml", 
-            "PhysicsTools/PatExamples/BuildFile.xml", 
-            "PhysicsTools/PatExamples/plugins/BuildFile.xml", 
-            "PhysicsTools/RecoUtils/BuildFile.xml", 
-            "PhysicsTools/RooStatsCms/BuildFile.xml", 
-            "PhysicsTools/SelectorUtils/BuildFile.xml", 
-            "PhysicsTools/TagAndProbe/BuildFile.xml", 
-            "PhysicsTools/TensorFlow/BuildFile.xml", 
-            "PhysicsTools/UtilAlgos/BuildFile.xml", 
-            "RecoEgamma/EgammaElectronAlgos/BuildFile.xml", 
-            "RecoEgamma/EgammaPhotonAlgos/BuildFile.xml", 
-            "RecoEgamma/EgammaTools/BuildFile.xml", 
-            "RecoEgamma/Examples/BuildFile.xml", 
-            "RecoEgamma/Examples/plugins/BuildFile.xml", 
-            "RecoEgamma/PhotonIdentification/BuildFile.xml"
-        ], 
-        "created_at": 1579721286, 
-        "number": 28779, 
-        "state": "open", 
-        "updated_at": 1580243266
-    }, 
     "28788": {
         "base_branch": "master", 
         "changed_files_names": [
