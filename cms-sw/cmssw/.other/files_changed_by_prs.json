@@ -1349,5 +1349,24 @@
         "number": 28829, 
         "state": "open", 
         "updated_at": 1580381837
+    }, 
+    "28831": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "RecoLocalCalo/EcalDeadChannelRecoveryAlgos/BuildFile.xml", 
+            "RecoLocalCalo/EcalDeadChannelRecoveryAlgos/interface/EcalDeadChannelRecoveryAlgos.h", 
+            "RecoLocalCalo/EcalDeadChannelRecoveryAlgos/interface/EcalDeadChannelRecoveryBDTG.h", 
+            "RecoLocalCalo/EcalDeadChannelRecoveryAlgos/src/EcalDeadChannelRecoveryAlgos.cc", 
+            "RecoLocalCalo/EcalDeadChannelRecoveryAlgos/src/EcalDeadChannelRecoveryBDTG.cc", 
+            "RecoLocalCalo/EcalDeadChannelRecoveryAlgos/test/plugins/EcalDeadChannelRecoveryProducers.cc", 
+            "RecoLocalCalo/EcalRecProducers/plugins/EcalRecHitProducer.cc", 
+            "RecoLocalCalo/EcalRecProducers/plugins/EcalRecHitWorkerRecover.cc", 
+            "RecoLocalCalo/EcalRecProducers/plugins/EcalRecHitWorkerRecover.h", 
+            "RecoLocalCalo/EcalRecProducers/python/ecalRecHit_cfi.py"
+        ], 
+        "created_at": 1580414915, 
+        "number": 28831, 
+        "state": "open", 
+        "updated_at": 1580414958
     }
 }
