@@ -1378,41 +1378,6 @@
         "state": "open", 
         "updated_at": 1580289112
     }, 
-    "28820": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2021.xml", 
-            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D35.xml", 
-            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D41.xml", 
-            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D43.xml", 
-            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D45.xml", 
-            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D45NoSD.xml", 
-            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D46.xml", 
-            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D47.xml", 
-            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D48.xml", 
-            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D49.xml", 
-            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D50.xml", 
-            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D51.xml", 
-            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D52.xml", 
-            "Geometry/CMSCommonData/test/dd4hep/2026D35.py", 
-            "Geometry/CMSCommonData/test/dd4hep/2026D41.py", 
-            "Geometry/CMSCommonData/test/dd4hep/2026D43.py", 
-            "Geometry/CMSCommonData/test/dd4hep/2026D45.py", 
-            "Geometry/CMSCommonData/test/dd4hep/2026D45NoSD.py", 
-            "Geometry/CMSCommonData/test/dd4hep/2026D46.py", 
-            "Geometry/CMSCommonData/test/dd4hep/2026D47.py", 
-            "Geometry/CMSCommonData/test/dd4hep/2026D48.py", 
-            "Geometry/CMSCommonData/test/dd4hep/2026D49.py", 
-            "Geometry/CMSCommonData/test/dd4hep/2026D50.py", 
-            "Geometry/CMSCommonData/test/dd4hep/2026D51.py", 
-            "Geometry/CMSCommonData/test/dd4hep/2026D52.py", 
-            "Geometry/CMSCommonData/test/dd4hep/run3.py"
-        ], 
-        "created_at": 1580302752, 
-        "number": 28820, 
-        "state": "open", 
-        "updated_at": 1580302780
-    }, 
     "28821": {
         "base_branch": "master", 
         "changed_files_names": [
