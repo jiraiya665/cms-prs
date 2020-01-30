@@ -1323,18 +1323,6 @@
         "state": "open", 
         "updated_at": 1580369648
     }, 
-    "28828": {
-        "base_branch": "CMSSW_10_6_X", 
-        "changed_files_names": [
-            "GeneratorInterface/PhotosInterface/plugins/PhotosppInterface.cc", 
-            "GeneratorInterface/PhotosInterface/test/DY_7TeV_pythia8_rivet.py", 
-            "GeneratorInterface/PhotosInterface/test/DYphotospp_Tune4C_13TeV_pythia8.py"
-        ], 
-        "created_at": 1580373521, 
-        "number": 28828, 
-        "state": "open", 
-        "updated_at": 1580373553
-    }, 
     "28829": {
         "base_branch": "master", 
         "changed_files_names": [
