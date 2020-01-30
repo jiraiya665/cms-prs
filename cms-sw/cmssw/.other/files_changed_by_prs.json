@@ -749,6 +749,7 @@
             "PhysicsTools/NanoAOD/python/jets_cff.py", 
             "PhysicsTools/PatAlgos/python/slimming/applySubstructure_cff.py", 
             "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py", 
+            "PhysicsTools/PatAlgos/python/tools/coreTools.py", 
             "PhysicsTools/PatAlgos/test/patTuple_updateJets_fromMiniAOD_cfg.py", 
             "RecoBTag/Combined/test/testDeepCSV_cfg.py", 
             "RecoBTag/FeatureTools/plugins/DeepDoubleXTagInfoProducer.cc", 
@@ -774,7 +775,7 @@
         "created_at": 1576786158, 
         "number": 28659, 
         "state": "open", 
-        "updated_at": 1579896336
+        "updated_at": 1580395140
     }, 
     "28672": {
         "base_branch": "master", 
