@@ -1331,22 +1331,6 @@
         "state": "open", 
         "updated_at": 1580241000
     }, 
-    "28814": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimG4Core/CustomPhysics/interface/CMSQGSPSIMPBuilder.h", 
-            "SimG4Core/CustomPhysics/interface/CMSSIMPInelasticProcess.h", 
-            "SimG4Core/CustomPhysics/interface/CMSSIMPInelasticXS.h", 
-            "SimG4Core/CustomPhysics/src/CMSQGSPSIMPBuilder.cc", 
-            "SimG4Core/CustomPhysics/src/CMSSIMPInelasticProcess.cc", 
-            "SimG4Core/CustomPhysics/src/CMSSIMPInelasticXS.cc", 
-            "SimG4Core/CustomPhysics/src/CustomPhysicsList.cc"
-        ], 
-        "created_at": 1580236123, 
-        "number": 28814, 
-        "state": "open", 
-        "updated_at": 1580243335
-    }, 
     "28815": {
         "base_branch": "master", 
         "changed_files_names": [
