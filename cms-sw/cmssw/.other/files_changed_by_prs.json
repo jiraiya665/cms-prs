@@ -1334,20 +1334,6 @@
         "state": "open", 
         "updated_at": 1580333130
     }, 
-    "28825": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Alignment/OfflineValidation/test/testPVValidation_all_ini_one.ini", 
-            "CalibTracker/SiPixelQuality/test/step4_harvest_ALCAHARVEST.py", 
-            "Configuration/AlCa/python/autoCond.py", 
-            "Configuration/HLT/python/autoCondHLT.py", 
-            "Configuration/PyReleaseValidation/python/relval_steps.py"
-        ], 
-        "created_at": 1580336073, 
-        "number": 28825, 
-        "state": "open", 
-        "updated_at": 1580336103
-    }, 
     "28826": {
         "base_branch": "master", 
         "changed_files_names": [
