@@ -1368,5 +1368,19 @@
         "number": 28831, 
         "state": "open", 
         "updated_at": 1580414958
+    }, 
+    "28832": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "MagneticField/Engine/python/volumeBasedMagneticFieldFromDB_dd4hep_cfi.py", 
+            "MagneticField/Engine/test/regression.py", 
+            "MagneticField/GeomBuilder/plugins/dd4hep/DD4hep_VolumeBasedMagneticFieldESProducerFromDB.cc", 
+            "MagneticField/GeomBuilder/src/DD4hep_MagGeoBuilder.cc", 
+            "MagneticField/ParametrizedEngine/interface/ParametrizedMagneticFieldFactory.h"
+        ], 
+        "created_at": 1580421562, 
+        "number": 28832, 
+        "state": "open", 
+        "updated_at": 1580421604
     }
 }
