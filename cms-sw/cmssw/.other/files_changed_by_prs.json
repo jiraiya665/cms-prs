@@ -1273,19 +1273,6 @@
         "state": "open", 
         "updated_at": 1580385783
     }, 
-    "28823": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/TrackingMonitor/src/TrackAnalyzer.cc", 
-            "DQM/TrackingMonitor/src/TrackEfficiencyClient.cc", 
-            "DQM/TrackingMonitorSource/python/TrackingSourceConfigTier0_Cosmic_cff.py", 
-            "DQM/TrackingMonitorSource/python/TrackingSourceConfig_Tier0_cff.py"
-        ], 
-        "created_at": 1580327839, 
-        "number": 28823, 
-        "state": "open", 
-        "updated_at": 1580392782
-    }, 
     "28824": {
         "base_branch": "CMSSW_11_0_X", 
         "changed_files_names": [
