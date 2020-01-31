@@ -1177,10 +1177,13 @@
             "Validation/EcalHits/src/EcalEndcapSimHitsValidation.cc", 
             "Validation/EcalHits/src/EcalPreshowerSimHitsValidation.cc", 
             "Validation/EcalHits/src/EcalSimHitsValidation.cc", 
+            "Validation/EventGenerator/src/DQMHelper.cc", 
             "Validation/GlobalHits/src/GlobalHitsProdHistStripper.cc", 
             "Validation/HcalDigis/src/ZDCDigiStudy.cc", 
             "Validation/HcalHits/interface/HcalSimHitsValidation.h", 
             "Validation/Mixing/src/TestSuite.cc", 
+            "Validation/MuonIsolation/interface/MuIsoValidation.h", 
+            "Validation/MuonIsolation/src/MuIsoValidation.cc", 
             "Validation/RecoMuon/src/GlobalMuonMatchAnalyzer.cc", 
             "Validation/RecoMuon/src/MuonTrackAnalyzer.cc", 
             "Validation/RecoMuon/src/MuonTrackAnalyzer.h", 
@@ -1204,7 +1207,7 @@
         "created_at": 1580229162, 
         "number": 28813, 
         "state": "open", 
-        "updated_at": 1580402116
+        "updated_at": 1580473208
     }, 
     "28815": {
         "base_branch": "master", 
