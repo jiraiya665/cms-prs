@@ -981,14 +981,14 @@
             "Calibration/LumiAlCaRecoProducers/plugins/AlcaPCCProducerEvent.cc", 
             "Calibration/LumiAlCaRecoProducers/plugins/BuildFile.xml", 
             "Calibration/LumiAlCaRecoProducers/test/PCC_Random_Event_cfg.py", 
-            "DataFormats/Luminosity/interface/PixelClusterCountsPerEvent.h", 
+            "DataFormats/Luminosity/interface/PixelClusterCountsInEvent.h", 
             "DataFormats/Luminosity/src/classes.h", 
             "DataFormats/Luminosity/src/classes_def.xml"
         ], 
         "created_at": 1580203248, 
         "number": 28807, 
         "state": "open", 
-        "updated_at": 1580230494
+        "updated_at": 1580480046
     }, 
     "28813": {
         "base_branch": "master", 
