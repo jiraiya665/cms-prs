@@ -1236,25 +1236,6 @@
         "state": "open", 
         "updated_at": 1580241000
     }, 
-    "28821": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Alignment/CommonAlignmentProducer/python/AlcaSiPixelAliHarvester_cff.py", 
-            "Calibration/EcalCalibAlgos/python/AlcaEcalPedestalsHarvester_cff.py", 
-            "Calibration/LumiAlCaRecoProducers/python/AlcaLumiPCCHarvester_cff.py", 
-            "Calibration/TkAlCaRecoProducers/python/AlcaSiStripGainsAAGHarvester_cff.py", 
-            "Calibration/TkAlCaRecoProducers/python/AlcaSiStripGainsHarvester_cff.py", 
-            "Calibration/TkAlCaRecoProducers/python/AlcaSiStripQualityHarvester_cff.py", 
-            "DQMServices/Components/plugins/DQMEventInfo.cc", 
-            "DQMServices/Components/plugins/DQMEventInfo.h", 
-            "DQMServices/Components/plugins/DQMHarvestingMetadata.cc", 
-            "DQMServices/Components/plugins/SealModule.cc"
-        ], 
-        "created_at": 1580311426, 
-        "number": 28821, 
-        "state": "open", 
-        "updated_at": 1580311453
-    }, 
     "28822": {
         "base_branch": "master", 
         "changed_files_names": [
