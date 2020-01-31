@@ -1285,22 +1285,6 @@
         "state": "open", 
         "updated_at": 1580333130
     }, 
-    "28826": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HcalAlgo/data/cms-test-Phase2GeometryFine-algorithm.xml", 
-            "Geometry/HcalAlgo/data/cms-test-ddhcalPhase2-algorithm.xml", 
-            "Geometry/HcalCommonData/interface/HcalGeomParameters.h", 
-            "Geometry/HcalCommonData/interface/HcalParametersFromDD.h", 
-            "Geometry/HcalCommonData/src/HcalGeomParameters.cc", 
-            "Geometry/HcalCommonData/src/HcalParametersFromDD.cc", 
-            "Geometry/HcalCommonData/test/python/runHcalParametersFromDD4HepAnalyzer_cfg.py"
-        ], 
-        "created_at": 1580361711, 
-        "number": 28826, 
-        "state": "open", 
-        "updated_at": 1580361749
-    }, 
     "28827": {
         "base_branch": "master", 
         "changed_files_names": [
