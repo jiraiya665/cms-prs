@@ -1546,6 +1546,7 @@
             "L1Trigger/CSCTriggerPrimitives/interface/CSCPatternBank.h", 
             "L1Trigger/CSCTriggerPrimitives/interface/CSCUpgradeCathodeLCTProcessor.h", 
             "L1Trigger/CSCTriggerPrimitives/plugins/CSCCathodeLCTAnalyzer.cc", 
+            "L1Trigger/CSCTriggerPrimitives/python/cscTriggerPrimitiveDigis_cfi.py", 
             "L1Trigger/CSCTriggerPrimitives/src/CSCCathodeLCTProcessor.cc", 
             "L1Trigger/CSCTriggerPrimitives/src/CSCPatternBank.cc", 
             "L1Trigger/CSCTriggerPrimitives/src/CSCUpgradeCathodeLCTProcessor.cc"
@@ -1553,6 +1554,6 @@
         "created_at": 1580525216, 
         "number": 28846, 
         "state": "open", 
-        "updated_at": 1580525261
+        "updated_at": 1580527479
     }
 }
