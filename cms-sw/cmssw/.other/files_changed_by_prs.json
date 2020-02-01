@@ -1576,5 +1576,16 @@
         "number": 28847, 
         "state": "open", 
         "updated_at": 1580550655
+    }, 
+    "28848": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoHI/HiEgammaAlgos/python/HiCoreTools.py", 
+            "RecoHI/HiEgammaAlgos/python/HiHelperTools.py"
+        ], 
+        "created_at": 1580556669, 
+        "number": 28848, 
+        "state": "open", 
+        "updated_at": 1580556712
     }
 }
