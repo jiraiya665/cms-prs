@@ -1589,16 +1589,6 @@
         "state": "open", 
         "updated_at": 1580645010
     }, 
-    "28853": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoEgamma/EgammaElectronProducers/plugins/GEDGsfElectronFinalizer.cc"
-        ], 
-        "created_at": 1580661638, 
-        "number": 28853, 
-        "state": "open", 
-        "updated_at": 1580661679
-    }, 
     "28854": {
         "base_branch": "master", 
         "changed_files_names": [
