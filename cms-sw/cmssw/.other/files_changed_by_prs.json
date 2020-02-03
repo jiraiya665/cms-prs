@@ -969,16 +969,6 @@
         "state": "open", 
         "updated_at": 1580457797
     }, 
-    "28802": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimMuon/MCTruth/plugins/MuonSimClassifier.cc"
-        ], 
-        "created_at": 1580155349, 
-        "number": 28802, 
-        "state": "open", 
-        "updated_at": 1580161600
-    }, 
     "28807": {
         "base_branch": "master", 
         "changed_files_names": [
