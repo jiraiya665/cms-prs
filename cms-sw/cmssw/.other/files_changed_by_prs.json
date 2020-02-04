@@ -817,14 +817,14 @@
             "PhysicsTools/TensorFlow/test/creategraph.py", 
             "PhysicsTools/TensorFlow/test/readconstantgraph.py", 
             "PhysicsTools/TensorFlow/test/testAOT.cc", 
+            "PhysicsTools/TensorFlow/test/testAOT_add.config.pbtxt", 
+            "PhysicsTools/TensorFlow/test/testAOT_add.pb", 
             "PhysicsTools/TensorFlow/test/testBase.h", 
             "PhysicsTools/TensorFlow/test/testGraphLoading.cc", 
             "PhysicsTools/TensorFlow/test/testHelloWorld.cc", 
             "PhysicsTools/TensorFlow/test/testLoading.cc", 
             "PhysicsTools/TensorFlow/test/testMetaGraphLoading.cc", 
             "PhysicsTools/TensorFlow/test/testThreadPools.cc", 
-            "PhysicsTools/TensorFlow/test/test_graph_tfadd.config.pbtxt", 
-            "PhysicsTools/TensorFlow/test/test_graph_tfadd.pb", 
             "PhysicsTools/TensorFlow/test/tfadd_t.cpp", 
             "RecoBTag/TensorFlow/plugins/DeepVertexTFJetTagsProducer.cc", 
             "RecoTauTag/RecoTau/plugins/DPFIsolation.cc", 
@@ -833,7 +833,7 @@
         "created_at": 1578303082, 
         "number": 28711, 
         "state": "open", 
-        "updated_at": 1580819834
+        "updated_at": 1580820257
     }, 
     "28753": {
         "base_branch": "master", 
