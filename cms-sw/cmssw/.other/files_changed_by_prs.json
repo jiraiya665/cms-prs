@@ -1323,25 +1323,6 @@
         "state": "open", 
         "updated_at": 1580463516
     }, 
-    "28838": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Alignment/OfflineValidation/python/TkAlAllInOneTool/betterConfigParser.py", 
-            "Alignment/OfflineValidation/python/TkAlAllInOneTool/dataset.py", 
-            "Alignment/OfflineValidation/python/TkAlAllInOneTool/genericValidation.py", 
-            "Alignment/OfflineValidation/python/TkAlAllInOneTool/geometryComparison.py", 
-            "Alignment/OfflineValidation/python/TkAlAllInOneTool/plottingOptions.py", 
-            "Alignment/OfflineValidation/python/TkAlAllInOneTool/primaryVertexValidationTemplates.py", 
-            "Alignment/OfflineValidation/scripts/validateAlignments.py", 
-            "Alignment/OfflineValidation/test/testPVValidation_all_ini_one.ini", 
-            "Alignment/OfflineValidation/test/testValidate.ini", 
-            "Alignment/OfflineValidation/test/test_all.sh"
-        ], 
-        "created_at": 1580475933, 
-        "number": 28838, 
-        "state": "open", 
-        "updated_at": 1580756819
-    }, 
     "28839": {
         "base_branch": "master", 
         "changed_files_names": [
