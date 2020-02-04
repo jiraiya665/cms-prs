@@ -1323,26 +1323,6 @@
         "state": "open", 
         "updated_at": 1580463516
     }, 
-    "28839": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HcalCommonData/interface/HcalDDDSimConstants.h", 
-            "Geometry/HcalCommonData/test/HcalScintillatorTester.cc", 
-            "Geometry/HcalCommonData/test/python/runHcalScintillatorTester_cfg.py", 
-            "SimDataFormats/CaloHit/interface/PassiveHit.h", 
-            "SimDataFormats/CaloHit/src/PassiveHit.cc", 
-            "SimDataFormats/CaloHit/src/classes_def.xml", 
-            "SimG4CMS/Calo/interface/CaloSteppingAction.h", 
-            "SimG4CMS/Calo/plugins/CaloSimHitAnalysis.cc", 
-            "SimG4CMS/Calo/src/CaloSteppingAction.cc", 
-            "SimG4CMS/Calo/test/python/calostepAnalysis_cfg.py", 
-            "SimG4CMS/Calo/test/python/calostep_cfg.py"
-        ], 
-        "created_at": 1580481206, 
-        "number": 28839, 
-        "state": "open", 
-        "updated_at": 1580481252
-    }, 
     "28840": {
         "base_branch": "master", 
         "changed_files_names": [
