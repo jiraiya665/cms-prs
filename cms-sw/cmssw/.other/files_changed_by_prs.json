@@ -1406,6 +1406,7 @@
     "28845": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
+            "CommonTools/PileupAlgos/python/Puppi_cff.py", 
             "CommonTools/PileupAlgos/python/customizePuppiTune_cff.py", 
             "PhysicsTools/NanoAOD/python/custom_jme_cff.py", 
             "PhysicsTools/PatAlgos/python/slimming/puppiForMET_cff.py"
@@ -1413,7 +1414,7 @@
         "created_at": 1580506579, 
         "number": 28845, 
         "state": "open", 
-        "updated_at": 1580506622
+        "updated_at": 1580851940
     }, 
     "28846": {
         "base_branch": "master", 
