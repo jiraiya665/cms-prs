@@ -1504,12 +1504,16 @@
     "28863": {
         "base_branch": "master", 
         "changed_files_names": [
-            "DetectorDescription/DDCMS/src/Filter.cc"
+            "DetectorDescription/DDCMS/interface/DDFilteredView.h", 
+            "DetectorDescription/DDCMS/interface/Filter.h", 
+            "DetectorDescription/DDCMS/src/DDFilteredView.cc", 
+            "DetectorDescription/DDCMS/src/Filter.cc", 
+            "DetectorDescription/DDCMS/test/Filter.cppunit.cc"
         ], 
         "created_at": 1580834783, 
         "number": 28863, 
         "state": "open", 
-        "updated_at": 1580834823
+        "updated_at": 1580854775
     }, 
     "28864": {
         "base_branch": "master", 
