@@ -818,40 +818,6 @@
         "state": "open", 
         "updated_at": 1580234830
     }, 
-    "28740": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/Common/src/classes_def.xml", 
-            "DataFormats/HGCRecHit/interface/HGCRecHit.h", 
-            "DataFormats/HGCRecHit/src/HGCRecHit.cc", 
-            "DataFormats/HGCRecHit/src/classes_def.xml", 
-            "DataFormats/HGCalReco/interface/Trackster.h", 
-            "DataFormats/HGCalReco/src/classes_def.xml", 
-            "RecoHGCal/TICL/BuildFile.xml", 
-            "RecoHGCal/TICL/plugins/BuildFile.xml", 
-            "RecoHGCal/TICL/plugins/HGCGraph.cc", 
-            "RecoHGCal/TICL/plugins/HGCGraph.h", 
-            "RecoHGCal/TICL/plugins/MultiClustersFromTrackstersProducer.cc", 
-            "RecoHGCal/TICL/plugins/PatternRecognitionAlgoBase.h", 
-            "RecoHGCal/TICL/plugins/PatternRecognitionbyCA.cc", 
-            "RecoHGCal/TICL/plugins/TrackstersProducer.cc", 
-            "RecoLocalCalo/HGCalRecProducers/interface/ComputeClusterTime.h", 
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalLayerClusterProducer.cc", 
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalRecHitWorkerSimple.cc", 
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalRecHitWorkerSimple.h", 
-            "RecoLocalCalo/HGCalRecProducers/python/HGCalRecHit_cfi.py", 
-            "RecoLocalCalo/HGCalRecProducers/python/hgcalLayerClusters_cff.py", 
-            "RecoLocalCalo/HGCalRecProducers/src/ComputeClusterTime.cc", 
-            "RecoParticleFlow/PFClusterProducer/BuildFile.xml", 
-            "RecoParticleFlow/PFClusterProducer/plugins/BuildFile.xml", 
-            "RecoParticleFlow/PFClusterProducer/plugins/SimMappers/ComputeClusterTime.h", 
-            "RecoParticleFlow/PFClusterProducer/plugins/SimMappers/RealisticSimClusterMapper.cc"
-        ], 
-        "created_at": 1579094422, 
-        "number": 28740, 
-        "state": "open", 
-        "updated_at": 1580129419
-    }, 
     "28753": {
         "base_branch": "master", 
         "changed_files_names": [
