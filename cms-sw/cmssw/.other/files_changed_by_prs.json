@@ -1553,18 +1553,6 @@
         "state": "open", 
         "updated_at": 1580885177
     }, 
-    "28870": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/ForwardCommonData/data/zdc.xml", 
-            "Geometry/ForwardCommonData/data/zdclumi.xml", 
-            "Geometry/MuonCommonData/data/muonNumbering/2017/v1/muonNumbering.xml"
-        ], 
-        "created_at": 1580887929, 
-        "number": 28870, 
-        "state": "open", 
-        "updated_at": 1580887977
-    }, 
     "28872": {
         "base_branch": "master", 
         "changed_files_names": [
