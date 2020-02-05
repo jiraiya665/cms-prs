@@ -1579,5 +1579,22 @@
         "number": 28870, 
         "state": "open", 
         "updated_at": 1580887977
+    }, 
+    "28872": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Validation/HGCalValidation/interface/CaloParticleSelector.h", 
+            "Validation/HGCalValidation/interface/HGVHistoProducerAlgo.h", 
+            "Validation/HGCalValidation/plugins/HGCalValidator.cc", 
+            "Validation/HGCalValidation/python/CaloParticleSelectionForEfficiency_cfi.py", 
+            "Validation/HGCalValidation/python/CaloParticleSelectionsForEfficiency_cff.py", 
+            "Validation/HGCalValidation/python/HGCalValidator_cfi.py", 
+            "Validation/HGCalValidation/python/PostProcessorHGCAL_cfi.py", 
+            "Validation/HGCalValidation/src/HGVHistoProducerAlgo.cc"
+        ], 
+        "created_at": 1580915495, 
+        "number": 28872, 
+        "state": "open", 
+        "updated_at": 1580915536
     }
 }
