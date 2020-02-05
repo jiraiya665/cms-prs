@@ -1275,6 +1275,7 @@
         "changed_files_names": [
             "MagneticField/Engine/python/volumeBasedMagneticFieldFromDB_dd4hep_cfi.py", 
             "MagneticField/Engine/test/regression.py", 
+            "MagneticField/GeomBuilder/plugins/VolumeBasedMagneticFieldESProducerFromDB.cc", 
             "MagneticField/GeomBuilder/plugins/dd4hep/DD4hep_VolumeBasedMagneticFieldESProducerFromDB.cc", 
             "MagneticField/GeomBuilder/src/DD4hep_MagGeoBuilder.cc", 
             "MagneticField/ParametrizedEngine/interface/ParametrizedMagneticFieldFactory.h"
@@ -1282,7 +1283,7 @@
         "created_at": 1580421562, 
         "number": 28832, 
         "state": "open", 
-        "updated_at": 1580834862
+        "updated_at": 1580890363
     }, 
     "28835": {
         "base_branch": "master", 
