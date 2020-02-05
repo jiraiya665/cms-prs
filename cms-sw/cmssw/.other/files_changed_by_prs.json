@@ -1423,27 +1423,6 @@
         "state": "open", 
         "updated_at": 1580855006
     }, 
-    "28847": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/Geometry/python/GeometryDD4hepExtended2021Reco_cff.py", 
-            "Configuration/Geometry/python/GeometryDD4hepExtended2021_cff.py", 
-            "Configuration/ProcessModifiers/python/dd4hep_cff.py", 
-            "Configuration/StandardSequences/python/GeometryConf.py", 
-            "Geometry/CMSCommonData/test/dd4hep/runDD4hepTestWF.sh", 
-            "Geometry/EcalCommonData/plugins/BuildFile.xml", 
-            "Geometry/EcalCommonData/python/ecalSimulationParameters_cff.py", 
-            "Geometry/ForwardCommonData/python/hfnoseParametersInitialization_cfi.py", 
-            "Geometry/HcalCommonData/python/caloSimulationParameters_cff.py", 
-            "Geometry/HcalCommonData/python/hcalParameters_cff.py", 
-            "Geometry/HcalCommonData/python/hcalSimulationParameters_cff.py", 
-            "SimG4Core/Application/python/g4SimHits_cfi.py"
-        ], 
-        "created_at": 1580550560, 
-        "number": 28847, 
-        "state": "open", 
-        "updated_at": 1580847132
-    }, 
     "28854": {
         "base_branch": "master", 
         "changed_files_names": [
