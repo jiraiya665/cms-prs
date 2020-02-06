@@ -1586,5 +1586,15 @@
         "number": 28875, 
         "state": "open", 
         "updated_at": 1580990495
+    }, 
+    "28876": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "GeneratorInterface/RivetInterface/plugins/GenParticles2HepMCConverter.cc"
+        ], 
+        "created_at": 1580997828, 
+        "number": 28876, 
+        "state": "open", 
+        "updated_at": 1580997828
     }
 }
