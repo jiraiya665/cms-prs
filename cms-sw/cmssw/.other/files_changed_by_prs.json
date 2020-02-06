@@ -1369,17 +1369,6 @@
         "state": "open", 
         "updated_at": 1580729228
     }, 
-    "28842": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondCore/SiStripPlugins/test/BuildFile.xml", 
-            "CondCore/SiStripPlugins/test/testSiStripPayloadInspector.cpp"
-        ], 
-        "created_at": 1580490401, 
-        "number": 28842, 
-        "state": "open", 
-        "updated_at": 1580751985
-    }, 
     "28844": {
         "base_branch": "master", 
         "changed_files_names": [
