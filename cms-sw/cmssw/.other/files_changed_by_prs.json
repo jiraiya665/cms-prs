@@ -1413,6 +1413,7 @@
             "Geometry/HGCalCommonData/data/hgcalcell/v9/hgcalcell.xml", 
             "Geometry/HGCalCommonData/data/hgcalwafer/v9/hgcalwafer.xml", 
             "Geometry/HGCalCommonData/interface/HGCalGeomParameters.h", 
+            "Geometry/HGCalCommonData/interface/HGCalParametersFromDD.h", 
             "Geometry/HGCalCommonData/src/HGCalGeomParameters.cc", 
             "Geometry/HGCalCommonData/src/HGCalParametersFromDD.cc", 
             "Geometry/HGCalCommonData/test/python/testHGCalParametersDD4Hep_cfg.py"
@@ -1420,7 +1421,7 @@
         "created_at": 1580885136, 
         "number": 28869, 
         "state": "open", 
-        "updated_at": 1580885177
+        "updated_at": 1581068371
     }, 
     "28872": {
         "base_branch": "master", 
