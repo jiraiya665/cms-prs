@@ -1359,19 +1359,6 @@
         "state": "open", 
         "updated_at": 1580854185
     }, 
-    "28868": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DetectorDescription/DDCMS/src/Filter.cc", 
-            "Geometry/HcalCommonData/src/HcalGeomParameters.cc", 
-            "Geometry/HcalCommonData/src/HcalSimParametersFromDD.cc", 
-            "Geometry/HcalCommonData/test/python/runHcalParametersFromDD4HepAnalyzer_cfg.py"
-        ], 
-        "created_at": 1580880650, 
-        "number": 28868, 
-        "state": "open", 
-        "updated_at": 1580880694
-    }, 
     "28869": {
         "base_branch": "master", 
         "changed_files_names": [
