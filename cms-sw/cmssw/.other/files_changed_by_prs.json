@@ -1561,16 +1561,5 @@
         "number": 28880, 
         "state": "open", 
         "updated_at": 1581049072
-    }, 
-    "28881": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HGCalCommonData/python/hgcalParametersInitialization_cfi.py", 
-            "Geometry/HGCalCommonData/python/hgcalV6ParametersInitialization_cfi.py"
-        ], 
-        "created_at": 1581057653, 
-        "number": 28881, 
-        "state": "open", 
-        "updated_at": 1581057699
     }
 }
