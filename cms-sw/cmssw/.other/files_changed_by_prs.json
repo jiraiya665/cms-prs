@@ -1379,20 +1379,6 @@
         "state": "open", 
         "updated_at": 1581068371
     }, 
-    "28873": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "GeneratorInterface/RivetInterface/python/rivetAnalyzer_cfi.py", 
-            "GeneratorInterface/RivetInterface/test/BuildFile.xml", 
-            "GeneratorInterface/RivetInterface/test/rivet_cfg.py", 
-            "GeneratorInterface/RivetInterface/test/test-rivet-list.sh", 
-            "GeneratorInterface/RivetInterface/test/test-rivet-run.sh"
-        ], 
-        "created_at": 1580919137, 
-        "number": 28873, 
-        "state": "open", 
-        "updated_at": 1580919176
-    }, 
     "28874": {
         "base_branch": "master", 
         "changed_files_names": [
