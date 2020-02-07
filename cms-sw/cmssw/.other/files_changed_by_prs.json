@@ -1605,5 +1605,15 @@
         "number": 28883, 
         "state": "open", 
         "updated_at": 1581080935
+    }, 
+    "28884": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FastSimulation/CaloHitMakers/src/EcalHitMaker.cc"
+        ], 
+        "created_at": 1581080912, 
+        "number": 28884, 
+        "state": "open", 
+        "updated_at": 1581080951
     }
 }
