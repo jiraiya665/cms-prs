@@ -835,18 +835,6 @@
         "state": "open", 
         "updated_at": 1580846511
     }, 
-    "28753": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/TrackReco/interface/TrackBase.h", 
-            "DataFormats/TrackReco/src/TrackBase.cc", 
-            "PhysicsTools/PatAlgos/plugins/PATMuonProducer.cc"
-        ], 
-        "created_at": 1579191091, 
-        "number": 28753, 
-        "state": "open", 
-        "updated_at": 1580807625
-    }, 
     "28764": {
         "base_branch": "master", 
         "changed_files_names": [
