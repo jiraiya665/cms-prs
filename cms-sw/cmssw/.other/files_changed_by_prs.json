@@ -1514,17 +1514,6 @@
         "state": "open", 
         "updated_at": 1581096155
     }, 
-    "28883": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimDataFormats/GeneratorProducts/interface/GenEventInfoProduct.h", 
-            "SimDataFormats/GeneratorProducts/interface/LHEEventProduct.h"
-        ], 
-        "created_at": 1581080891, 
-        "number": 28883, 
-        "state": "open", 
-        "updated_at": 1581080935
-    }, 
     "28884": {
         "base_branch": "master", 
         "changed_files_names": [
