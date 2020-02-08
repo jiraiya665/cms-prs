@@ -1618,19 +1618,6 @@
         "state": "open", 
         "updated_at": 1581081058
     }, 
-    "28892": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Fireworks/Core/src/CmsAnnotation.cc", 
-            "Fireworks/Core/src/CmsShowSearchFiles.cc", 
-            "Fireworks/Core/src/FWPopupMenu.cc", 
-            "Fireworks/FWInterface/src/FWPSetTableManager.cc"
-        ], 
-        "created_at": 1581081087, 
-        "number": 28892, 
-        "state": "open", 
-        "updated_at": 1581081129
-    }, 
     "28893": {
         "base_branch": "master", 
         "changed_files_names": [
