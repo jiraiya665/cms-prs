@@ -1581,25 +1581,6 @@
         "state": "open", 
         "updated_at": 1581081037
     }, 
-    "28889": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/EcalDigi/interface/EcalDigiCollections.h", 
-            "DataFormats/EcalDigi/interface/EcalEBTriggerPrimitiveDigi.h", 
-            "DataFormats/EcalDigi/src/EcalEBTriggerPrimitiveDigi.cc", 
-            "DataFormats/EcalDigi/src/classes.h", 
-            "DataFormats/RPCDigi/src/DataRecord.cc", 
-            "DataFormats/RPCDigi/src/RPCRawDataCounts.cc", 
-            "DataFormats/RPCDigi/src/ReadoutError.cc", 
-            "SimG4CMS/HcalTestBeam/plugins/HcalTB02HcalNumberingScheme.cc", 
-            "SimG4CMS/HcalTestBeam/plugins/HcalTB02XtalNumberingScheme.cc", 
-            "SimG4CMS/HcalTestBeam/plugins/HcalTB04XtalNumberingScheme.cc"
-        ], 
-        "created_at": 1581081014, 
-        "number": 28889, 
-        "state": "open", 
-        "updated_at": 1581081051
-    }, 
     "28893": {
         "base_branch": "master", 
         "changed_files_names": [
