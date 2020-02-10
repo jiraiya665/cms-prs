@@ -1455,18 +1455,6 @@
         "state": "open", 
         "updated_at": 1581351236
     }, 
-    "28905": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1Trigger/L1TGlobal/src/CorrCondition.cc", 
-            "L1Trigger/L1TGlobal/src/CorrWithOverlapRemovalCondition.cc", 
-            "L1Trigger/L1TGlobal/src/GlobalCondition.cc"
-        ], 
-        "created_at": 1581346425, 
-        "number": 28905, 
-        "state": "open", 
-        "updated_at": 1581350900
-    }, 
     "28910": {
         "base_branch": "master", 
         "changed_files_names": [
