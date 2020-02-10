@@ -683,23 +683,6 @@
         "state": "open", 
         "updated_at": 1580832712
     }, 
-    "28672": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/EcalMonitorTasks/interface/RecoSummaryTask.h", 
-            "DQM/EcalMonitorTasks/plugins/EcalDQMonitorTask.cc", 
-            "DQM/EcalMonitorTasks/python/CollectionTags_cfi.py", 
-            "DQM/EcalMonitorTasks/python/RecoSummaryTask_cfi.py", 
-            "DQM/EcalMonitorTasks/src/RecoSummaryTask.cc", 
-            "DQMOffline/Ecal/python/ecal_dqm_source_offline_HI_cff.py", 
-            "DQMOffline/Ecal/python/ecal_dqm_source_offline_cff.py", 
-            "DQMOffline/Ecal/python/ecal_dqm_source_offline_cosmic_cff.py"
-        ], 
-        "created_at": 1576885837, 
-        "number": 28672, 
-        "state": "open", 
-        "updated_at": 1580805309
-    }, 
     "28711": {
         "base_branch": "master", 
         "changed_files_names": [
