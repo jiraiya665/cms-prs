@@ -851,20 +851,6 @@
         "state": "open", 
         "updated_at": 1580487084
     }, 
-    "28769": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/GEM/plugins/GEMDQMHarvester.cc", 
-            "DQM/GEM/plugins/GEMDQMSource.cc", 
-            "DQM/GEM/plugins/GEMDQMSourceDigi.cc", 
-            "DQM/GEM/plugins/GEMDQMStatusDigi.cc", 
-            "DQM/GEM/test/test.py"
-        ], 
-        "created_at": 1579608910, 
-        "number": 28769, 
-        "state": "open", 
-        "updated_at": 1580839473
-    }, 
     "28793": {
         "base_branch": "master", 
         "changed_files_names": [
