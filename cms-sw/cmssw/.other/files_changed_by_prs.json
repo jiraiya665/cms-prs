@@ -1487,5 +1487,15 @@
         "number": 28903, 
         "state": "open", 
         "updated_at": 1581337356
+    }, 
+    "28904": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/SharedMemory/test/test_monitor_thread_signals.sh"
+        ], 
+        "created_at": 1581341515, 
+        "number": 28904, 
+        "state": "open", 
+        "updated_at": 1581341561
     }
 }
