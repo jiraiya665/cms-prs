@@ -1410,19 +1410,6 @@
         "state": "open", 
         "updated_at": 1581012488
     }, 
-    "28879": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/Utilities/interface/RandomNumberGenerator.h", 
-            "IOMC/RandomEngine/src/RandomNumberGeneratorService.cc", 
-            "IOMC/RandomEngine/src/RandomNumberGeneratorService.h", 
-            "IOMC/RandomEngine/test/TestRandomNumberServiceGlobal.cc"
-        ], 
-        "created_at": 1581025573, 
-        "number": 28879, 
-        "state": "open", 
-        "updated_at": 1581025615
-    }, 
     "28880": {
         "base_branch": "master", 
         "changed_files_names": [
