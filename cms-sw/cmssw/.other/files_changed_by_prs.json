@@ -1387,16 +1387,6 @@
         "state": "open", 
         "updated_at": 1581143599
     }, 
-    "28896": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "HLTrigger/JetMET/plugins/HLTScoutingPFProducer.cc"
-        ], 
-        "created_at": 1581167765, 
-        "number": 28896, 
-        "state": "open", 
-        "updated_at": 1581167807
-    }, 
     "28899": {
         "base_branch": "master", 
         "changed_files_names": [
