@@ -1467,18 +1467,6 @@
         "state": "open", 
         "updated_at": 1581350900
     }, 
-    "28906": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Alignment/CommonAlignment/interface/SurveyDet.h", 
-            "Alignment/OfflineValidation/macros/CMS_lumi.h", 
-            "Alignment/OfflineValidation/plugins/ColorParser.C"
-        ], 
-        "created_at": 1581346430, 
-        "number": 28906, 
-        "state": "open", 
-        "updated_at": 1581351270
-    }, 
     "28910": {
         "base_branch": "master", 
         "changed_files_names": [
