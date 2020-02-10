@@ -1479,16 +1479,6 @@
         "state": "open", 
         "updated_at": 1581351270
     }, 
-    "28907": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/PatCandidates/interface/PackedCandidate.h"
-        ], 
-        "created_at": 1581346461, 
-        "number": 28907, 
-        "state": "open", 
-        "updated_at": 1581352657
-    }, 
     "28910": {
         "base_branch": "master", 
         "changed_files_names": [
