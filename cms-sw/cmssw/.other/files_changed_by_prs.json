@@ -78,6 +78,9 @@
             "CalibTracker/SiPixelESProducers/plugins/SiPixelGainCalibrationForHLTGPUESProducer.cc", 
             "CalibTracker/SiPixelESProducers/src/ES_SiPixelGainCalibrationForHLTGPU.cc", 
             "CalibTracker/SiPixelESProducers/src/SiPixelGainCalibrationForHLTGPU.cc", 
+            "Calibration/LumiAlCaRecoProducers/python/ALCARECOAlCaPCCRandom_cff.py", 
+            "Calibration/LumiAlCaRecoProducers/python/ALCARECOAlCaPCCZeroBias_cff.py", 
+            "Calibration/LumiAlCaRecoProducers/python/ALCARECOLumiPixels_cff.py", 
             "CondFormats/SiPixelObjects/interface/SiPixelGainForHLTonGPU.h", 
             "Configuration/StandardSequences/python/RawToDigi_cff.py", 
             "Configuration/StandardSequences/python/Reconstruction_cff.py", 
@@ -125,6 +128,7 @@
             "EventFilter/SiPixelRawToDigi/plugins/SiPixelDigisSoAFromCUDA.cc", 
             "EventFilter/SiPixelRawToDigi/python/SiPixelRawToDigi_cfi.py", 
             "EventFilter/SiPixelRawToDigi/python/siPixelDigis_cff.py", 
+            "FWCore/Sources/src/DaqProvenanceHelper.cc", 
             "FastSimulation/Tracking/python/SeedingMigration.py", 
             "Geometry/TrackerGeometryBuilder/interface/phase1PixelTopology.h", 
             "Geometry/TrackerGeometryBuilder/test/phase1PixelTopology_t.cpp", 
@@ -358,7 +362,7 @@
         "created_at": 1568296225, 
         "number": 27983, 
         "state": "open", 
-        "updated_at": 1580286178
+        "updated_at": 1581409956
     }, 
     "28190": {
         "base_branch": "master", 
