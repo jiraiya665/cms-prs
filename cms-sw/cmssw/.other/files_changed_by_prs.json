@@ -1163,17 +1163,6 @@
         "state": "open", 
         "updated_at": 1581445730
     }, 
-    "28922": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/StandardSequences/python/DD4hep_GeometrySim_cff.py", 
-            "Geometry/TrackerNumberingBuilder/test/trackerModuleNumberingDD4hep_cfg.py"
-        ], 
-        "created_at": 1581426044, 
-        "number": 28922, 
-        "state": "open", 
-        "updated_at": 1581442328
-    }, 
     "28923": {
         "base_branch": "master", 
         "changed_files_names": [
