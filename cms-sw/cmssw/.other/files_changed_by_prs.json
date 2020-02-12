@@ -498,17 +498,6 @@
         "state": "open", 
         "updated_at": 1581340177
     }, 
-    "28613": {
-        "base_branch": "CMSSW_11_1_DEVEL_X", 
-        "changed_files_names": [
-            "CondFormats/Serialization/interface/eos/portable_iarchive.hpp", 
-            "CondFormats/Serialization/interface/eos/portable_oarchive.hpp"
-        ], 
-        "created_at": 1576146942, 
-        "number": 28613, 
-        "state": "open", 
-        "updated_at": 1580302877
-    }, 
     "28711": {
         "base_branch": "master", 
         "changed_files_names": [
