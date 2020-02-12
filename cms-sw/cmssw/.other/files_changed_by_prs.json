@@ -785,16 +785,6 @@
         "state": "open", 
         "updated_at": 1581008936
     }, 
-    "28865": {
-        "base_branch": "CMSSW_10_2_X", 
-        "changed_files_names": [
-            "CondFormats/JetMETObjects/src/JetCorrectionUncertainty.cc"
-        ], 
-        "created_at": 1580853284, 
-        "number": 28865, 
-        "state": "open", 
-        "updated_at": 1581451445
-    }, 
     "28869": {
         "base_branch": "master", 
         "changed_files_names": [
