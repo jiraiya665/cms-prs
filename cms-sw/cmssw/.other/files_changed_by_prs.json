@@ -1188,18 +1188,6 @@
         "state": "open", 
         "updated_at": 1581453320
     }, 
-    "28927": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEGeneric.h", 
-            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEGeneric.cc", 
-            "RecoMuon/MuonSeedGenerator/src/MuonDTSeedFromRecHits.cc"
-        ], 
-        "created_at": 1581455639, 
-        "number": 28927, 
-        "state": "open", 
-        "updated_at": 1581455684
-    }, 
     "28930": {
         "base_branch": "master", 
         "changed_files_names": [
