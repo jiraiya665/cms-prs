@@ -1074,12 +1074,12 @@
             "RecoLocalCalo/HGCalRecProducers/interface/HGCalClusteringAlgoBase.h", 
             "RecoLocalCalo/HGCalRecProducers/plugins/HGCalCLUEAlgo.cc", 
             "RecoLocalCalo/HGCalRecProducers/plugins/HGCalLayerClusterProducer.cc", 
-            "SimCalorimetry/HGCalSimProducers/python/hgcalDigitizer_cfi.py"
+            "SimGeneral/MixingModule/python/caloTruthProducer_cfi.py"
         ], 
         "created_at": 1581417280, 
         "number": 28917, 
         "state": "open", 
-        "updated_at": 1581436990
+        "updated_at": 1581521377
     }, 
     "28918": {
         "base_branch": "master", 
