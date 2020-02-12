@@ -763,17 +763,6 @@
         "state": "open", 
         "updated_at": 1581005885
     }, 
-    "28856": {
-        "base_branch": "CMSSW_10_2_X", 
-        "changed_files_names": [
-            "GeneratorInterface/RivetInterface/plugins/GenParticles2HepMCConverter.cc", 
-            "GeneratorInterface/RivetInterface/test/runRivetAnalyzerMiniAOD_cfg.py"
-        ], 
-        "created_at": 1580740007, 
-        "number": 28856, 
-        "state": "open", 
-        "updated_at": 1581421676
-    }, 
     "28857": {
         "base_branch": "master", 
         "changed_files_names": [
