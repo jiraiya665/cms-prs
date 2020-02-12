@@ -625,31 +625,6 @@
         "state": "open", 
         "updated_at": 1581439610
     }, 
-    "28815": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CommonTools/RecoAlgos/BuildFile.xml", 
-            "CommonTools/RecoAlgos/python/tofPID_cfi.py", 
-            "PhysicsTools/PatAlgos/plugins/PATPackedCandidateProducer.cc", 
-            "PhysicsTools/PatAlgos/python/slimming/packedPFCandidates_cfi.py", 
-            "RecoMTD/Configuration/python/RecoMTD_EventContent_cff.py", 
-            "RecoMTD/Configuration/python/RecoMTD_cff.py", 
-            "RecoMTD/TimingIDTools/BuildFile.xml", 
-            "RecoMTD/TimingIDTools/interface/MTDTrackQualityMVA.h", 
-            "RecoMTD/TimingIDTools/plugins/BuildFile.xml", 
-            "RecoMTD/TimingIDTools/plugins/MTDTrackQualityMVAProducer.cc", 
-            "RecoMTD/TimingIDTools/plugins/TOFPIDProducer.cc", 
-            "RecoMTD/TimingIDTools/python/mtdTrackQualityMVA_cfi.py", 
-            "RecoMTD/TimingIDTools/src/MTDTrackQualityMVA.cc", 
-            "RecoMTD/TrackExtender/plugins/TrackExtenderWithMTD.cc", 
-            "RecoVertex/Configuration/python/RecoVertex_cff.py", 
-            "RecoVertex/Configuration/python/RecoVertex_phase2_timing_cff.py"
-        ], 
-        "created_at": 1580236809, 
-        "number": 28815, 
-        "state": "open", 
-        "updated_at": 1581441933
-    }, 
     "28827": {
         "base_branch": "master", 
         "changed_files_names": [
