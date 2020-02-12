@@ -1243,15 +1243,5 @@
         "number": 28927, 
         "state": "open", 
         "updated_at": 1581455684
-    }, 
-    "28929": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/MuonNumbering/src/MuonBaseNumber.cc"
-        ], 
-        "created_at": 1581497797, 
-        "number": 28929, 
-        "state": "open", 
-        "updated_at": 1581497825
     }
 }
