@@ -1215,16 +1215,6 @@
         "state": "open", 
         "updated_at": 1581442017
     }, 
-    "28924": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQMServices/FwkIO/plugins/DQMRootSource.cc"
-        ], 
-        "created_at": 1581434034, 
-        "number": 28924, 
-        "state": "open", 
-        "updated_at": 1581444966
-    }, 
     "28925": {
         "base_branch": "master", 
         "changed_files_names": [
