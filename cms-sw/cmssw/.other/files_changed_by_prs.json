@@ -1320,5 +1320,15 @@
         "number": 28947, 
         "state": "open", 
         "updated_at": 1581575944
+    }, 
+    "28948": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoLocalCalo/HcalRecProducers/src/HBHEPhase1Reconstructor.cc"
+        ], 
+        "created_at": 1581583060, 
+        "number": 28948, 
+        "state": "open", 
+        "updated_at": 1581583097
     }
 }
