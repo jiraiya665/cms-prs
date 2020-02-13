@@ -1296,12 +1296,13 @@
             "GeneratorInterface/GenFilters/plugins/LHEGenericFilter.cc", 
             "GeneratorInterface/GenFilters/plugins/LHEGenericFilter.h", 
             "GeneratorInterface/GenFilters/plugins/LHEVpTFilter.cc", 
-            "GeneratorInterface/GenFilters/plugins/LHEVpTFilter.h"
+            "GeneratorInterface/GenFilters/plugins/LHEVpTFilter.h", 
+            "GeneratorInterface/GenFilters/plugins/SealModule.cc"
         ], 
         "created_at": 1581564566, 
         "number": 28946, 
         "state": "open", 
-        "updated_at": 1581564610
+        "updated_at": 1581610176
     }, 
     "28948": {
         "base_branch": "master", 
