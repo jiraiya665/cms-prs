@@ -1153,12 +1153,14 @@
         "base_branch": "master", 
         "changed_files_names": [
             "DetectorDescription/DDCMS/plugins/dd4hep/DDAngular.cc", 
-            "DetectorDescription/DDCMS/plugins/dd4hep/DDDefinitions2Objects.cc"
+            "DetectorDescription/DDCMS/plugins/dd4hep/DDDefinitions2Objects.cc", 
+            "Geometry/HcalAlgo/plugins/dd4hep/DDHCalAngular.cc", 
+            "Geometry/HcalAlgo/plugins/dd4hep/DDHCalTestBeamAlgo.cc"
         ], 
         "created_at": 1581511325, 
         "number": 28933, 
         "state": "open", 
-        "updated_at": 1581511369
+        "updated_at": 1581580639
     }, 
     "28934": {
         "base_branch": "master", 
