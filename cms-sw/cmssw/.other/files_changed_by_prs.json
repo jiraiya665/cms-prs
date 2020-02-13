@@ -1311,16 +1311,6 @@
         "state": "open", 
         "updated_at": 1581564610
     }, 
-    "28947": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondFormats/Serialization/python/condformats_serialization_generate.py"
-        ], 
-        "created_at": 1581575904, 
-        "number": 28947, 
-        "state": "open", 
-        "updated_at": 1581575944
-    }, 
     "28948": {
         "base_branch": "master", 
         "changed_files_names": [
