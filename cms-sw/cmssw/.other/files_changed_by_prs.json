@@ -530,12 +530,13 @@
             "PhysicsTools/TensorFlow/test/tfadd_t.cpp", 
             "RecoBTag/TensorFlow/plugins/DeepVertexTFJetTagsProducer.cc", 
             "RecoTauTag/RecoTau/plugins/DPFIsolation.cc", 
+            "RecoTauTag/RecoTau/python/tools/runTauIdMVA.py", 
             "RecoTauTag/RecoTau/src/DeepTauBase.cc"
         ], 
         "created_at": 1578303082, 
         "number": 28711, 
         "state": "open", 
-        "updated_at": 1581429861
+        "updated_at": 1581609426
     }, 
     "28764": {
         "base_branch": "master", 
