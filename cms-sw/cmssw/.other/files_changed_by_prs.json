@@ -1253,16 +1253,6 @@
         "state": "open", 
         "updated_at": 1581540321
     }, 
-    "28942": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQMOffline/CalibTracker/src/APVValidationPlots.cc"
-        ], 
-        "created_at": 1581542127, 
-        "number": 28942, 
-        "state": "open", 
-        "updated_at": 1581542147
-    }, 
     "28943": {
         "base_branch": "master", 
         "changed_files_names": [
