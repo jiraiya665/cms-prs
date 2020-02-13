@@ -1253,16 +1253,6 @@
         "state": "open", 
         "updated_at": 1581540321
     }, 
-    "28941": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQMServices/FwkIO/test/DummyFillDQMStore.cc"
-        ], 
-        "created_at": 1581541026, 
-        "number": 28941, 
-        "state": "open", 
-        "updated_at": 1581541055
-    }, 
     "28942": {
         "base_branch": "master", 
         "changed_files_names": [
