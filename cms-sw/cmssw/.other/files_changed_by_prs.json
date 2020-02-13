@@ -1237,25 +1237,6 @@
         "state": "open", 
         "updated_at": 1581532148
     }, 
-    "28939": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondFormats/SiPixelTransient/interface/SiPixelTemplate.h", 
-            "CondFormats/SiPixelTransient/interface/SiPixelTemplate2D.h", 
-            "CondFormats/SiPixelTransient/interface/SiPixelUtils.h", 
-            "CondFormats/SiPixelTransient/src/SiPixelTemplate.cc", 
-            "CondFormats/SiPixelTransient/src/SiPixelTemplate2D.cc", 
-            "CondFormats/SiPixelTransient/src/SiPixelUtils.cc", 
-            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEGeneric.h", 
-            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEGeneric.cc", 
-            "RecoLocalTracker/SiPixelRecHits/src/SiPixelTemplateReco.cc", 
-            "RecoLocalTracker/SiPixelRecHits/src/SiPixelTemplateReco2D.cc"
-        ], 
-        "created_at": 1581538660, 
-        "number": 28939, 
-        "state": "open", 
-        "updated_at": 1581538688
-    }, 
     "28940": {
         "base_branch": "master", 
         "changed_files_names": [
