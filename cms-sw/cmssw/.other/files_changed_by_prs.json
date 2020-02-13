@@ -1324,8 +1324,6 @@
     "28950": {
         "base_branch": "master", 
         "changed_files_names": [
-            "DataFormats/L1DTTrackFinder/interface/L1Phase2MuDTPhDigi.h", 
-            "DataFormats/L1DTTrackFinder/src/L1Phase2MuDTPhDigi.cc", 
             "L1Trigger/DTPhase2Trigger/BuildFile.xml", 
             "L1Trigger/DTPhase2Trigger/data/PseudoBayesPatterns_correlated_v0.root", 
             "L1Trigger/DTPhase2Trigger/data/PseudoBayesPatterns_uncorrelated_v0.root", 
@@ -1401,6 +1399,6 @@
         "created_at": 1581585969, 
         "number": 28950, 
         "state": "open", 
-        "updated_at": 1581586019
+        "updated_at": 1581587024
     }
 }
