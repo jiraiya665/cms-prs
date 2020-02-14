@@ -1202,16 +1202,6 @@
         "state": "open", 
         "updated_at": 1581605986
     }, 
-    "28943": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/JetReco/src/classes_3.h"
-        ], 
-        "created_at": 1581542798, 
-        "number": 28943, 
-        "state": "open", 
-        "updated_at": 1581545581
-    }, 
     "28944": {
         "base_branch": "master", 
         "changed_files_names": [
