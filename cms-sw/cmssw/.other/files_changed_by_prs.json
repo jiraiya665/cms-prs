@@ -1202,20 +1202,6 @@
         "state": "open", 
         "updated_at": 1581605986
     }, 
-    "28940": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Utilities/RelMon/python/authentication.py", 
-            "Utilities/RelMon/python/dirstructure.py", 
-            "Utilities/RelMon/python/dqm_interfaces.py", 
-            "Utilities/RelMon/python/utils.py", 
-            "Utilities/RelMon/scripts/compare_using_files.py"
-        ], 
-        "created_at": 1581540253, 
-        "number": 28940, 
-        "state": "open", 
-        "updated_at": 1581540321
-    }, 
     "28943": {
         "base_branch": "master", 
         "changed_files_names": [
