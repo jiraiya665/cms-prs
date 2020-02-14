@@ -831,25 +831,6 @@
         "state": "open", 
         "updated_at": 1581359468
     }, 
-    "28903": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/HGCalReco/interface/Common.h", 
-            "DataFormats/HGCalReco/interface/TICLLayerTile.h", 
-            "DataFormats/HGCalReco/interface/TICLSeedingRegion.h", 
-            "DataFormats/HGCalReco/interface/Trackster.h", 
-            "DataFormats/HGCalReco/src/classes_def.xml", 
-            "RecoHGCal/TICL/plugins/HGCGraph.cc", 
-            "RecoHGCal/TICL/plugins/PatternRecognitionbyCA.cc", 
-            "RecoHGCal/TICL/plugins/TICLCandidateFromTrackstersProducer.cc", 
-            "RecoHGCal/TICL/plugins/TracksterGeneralTrackPlugin.cc", 
-            "RecoHGCal/TICL/plugins/TracksterP4FromEnergySumPlugin.cc"
-        ], 
-        "created_at": 1581337310, 
-        "number": 28903, 
-        "state": "open", 
-        "updated_at": 1581356659
-    }, 
     "28910": {
         "base_branch": "master", 
         "changed_files_names": [
