@@ -1293,16 +1293,6 @@
         "state": "open", 
         "updated_at": 1581593066
     }, 
-    "28955": {
-        "base_branch": "CMSSW_11_0_X", 
-        "changed_files_names": [
-            "DQM/HcalCommon/interface/Constants.h"
-        ], 
-        "created_at": 1581593913, 
-        "number": 28955, 
-        "state": "open", 
-        "updated_at": 1581595470
-    }, 
     "28960": {
         "base_branch": "master", 
         "changed_files_names": [
