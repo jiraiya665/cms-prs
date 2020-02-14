@@ -1469,5 +1469,26 @@
         "number": 28965, 
         "state": "open", 
         "updated_at": 1581686955
+    }, 
+    "28966": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Validation/EcalHits/interface/EcalBarrelSimHitsValidation.h", 
+            "Validation/EcalHits/interface/EcalEndcapSimHitsValidation.h", 
+            "Validation/EcalHits/interface/EcalPreshowerSimHitsValidation.h", 
+            "Validation/EcalHits/interface/EcalSimHitsValidation.h", 
+            "Validation/EcalHits/python/ecalBarrelSimHitsValidation_cfi.py", 
+            "Validation/EcalHits/python/ecalEndcapSimHitsValidation_cfi.py", 
+            "Validation/EcalHits/python/ecalPreshowerSimHitsValidation_cfi.py", 
+            "Validation/EcalHits/python/ecalSimHitsValidation_cfi.py", 
+            "Validation/EcalHits/src/EcalBarrelSimHitsValidation.cc", 
+            "Validation/EcalHits/src/EcalEndcapSimHitsValidation.cc", 
+            "Validation/EcalHits/src/EcalPreshowerSimHitsValidation.cc", 
+            "Validation/EcalHits/src/EcalSimHitsValidation.cc"
+        ], 
+        "created_at": 1581707399, 
+        "number": 28966, 
+        "state": "open", 
+        "updated_at": 1581707439
     }
 }
