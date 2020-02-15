@@ -1126,6 +1126,8 @@
             "RecoJets/Configuration/python/RecoJets_EventContent_cff.py", 
             "RecoJets/Configuration/python/RecoPFJets_cff.py", 
             "RecoJets/JetProducers/interface/JetSpecific.h", 
+            "RecoJets/JetProducers/interface/NjettinessAdder.h", 
+            "RecoJets/JetProducers/plugins/NjettinessAdder.cc", 
             "RecoJets/JetProducers/plugins/VirtualJetProducer.cc", 
             "RecoJets/JetProducers/plugins/VirtualJetProducer.h", 
             "RecoJets/JetProducers/python/CaloJetParameters_cfi.py", 
@@ -1135,13 +1137,14 @@
             "RecoJets/JetProducers/python/TrackJetParameters_cfi.py", 
             "RecoJets/JetProducers/python/ak4PFJets_cfi.py", 
             "RecoJets/JetProducers/python/ak8PFJets_cfi.py", 
+            "RecoJets/JetProducers/python/nJettinessAdder_cfi.py", 
             "RecoJets/JetProducers/src/JetSpecific.cc", 
             "TauAnalysis/MCEmbeddingTools/python/customisers.py"
         ], 
         "created_at": 1581532120, 
         "number": 28936, 
         "state": "open", 
-        "updated_at": 1581691178
+        "updated_at": 1581800290
     }, 
     "28944": {
         "base_branch": "master", 
