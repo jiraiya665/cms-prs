@@ -601,10 +601,7 @@
             "DQMServices/Core/interface/DQMEDAnalyzer.h", 
             "FastSimulation/MaterialEffects/test/testMaterialEffects.cc", 
             "FastSimulation/MaterialEffects/test/testNuclearInteractions.cc", 
-            "Validation/EventGenerator/src/DQMHelper.cc", 
             "Validation/HcalHits/interface/HcalSimHitsValidation.h", 
-            "Validation/MuonIsolation/interface/MuIsoValidation.h", 
-            "Validation/MuonIsolation/src/MuIsoValidation.cc", 
             "Validation/RecoMuon/src/MuonTrackAnalyzer.cc", 
             "Validation/RecoMuon/src/MuonTrackAnalyzer.h", 
             "Validation/RecoTrack/interface/SiPixelTrackingRecHitsValid.h", 
@@ -624,7 +621,7 @@
         "created_at": 1580229162, 
         "number": 28813, 
         "state": "open", 
-        "updated_at": 1581439610
+        "updated_at": 1581932332
     }, 
     "28827": {
         "base_branch": "master", 
