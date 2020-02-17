@@ -1395,5 +1395,15 @@
         "number": 28977, 
         "state": "open", 
         "updated_at": 1581956536
+    }, 
+    "28978": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/GEM/plugins/GEMDQMHarvester.cc"
+        ], 
+        "created_at": 1581959683, 
+        "number": 28978, 
+        "state": "open", 
+        "updated_at": 1581959725
     }
 }
