@@ -635,34 +635,6 @@
         "state": "open", 
         "updated_at": 1581338617
     }, 
-    "28829": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQMOffline/Configuration/python/DQMOfflineCosmics_SecondStep_cff.py", 
-            "DQMOffline/Configuration/python/DQMOfflineCosmics_cff.py", 
-            "DQMOffline/Configuration/python/DQMOfflineHeavyIons_SecondStep_cff.py", 
-            "DQMOffline/Configuration/python/DQMOfflineHeavyIons_cff.py", 
-            "DQMOffline/Configuration/python/DQMOffline_SecondStep_cff.py", 
-            "DQMOffline/Configuration/python/DQMOffline_cff.py", 
-            "DQMOffline/L1Trigger/test/runDQMOffline_step1NoRECO_L1TriggerOnly_job1_cfg.py", 
-            "DQMOffline/L1Trigger/test/runDQMOffline_step1_L1TriggerOnly_job1_cfg.py", 
-            "DQMOffline/L1Trigger/test/runDQMOffline_step2_L1TriggerOnly_cfg.py", 
-            "DQMOffline/Muon/test/DQMOffline_SecondStep_cff.py", 
-            "DQMOffline/Muon/test/DQMOffline_cff.py", 
-            "DQMServices/Components/plugins/DQMDcsInfo.cc", 
-            "DQMServices/Components/plugins/DQMDcsInfo.h", 
-            "DQMServices/Components/plugins/DQMDcsInfoClient.cc", 
-            "DQMServices/Components/plugins/DQMDcsInfoClient.h", 
-            "DQMServices/Components/plugins/DQMProvInfo.cc", 
-            "DQMServices/Components/plugins/SealModule.cc", 
-            "DQMServices/Components/python/DQMDcsInfoClient_cfi.py", 
-            "DQMServices/Components/python/DQMDcsInfo_cfi.py"
-        ], 
-        "created_at": 1580381795, 
-        "number": 28829, 
-        "state": "open", 
-        "updated_at": 1581436698
-    }, 
     "28844": {
         "base_branch": "master", 
         "changed_files_names": [
