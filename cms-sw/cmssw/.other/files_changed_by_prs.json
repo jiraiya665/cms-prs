@@ -732,22 +732,6 @@
         "state": "open", 
         "updated_at": 1581008936
     }, 
-    "28893": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibCalorimetry/HcalAlgos/src/HcalDbHardcode.cc", 
-            "CondFormats/Serialization/interface/eos/polymorphic_portable_archive.hpp", 
-            "CondFormats/Serialization/interface/eos/portable_archive.hpp", 
-            "CondFormats/Serialization/interface/eos/portable_iarchive.hpp", 
-            "CondFormats/Serialization/interface/eos/portable_oarchive.hpp", 
-            "L1Trigger/L1TMuonBarrel/interface/L1TMuonBarrelParamsAllPublic.h", 
-            "L1Trigger/RPCTechnicalTrigger/interface/LogicTool.h"
-        ], 
-        "created_at": 1581093382, 
-        "number": 28893, 
-        "state": "open", 
-        "updated_at": 1581444829
-    }, 
     "28899": {
         "base_branch": "master", 
         "changed_files_names": [
