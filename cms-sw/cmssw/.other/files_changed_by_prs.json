@@ -880,20 +880,6 @@
         "state": "open", 
         "updated_at": 1581453320
     }, 
-    "28930": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibCalorimetry/HcalTPGAlgos/interface/LutXml.h", 
-            "CalibCalorimetry/HcalTPGAlgos/src/LutXml.cc", 
-            "CaloOnlineTools/HcalOnlineDb/test/cardPhysicsSkeleton.sh", 
-            "CaloOnlineTools/HcalOnlineDb/test/genLUT.sh", 
-            "CaloOnlineTools/HcalOnlineDb/test/template.py"
-        ], 
-        "created_at": 1581501550, 
-        "number": 28930, 
-        "state": "open", 
-        "updated_at": 1581596194
-    }, 
     "28934": {
         "base_branch": "master", 
         "changed_files_names": [
