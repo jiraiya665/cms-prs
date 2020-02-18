@@ -408,6 +408,7 @@
             "Geometry/TrackerCommonData/data/flat10services30percent/trackermaterial.xml", 
             "Geometry/TrackerCommonData/data/flat20percent/trackermaterial.xml", 
             "Geometry/TrackerCommonData/data/flat20services30percent/trackermaterial.xml", 
+            "Geometry/TrackerCommonData/data/flat30percent/trackermaterial.xml", 
             "Geometry/TrackerCommonData/data/pixbarmaterial/2017ZeroMaterial/v1/pixbarmaterial.xml", 
             "Geometry/TrackerCommonData/data/services30percent/trackermaterial.xml", 
             "Geometry/TrackerCommonData/data/test2014/trackermaterial.xml", 
@@ -418,7 +419,7 @@
         "created_at": 1572448498, 
         "number": 28313, 
         "state": "open", 
-        "updated_at": 1581018536
+        "updated_at": 1582035410
     }, 
     "28417": {
         "base_branch": "master", 
