@@ -715,23 +715,6 @@
         "state": "open", 
         "updated_at": 1581631244
     }, 
-    "28910": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HGCalCommonData/data/TB181/Oct180/hgcalBeam.xml", 
-            "Geometry/HGCalCommonData/data/TB181/Oct181/cms.xml", 
-            "Geometry/HGCalCommonData/data/TB181/Oct181/hgcal.xml", 
-            "Geometry/HGCalCommonData/data/TB181/Oct182/hgcal.xml", 
-            "Geometry/HGCalCommonData/data/TB181/Oct183/hgcal.xml", 
-            "Geometry/HGCalCommonData/python/testTB181V0XML_cfi.py", 
-            "Geometry/HGCalCommonData/test/python/dumpHGCalTBGeometry_cfg.py", 
-            "SimG4CMS/HGCalTestBeam/plugins/HGCalTBAnalyzer.cc"
-        ], 
-        "created_at": 1581350983, 
-        "number": 28910, 
-        "state": "open", 
-        "updated_at": 1582035956
-    }, 
     "28911": {
         "base_branch": "master", 
         "changed_files_names": [
