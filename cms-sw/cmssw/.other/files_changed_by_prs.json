@@ -692,21 +692,6 @@
         "state": "open", 
         "updated_at": 1581008936
     }, 
-    "28899": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "GeneratorInterface/LHEInterface/plugins/BuildFile.xml", 
-            "GeneratorInterface/LHEInterface/plugins/ExternalLHEProducer.cc", 
-            "GeneratorInterface/LHEInterface/test/BuildFile.xml", 
-            "GeneratorInterface/LHEInterface/test/run_dummy_script.sh", 
-            "GeneratorInterface/LHEInterface/test/test_catch2_ExternalLHEProducer.cc", 
-            "GeneratorInterface/LHEInterface/test/test_catch2_main.cc"
-        ], 
-        "created_at": 1581261748, 
-        "number": 28899, 
-        "state": "open", 
-        "updated_at": 1581336160
-    }, 
     "28902": {
         "base_branch": "master", 
         "changed_files_names": [
