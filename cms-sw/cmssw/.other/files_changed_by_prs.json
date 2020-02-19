@@ -1337,5 +1337,18 @@
         "number": 28995, 
         "state": "open", 
         "updated_at": 1582117074
+    }, 
+    "28996": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/TB181/Oct180/hgcalBeam.xml", 
+            "SimG4CMS/HGCalTestBeam/plugins/HGCalTBAnalyzer.cc", 
+            "SimG4CMS/HGCalTestBeam/python/HGCalTB181Oct0XML_cfi.py", 
+            "SimG4CMS/HGCalTestBeam/test/HGCalTBCERN181Oct1el100_cfg.py"
+        ], 
+        "created_at": 1582118131, 
+        "number": 28996, 
+        "state": "open", 
+        "updated_at": 1582118172
     }
 }
