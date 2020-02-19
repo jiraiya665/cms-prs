@@ -1030,16 +1030,6 @@
         "state": "open", 
         "updated_at": 1581696099
     }, 
-    "28962": {
-        "base_branch": "CMSSW_11_0_X", 
-        "changed_files_names": [
-            "DQM/Integration/python/clients/rpc_dqm_sourceclient-live_cfg.py"
-        ], 
-        "created_at": 1581675132, 
-        "number": 28962, 
-        "state": "open", 
-        "updated_at": 1582019805
-    }, 
     "28967": {
         "base_branch": "master", 
         "changed_files_names": [
