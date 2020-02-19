@@ -1371,5 +1371,19 @@
         "number": 29002, 
         "state": "open", 
         "updated_at": 1582136942
+    }, 
+    "29004": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/EcalMonitorClient/interface/TrigPrimClient.h", 
+            "DQM/EcalMonitorClient/python/TrigPrimClient_cfi.py", 
+            "DQM/EcalMonitorClient/src/TrigPrimClient.cc", 
+            "DQM/EcalMonitorTasks/src/TrigPrimTask.cc", 
+            "DQMOffline/Ecal/python/ecal_dqm_client_offline_cff.py"
+        ], 
+        "created_at": 1582144650, 
+        "number": 29004, 
+        "state": "open", 
+        "updated_at": 1582144690
     }
 }
