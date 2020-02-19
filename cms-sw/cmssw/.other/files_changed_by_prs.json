@@ -1234,16 +1234,6 @@
         "state": "open", 
         "updated_at": 1582030065
     }, 
-    "28987": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Calibration/LumiAlCaRecoProducers/test/test_cfg.py"
-        ], 
-        "created_at": 1582039082, 
-        "number": 28987, 
-        "state": "open", 
-        "updated_at": 1582039108
-    }, 
     "28989": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
