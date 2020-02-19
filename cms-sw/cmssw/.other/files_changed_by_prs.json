@@ -1280,16 +1280,6 @@
         "state": "open", 
         "updated_at": 1582118633
     }, 
-    "28995": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/HLTReco/BuildFile.xml"
-        ], 
-        "created_at": 1582117048, 
-        "number": 28995, 
-        "state": "open", 
-        "updated_at": 1582125260
-    }, 
     "28996": {
         "base_branch": "master", 
         "changed_files_names": [
