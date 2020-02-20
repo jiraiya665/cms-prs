@@ -1147,17 +1147,6 @@
         "state": "open", 
         "updated_at": 1582026067
     }, 
-    "28979": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoLocalMuon/CSCRecHitD/python/customRecHitBuilder.py", 
-            "RecoLocalMuon/CSCSegment/python/customSegmentBuilder.py"
-        ], 
-        "created_at": 1581969621, 
-        "number": 28979, 
-        "state": "open", 
-        "updated_at": 1582065973
-    }, 
     "28980": {
         "base_branch": "master", 
         "changed_files_names": [
