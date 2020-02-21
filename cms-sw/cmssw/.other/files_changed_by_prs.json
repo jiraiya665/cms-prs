@@ -978,16 +978,6 @@
         "state": "open", 
         "updated_at": 1581667763
     }, 
-    "28961": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimFastTiming/FastTimingCommon/interface/MTDDigitizer.h"
-        ], 
-        "created_at": 1581674663, 
-        "number": 28961, 
-        "state": "open", 
-        "updated_at": 1582189190
-    }, 
     "28967": {
         "base_branch": "master", 
         "changed_files_names": [
