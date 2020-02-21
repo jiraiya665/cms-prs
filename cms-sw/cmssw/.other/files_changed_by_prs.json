@@ -1449,5 +1449,27 @@
         "number": 29023, 
         "state": "open", 
         "updated_at": 1582316838
+    }, 
+    "29024": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/Framework/src/Path.cc", 
+            "FWCore/Framework/src/Path.h", 
+            "FWCore/Framework/src/StreamSchedule.cc", 
+            "FWCore/Framework/src/Worker.cc", 
+            "FWCore/Framework/src/Worker.h", 
+            "FWCore/Framework/src/WorkerInPath.cc", 
+            "FWCore/Framework/src/WorkerInPath.h", 
+            "FWCore/Framework/test/test_multiPathMultiModuleEarlyDelete_cfg.py", 
+            "FWCore/Framework/test/test_readAfterEarlyDelete_fail_cfg.py", 
+            "FWCore/Framework/test/unit_test_outputs/test_onPath_unscheduled.log", 
+            "FWCore/Integration/test/unit_test_outputs/testGetBy1.log", 
+            "FWCore/Integration/test/unit_test_outputs/testSubProcess.grep2.txt", 
+            "FWCore/ParameterSet/python/SequenceTypes.py"
+        ], 
+        "created_at": 1582317657, 
+        "number": 29024, 
+        "state": "open", 
+        "updated_at": 1582317705
     }
 }
