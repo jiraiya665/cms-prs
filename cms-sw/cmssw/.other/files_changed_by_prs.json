@@ -1321,12 +1321,14 @@
             "Geometry/HGCalCommonData/data/TB181/Oct181/hgcal.xml", 
             "Geometry/HGCalCommonData/data/TB181/Oct181/hgcalEE.xml", 
             "Geometry/HGCalCommonData/data/TB181/Oct182/hgcal.xml", 
-            "Geometry/HGCalCommonData/data/TB181/Oct182/hgcalEE.xml"
+            "Geometry/HGCalCommonData/data/TB181/Oct182/hgcalEE.xml", 
+            "Geometry/HGCalCommonData/data/TB181/Oct183/hgcal.xml", 
+            "Geometry/HGCalCommonData/data/TB181/Oct183/hgcalEE.xml"
         ], 
         "created_at": 1582294944, 
         "number": 29016, 
         "state": "open", 
-        "updated_at": 1582294987
+        "updated_at": 1582329552
     }, 
     "29017": {
         "base_branch": "master", 
