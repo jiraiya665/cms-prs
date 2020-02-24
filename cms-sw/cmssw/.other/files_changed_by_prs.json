@@ -1340,22 +1340,6 @@
         "state": "open", 
         "updated_at": 1582299368
     }, 
-    "29019": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimG4CMS/Calo/interface/CaloSD.h", 
-            "SimG4CMS/Calo/src/CaloSD.cc", 
-            "SimG4CMS/Calo/src/CaloTrkProcessing.cc", 
-            "SimG4CMS/Calo/test/python/runHGC4_cfg.py", 
-            "SimG4Core/Application/python/g4SimHits_cfi.py", 
-            "SimG4Core/Notification/interface/TrackInformation.h", 
-            "SimG4Core/Notification/src/NewTrackAction.cc"
-        ], 
-        "created_at": 1582303093, 
-        "number": 29019, 
-        "state": "open", 
-        "updated_at": 1582332033
-    }, 
     "29020": {
         "base_branch": "master", 
         "changed_files_names": [
