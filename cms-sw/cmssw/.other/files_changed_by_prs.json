@@ -1248,18 +1248,6 @@
         "state": "open", 
         "updated_at": 1582216599
     }, 
-    "29011": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/MTDGeometryBuilder/src/MTDGeometry.cc", 
-            "RecoLocalFastTime/FTLCommonAlgos/src/MTDTimeCalib.cc", 
-            "SimFastTiming/FastTimingCommon/src/BTLDeviceSim.cc"
-        ], 
-        "created_at": 1582217380, 
-        "number": 29011, 
-        "state": "open", 
-        "updated_at": 1582217409
-    }, 
     "29013": {
         "base_branch": "master", 
         "changed_files_names": [
