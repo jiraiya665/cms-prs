@@ -975,20 +975,6 @@
         "state": "open", 
         "updated_at": 1582026067
     }, 
-    "28980": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Calibration/LumiAlCaRecoProducers/plugins/AlcaPCCEventProducer.cc", 
-            "Calibration/LumiAlCaRecoProducers/plugins/BuildFile.xml", 
-            "Calibration/LumiAlCaRecoProducers/test/PCC_Random_Event_cfg.py", 
-            "DataFormats/Luminosity/interface/PixelClusterCounts.h", 
-            "DataFormats/Luminosity/src/classes_def.xml"
-        ], 
-        "created_at": 1581975796, 
-        "number": 28980, 
-        "state": "open", 
-        "updated_at": 1582151578
-    }, 
     "28986": {
         "base_branch": "master", 
         "changed_files_names": [
