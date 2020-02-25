@@ -1129,16 +1129,6 @@
         "state": "open", 
         "updated_at": 1582260578
     }, 
-    "29007": {
-        "base_branch": "CMSSW_11_0_X", 
-        "changed_files_names": [
-            "RecoParticleFlow/PFClusterProducer/plugins/SimMappers/RealisticHitToClusterAssociator.h"
-        ], 
-        "created_at": 1582193681, 
-        "number": 29007, 
-        "state": "open", 
-        "updated_at": 1582193897
-    }, 
     "29010": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
