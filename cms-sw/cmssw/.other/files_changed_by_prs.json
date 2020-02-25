@@ -1028,18 +1028,6 @@
         "state": "open", 
         "updated_at": 1582151578
     }, 
-    "28984": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoJets/JetProducers/python/PileupJetIDCutParams_cfi.py", 
-            "RecoJets/JetProducers/python/PileupJetIDParams_cfi.py", 
-            "RecoJets/JetProducers/python/PileupJetID_cfi.py"
-        ], 
-        "created_at": 1582011141, 
-        "number": 28984, 
-        "state": "open", 
-        "updated_at": 1582199244
-    }, 
     "28986": {
         "base_branch": "master", 
         "changed_files_names": [
