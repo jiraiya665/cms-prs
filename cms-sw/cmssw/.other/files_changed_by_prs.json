@@ -1304,16 +1304,6 @@
         "state": "open", 
         "updated_at": 1582299368
     }, 
-    "29022": {
-        "base_branch": "CMSSW_11_0_X", 
-        "changed_files_names": [
-            "DQMOffline/Configuration/python/DQMOffline_Certification_cff.py"
-        ], 
-        "created_at": 1582312103, 
-        "number": 29022, 
-        "state": "open", 
-        "updated_at": 1582312141
-    }, 
     "29024": {
         "base_branch": "master", 
         "changed_files_names": [
