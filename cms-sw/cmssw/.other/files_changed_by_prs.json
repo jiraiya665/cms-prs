@@ -1035,17 +1035,6 @@
         "state": "open", 
         "updated_at": 1582182120
     }, 
-    "29006": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/Common/interface/RefHolderBase.h", 
-            "DataFormats/Common/src/RefHolder.cc"
-        ], 
-        "created_at": 1582192973, 
-        "number": 29006, 
-        "state": "open", 
-        "updated_at": 1582260578
-    }, 
     "29010": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
