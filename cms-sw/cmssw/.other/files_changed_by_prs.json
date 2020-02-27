@@ -763,25 +763,6 @@
         "state": "open", 
         "updated_at": 1582125290
     }, 
-    "28946": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "GeneratorInterface/GenFilters/plugins/BCToEFilter.cc", 
-            "GeneratorInterface/GenFilters/plugins/BCToEFilter.h", 
-            "GeneratorInterface/GenFilters/plugins/BCToEFilterAlgo.cc", 
-            "GeneratorInterface/GenFilters/plugins/BCToEFilterAlgo.h", 
-            "GeneratorInterface/GenFilters/plugins/FourLepFilter.cc", 
-            "GeneratorInterface/GenFilters/plugins/LHEGenericFilter.cc", 
-            "GeneratorInterface/GenFilters/plugins/LHEGenericFilter.h", 
-            "GeneratorInterface/GenFilters/plugins/LHEVpTFilter.cc", 
-            "GeneratorInterface/GenFilters/plugins/LHEVpTFilter.h", 
-            "GeneratorInterface/GenFilters/plugins/SealModule.cc"
-        ], 
-        "created_at": 1581564566, 
-        "number": 28946, 
-        "state": "open", 
-        "updated_at": 1581621535
-    }, 
     "28950": {
         "base_branch": "master", 
         "changed_files_names": [
