@@ -878,36 +878,6 @@
         "state": "open", 
         "updated_at": 1582026067
     }, 
-    "28991": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "GeneratorInterface/GenFilters/plugins/BsJpsiPhiFilter.cc", 
-            "GeneratorInterface/GenFilters/plugins/BsJpsiPhiFilter.h", 
-            "GeneratorInterface/GenFilters/plugins/MCMultiParticleFilter.cc", 
-            "GeneratorInterface/GenFilters/plugins/MCMultiParticleFilter.h", 
-            "GeneratorInterface/GenFilters/plugins/MCProcessFilter.cc", 
-            "GeneratorInterface/GenFilters/plugins/MCProcessFilter.h", 
-            "GeneratorInterface/GenFilters/plugins/PythiaFilterGammaJet.cc", 
-            "GeneratorInterface/GenFilters/plugins/PythiaFilterGammaJet.h", 
-            "GeneratorInterface/GenFilters/plugins/PythiaFilterHT.cc", 
-            "GeneratorInterface/GenFilters/plugins/PythiaFilterHT.h", 
-            "GeneratorInterface/GenFilters/plugins/PythiaFilterMultiMother.cc", 
-            "GeneratorInterface/GenFilters/plugins/PythiaFilterMultiMother.h", 
-            "GeneratorInterface/GenFilters/plugins/PythiaFilterZJet.cc", 
-            "GeneratorInterface/GenFilters/plugins/PythiaFilterZJet.h", 
-            "GeneratorInterface/GenFilters/plugins/PythiaHLTSoupFilter.cc", 
-            "GeneratorInterface/GenFilters/plugins/PythiaHLTSoupFilter.h", 
-            "GeneratorInterface/GenFilters/plugins/PythiaMomDauFilter.cc", 
-            "GeneratorInterface/GenFilters/plugins/PythiaMomDauFilter.h", 
-            "GeneratorInterface/GenFilters/plugins/SealModule.cc", 
-            "GeneratorInterface/GenFilters/plugins/VBFGenJetFilter.cc", 
-            "GeneratorInterface/GenFilters/plugins/VBFGenJetFilter.h"
-        ], 
-        "created_at": 1582064239, 
-        "number": 28991, 
-        "state": "open", 
-        "updated_at": 1582160456
-    }, 
     "28994": {
         "base_branch": "master", 
         "changed_files_names": [
