@@ -1671,12 +1671,16 @@
         "base_branch": "master", 
         "changed_files_names": [
             "DetectorDescription/DDCMS/interface/DDFilteredView.h", 
+            "DetectorDescription/DDCMS/interface/DDSpecParRegistry.h", 
+            "DetectorDescription/DDCMS/plugins/test/DDTestSpecParsFilter.cc", 
             "DetectorDescription/DDCMS/src/DDFilteredView.cc", 
-            "DetectorDescription/DDCMS/test/DDFilteredView.cppunit.cc"
+            "DetectorDescription/DDCMS/src/DDSpecparRegistry.cc", 
+            "DetectorDescription/DDCMS/test/DDFilteredView.cppunit.cc", 
+            "DetectorDescription/DDCMS/test/python/testDDSpecParsFilter.py"
         ], 
         "created_at": 1582881783, 
         "number": 29058, 
         "state": "open", 
-        "updated_at": 1582881812
+        "updated_at": 1582888609
     }
 }
