@@ -716,16 +716,6 @@
         "state": "open", 
         "updated_at": 1581963177
     }, 
-    "28934": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQMServices/Components/plugins/EDMtoMEConverter.cc"
-        ], 
-        "created_at": 1581513128, 
-        "number": 28934, 
-        "state": "open", 
-        "updated_at": 1582146486
-    }, 
     "28936": {
         "base_branch": "master", 
         "changed_files_names": [
