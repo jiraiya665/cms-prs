@@ -1459,16 +1459,6 @@
         "state": "open", 
         "updated_at": 1582719304
     }, 
-    "29046": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "IOMC/EventVertexGenerators/src/BeamDivergenceVtxGenerator.cc"
-        ], 
-        "created_at": 1582729669, 
-        "number": 29046, 
-        "state": "open", 
-        "updated_at": 1582729712
-    }, 
     "29047": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
