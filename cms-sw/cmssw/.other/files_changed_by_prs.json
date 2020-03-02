@@ -1471,18 +1471,6 @@
         "state": "open", 
         "updated_at": 1582739165
     }, 
-    "29052": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/Math/interface/Rounding.h", 
-            "Geometry/DTGeometryBuilder/plugins/dd4hep/DTGeometryTest.cc", 
-            "Geometry/DTGeometryBuilder/test/dtGeometry.log.org"
-        ], 
-        "created_at": 1582752244, 
-        "number": 29052, 
-        "state": "open", 
-        "updated_at": 1582752288
-    }, 
     "29053": {
         "base_branch": "master", 
         "changed_files_names": [
