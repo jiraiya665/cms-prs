@@ -1137,7 +1137,6 @@
             "Geometry/VeryForwardGeometryBuilder/src/DetGeomDesc.cc", 
             "Geometry/VeryForwardGeometryBuilder/test/print_geometry_info_XML_cfg.py", 
             "IOMC/EventVertexGenerators/BuildFile.xml", 
-            "IOMC/EventVertexGenerators/src/BeamDivergenceVtxGenerator.cc", 
             "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py", 
             "RecoCTPPS/Configuration/python/recoCTPPS_cff.py", 
             "RecoCTPPS/PixelLocal/plugins/BuildFile.xml", 
@@ -1230,7 +1229,7 @@
         "created_at": 1582640627, 
         "number": 29037, 
         "state": "open", 
-        "updated_at": 1582640684
+        "updated_at": 1583146939
     }, 
     "29038": {
         "base_branch": "master", 
