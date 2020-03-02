@@ -1719,16 +1719,6 @@
         "state": "open", 
         "updated_at": 1582939641
     }, 
-    "29065": {
-        "base_branch": "CMSSW_10_2_X", 
-        "changed_files_names": [
-            "SimMuon/MCTruth/plugins/MuonSimClassifier.cc"
-        ], 
-        "created_at": 1583008821, 
-        "number": 29065, 
-        "state": "open", 
-        "updated_at": 1583008864
-    }, 
     "29066": {
         "base_branch": "master", 
         "changed_files_names": [
