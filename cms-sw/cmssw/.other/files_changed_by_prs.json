@@ -1621,20 +1621,6 @@
         "state": "open", 
         "updated_at": 1582918039
     }, 
-    "29061": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "HeterogeneousCore/CUDACore/interface/ESProduct.h", 
-            "HeterogeneousCore/CUDAServices/interface/numberOfCUDADevices.h", 
-            "HeterogeneousCore/CUDAServices/interface/numberOfDevices.h", 
-            "HeterogeneousCore/CUDAServices/src/numberOfCUDADevices.cc", 
-            "HeterogeneousCore/CUDAServices/src/numberOfDevices.cc"
-        ], 
-        "created_at": 1582926352, 
-        "number": 29061, 
-        "state": "open", 
-        "updated_at": 1582926394
-    }, 
     "29062": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
