@@ -650,7 +650,6 @@
             "DQMOffline/Trigger/python/MjjMonitor_cfi.py", 
             "HLTriggerOffline/B2G/python/b2gHadronicHLTEventValidation_cfi.py", 
             "PhysicsTools/JetMCAlgos/plugins/JetFlavourClustering.cc", 
-            "PhysicsTools/NanoAOD/python/jets_cff.py", 
             "PhysicsTools/PatAlgos/plugins/PATPackedCandidateProducer.cc", 
             "PhysicsTools/PatAlgos/python/mcMatchLayer0/jetFlavourId_cff.py", 
             "PhysicsTools/PatAlgos/python/slimming/applySubstructure_cff.py", 
@@ -687,7 +686,7 @@
         "created_at": 1581532120, 
         "number": 28936, 
         "state": "open", 
-        "updated_at": 1582125290
+        "updated_at": 1583241365
     }, 
     "28950": {
         "base_branch": "master", 
