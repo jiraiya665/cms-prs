@@ -1431,16 +1431,6 @@
         "state": "open", 
         "updated_at": 1583171988
     }, 
-    "29079": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQMServices/Components/plugins/QualityTester.cc"
-        ], 
-        "created_at": 1583233143, 
-        "number": 29079, 
-        "state": "open", 
-        "updated_at": 1583233183
-    }, 
     "29080": {
         "base_branch": "master", 
         "changed_files_names": [
