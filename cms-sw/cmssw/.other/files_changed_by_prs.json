@@ -759,15 +759,12 @@
             "Phase2L1Trigger/CalibratedDigis/plugins/BuildFile.xml", 
             "Phase2L1Trigger/CalibratedDigis/plugins/CalibratedDigis.cc", 
             "Phase2L1Trigger/CalibratedDigis/python/CalibratedDigis_cfi.py", 
-            "Phase2L1Trigger/CalibratedDigis/python/CalibratedDigishlt_cfi.py", 
-            "Phase2L1Trigger/CalibratedDigis/test/BuildFile.xml", 
-            "Phase2L1Trigger/CalibratedDigis/test/test_catch2_CalibratedDigis.cc", 
-            "Phase2L1Trigger/CalibratedDigis/test/test_catch2_main.cc"
+            "Phase2L1Trigger/CalibratedDigis/python/CalibratedDigishlt_cfi.py"
         ], 
         "created_at": 1581585969, 
         "number": 28950, 
         "state": "open", 
-        "updated_at": 1582107424
+        "updated_at": 1583244808
     }, 
     "28960": {
         "base_branch": "master", 
