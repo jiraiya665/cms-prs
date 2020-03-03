@@ -1606,16 +1606,6 @@
         "state": "open", 
         "updated_at": 1583153674
     }, 
-    "29072": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "PhysicsTools/PatAlgos/plugins/PATTriggerEventProducer.cc"
-        ], 
-        "created_at": 1583163633, 
-        "number": 29072, 
-        "state": "open", 
-        "updated_at": 1583163672
-    }, 
     "29074": {
         "base_branch": "master", 
         "changed_files_names": [
