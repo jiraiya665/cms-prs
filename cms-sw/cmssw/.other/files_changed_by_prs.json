@@ -1617,5 +1617,35 @@
         "number": 29083, 
         "state": "open", 
         "updated_at": 1583245644
+    }, 
+    "29084": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/EcalCommon/src/MESetBinningUtils.cc", 
+            "Fireworks/Core/src/CSGAction.cc", 
+            "Fireworks/Core/src/CmsShowEDI.cc", 
+            "Fireworks/Core/src/CmsShowMain.cc", 
+            "Fireworks/Core/src/CmsShowMainFrame.cc", 
+            "Fireworks/Core/src/CmsShowSearchFiles.cc", 
+            "Fireworks/Core/src/FWCollectionSummaryWidget.cc", 
+            "Fireworks/Core/src/FWColorSelect.cc", 
+            "Fireworks/Core/src/FWCustomIconsButton.cc", 
+            "Fireworks/Core/src/FWGLEventHandler.cc", 
+            "Fireworks/Core/src/FWGUIValidatingTextEntry.cc", 
+            "Fireworks/Core/src/FWGeoTopNode.cc", 
+            "Fireworks/Core/src/FWGeometryTableManagerBase.cc", 
+            "Fireworks/Core/src/FWGeometryTableView.cc", 
+            "Fireworks/Core/src/FWGeometryTableViewBase.cc", 
+            "Fireworks/Core/src/FWPopupMenu.cc", 
+            "Fireworks/Core/src/FWTableView.cc", 
+            "Fireworks/Core/src/FWTableViewTableManager.cc", 
+            "Fireworks/Core/src/FWTriggerTableView.cc", 
+            "Fireworks/Core/src/FWViewContextMenuHandlerGL.cc", 
+            "Fireworks/TableWidget/src/FWTabularWidget.h"
+        ], 
+        "created_at": 1583246035, 
+        "number": 29084, 
+        "state": "open", 
+        "updated_at": 1583246060
     }
 }
