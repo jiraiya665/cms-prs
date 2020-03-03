@@ -1334,18 +1334,6 @@
         "state": "open", 
         "updated_at": 1582710256
     }, 
-    "29044": {
-        "base_branch": "CMSSW_10_2_X", 
-        "changed_files_names": [
-            "RecoJets/JetProducers/python/PileupJetIDCutParams_cfi.py", 
-            "RecoJets/JetProducers/python/PileupJetIDParams_cfi.py", 
-            "RecoJets/JetProducers/python/PileupJetID_cfi.py"
-        ], 
-        "created_at": 1582719258, 
-        "number": 29044, 
-        "state": "open", 
-        "updated_at": 1582719295
-    }, 
     "29049": {
         "base_branch": "master", 
         "changed_files_names": [
