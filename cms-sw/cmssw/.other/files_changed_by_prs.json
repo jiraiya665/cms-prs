@@ -635,12 +635,15 @@
             "RecoBTag/SecondaryVertex/python/pfSecondaryVertexTagInfos_cfi.py", 
             "RecoJets/Configuration/python/RecoJets_EventContent_cff.py", 
             "RecoJets/Configuration/python/RecoPFJets_cff.py", 
+            "RecoJets/JetProducers/interface/ECFAdder.h", 
             "RecoJets/JetProducers/interface/JetSpecific.h", 
             "RecoJets/JetProducers/interface/NjettinessAdder.h", 
+            "RecoJets/JetProducers/plugins/ECFAdder.cc", 
             "RecoJets/JetProducers/plugins/NjettinessAdder.cc", 
             "RecoJets/JetProducers/plugins/VirtualJetProducer.cc", 
             "RecoJets/JetProducers/plugins/VirtualJetProducer.h", 
             "RecoJets/JetProducers/python/CaloJetParameters_cfi.py", 
+            "RecoJets/JetProducers/python/ECF_cff.py", 
             "RecoJets/JetProducers/python/GenJetParameters_cfi.py", 
             "RecoJets/JetProducers/python/PFClusterJetParameters_cfi.py", 
             "RecoJets/JetProducers/python/PFJetParameters_cfi.py", 
@@ -654,7 +657,7 @@
         "created_at": 1581532120, 
         "number": 28936, 
         "state": "open", 
-        "updated_at": 1583241365
+        "updated_at": 1583315795
     }, 
     "28950": {
         "base_branch": "master", 
