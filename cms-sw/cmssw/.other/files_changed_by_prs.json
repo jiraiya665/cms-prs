@@ -1045,11 +1045,10 @@
             "PhysicsTools/PatAlgos/python/recoLayer0/bTagging_cff.py", 
             "PhysicsTools/PatAlgos/python/tools/jetTools.py", 
             "RecoBTag/Configuration/python/RecoBTag_cff.py", 
-            "RecoBTag/FeatureTools/plugins/ParticleNetTagInfoProducer.cc", 
+            "RecoBTag/FeatureTools/plugins/DeepBoostedJetTagInfoProducer.cc", 
             "RecoBTag/MXNet/plugins/BoostedJetMXNetJetTagsProducer.cc", 
             "RecoBTag/MXNet/plugins/BuildFile.xml", 
             "RecoBTag/MXNet/plugins/DeepBoostedJetTagsProducer.cc", 
-            "RecoBTag/MXNet/python/Parameters/ParticleNet/V00/pfMassDecorrelatedParticleNetPreprocessParams_cfi.py", 
             "RecoBTag/MXNet/python/Parameters/ParticleNet/V00/pfParticleNetPreprocessParams_cfi.py", 
             "RecoBTag/MXNet/python/pfDeepBoostedJet_cff.py", 
             "RecoBTag/MXNet/python/pfMassDecorrelatedParticleNetDiscriminatorsJetTags_cfi.py", 
@@ -1060,7 +1059,7 @@
         "created_at": 1582934835, 
         "number": 29063, 
         "state": "open", 
-        "updated_at": 1582934874
+        "updated_at": 1583379653
     }, 
     "29066": {
         "base_branch": "master", 
