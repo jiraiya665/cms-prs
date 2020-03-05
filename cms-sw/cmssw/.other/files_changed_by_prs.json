@@ -1265,6 +1265,7 @@
     "29095": {
         "base_branch": "master", 
         "changed_files_names": [
+            "DQMOffline/Configuration/python/DQMOfflineHeavyIons_cff.py", 
             "DQMOffline/Trigger/plugins/GeneralHLTOffline.cc", 
             "DQMOffline/Trigger/plugins/HLTFiltersDQMonitor.cc", 
             "DQMOffline/Trigger/python/DQMOffline_HLT_Client_cff.py", 
@@ -1286,7 +1287,7 @@
         "created_at": 1583323172, 
         "number": 29095, 
         "state": "open", 
-        "updated_at": 1583323200
+        "updated_at": 1583385934
     }, 
     "29097": {
         "base_branch": "master", 
