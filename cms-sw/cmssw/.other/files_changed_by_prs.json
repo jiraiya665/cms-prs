@@ -1644,6 +1644,7 @@
             "RecoTracker/ConversionSeedGenerators/plugins/PhotonConversionTrajectorySeedProducerFromSingleLegAlgo.h", 
             "RecoTracker/ConversionSeedGenerators/plugins/SeedForPhotonConversion1Leg.h", 
             "RecoTracker/ConversionSeedGenerators/plugins/SeedForPhotonConversionFromQuadruplets.h", 
+            "RecoTracker/MeasurementDet/plugins/TkStackMeasurementDet.h", 
             "RecoTracker/TkMSParametrization/interface/MSLayer.h", 
             "RecoTracker/TkMSParametrization/interface/MultipleScatteringParametrisation.h", 
             "RecoTracker/TkMSParametrization/src/MSLayer.cc", 
@@ -1718,7 +1719,7 @@
         "created_at": 1583439218, 
         "number": 29123, 
         "state": "open", 
-        "updated_at": 1583442505
+        "updated_at": 1583442583
     }, 
     "29124": {
         "base_branch": "master", 
