@@ -1624,6 +1624,7 @@
         "base_branch": "master", 
         "changed_files_names": [
             "DataFormats/Candidate/interface/Candidate.h", 
+            "DataFormats/GEMRecHit/interface/GEMSegment.h", 
             "DataFormats/MuonData/interface/MuonDigiCollection.h", 
             "DataFormats/TrackReco/interface/HitPattern.h", 
             "DataFormats/TrackingRecHit/interface/TrackingRecHit.h", 
@@ -1717,7 +1718,7 @@
         "created_at": 1583439218, 
         "number": 29123, 
         "state": "open", 
-        "updated_at": 1583439260
+        "updated_at": 1583442505
     }, 
     "29124": {
         "base_branch": "master", 
