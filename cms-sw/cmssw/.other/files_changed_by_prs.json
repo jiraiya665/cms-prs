@@ -1469,12 +1469,11 @@
             "Geometry/CSCGeometryBuilder/test/python/validateCSCGeometry_cfg.py", 
             "Geometry/MuonNumbering/interface/DD4hep_CSCNumberingScheme.h", 
             "Geometry/MuonNumbering/src/CSCNumberingScheme.cc", 
-            "Geometry/MuonNumbering/src/DD4hep_CSCNumberingScheme.cc", 
-            "cmsRecoGeom-2021.root"
+            "Geometry/MuonNumbering/src/DD4hep_CSCNumberingScheme.cc"
         ], 
         "created_at": 1583406945, 
         "number": 29111, 
         "state": "open", 
-        "updated_at": 1583406972
+        "updated_at": 1583414676
     }
 }
