@@ -1204,16 +1204,6 @@
         "state": "open", 
         "updated_at": 1583259135
     }, 
-    "29088": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Alignment/Geners/interface/AbsReader.hh"
-        ], 
-        "created_at": 1583259727, 
-        "number": 29088, 
-        "state": "open", 
-        "updated_at": 1583259746
-    }, 
     "29089": {
         "base_branch": "master", 
         "changed_files_names": [
