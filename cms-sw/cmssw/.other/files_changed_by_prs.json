@@ -1183,16 +1183,6 @@
         "state": "open", 
         "updated_at": 1583245644
     }, 
-    "29085": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Validation/EventGenerator/plugins/BasicHepMCValidation.cc"
-        ], 
-        "created_at": 1583247090, 
-        "number": 29085, 
-        "state": "open", 
-        "updated_at": 1583247130
-    }, 
     "29086": {
         "base_branch": "master", 
         "changed_files_names": [
