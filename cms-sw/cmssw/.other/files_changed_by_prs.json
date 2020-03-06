@@ -1315,17 +1315,6 @@
         "state": "open", 
         "updated_at": 1583339118
     }, 
-    "29102": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoHI/HiJetAlgos/interface/HiGenCleaner.h", 
-            "RecoHI/HiJetAlgos/src/HiGenCleaner.cc"
-        ], 
-        "created_at": 1583343327, 
-        "number": 29102, 
-        "state": "open", 
-        "updated_at": 1583343409
-    }, 
     "29103": {
         "base_branch": "master", 
         "changed_files_names": [
