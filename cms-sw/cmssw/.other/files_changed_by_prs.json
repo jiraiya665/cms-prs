@@ -631,7 +631,9 @@
             "RecoBTag/FeatureTools/plugins/DeepDoubleXTagInfoProducer.cc", 
             "RecoBTag/ImpactParameter/python/pfImpactParameterAK8TagInfos_cfi.py", 
             "RecoBTag/ONNXRuntime/test/test_deep_doubleb_cfg_AOD.py", 
+            "RecoBTag/SecondaryVertex/plugins/BoostedDoubleSVProducer.cc", 
             "RecoBTag/SecondaryVertex/plugins/TemplatedSecondaryVertexProducer.cc", 
+            "RecoBTag/SecondaryVertex/python/pfBoostedDoubleSVAK8TagInfos_cfi.py", 
             "RecoBTag/SecondaryVertex/python/pfSecondaryVertexTagInfos_cfi.py", 
             "RecoJets/Configuration/python/RecoJets_EventContent_cff.py", 
             "RecoJets/Configuration/python/RecoPFJets_cff.py", 
@@ -657,7 +659,7 @@
         "created_at": 1581532120, 
         "number": 28936, 
         "state": "open", 
-        "updated_at": 1583315795
+        "updated_at": 1583489688
     }, 
     "28950": {
         "base_branch": "master", 
