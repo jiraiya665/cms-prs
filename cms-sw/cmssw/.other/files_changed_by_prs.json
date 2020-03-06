@@ -1270,16 +1270,6 @@
         "state": "open", 
         "updated_at": 1583355666
     }, 
-    "29106": {
-        "base_branch": "CMSSW_9_3_X", 
-        "changed_files_names": [
-            "GeneratorInterface/GenFilters/src/MCParticlePairFilter.cc"
-        ], 
-        "created_at": 1583399723, 
-        "number": 29106, 
-        "state": "open", 
-        "updated_at": 1583399723
-    }, 
     "29108": {
         "base_branch": "master", 
         "changed_files_names": [
