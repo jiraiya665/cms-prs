@@ -1389,6 +1389,7 @@
             "DataFormats/Math/test/cudaAtan2Test.cu", 
             "DataFormats/Math/test/cudaMathTest.cu", 
             "DataFormats/Math/test/testAtan2.cpp", 
+            "HeterogeneousCore/CUDAUtilities/BuildFile.xml", 
             "HeterogeneousCore/CUDAUtilities/interface/AtomicPairCounter.h", 
             "HeterogeneousCore/CUDAUtilities/interface/HistoContainer.h", 
             "HeterogeneousCore/CUDAUtilities/interface/SimpleVector.h", 
@@ -1420,7 +1421,7 @@
         "created_at": 1583405084, 
         "number": 29110, 
         "state": "open", 
-        "updated_at": 1583491034
+        "updated_at": 1583491901
     }, 
     "29111": {
         "base_branch": "master", 
