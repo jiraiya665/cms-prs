@@ -1372,13 +1372,12 @@
             "HeterogeneousCore/CUDAServices/scripts/cmsCudaRebuild.sh", 
             "HeterogeneousCore/CUDAServices/scripts/cmsCudaSetup.sh", 
             "HeterogeneousCore/CUDAServices/scripts/cudaPreallocate.py", 
-            "HeterogeneousCore/CUDAServices/scripts/nvprof-remote", 
-            "Utilities/ReleaseScripts/python/cmsCodeRules/config.py"
+            "HeterogeneousCore/CUDAServices/scripts/nvprof-remote"
         ], 
         "created_at": 1583402611, 
         "number": 29109, 
         "state": "open", 
-        "updated_at": 1583488999
+        "updated_at": 1583507115
     }, 
     "29110": {
         "base_branch": "master", 
