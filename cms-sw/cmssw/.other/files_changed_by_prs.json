@@ -1506,19 +1506,6 @@
         "state": "open", 
         "updated_at": 1583439217
     }, 
-    "29122": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/ForwardDetId/interface/MTDChannelIdentifier.h", 
-            "DataFormats/GeometrySurface/interface/Bounds.h", 
-            "DataFormats/GeometrySurface/interface/Surface.h", 
-            "DataFormats/SiPixelDetId/interface/PixelChannelIdentifier.h"
-        ], 
-        "created_at": 1583439196, 
-        "number": 29122, 
-        "state": "open", 
-        "updated_at": 1583439234
-    }, 
     "29123": {
         "base_branch": "master", 
         "changed_files_names": [
