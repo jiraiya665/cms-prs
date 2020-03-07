@@ -786,6 +786,7 @@
             "Configuration/Geometry/python/GeometryExtended2026D54_cff.py", 
             "Configuration/Geometry/python/dict2026Geometry.py", 
             "Configuration/ProcessModifiers/python/run4_PixelCPEGeneric_cff.py", 
+            "Configuration/PyReleaseValidation/python/relval_2026.py", 
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
             "Configuration/StandardSequences/python/GeometryConf.py", 
             "DQM/TrackingMonitor/python/trackingRecoMaterialAnalyzer_cfi.py", 
@@ -826,7 +827,7 @@
         "created_at": 1582299319, 
         "number": 29018, 
         "state": "open", 
-        "updated_at": 1583241711
+        "updated_at": 1583603491
     }, 
     "29032": {
         "base_branch": "master", 
