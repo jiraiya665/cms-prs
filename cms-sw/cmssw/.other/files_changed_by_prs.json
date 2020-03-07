@@ -1640,16 +1640,6 @@
         "state": "open", 
         "updated_at": 1583442355
     }, 
-    "29131": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimG4Core/Geometry/src/DDG4SolidConverter.cc"
-        ], 
-        "created_at": 1583487352, 
-        "number": 29131, 
-        "state": "open", 
-        "updated_at": 1583487400
-    }, 
     "29135": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
