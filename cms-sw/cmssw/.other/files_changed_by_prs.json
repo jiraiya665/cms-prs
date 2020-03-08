@@ -1342,12 +1342,13 @@
             "HeterogeneousCore/CUDAUtilities/test/eigenSoA_t.h", 
             "HeterogeneousCore/CUDAUtilities/test/prefixScan_t.cu", 
             "HeterogeneousCore/CUDAUtilities/test/radixSort_t.cu", 
-            "HeterogeneousCore/CUDAUtilities/test/test_SimpleVector.cu"
+            "HeterogeneousCore/CUDAUtilities/test/test_SimpleVector.cu", 
+            "Utilities/ReleaseScripts/python/cmsCodeRules/config.py"
         ], 
         "created_at": 1583405084, 
         "number": 29110, 
         "state": "open", 
-        "updated_at": 1583491901
+        "updated_at": 1583695248
     }, 
     "29111": {
         "base_branch": "master", 
