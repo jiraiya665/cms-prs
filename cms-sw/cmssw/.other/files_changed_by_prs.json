@@ -1218,22 +1218,6 @@
         "state": "open", 
         "updated_at": 1583400360
     }, 
-    "29109": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/DetId/test/BuildFile.xml", 
-            "DataFormats/DetId/test/test_detid.cu", 
-            "HeterogeneousCore/CUDACore/interface/ESProduct.h", 
-            "HeterogeneousCore/CUDAServices/scripts/cmsCudaRebuild.sh", 
-            "HeterogeneousCore/CUDAServices/scripts/cmsCudaSetup.sh", 
-            "HeterogeneousCore/CUDAServices/scripts/cudaPreallocate.py", 
-            "HeterogeneousCore/CUDAServices/scripts/nvprof-remote"
-        ], 
-        "created_at": 1583402611, 
-        "number": 29109, 
-        "state": "open", 
-        "updated_at": 1583507115
-    }, 
     "29110": {
         "base_branch": "master", 
         "changed_files_names": [
