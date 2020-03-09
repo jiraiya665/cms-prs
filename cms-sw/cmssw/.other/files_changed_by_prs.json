@@ -1543,18 +1543,6 @@
         "state": "open", 
         "updated_at": 1583528955
     }, 
-    "29143": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/TrackingMonitor/src/TrackAnalyzer.cc", 
-            "DQMServices/Core/interface/MonitorElement.h", 
-            "DQMServices/Core/src/MonitorElement.cc"
-        ], 
-        "created_at": 1583608412, 
-        "number": 29143, 
-        "state": "open", 
-        "updated_at": 1583608457
-    }, 
     "29147": {
         "base_branch": "master", 
         "changed_files_names": [
