@@ -2086,5 +2086,22 @@
         "number": 29153, 
         "state": "open", 
         "updated_at": 1583766065
+    }, 
+    "29154": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CUDADataFormats/BeamSpot/BuildFile.xml", 
+            "CUDADataFormats/BeamSpot/interface/BeamSpotCUDA.h", 
+            "CUDADataFormats/BeamSpot/src/BeamSpotCUDA.cc", 
+            "CUDADataFormats/BeamSpot/src/classes.h", 
+            "CUDADataFormats/BeamSpot/src/classes_def.xml", 
+            "RecoVertex/BeamSpotProducer/plugins/BeamSpotToCUDA.cc", 
+            "RecoVertex/BeamSpotProducer/plugins/BuildFile.xml", 
+            "RecoVertex/BeamSpotProducer/python/BeamSpot_cff.py"
+        ], 
+        "created_at": 1583770511, 
+        "number": 29154, 
+        "state": "open", 
+        "updated_at": 1583770609
     }
 }
