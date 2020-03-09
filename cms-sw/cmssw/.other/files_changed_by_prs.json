@@ -756,12 +756,15 @@
     "28978": {
         "base_branch": "master", 
         "changed_files_names": [
-            "DQM/GEM/plugins/GEMDQMHarvester.cc"
+            "DQM/GEM/plugins/GEMDQMHarvester.cc", 
+            "DQM/GEM/plugins/GEMDQMStatusDigi.cc", 
+            "DQM/GEM/test/test.py", 
+            "DQM/Integration/python/clients/gem_dqm_sourceclient-live_cfg.py"
         ], 
         "created_at": 1581959683, 
         "number": 28978, 
         "state": "open", 
-        "updated_at": 1582026067
+        "updated_at": 1583766009
     }, 
     "29018": {
         "base_branch": "master", 
