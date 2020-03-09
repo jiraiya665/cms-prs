@@ -1061,16 +1061,6 @@
         "state": "open", 
         "updated_at": 1583244485
     }, 
-    "29083": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimCalorimetry/HcalSimAlgos/src/HcalTDC.cc"
-        ], 
-        "created_at": 1583245620, 
-        "number": 29083, 
-        "state": "open", 
-        "updated_at": 1583245644
-    }, 
     "29086": {
         "base_branch": "master", 
         "changed_files_names": [
