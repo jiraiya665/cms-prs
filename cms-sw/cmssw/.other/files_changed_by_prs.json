@@ -1110,19 +1110,6 @@
         "state": "open", 
         "updated_at": 1583355666
     }, 
-    "29108": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimG4Core/Application/python/g4SimHits_cfi.py", 
-            "SimG4Core/PhysicsLists/interface/CMSHadronPhysicsFTFP_BERT.h", 
-            "SimG4Core/PhysicsLists/plugins/FTFPCMS_BERT_EMM.cc", 
-            "SimG4Core/PhysicsLists/src/CMSHadronPhysicsFTFP_BERT.cc"
-        ], 
-        "created_at": 1583400324, 
-        "number": 29108, 
-        "state": "open", 
-        "updated_at": 1583400360
-    }, 
     "29110": {
         "base_branch": "master", 
         "changed_files_names": [
