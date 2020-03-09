@@ -1293,20 +1293,6 @@
         "state": "open", 
         "updated_at": 1583437566
     }, 
-    "29120": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/CaloGeometry/interface/CaloGeometry.h", 
-            "Geometry/CaloGeometry/interface/CaloSubdetectorGeometry.h", 
-            "Geometry/CaloTopology/interface/CaloSubdetectorTopology.h", 
-            "Geometry/CommonTopologies/interface/GeomDetEnumerators.h", 
-            "Geometry/CommonTopologies/interface/Topology.h"
-        ], 
-        "created_at": 1583439162, 
-        "number": 29120, 
-        "state": "open", 
-        "updated_at": 1583439204
-    }, 
     "29121": {
         "base_branch": "master", 
         "changed_files_names": [
