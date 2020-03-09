@@ -746,12 +746,14 @@
     "28977": {
         "base_branch": "CMSSW_11_0_X", 
         "changed_files_names": [
-            "DQM/GEM/plugins/GEMDQMHarvester.cc"
+            "DQM/GEM/plugins/GEMDQMHarvester.cc", 
+            "DQM/GEM/plugins/GEMDQMStatusDigi.cc", 
+            "DQM/GEM/test/test.py"
         ], 
         "created_at": 1581956490, 
         "number": 28977, 
         "state": "open", 
-        "updated_at": 1582033618
+        "updated_at": 1583766034
     }, 
     "28978": {
         "base_branch": "master", 
