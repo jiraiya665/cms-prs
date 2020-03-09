@@ -1884,13 +1884,12 @@
     "29147": {
         "base_branch": "master", 
         "changed_files_names": [
-            "Configuration/AlCa/python/autoCond.py", 
             "DataFormats/EcalDigi/test/EcalDigi_t.cpp"
         ], 
         "created_at": 1583669248, 
         "number": 29147, 
         "state": "open", 
-        "updated_at": 1583763178
+        "updated_at": 1583765098
     }, 
     "29148": {
         "base_branch": "master", 
