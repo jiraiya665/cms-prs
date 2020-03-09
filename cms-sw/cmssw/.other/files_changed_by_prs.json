@@ -1331,6 +1331,7 @@
             "Calibration/TkAlCaRecoProducers/python/ALCARECOSiStripCalZeroBiasHI_cff.py", 
             "Calibration/TkAlCaRecoProducers/python/ALCARECOSiStripCalZeroBias_cff.py", 
             "Configuration/StandardSequences/python/AlCaRecoStreams_cff.py", 
+            "DPGAnalysis/SiStripTools/interface/EventWithHistory.h", 
             "DPGAnalysis/SiStripTools/plugins/APVCyclePhaseProducerFromL1ABC.cc", 
             "DPGAnalysis/SiStripTools/plugins/APVCyclePhaseProducerFromL1TS.cc", 
             "DPGAnalysis/SiStripTools/plugins/BuildFile.xml", 
@@ -1340,12 +1341,13 @@
             "DPGAnalysis/SiStripTools/python/apvcyclephaseproducerfroml1ts2013_cfi.py", 
             "DPGAnalysis/SiStripTools/python/apvcyclephaseproducerfroml1tsDB_cfi.py", 
             "DPGAnalysis/SiStripTools/python/apvcyclephaseproducerfroml1ts_cfi.py", 
-            "DPGAnalysis/SiStripTools/python/eventwithhistoryproducerfroml1abc_cfi.py"
+            "DPGAnalysis/SiStripTools/python/eventwithhistoryproducerfroml1abc_cfi.py", 
+            "DPGAnalysis/SiStripTools/src/EventWithHistory.cc"
         ], 
         "created_at": 1583424180, 
         "number": 29116, 
         "state": "open", 
-        "updated_at": 1583509858
+        "updated_at": 1583758910
     }, 
     "29117": {
         "base_branch": "CMSSW_10_6_X", 
