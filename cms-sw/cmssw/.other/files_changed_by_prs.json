@@ -1722,5 +1722,16 @@
         "number": 29165, 
         "state": "open", 
         "updated_at": 1583849135
+    }, 
+    "29166": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Validation/HGCalValidation/plugins/HGCalHitCalibration.cc", 
+            "Validation/HGCalValidation/python/hgcalPlots.py"
+        ], 
+        "created_at": 1583851325, 
+        "number": 29166, 
+        "state": "open", 
+        "updated_at": 1583851388
     }
 }
