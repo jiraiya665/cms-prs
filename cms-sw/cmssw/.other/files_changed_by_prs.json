@@ -1737,5 +1737,25 @@
         "number": 29168, 
         "state": "open", 
         "updated_at": 1583858640
+    }, 
+    "29169": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Fireworks/Core/interface/CmsShowNavigator.h", 
+            "Fireworks/Core/interface/Context.h", 
+            "Fireworks/Core/interface/FWFileEntry.h", 
+            "Fireworks/Core/interface/FWGeometry.h", 
+            "Fireworks/Core/src/CmsShowMain.cc", 
+            "Fireworks/Core/src/CmsShowMain.h", 
+            "Fireworks/Core/src/CmsShowMainBase.cc", 
+            "Fireworks/Core/src/CmsShowNavigator.cc", 
+            "Fireworks/Core/src/FWFileEntry.cc", 
+            "Fireworks/Core/src/FWGeometry.cc", 
+            "Fireworks/Core/src/FWRPZViewGeometry.cc"
+        ], 
+        "created_at": 1583860083, 
+        "number": 29169, 
+        "state": "open", 
+        "updated_at": 1583860142
     }
 }
