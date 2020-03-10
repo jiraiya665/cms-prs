@@ -1786,5 +1786,21 @@
         "number": 29170, 
         "state": "open", 
         "updated_at": 1583862915
+    }, 
+    "29171": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/Integration/python/clients/hlt_dqm_sourceclient-live_cfg.py", 
+            "DQM/TrigXMonitor/interface/HLTSeedL1LogicScalers.h", 
+            "DQM/TrigXMonitor/python/HLTSeedL1LogicScalers_cfi.py", 
+            "DQM/TrigXMonitor/src/HLTSeedL1LogicScalers.cc", 
+            "DQM/TrigXMonitor/src/SealModule.cc", 
+            "DQM/TrigXMonitor/test/hltSeed_l1Logic_file_cfg.py", 
+            "DQMOffline/Trigger/test/triggerSequenceTest_cfg.py"
+        ], 
+        "created_at": 1583864995, 
+        "number": 29171, 
+        "state": "open", 
+        "updated_at": 1583865037
     }
 }
