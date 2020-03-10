@@ -1684,16 +1684,6 @@
         "state": "open", 
         "updated_at": 1583837482
     }, 
-    "29162": {
-        "base_branch": "CMSSW_10_2_X", 
-        "changed_files_names": [
-            "PhysicsTools/MVATrainer/plugins/BuildFile.xml"
-        ], 
-        "created_at": 1583842147, 
-        "number": 29162, 
-        "state": "open", 
-        "updated_at": 1583842195
-    }, 
     "29163": {
         "base_branch": "master", 
         "changed_files_names": [
