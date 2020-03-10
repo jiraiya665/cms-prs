@@ -769,8 +769,6 @@
             "Geometry/TrackerSimData/data/PhaseII/TiltedTracker700/pixelProdCuts.xml", 
             "Geometry/TrackerSimData/data/PhaseII/TiltedTracker700/pixelsens.xml", 
             "RecoLocalTracker/SiPixelRecHits/python/PixelCPEGeneric_cfi.py", 
-            "RecoTracker/FinalTrackSelectors/python/MergeTrackCollections_cff.py", 
-            "RecoTracker/SpecialSeedGenerators/python/inOutSeedsFromTrackerMuons_cfi.py", 
             "RecoTracker/TransientTrackingRecHit/python/TTRHBuilderWithTemplate_cfi.py", 
             "SimTracker/SiPhase2Digitizer/BuildFile.xml", 
             "SimTracker/SiPhase2Digitizer/plugins/DigitizerUtility.h", 
@@ -788,7 +786,7 @@
         "created_at": 1582299319, 
         "number": 29018, 
         "state": "open", 
-        "updated_at": 1583765522
+        "updated_at": 1583847519
     }, 
     "29032": {
         "base_branch": "master", 
