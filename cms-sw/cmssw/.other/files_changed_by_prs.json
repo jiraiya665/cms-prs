@@ -1660,18 +1660,6 @@
         "state": "open", 
         "updated_at": 1583829910
     }, 
-    "29161": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQMOffline/Configuration/python/DQMOfflineCosmics_cff.py", 
-            "DQMOffline/Configuration/python/DQMOffline_cff.py", 
-            "DQMServices/Components/plugins/DQMProvInfo.cc"
-        ], 
-        "created_at": 1583837436, 
-        "number": 29161, 
-        "state": "open", 
-        "updated_at": 1583837482
-    }, 
     "29163": {
         "base_branch": "master", 
         "changed_files_names": [
