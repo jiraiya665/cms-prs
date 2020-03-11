@@ -1340,16 +1340,6 @@
         "state": "open", 
         "updated_at": 1583528955
     }, 
-    "29147": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/EcalDigi/test/EcalDigi_t.cpp"
-        ], 
-        "created_at": 1583669248, 
-        "number": 29147, 
-        "state": "open", 
-        "updated_at": 1583765098
-    }, 
     "29148": {
         "base_branch": "master", 
         "changed_files_names": [
