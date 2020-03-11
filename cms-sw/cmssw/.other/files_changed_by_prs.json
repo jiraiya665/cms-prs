@@ -1827,5 +1827,16 @@
         "number": 29179, 
         "state": "open", 
         "updated_at": 1583930202
+    }, 
+    "29182": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "L1Trigger/L1TMuonEndCap/python/simEmtfDigis_cfi.py", 
+            "L1Trigger/L1TMuonEndCap/src/PtAssignment.cc"
+        ], 
+        "created_at": 1583931779, 
+        "number": 29182, 
+        "state": "open", 
+        "updated_at": 1583931807
     }
 }
