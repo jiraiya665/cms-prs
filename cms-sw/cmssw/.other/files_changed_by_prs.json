@@ -1331,14 +1331,12 @@
             "HeterogeneousCore/SonicCore/test/BuildFile.xml", 
             "HeterogeneousCore/SonicCore/test/DummyClient.h", 
             "HeterogeneousCore/SonicCore/test/SonicDummyProducer.cc", 
-            "HeterogeneousCore/SonicCore/test/TestIntegration.cpp", 
-            "HeterogeneousCore/SonicCore/test/run_sonic_test.sh", 
             "HeterogeneousCore/SonicCore/test/sonicTest_cfg.py"
         ], 
         "created_at": 1583528910, 
         "number": 29141, 
         "state": "open", 
-        "updated_at": 1583528955
+        "updated_at": 1583956938
     }, 
     "29148": {
         "base_branch": "master", 
