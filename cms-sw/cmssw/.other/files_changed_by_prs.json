@@ -1837,16 +1837,5 @@
         "number": 29172, 
         "state": "open", 
         "updated_at": 1583869238
-    }, 
-    "29173": {
-        "base_branch": "CMSSW_10_6_X", 
-        "changed_files_names": [
-            "Configuration/Applications/python/ConfigBuilder.py", 
-            "Configuration/StandardSequences/python/KBMTF_cff.py"
-        ], 
-        "created_at": 1583881033, 
-        "number": 29173, 
-        "state": "open", 
-        "updated_at": 1583881062
     }
 }
