@@ -1612,20 +1612,6 @@
         "state": "open", 
         "updated_at": 1583827780
     }, 
-    "29158": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoLocalMuon/Configuration/python/RecoLocalMuon_EventContent_cff.py", 
-            "RecoLocalTracker/Configuration/python/RecoLocalTracker_EventContent_cff.py", 
-            "RecoMET/Configuration/python/RecoMET_EventContent_cff.py", 
-            "RecoTracker/Configuration/python/RecoTracker_EventContent_cff.py", 
-            "TrackingTools/Configuration/python/TrackingTools_EventContent_cff.py"
-        ], 
-        "created_at": 1583828178, 
-        "number": 29158, 
-        "state": "open", 
-        "updated_at": 1583828205
-    }, 
     "29159": {
         "base_branch": "master", 
         "changed_files_names": [
