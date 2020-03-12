@@ -621,6 +621,8 @@
             "RecoBTag/ONNXRuntime/test/test_deep_doubleb_cfg_AOD.py", 
             "RecoBTag/SecondaryVertex/plugins/BoostedDoubleSVProducer.cc", 
             "RecoBTag/SecondaryVertex/plugins/TemplatedSecondaryVertexProducer.cc", 
+            "RecoBTag/SecondaryVertex/python/pfBoostedDoubleSVAK8TagInfos_cfi.py", 
+            "RecoBTag/SecondaryVertex/python/pfBoostedDoubleSVCA15TagInfos_cfi.py", 
             "RecoJets/Configuration/python/RecoJets_EventContent_cff.py", 
             "RecoJets/Configuration/python/RecoPFJets_cff.py", 
             "RecoJets/JetProducers/interface/ECFAdder.h", 
@@ -645,7 +647,7 @@
         "created_at": 1581532120, 
         "number": 28936, 
         "state": "open", 
-        "updated_at": 1583562428
+        "updated_at": 1584026215
     }, 
     "28950": {
         "base_branch": "master", 
