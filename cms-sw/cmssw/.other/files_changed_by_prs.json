@@ -1848,17 +1848,6 @@
         "state": "open", 
         "updated_at": 1583952934
     }, 
-    "29191": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Validation/MuonGEMHits/interface/GEMBaseValidation.h", 
-            "Validation/MuonGEMHits/src/GEMBaseValidation.cc"
-        ], 
-        "created_at": 1583954449, 
-        "number": 29191, 
-        "state": "open", 
-        "updated_at": 1583954470
-    }, 
     "29193": {
         "base_branch": "master", 
         "changed_files_names": [
