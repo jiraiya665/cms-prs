@@ -1815,16 +1815,6 @@
         "state": "open", 
         "updated_at": 1583940879
     }, 
-    "29186": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimCalorimetry/HGCalSimProducers/src/HGCFEElectronics.cc"
-        ], 
-        "created_at": 1583946348, 
-        "number": 29186, 
-        "state": "open", 
-        "updated_at": 1583946371
-    }, 
     "29189": {
         "base_branch": "master", 
         "changed_files_names": [
