@@ -604,7 +604,6 @@
             "DataFormats/JetReco/src/classes_def_3.xml", 
             "DataFormats/PatCandidates/src/classes_def_objects.xml", 
             "HLTriggerOffline/B2G/python/b2gHadronicHLTEventValidation_cfi.py", 
-            "PhysicsTools/JetMCAlgos/BuildFile.xml", 
             "PhysicsTools/JetMCAlgos/plugins/JetFlavourClustering.cc", 
             "PhysicsTools/PatAlgos/plugins/PATPackedCandidateProducer.cc", 
             "PhysicsTools/PatAlgos/python/slimming/applySubstructure_cff.py", 
@@ -647,7 +646,7 @@
         "created_at": 1581532120, 
         "number": 28936, 
         "state": "open", 
-        "updated_at": 1584026215
+        "updated_at": 1584040015
     }, 
     "28950": {
         "base_branch": "master", 
