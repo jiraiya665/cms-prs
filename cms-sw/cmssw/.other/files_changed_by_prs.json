@@ -1271,37 +1271,6 @@
         "state": "open", 
         "updated_at": 1583517425
     }, 
-    "29139": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Validation/MuonCSCDigis/BuildFile.xml", 
-            "Validation/MuonCSCDigis/interface/CSCALCTDigiValidation.h", 
-            "Validation/MuonCSCDigis/interface/CSCBaseValidation.h", 
-            "Validation/MuonCSCDigis/interface/CSCCLCTDigiValidation.h", 
-            "Validation/MuonCSCDigis/interface/CSCComparatorDigiValidation.h", 
-            "Validation/MuonCSCDigis/interface/CSCDigiMatcher.h", 
-            "Validation/MuonCSCDigis/interface/CSCStripDigiValidation.h", 
-            "Validation/MuonCSCDigis/interface/CSCStubMatcher.h", 
-            "Validation/MuonCSCDigis/interface/CSCWireDigiValidation.h", 
-            "Validation/MuonCSCDigis/plugins/BuildFile.xml", 
-            "Validation/MuonCSCDigis/plugins/CSCDigiValidation.cc", 
-            "Validation/MuonCSCDigis/plugins/CSCDigiValidation.h", 
-            "Validation/MuonCSCDigis/plugins/Module.cc", 
-            "Validation/MuonCSCDigis/python/muonCSCDigiPSet.py", 
-            "Validation/MuonCSCDigis/python/muonCSCStubPSet.py", 
-            "Validation/MuonCSCDigis/src/CSCALCTDigiValidation.cc", 
-            "Validation/MuonCSCDigis/src/CSCCLCTDigiValidation.cc", 
-            "Validation/MuonCSCDigis/src/CSCComparatorDigiValidation.cc", 
-            "Validation/MuonCSCDigis/src/CSCDigiMatcher.cc", 
-            "Validation/MuonCSCDigis/src/CSCStripDigiValidation.cc", 
-            "Validation/MuonCSCDigis/src/CSCStubMatcher.cc", 
-            "Validation/MuonCSCDigis/src/CSCWireDigiValidation.cc"
-        ], 
-        "created_at": 1583526099, 
-        "number": 29139, 
-        "state": "open", 
-        "updated_at": 1583526099
-    }, 
     "29141": {
         "base_branch": "master", 
         "changed_files_names": [
