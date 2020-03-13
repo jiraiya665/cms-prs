@@ -1214,18 +1214,6 @@
         "state": "open", 
         "updated_at": 1583439329
     }, 
-    "29126": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DetectorDescription/DDCMS/data/testDDVectors.xml", 
-            "DetectorDescription/DDCMS/interface/DDParsingContext.h", 
-            "DetectorDescription/DDCMS/plugins/dd4hep/DDDefinitions2Objects.cc"
-        ], 
-        "created_at": 1583442327, 
-        "number": 29126, 
-        "state": "open", 
-        "updated_at": 1583442355
-    }, 
     "29138": {
         "base_branch": "master", 
         "changed_files_names": [
