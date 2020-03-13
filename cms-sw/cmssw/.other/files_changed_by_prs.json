@@ -1296,7 +1296,6 @@
             "L1Trigger/TrackerDTC/interface/TTDTCConverter.h", 
             "L1Trigger/TrackerDTC/plugins/BuildFile.xml", 
             "L1Trigger/TrackerDTC/plugins/TrackerDTCProducer.cc", 
-            "L1Trigger/TrackerDTC/plugins/TrackerDTCProducer.h", 
             "L1Trigger/TrackerDTC/python/Format_Hybrid_cfi.py", 
             "L1Trigger/TrackerDTC/python/Format_TMTT_cfi.py", 
             "L1Trigger/TrackerDTC/python/Producer_Defaults_cfi.py", 
@@ -1311,7 +1310,7 @@
         "created_at": 1583747097, 
         "number": 29151, 
         "state": "open", 
-        "updated_at": 1584037989
+        "updated_at": 1584098275
     }, 
     "29152": {
         "base_branch": "master", 
