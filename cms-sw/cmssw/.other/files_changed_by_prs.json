@@ -1528,16 +1528,6 @@
         "state": "open", 
         "updated_at": 1583827780
     }, 
-    "29159": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "EventFilter/HcalRawToDigi/plugins/HcalDigiToRawuHTR.cc"
-        ], 
-        "created_at": 1583829865, 
-        "number": 29159, 
-        "state": "open", 
-        "updated_at": 1583829910
-    }, 
     "29163": {
         "base_branch": "master", 
         "changed_files_names": [
