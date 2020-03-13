@@ -1723,19 +1723,6 @@
         "state": "open", 
         "updated_at": 1583952824
     }, 
-    "29190": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/CaloEventSetup/interface/CaloGeometryLoader.icc", 
-            "Geometry/EcalAlgo/plugins/BuildFile.xml", 
-            "Geometry/EcalAlgo/plugins/EcalBarrelGeometryLoaderFromDDD.cc", 
-            "Geometry/EcalAlgo/plugins/moduleDD4Hep.cc"
-        ], 
-        "created_at": 1583952890, 
-        "number": 29190, 
-        "state": "open", 
-        "updated_at": 1583952934
-    }, 
     "29193": {
         "base_branch": "master", 
         "changed_files_names": [
