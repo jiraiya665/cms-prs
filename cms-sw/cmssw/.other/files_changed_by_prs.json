@@ -1755,5 +1755,20 @@
         "number": 29197, 
         "state": "open", 
         "updated_at": 1584106398
+    }, 
+    "29198": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibTracker/SiStripCommon/BuildFile.xml", 
+            "CalibTracker/SiStripCommon/interface/SiStripDCSStatus.h", 
+            "CalibTracker/SiStripCommon/src/SiStripDCSStatus.cc", 
+            "DPGAnalysis/Skims/BuildFile.xml", 
+            "DPGAnalysis/Skims/interface/DetStatus.h", 
+            "DPGAnalysis/Skims/src/DetStatus.cc"
+        ], 
+        "created_at": 1584107664, 
+        "number": 29198, 
+        "state": "open", 
+        "updated_at": 1584107709
     }
 }
