@@ -1771,12 +1771,13 @@
             "SimG4CMS/Forward/interface/MtdSD.h", 
             "SimG4CMS/Forward/plugins/module.cc", 
             "SimG4CMS/Forward/src/FastTimerSD.cc", 
-            "SimG4CMS/Forward/src/MtdSD.cc"
+            "SimG4CMS/Forward/src/MtdSD.cc", 
+            "SimG4Core/Application/python/g4SimHits_cfi.py"
         ], 
         "created_at": 1584348596, 
         "number": 29213, 
         "state": "open", 
-        "updated_at": 1584348636
+        "updated_at": 1584376811
     }, 
     "29214": {
         "base_branch": "master", 
