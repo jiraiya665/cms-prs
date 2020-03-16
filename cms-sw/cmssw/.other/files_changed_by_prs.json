@@ -1061,17 +1061,6 @@
         "state": "open", 
         "updated_at": 1584373352
     }, 
-    "29118": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1Trigger/L1TCalorimeter/plugins/L1TCaloRCTToUpgradeConverter.cc", 
-            "L1Trigger/L1TCalorimeter/plugins/L1TCaloRCTToUpgradeConverter.h"
-        ], 
-        "created_at": 1583431835, 
-        "number": 29118, 
-        "state": "open", 
-        "updated_at": 1584368170
-    }, 
     "29121": {
         "base_branch": "master", 
         "changed_files_names": [
