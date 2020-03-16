@@ -362,7 +362,7 @@
         "created_at": 1568296225, 
         "number": 27983, 
         "state": "open", 
-        "updated_at": 1583303573
+        "updated_at": 1583400435
     }, 
     "28190": {
         "base_branch": "master", 
@@ -392,7 +392,7 @@
         "created_at": 1571246447, 
         "number": 28190, 
         "state": "open", 
-        "updated_at": 1583854353
+        "updated_at": 1584289602
     }, 
     "28313": {
         "base_branch": "master", 
@@ -422,7 +422,7 @@
         "created_at": 1572448498, 
         "number": 28313, 
         "state": "open", 
-        "updated_at": 1582045922
+        "updated_at": 1582754841
     }, 
     "28417": {
         "base_branch": "master", 
@@ -496,7 +496,7 @@
         "created_at": 1574090386, 
         "number": 28417, 
         "state": "open", 
-        "updated_at": 1582632379
+        "updated_at": 1584071849
     }, 
     "28764": {
         "base_branch": "master", 
@@ -529,7 +529,7 @@
         "created_at": 1580064359, 
         "number": 28793, 
         "state": "open", 
-        "updated_at": 1582182178
+        "updated_at": 1584384811
     }, 
     "28846": {
         "base_branch": "master", 
@@ -550,7 +550,7 @@
         "created_at": 1580525216, 
         "number": 28846, 
         "state": "open", 
-        "updated_at": 1582033880
+        "updated_at": 1584367909
     }, 
     "28911": {
         "base_branch": "master", 
@@ -571,7 +571,7 @@
         "created_at": 1581352350, 
         "number": 28911, 
         "state": "open", 
-        "updated_at": 1582213542
+        "updated_at": 1584376174
     }, 
     "28936": {
         "base_branch": "master", 
@@ -637,7 +637,7 @@
         "created_at": 1581532120, 
         "number": 28936, 
         "state": "open", 
-        "updated_at": 1584165700
+        "updated_at": 1584370372
     }, 
     "28950": {
         "base_branch": "master", 
@@ -715,7 +715,7 @@
         "created_at": 1581585969, 
         "number": 28950, 
         "state": "open", 
-        "updated_at": 1583244808
+        "updated_at": 1584368066
     }, 
     "28977": {
         "base_branch": "CMSSW_11_0_X", 
@@ -728,7 +728,7 @@
         "created_at": 1581956490, 
         "number": 28977, 
         "state": "open", 
-        "updated_at": 1583776174
+        "updated_at": 1583869537
     }, 
     "28978": {
         "base_branch": "master", 
@@ -741,7 +741,7 @@
         "created_at": 1581959683, 
         "number": 28978, 
         "state": "open", 
-        "updated_at": 1583766009
+        "updated_at": 1584371681
     }, 
     "29038": {
         "base_branch": "master", 
@@ -817,7 +817,7 @@
         "created_at": 1582641341, 
         "number": 29038, 
         "state": "open", 
-        "updated_at": 1582641378
+        "updated_at": 1584367990
     }, 
     "29054": {
         "base_branch": "master", 
@@ -833,7 +833,7 @@
         "created_at": 1582813721, 
         "number": 29054, 
         "state": "open", 
-        "updated_at": 1583504005
+        "updated_at": 1584374018
     }, 
     "29062": {
         "base_branch": "CMSSW_10_6_X", 
@@ -877,7 +877,7 @@
         "created_at": 1582934835, 
         "number": 29063, 
         "state": "open", 
-        "updated_at": 1583379653
+        "updated_at": 1583858519
     }, 
     "29066": {
         "base_branch": "master", 
@@ -901,7 +901,7 @@
         "created_at": 1583115372, 
         "number": 29066, 
         "state": "open", 
-        "updated_at": 1583803436
+        "updated_at": 1584379935
     }, 
     "29080": {
         "base_branch": "master", 
@@ -912,7 +912,7 @@
         "created_at": 1583243896, 
         "number": 29080, 
         "state": "open", 
-        "updated_at": 1583243917
+        "updated_at": 1584367964
     }, 
     "29081": {
         "base_branch": "master", 
@@ -952,7 +952,7 @@
         "created_at": 1583244434, 
         "number": 29081, 
         "state": "open", 
-        "updated_at": 1583244485
+        "updated_at": 1584001597
     }, 
     "29086": {
         "base_branch": "master", 
@@ -963,7 +963,7 @@
         "created_at": 1583250680, 
         "number": 29086, 
         "state": "open", 
-        "updated_at": 1583250708
+        "updated_at": 1584368629
     }, 
     "29103": {
         "base_branch": "master", 
@@ -977,7 +977,7 @@
         "created_at": 1583355477, 
         "number": 29103, 
         "state": "open", 
-        "updated_at": 1583355666
+        "updated_at": 1584368180
     }, 
     "29110": {
         "base_branch": "master", 
@@ -1027,7 +1027,7 @@
         "created_at": 1583405084, 
         "number": 29110, 
         "state": "open", 
-        "updated_at": 1583695248
+        "updated_at": 1583943951
     }, 
     "29113": {
         "base_branch": "master", 
@@ -1038,7 +1038,7 @@
         "created_at": 1583422033, 
         "number": 29113, 
         "state": "open", 
-        "updated_at": 1583422077
+        "updated_at": 1584368178
     }, 
     "29116": {
         "base_branch": "master", 
@@ -1059,7 +1059,7 @@
         "created_at": 1583424180, 
         "number": 29116, 
         "state": "open", 
-        "updated_at": 1583854889
+        "updated_at": 1584373352
     }, 
     "29118": {
         "base_branch": "master", 
@@ -1070,7 +1070,7 @@
         "created_at": 1583431835, 
         "number": 29118, 
         "state": "open", 
-        "updated_at": 1583431876
+        "updated_at": 1584368170
     }, 
     "29119": {
         "base_branch": "master", 
@@ -1084,7 +1084,7 @@
         "created_at": 1583437513, 
         "number": 29119, 
         "state": "open", 
-        "updated_at": 1583437566
+        "updated_at": 1584368159
     }, 
     "29121": {
         "base_branch": "master", 
@@ -1109,6 +1109,8 @@
             "DataFormats/Common/interface/SortedCollection.h", 
             "DataFormats/Common/interface/VectorHolder.h", 
             "DataFormats/Common/interface/Wrapper.h", 
+            "EventFilter/CTPPSRawToDigi/src/CTPPSPixelDataFormatter.cc", 
+            "EventFilter/CTPPSRawToDigi/src/RPixErrorChecker.cc", 
             "FWCore/Framework/test/stubs/TestBeginEndJobAnalyzer.h", 
             "FWCore/Utilities/interface/EDMException.h", 
             "FWCore/Utilities/interface/Exception.h", 
@@ -1117,7 +1119,7 @@
         "created_at": 1583439288, 
         "number": 29124, 
         "state": "open", 
-        "updated_at": 1583439329
+        "updated_at": 1584386282
     }, 
     "29138": {
         "base_branch": "master", 
@@ -1136,7 +1138,7 @@
         "created_at": 1583517396, 
         "number": 29138, 
         "state": "open", 
-        "updated_at": 1583517425
+        "updated_at": 1583825907
     }, 
     "29148": {
         "base_branch": "master", 
@@ -1147,7 +1149,7 @@
         "created_at": 1583685596, 
         "number": 29148, 
         "state": "open", 
-        "updated_at": 1583685632
+        "updated_at": 1584103459
     }, 
     "29151": {
         "base_branch": "master", 
@@ -1182,7 +1184,7 @@
         "created_at": 1583747097, 
         "number": 29151, 
         "state": "open", 
-        "updated_at": 1584098275
+        "updated_at": 1584139051
     }, 
     "29152": {
         "base_branch": "master", 
@@ -1366,7 +1368,7 @@
         "created_at": 1583764533, 
         "number": 29152, 
         "state": "open", 
-        "updated_at": 1583764583
+        "updated_at": 1584368395
     }, 
     "29154": {
         "base_branch": "master", 
@@ -1383,7 +1385,7 @@
         "created_at": 1583770511, 
         "number": 29154, 
         "state": "open", 
-        "updated_at": 1583770609
+        "updated_at": 1584043243
     }, 
     "29157": {
         "base_branch": "master", 
@@ -1397,7 +1399,7 @@
         "created_at": 1583827737, 
         "number": 29157, 
         "state": "open", 
-        "updated_at": 1583827780
+        "updated_at": 1583838342
     }, 
     "29163": {
         "base_branch": "master", 
@@ -1408,7 +1410,7 @@
         "created_at": 1583847559, 
         "number": 29163, 
         "state": "open", 
-        "updated_at": 1583847599
+        "updated_at": 1584368442
     }, 
     "29165": {
         "base_branch": "master", 
@@ -1420,7 +1422,7 @@
         "created_at": 1583849113, 
         "number": 29165, 
         "state": "open", 
-        "updated_at": 1583849135
+        "updated_at": 1584111152
     }, 
     "29169": {
         "base_branch": "master", 
@@ -1440,7 +1442,7 @@
         "created_at": 1583860083, 
         "number": 29169, 
         "state": "open", 
-        "updated_at": 1583860142
+        "updated_at": 1583860485
     }, 
     "29170": {
         "base_branch": "master", 
@@ -1469,7 +1471,7 @@
         "created_at": 1583862866, 
         "number": 29170, 
         "state": "open", 
-        "updated_at": 1583862915
+        "updated_at": 1583943696
     }, 
     "29172": {
         "base_branch": "master", 
@@ -1506,7 +1508,7 @@
         "created_at": 1583869196, 
         "number": 29172, 
         "state": "open", 
-        "updated_at": 1583869238
+        "updated_at": 1583930552
     }, 
     "29179": {
         "base_branch": "master", 
@@ -1541,7 +1543,7 @@
         "created_at": 1583930153, 
         "number": 29179, 
         "state": "open", 
-        "updated_at": 1583930202
+        "updated_at": 1584373162
     }, 
     "29182": {
         "base_branch": "CMSSW_10_6_X", 
@@ -1552,7 +1554,7 @@
         "created_at": 1583931779, 
         "number": 29182, 
         "state": "open", 
-        "updated_at": 1583931807
+        "updated_at": 1583931826
     }, 
     "29183": {
         "base_branch": "master", 
@@ -1562,7 +1564,7 @@
         "created_at": 1583932459, 
         "number": 29183, 
         "state": "open", 
-        "updated_at": 1583932490
+        "updated_at": 1583942313
     }, 
     "29189": {
         "base_branch": "master", 
@@ -1572,7 +1574,7 @@
         "created_at": 1583952779, 
         "number": 29189, 
         "state": "open", 
-        "updated_at": 1583952824
+        "updated_at": 1584368765
     }, 
     "29194": {
         "base_branch": "master", 
@@ -1583,7 +1585,7 @@
         "created_at": 1583989625, 
         "number": 29194, 
         "state": "open", 
-        "updated_at": 1583989625
+        "updated_at": 1584365557
     }, 
     "29195": {
         "base_branch": "CMSSW_11_0_X", 
@@ -1594,7 +1596,7 @@
         "created_at": 1583989756, 
         "number": 29195, 
         "state": "open", 
-        "updated_at": 1583989756
+        "updated_at": 1584361323
     }, 
     "29196": {
         "base_branch": "master", 
@@ -1604,7 +1606,7 @@
         "created_at": 1584025240, 
         "number": 29196, 
         "state": "open", 
-        "updated_at": 1584025269
+        "updated_at": 1584382638
     }, 
     "29197": {
         "base_branch": "master", 
@@ -1616,7 +1618,7 @@
         "created_at": 1584106353, 
         "number": 29197, 
         "state": "open", 
-        "updated_at": 1584106398
+        "updated_at": 1584282604
     }, 
     "29198": {
         "base_branch": "master", 
@@ -1631,7 +1633,7 @@
         "created_at": 1584107664, 
         "number": 29198, 
         "state": "open", 
-        "updated_at": 1584107709
+        "updated_at": 1584373518
     }, 
     "29201": {
         "base_branch": "master", 
@@ -1643,7 +1645,7 @@
         "created_at": 1584121484, 
         "number": 29201, 
         "state": "open", 
-        "updated_at": 1584121574
+        "updated_at": 1584336975
     }, 
     "29205": {
         "base_branch": "master", 
@@ -1657,7 +1659,7 @@
         "created_at": 1584191124, 
         "number": 29205, 
         "state": "open", 
-        "updated_at": 1584191165
+        "updated_at": 1584358569
     }, 
     "29207": {
         "base_branch": "master", 
@@ -1680,7 +1682,7 @@
         "created_at": 1584286023, 
         "number": 29207, 
         "state": "open", 
-        "updated_at": 1584286066
+        "updated_at": 1584380920
     }, 
     "29208": {
         "base_branch": "master", 
@@ -1703,7 +1705,7 @@
         "created_at": 1584290496, 
         "number": 29208, 
         "state": "open", 
-        "updated_at": 1584371859
+        "updated_at": 1584385600
     }, 
     "29210": {
         "base_branch": "master", 
@@ -1713,7 +1715,7 @@
         "created_at": 1584315993, 
         "number": 29210, 
         "state": "open", 
-        "updated_at": 1584316036
+        "updated_at": 1584335134
     }, 
     "29211": {
         "base_branch": "master", 
@@ -1724,7 +1726,7 @@
         "created_at": 1584317222, 
         "number": 29211, 
         "state": "open", 
-        "updated_at": 1584317242
+        "updated_at": 1584335337
     }, 
     "29212": {
         "base_branch": "master", 
@@ -1760,7 +1762,7 @@
         "created_at": 1584345145, 
         "number": 29212, 
         "state": "open", 
-        "updated_at": 1584345189
+        "updated_at": 1584360859
     }, 
     "29213": {
         "base_branch": "master", 
@@ -1777,7 +1779,7 @@
         "created_at": 1584348596, 
         "number": 29213, 
         "state": "open", 
-        "updated_at": 1584376811
+        "updated_at": 1584383519
     }, 
     "29214": {
         "base_branch": "master", 
@@ -1799,6 +1801,6 @@
         "created_at": 1584350363, 
         "number": 29214, 
         "state": "open", 
-        "updated_at": 1584350388
+        "updated_at": 1584350817
     }
 }
