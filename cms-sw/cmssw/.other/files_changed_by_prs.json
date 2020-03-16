@@ -1584,20 +1584,6 @@
         "state": "open", 
         "updated_at": 1584336975
     }, 
-    "29205": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/CSCDigi/interface/CSCCLCTDigi.h", 
-            "DataFormats/CSCDigi/interface/CSCCorrelatedLCTDigi.h", 
-            "DataFormats/CSCDigi/src/CSCCLCTDigi.cc", 
-            "DataFormats/CSCDigi/src/CSCCorrelatedLCTDigi.cc", 
-            "DataFormats/CSCDigi/src/classes_def.xml"
-        ], 
-        "created_at": 1584191124, 
-        "number": 29205, 
-        "state": "open", 
-        "updated_at": 1584358569
-    }, 
     "29207": {
         "base_branch": "master", 
         "changed_files_names": [
