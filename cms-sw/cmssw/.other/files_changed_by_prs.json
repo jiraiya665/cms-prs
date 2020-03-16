@@ -1159,18 +1159,6 @@
         "state": "open", 
         "updated_at": 1583685632
     }, 
-    "29150": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQMOffline/Configuration/scripts/cmsswSequenceInfo.py", 
-            "DQMOffline/Configuration/test/BuildFile.xml", 
-            "DQMOffline/Configuration/test/runtests.sh"
-        ], 
-        "created_at": 1583745177, 
-        "number": 29150, 
-        "state": "open", 
-        "updated_at": 1583918603
-    }, 
     "29151": {
         "base_branch": "master", 
         "changed_files_names": [
