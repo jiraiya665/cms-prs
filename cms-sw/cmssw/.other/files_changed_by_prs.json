@@ -1072,20 +1072,6 @@
         "state": "open", 
         "updated_at": 1584368170
     }, 
-    "29119": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1Trigger/L1TCalorimeter/interface/CaloConfigHelper.h", 
-            "L1Trigger/L1TCalorimeter/interface/Cordic.h", 
-            "L1Trigger/L1TCalorimeter/plugins/L1TStage1Layer2Producer.cc", 
-            "L1Trigger/L1TCalorimeter/src/CaloConfigHelper.cc", 
-            "L1Trigger/L1TCalorimeter/src/firmware/Cordic.cc"
-        ], 
-        "created_at": 1583437513, 
-        "number": 29119, 
-        "state": "open", 
-        "updated_at": 1584368159
-    }, 
     "29121": {
         "base_branch": "master", 
         "changed_files_names": [
