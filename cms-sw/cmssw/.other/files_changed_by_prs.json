@@ -1665,16 +1665,6 @@
         "state": "open", 
         "updated_at": 1584107709
     }, 
-    "29199": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibTracker/SiStripChannelGain/test/BuildFile.xml"
-        ], 
-        "created_at": 1584109145, 
-        "number": 29199, 
-        "state": "open", 
-        "updated_at": 1584109169
-    }, 
     "29200": {
         "base_branch": "master", 
         "changed_files_names": [
