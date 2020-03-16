@@ -1091,16 +1091,12 @@
         "changed_files_names": [
             "CalibFormats/SiStripObjects/interface/SiStripQuality.h", 
             "CondFormats/SiPixelObjects/interface/SiPixelFedCablingMap.h", 
-            "CondFormats/SiPixelObjects/interface/SiPixelFrameConverter.h", 
-            "FWCore/Framework/bin/BuildFile.xml", 
-            "FWCore/PyDevParameterSet/BuildFile.xml", 
-            "FWCore/PythonParameterSet/BuildFile.xml", 
-            "Geometry/TrackerGeometryBuilder/interface/RectangularPixelTopology.h"
+            "CondFormats/SiPixelObjects/interface/SiPixelFrameConverter.h"
         ], 
         "created_at": 1583439182, 
         "number": 29121, 
         "state": "open", 
-        "updated_at": 1584384415
+        "updated_at": 1584386187
     }, 
     "29124": {
         "base_branch": "master", 
