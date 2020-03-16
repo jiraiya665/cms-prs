@@ -573,16 +573,6 @@
         "state": "open", 
         "updated_at": 1582213542
     }, 
-    "28920": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/Applications/python/ConfigBuilder.py"
-        ], 
-        "created_at": 1581424512, 
-        "number": 28920, 
-        "state": "open", 
-        "updated_at": 1581963177
-    }, 
     "28936": {
         "base_branch": "master", 
         "changed_files_names": [
