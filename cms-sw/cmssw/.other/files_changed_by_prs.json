@@ -1029,17 +1029,6 @@
         "state": "open", 
         "updated_at": 1583943951
     }, 
-    "29113": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1Trigger/GlobalCaloTrigger/plugins/L1GctEmulator.cc", 
-            "L1Trigger/GlobalCaloTrigger/plugins/L1GctEmulator.h"
-        ], 
-        "created_at": 1583422033, 
-        "number": 29113, 
-        "state": "open", 
-        "updated_at": 1584368178
-    }, 
     "29116": {
         "base_branch": "master", 
         "changed_files_names": [
