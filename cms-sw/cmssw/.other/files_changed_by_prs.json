@@ -819,22 +819,6 @@
         "state": "open", 
         "updated_at": 1584367990
     }, 
-    "29054": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoParticleFlow/PFProducer/plugins/kdtrees/KDTreeLinkerPSEcal.cc", 
-            "RecoParticleFlow/PFProducer/plugins/kdtrees/KDTreeLinkerTrackEcal.cc", 
-            "RecoParticleFlow/PFProducer/plugins/kdtrees/KDTreeLinkerTrackHcal.cc", 
-            "RecoParticleFlow/PFProducer/plugins/linkers/PreshowerAndECALLinker.cc", 
-            "RecoParticleFlow/PFProducer/plugins/linkers/TrackAndECALLinker.cc", 
-            "RecoParticleFlow/PFProducer/plugins/linkers/TrackAndHCALLinker.cc", 
-            "RecoParticleFlow/PFProducer/src/PFBlockAlgo.cc"
-        ], 
-        "created_at": 1582813721, 
-        "number": 29054, 
-        "state": "open", 
-        "updated_at": 1584374018
-    }, 
     "29062": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
