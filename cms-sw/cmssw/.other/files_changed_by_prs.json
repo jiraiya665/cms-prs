@@ -514,23 +514,6 @@
         "state": "open", 
         "updated_at": 1581080314
     }, 
-    "28793": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/SiOuterTracker/plugins/OuterTrackerMonitorTTTrack.cc", 
-            "DataFormats/L1TrackTrigger/interface/TTTrack.h", 
-            "DataFormats/L1TrackTrigger/interface/TTTrack_TrackWord.h", 
-            "DataFormats/L1TrackTrigger/interface/TTTypes.h", 
-            "DataFormats/L1TrackTrigger/src/TTTrack_TrackWord.cc", 
-            "DataFormats/L1TrackTrigger/src/classes_def.xml", 
-            "L1Trigger/TrackTrigger/src/StubPtConsistency.cc", 
-            "Validation/SiOuterTrackerV/plugins/OuterTrackerMonitorTrackingParticles.cc"
-        ], 
-        "created_at": 1580064359, 
-        "number": 28793, 
-        "state": "open", 
-        "updated_at": 1584384811
-    }, 
     "28911": {
         "base_branch": "master", 
         "changed_files_names": [
