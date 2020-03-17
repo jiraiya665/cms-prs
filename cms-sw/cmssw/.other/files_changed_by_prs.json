@@ -1120,17 +1120,6 @@
         "state": "open", 
         "updated_at": 1583838342
     }, 
-    "29163": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondTools/L1Trigger/scripts/BuildFile.xml", 
-            "CondTools/L1TriggerExt/scripts/BuildFile.xml"
-        ], 
-        "created_at": 1583847559, 
-        "number": 29163, 
-        "state": "open", 
-        "updated_at": 1584368442
-    }, 
     "29165": {
         "base_branch": "master", 
         "changed_files_names": [
