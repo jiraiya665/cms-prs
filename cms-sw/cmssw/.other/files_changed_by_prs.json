@@ -1214,41 +1214,6 @@
         "state": "open", 
         "updated_at": 1583930552
     }, 
-    "29179": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/NanoAOD/interface/MergeableCounterTable.h", 
-            "DataFormats/NanoAOD/src/classes_def.xml", 
-            "PhysicsTools/NanoAOD/BuildFile.xml", 
-            "PhysicsTools/NanoAOD/plugins/BuildFile.xml", 
-            "PhysicsTools/NanoAOD/plugins/CandMCMatchTableProducer.cc", 
-            "PhysicsTools/NanoAOD/plugins/GenWeightsTableProducer.cc", 
-            "PhysicsTools/NanoAOD/plugins/LHETablesProducer.cc", 
-            "PhysicsTools/NanoAOD/plugins/LeptonInJetProducer.cc", 
-            "PhysicsTools/NanoAOD/plugins/NanoAODOutputModule.cc", 
-            "PhysicsTools/NanoAOD/plugins/SummaryTableOutputBranches.cc", 
-            "PhysicsTools/NanoAOD/plugins/SummaryTableOutputBranches.h", 
-            "PhysicsTools/NanoAOD/plugins/TriggerOutputBranches.cc", 
-            "PhysicsTools/NanoAOD/plugins/TriggerOutputBranches.h", 
-            "PhysicsTools/NanoAOD/python/electrons_cff.py", 
-            "PhysicsTools/NanoAOD/python/genparticles_cff.py", 
-            "PhysicsTools/NanoAOD/python/jets_cff.py", 
-            "PhysicsTools/NanoAOD/python/met_cff.py", 
-            "PhysicsTools/NanoAOD/python/muons_cff.py", 
-            "PhysicsTools/NanoAOD/python/nanoDQM_cfi.py", 
-            "PhysicsTools/NanoAOD/python/nano_cff.py", 
-            "PhysicsTools/NanoAOD/python/particlelevel_cff.py", 
-            "PhysicsTools/NanoAOD/python/photons_cff.py", 
-            "PhysicsTools/NanoAOD/python/triggerObjects_cff.py", 
-            "PhysicsTools/NanoAOD/test/inspectNanoFile.py", 
-            "PhysicsTools/PatAlgos/plugins/LeptonUpdater.cc", 
-            "RecoJets/JetProducers/plugins/BetaStarVarProducer.cc"
-        ], 
-        "created_at": 1583930153, 
-        "number": 29179, 
-        "state": "open", 
-        "updated_at": 1584373162
-    }, 
     "29182": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
