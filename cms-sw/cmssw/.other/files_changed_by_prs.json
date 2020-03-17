@@ -1405,16 +1405,6 @@
         "state": "open", 
         "updated_at": 1584441296
     }, 
-    "29218": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/PyReleaseValidation/python/relval_pileup.py"
-        ], 
-        "created_at": 1584446737, 
-        "number": 29218, 
-        "state": "open", 
-        "updated_at": 1584446780
-    }, 
     "29219": {
         "base_branch": "master", 
         "changed_files_names": [
