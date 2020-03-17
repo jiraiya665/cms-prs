@@ -1003,7 +1003,6 @@
     "29124": {
         "base_branch": "master", 
         "changed_files_names": [
-            "CondFormats/SiPixelObjects/src/SiPixelFrameConverter.cc", 
             "DataFormats/Common/interface/BasicHandle.h", 
             "DataFormats/Common/interface/DetSet.h", 
             "DataFormats/Common/interface/Holder.h", 
@@ -1015,14 +1014,13 @@
             "EventFilter/CTPPSRawToDigi/src/CTPPSPixelDataFormatter.cc", 
             "EventFilter/CTPPSRawToDigi/src/RPixErrorChecker.cc", 
             "FWCore/Framework/test/stubs/TestBeginEndJobAnalyzer.h", 
-            "FWCore/Utilities/interface/EDMException.h", 
             "FWCore/Utilities/interface/Exception.h", 
             "FWCore/Utilities/interface/GCC11Compatibility.h"
         ], 
         "created_at": 1583439288, 
         "number": 29124, 
         "state": "open", 
-        "updated_at": 1584400689
+        "updated_at": 1584456572
     }, 
     "29138": {
         "base_branch": "master", 
