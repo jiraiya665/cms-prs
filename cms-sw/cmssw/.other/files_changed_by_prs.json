@@ -1003,6 +1003,9 @@
     "29124": {
         "base_branch": "master", 
         "changed_files_names": [
+            "CalibFormats/SiStripObjects/interface/SiStripQuality.h", 
+            "CondFormats/SiPixelObjects/interface/SiPixelFedCablingMap.h", 
+            "CondFormats/SiPixelObjects/interface/SiPixelFrameConverter.h", 
             "DataFormats/Common/interface/BasicHandle.h", 
             "DataFormats/Common/interface/DetSet.h", 
             "DataFormats/Common/interface/Holder.h", 
@@ -1018,7 +1021,7 @@
         "created_at": 1583439288, 
         "number": 29124, 
         "state": "open", 
-        "updated_at": 1584456731
+        "updated_at": 1584468737
     }, 
     "29138": {
         "base_branch": "master", 
