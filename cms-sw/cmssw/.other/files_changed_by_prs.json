@@ -825,17 +825,6 @@
         "state": "open", 
         "updated_at": 1583858519
     }, 
-    "29080": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1Trigger/L1TMuonEndCap/python/simEmtfDigis_cfi.py", 
-            "L1Trigger/L1TMuonEndCap/src/PtAssignment.cc"
-        ], 
-        "created_at": 1583243896, 
-        "number": 29080, 
-        "state": "open", 
-        "updated_at": 1584367964
-    }, 
     "29081": {
         "base_branch": "master", 
         "changed_files_names": [
