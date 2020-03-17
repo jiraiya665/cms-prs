@@ -1028,14 +1028,12 @@
         "changed_files_names": [
             "CalibFormats/SiStripObjects/interface/SiStripQuality.h", 
             "CondFormats/SiPixelObjects/interface/SiPixelFedCablingMap.h", 
-            "CondFormats/SiPixelObjects/interface/SiPixelFrameConverter.h", 
-            "CondFormats/SiPixelObjects/src/SiPixelFrameConverter.cc", 
-            "EventFilter/CTPPSRawToDigi/src/RPixErrorChecker.cc"
+            "CondFormats/SiPixelObjects/interface/SiPixelFrameConverter.h"
         ], 
         "created_at": 1583439182, 
         "number": 29121, 
         "state": "open", 
-        "updated_at": 1584400440
+        "updated_at": 1584400877
     }, 
     "29124": {
         "base_branch": "master", 
