@@ -917,20 +917,6 @@
         "state": "open", 
         "updated_at": 1584001597
     }, 
-    "29103": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/L1Trigger/interface/L1DataEmulRecord.h", 
-            "DataFormats/L1Trigger/src/L1DataEmulRecord.cc", 
-            "L1Trigger/HardwareValidation/interface/DEcompare.h", 
-            "L1Trigger/HardwareValidation/interface/L1Comparator.h", 
-            "L1Trigger/HardwareValidation/src/L1Comparator.cc"
-        ], 
-        "created_at": 1583355477, 
-        "number": 29103, 
-        "state": "open", 
-        "updated_at": 1584368180
-    }, 
     "29110": {
         "base_branch": "master", 
         "changed_files_names": [
