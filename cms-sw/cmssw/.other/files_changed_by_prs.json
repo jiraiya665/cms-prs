@@ -1283,29 +1283,6 @@
         "state": "open", 
         "updated_at": 1584524431
     }, 
-    "29214": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DPGAnalysis/HcalTools/interface/CMTRawAnalyzer.h", 
-            "DPGAnalysis/HcalTools/macros/cmt/LogEleMapdb.h", 
-            "DPGAnalysis/HcalTools/macros/cmt/RemoteMonitoringGLOBAL.cc", 
-            "DPGAnalysis/HcalTools/macros/cmt/RemoteMonitoringMAP_Global.cc", 
-            "DPGAnalysis/HcalTools/scripts/cmt/CMT_EOS.sh", 
-            "DPGAnalysis/HcalTools/scripts/cmt/GlobalRMT_EOS.sh", 
-            "DPGAnalysis/HcalTools/scripts/cmt/a.py.beg", 
-            "DPGAnalysis/HcalTools/scripts/cmt/a.py.end", 
-            "DPGAnalysis/HcalTools/scripts/cmt/condor.jdl", 
-            "DPGAnalysis/HcalTools/scripts/cmt/index_toAddOnlyNewRuns_EOS.sh", 
-            "DPGAnalysis/HcalTools/scripts/cmt/readme", 
-            "DPGAnalysis/HcalTools/scripts/cmt/run_condor.csh", 
-            "DPGAnalysis/HcalTools/scripts/cmt/runlist_test", 
-            "DPGAnalysis/HcalTools/src/CMTRawAnalyzer.cc"
-        ], 
-        "created_at": 1584350363, 
-        "number": 29214, 
-        "state": "open", 
-        "updated_at": 1584544058
-    }, 
     "29221": {
         "base_branch": "master", 
         "changed_files_names": [
