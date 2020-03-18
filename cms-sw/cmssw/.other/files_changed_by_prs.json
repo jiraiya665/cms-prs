@@ -1038,20 +1038,6 @@
         "state": "open", 
         "updated_at": 1584043243
     }, 
-    "29157": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoEgamma/EgammaElectronAlgos/interface/GsfElectronAlgo.h", 
-            "RecoEgamma/EgammaElectronAlgos/src/GsfElectronAlgo.cc", 
-            "RecoEgamma/EgammaElectronProducers/plugins/GEDGsfElectronProducer.cc", 
-            "RecoEgamma/EgammaElectronProducers/plugins/GsfElectronBaseProducer.cc", 
-            "RecoEgamma/EgammaElectronProducers/plugins/GsfElectronBaseProducer.h"
-        ], 
-        "created_at": 1583827737, 
-        "number": 29157, 
-        "state": "open", 
-        "updated_at": 1583838342
-    }, 
     "29165": {
         "base_branch": "master", 
         "changed_files_names": [
