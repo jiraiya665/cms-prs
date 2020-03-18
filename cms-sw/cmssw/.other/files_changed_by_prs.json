@@ -1225,29 +1225,6 @@
         "state": "open", 
         "updated_at": 1584458144
     }, 
-    "29207": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/ForwardDetId/interface/ETLDetId.h", 
-            "DataFormats/ForwardDetId/src/ETLDetId.cc", 
-            "DataFormats/ForwardDetId/src/MTDDetId.cc", 
-            "Geometry/MTDCommonData/data/etl/v4/etl.xml", 
-            "Geometry/MTDCommonData/src/BTLNumberingScheme.cc", 
-            "Geometry/MTDCommonData/src/ETLNumberingScheme.cc", 
-            "Geometry/MTDCommonData/test/TestMTDPosition.cc", 
-            "Geometry/MTDNumberingBuilder/interface/CmsMTDStringToEnum.h", 
-            "Geometry/MTDNumberingBuilder/plugins/CmsMTDConstruction.cc", 
-            "Geometry/MTDNumberingBuilder/plugins/CmsMTDConstruction.h", 
-            "Geometry/MTDNumberingBuilder/plugins/DDDCmsMTDConstruction.cc", 
-            "Geometry/MTDNumberingBuilder/src/CmsMTDStringToEnum.cc", 
-            "Geometry/MTDSimData/data/v2/mtdProdCuts.xml", 
-            "Geometry/MTDSimData/data/v2/mtdsens.xml"
-        ], 
-        "created_at": 1584286023, 
-        "number": 29207, 
-        "state": "open", 
-        "updated_at": 1584487125
-    }, 
     "29210": {
         "base_branch": "master", 
         "changed_files_names": [
