@@ -842,9 +842,14 @@
             "RecoHGCal/TICL/plugins/HGCDoublet.cc", 
             "RecoHGCal/TICL/plugins/HGCGraph.cc", 
             "RecoHGCal/TICL/plugins/HGCGraph.h", 
+            "RecoHGCal/TICL/plugins/MultiClustersFromTrackstersProducer.cc", 
+            "RecoHGCal/TICL/plugins/PatternRecognitionAlgoBase.h", 
             "RecoHGCal/TICL/plugins/PatternRecognitionbyCA.cc", 
             "RecoHGCal/TICL/plugins/PatternRecognitionbyCA.h", 
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyMultiClusters.cc", 
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyMultiClusters.h", 
             "RecoHGCal/TICL/plugins/TICLCandidateFromTrackstersProducer.cc", 
+            "RecoHGCal/TICL/plugins/TICLSeedingRegionProducer.cc", 
             "RecoHGCal/TICL/plugins/TracksterP4FromTrackAndPCA.cc", 
             "RecoHGCal/TICL/plugins/TrackstersMergeProducer.cc", 
             "RecoHGCal/TICL/plugins/TrackstersPCA.cc", 
@@ -863,7 +868,7 @@
         "created_at": 1583244434, 
         "number": 29081, 
         "state": "open", 
-        "updated_at": 1584001597
+        "updated_at": 1584531130
     }, 
     "29110": {
         "base_branch": "master", 
