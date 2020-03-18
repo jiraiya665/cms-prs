@@ -1415,5 +1415,16 @@
         "number": 29233, 
         "state": "open", 
         "updated_at": 1584562246
+    }, 
+    "29234": {
+        "base_branch": "CMSSW_10_2_X", 
+        "changed_files_names": [
+            "GeneratorInterface/GenFilters/plugins/ModelpMSSMFilter.cc", 
+            "GeneratorInterface/GenFilters/python/ModelpMSSMFilter_cfi.py"
+        ], 
+        "created_at": 1584562404, 
+        "number": 29234, 
+        "state": "open", 
+        "updated_at": 1584562426
     }
 }
