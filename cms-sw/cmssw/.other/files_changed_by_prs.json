@@ -1426,5 +1426,15 @@
         "number": 29234, 
         "state": "open", 
         "updated_at": 1584562426
+    }, 
+    "29235": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimCalorimetry/HcalSimAlgos/src/HcalSiPMHitResponse.cc"
+        ], 
+        "created_at": 1584566624, 
+        "number": 29235, 
+        "state": "open", 
+        "updated_at": 1584566647
     }
 }
