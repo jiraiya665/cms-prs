@@ -1401,5 +1401,15 @@
         "number": 29221, 
         "state": "open", 
         "updated_at": 1584478469
+    }, 
+    "29222": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondCore/Utilities/scripts/conddb"
+        ], 
+        "created_at": 1584518403, 
+        "number": 29222, 
+        "state": "open", 
+        "updated_at": 1584518449
     }
 }
