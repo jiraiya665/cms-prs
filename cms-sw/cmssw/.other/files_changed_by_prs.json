@@ -1255,16 +1255,6 @@
         "state": "open", 
         "updated_at": 1584534937
     }, 
-    "29224": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Validation/RecoMuon/plugins/MuonTrackValidator.cc"
-        ], 
-        "created_at": 1584525915, 
-        "number": 29224, 
-        "state": "open", 
-        "updated_at": 1584536709
-    }, 
     "29225": {
         "base_branch": "master", 
         "changed_files_names": [
