@@ -605,17 +605,6 @@
         "base_branch": "master", 
         "changed_files_names": [
             "L1Trigger/DTPhase2Trigger/BuildFile.xml", 
-            "L1Trigger/DTPhase2Trigger/data/PseudoBayesPatterns_correlated_v0.root", 
-            "L1Trigger/DTPhase2Trigger/data/PseudoBayesPatterns_uncorrelated_v0.root", 
-            "L1Trigger/DTPhase2Trigger/data/dt_layers.txt", 
-            "L1Trigger/DTPhase2Trigger/data/dt_shift_jm_cmssw.txt", 
-            "L1Trigger/DTPhase2Trigger/data/dt_wires.txt", 
-            "L1Trigger/DTPhase2Trigger/data/wire_rawId_ttrig.txt", 
-            "L1Trigger/DTPhase2Trigger/data/wire_rawId_x.txt", 
-            "L1Trigger/DTPhase2Trigger/data/wire_rawId_z.txt", 
-            "L1Trigger/DTPhase2Trigger/data/wires_rawId.txt", 
-            "L1Trigger/DTPhase2Trigger/data/wires_x.txt", 
-            "L1Trigger/DTPhase2Trigger/data/wires_z.txt", 
             "L1Trigger/DTPhase2Trigger/doc/qualities.txt", 
             "L1Trigger/DTPhase2Trigger/interface/CandidateGroup.h", 
             "L1Trigger/DTPhase2Trigger/interface/DTTrigPhase2Prod.h", 
@@ -677,7 +666,7 @@
         "created_at": 1581585969, 
         "number": 28950, 
         "state": "open", 
-        "updated_at": 1584453523
+        "updated_at": 1584625149
     }, 
     "28977": {
         "base_branch": "CMSSW_11_0_X", 
