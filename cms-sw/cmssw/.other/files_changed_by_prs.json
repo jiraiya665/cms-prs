@@ -1348,5 +1348,18 @@
         "number": 29239, 
         "state": "open", 
         "updated_at": 1584608751
+    }, 
+    "29240": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "OnlineDB/EcalCondDB/bin/test_db_connect.py", 
+            "OnlineDB/EcalCondDB/interface/IODConfig.h", 
+            "OnlineDB/EcalCondDB/src/classes.h", 
+            "OnlineDB/EcalCondDB/src/classes_def.xml"
+        ], 
+        "created_at": 1584612052, 
+        "number": 29240, 
+        "state": "open", 
+        "updated_at": 1584612076
     }
 }
