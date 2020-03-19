@@ -1250,24 +1250,6 @@
         "state": "open", 
         "updated_at": 1584566647
     }, 
-    "29236": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimG4Core/Application/python/g4SimHits_cfi.py", 
-            "SimG4Core/PhysicsLists/interface/HadronPhysicsQGSPCMS_FTFP_BERT.h", 
-            "SimG4Core/PhysicsLists/plugins/QGSPCMS_FTFP_BERT.cc", 
-            "SimG4Core/PhysicsLists/plugins/QGSPCMS_FTFP_BERT_EML.cc", 
-            "SimG4Core/PhysicsLists/plugins/QGSPCMS_FTFP_BERT_EMM.cc", 
-            "SimG4Core/PhysicsLists/plugins/QGSPCMS_FTFP_BERT_EMN.cc", 
-            "SimG4Core/PhysicsLists/plugins/QGSPCMS_FTFP_BERT_EMY.cc", 
-            "SimG4Core/PhysicsLists/plugins/QGSPCMS_FTFP_BERT_EMZ.cc", 
-            "SimG4Core/PhysicsLists/src/HadronPhysicsQGSPCMS_FTFP_BERT.cc"
-        ], 
-        "created_at": 1584570388, 
-        "number": 29236, 
-        "state": "open", 
-        "updated_at": 1584570428
-    }, 
     "29238": {
         "base_branch": "master", 
         "changed_files_names": [
