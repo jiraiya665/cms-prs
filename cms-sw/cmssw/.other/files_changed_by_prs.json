@@ -1138,16 +1138,6 @@
         "state": "open", 
         "updated_at": 1584515731
     }, 
-    "29196": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "OnlineDB/EcalCondDB/interface/IODConfig.h"
-        ], 
-        "created_at": 1584025240, 
-        "number": 29196, 
-        "state": "open", 
-        "updated_at": 1584517898
-    }, 
     "29197": {
         "base_branch": "master", 
         "changed_files_names": [
