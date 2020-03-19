@@ -1372,5 +1372,19 @@
         "number": 29241, 
         "state": "open", 
         "updated_at": 1584621135
+    }, 
+    "29242": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/TB181/Oct181/hgcalEE.xml", 
+            "Geometry/HGCalCommonData/data/TB181/Oct182/hgcalEE.xml", 
+            "IOMC/ParticleGuns/interface/BeamMomentumGunProducer.h", 
+            "IOMC/ParticleGuns/src/BeamMomentumGunProducer.cc", 
+            "SimG4CMS/HGCalTestBeam/plugins/HGCalTBAnalyzer.cc"
+        ], 
+        "created_at": 1584621492, 
+        "number": 29242, 
+        "state": "open", 
+        "updated_at": 1584621521
     }
 }
