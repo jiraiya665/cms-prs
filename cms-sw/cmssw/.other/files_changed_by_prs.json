@@ -1346,5 +1346,16 @@
         "number": 29247, 
         "state": "open", 
         "updated_at": 1584659745
+    }, 
+    "29248": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/Framework/interface/EventProcessor.h", 
+            "FWCore/Framework/src/EventProcessor.cc"
+        ], 
+        "created_at": 1584659843, 
+        "number": 29248, 
+        "state": "open", 
+        "updated_at": 1584659882
     }
 }
