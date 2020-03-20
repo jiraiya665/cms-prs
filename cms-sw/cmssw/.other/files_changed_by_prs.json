@@ -1333,5 +1333,15 @@
         "number": 29248, 
         "state": "open", 
         "updated_at": 1584659882
+    }, 
+    "29252": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "L1Trigger/L1TMuonEndCap/src/TrackFinder.cc"
+        ], 
+        "created_at": 1584709513, 
+        "number": 29252, 
+        "state": "open", 
+        "updated_at": 1584709537
     }
 }
