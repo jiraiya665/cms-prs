@@ -923,12 +923,13 @@
             "DPGAnalysis/SiStripTools/python/apvcyclephaseproducerfroml1tsDB_cfi.py", 
             "DPGAnalysis/SiStripTools/python/apvcyclephaseproducerfroml1ts_cfi.py", 
             "DPGAnalysis/SiStripTools/python/eventwithhistoryproducerfroml1abc_cfi.py", 
-            "DPGAnalysis/SiStripTools/src/EventWithHistory.cc"
+            "DPGAnalysis/SiStripTools/src/EventWithHistory.cc", 
+            "DataFormats/TCDS/interface/L1aInfo.h"
         ], 
         "created_at": 1583424180, 
         "number": 29116, 
         "state": "open", 
-        "updated_at": 1584440399
+        "updated_at": 1584713018
     }, 
     "29148": {
         "base_branch": "master", 
