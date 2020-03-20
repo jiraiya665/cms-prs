@@ -1328,5 +1328,23 @@
         "number": 29246, 
         "state": "open", 
         "updated_at": 1584650432
+    }, 
+    "29247": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "L1Trigger/CSCTriggerPrimitives/interface/CSCAnodeLCTProcessor.h", 
+            "L1Trigger/CSCTriggerPrimitives/interface/CSCMotherboard.h", 
+            "L1Trigger/CSCTriggerPrimitives/python/cscTriggerPrimitiveDigis_cfi.py", 
+            "L1Trigger/CSCTriggerPrimitives/src/CSCGEMMotherboard.cc", 
+            "L1Trigger/CSCTriggerPrimitives/src/CSCGEMMotherboardME11.cc", 
+            "L1Trigger/CSCTriggerPrimitives/src/CSCGEMMotherboardME21.cc", 
+            "L1Trigger/CSCTriggerPrimitives/src/CSCMotherboard.cc", 
+            "L1Trigger/CSCTriggerPrimitives/src/CSCMotherboardME11.cc", 
+            "L1Trigger/CSCTriggerPrimitives/src/CSCUpgradeMotherboard.cc"
+        ], 
+        "created_at": 1584659745, 
+        "number": 29247, 
+        "state": "open", 
+        "updated_at": 1584659745
     }
 }
