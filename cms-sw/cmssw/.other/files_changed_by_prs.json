@@ -1510,5 +1510,15 @@
         "number": 29258, 
         "state": "open", 
         "updated_at": 1584726232
+    }, 
+    "29259": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Fireworks/Core/interface/FWConfiguration.h"
+        ], 
+        "created_at": 1584726295, 
+        "number": 29259, 
+        "state": "open", 
+        "updated_at": 1584726321
     }
 }
