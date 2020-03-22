@@ -957,6 +957,8 @@
             "L1Trigger/TrackerDTC/interface/DTC.h", 
             "L1Trigger/TrackerDTC/interface/Module.h", 
             "L1Trigger/TrackerDTC/interface/Settings.h", 
+            "L1Trigger/TrackerDTC/interface/SettingsHybrid.h", 
+            "L1Trigger/TrackerDTC/interface/SettingsTMTT.h", 
             "L1Trigger/TrackerDTC/interface/Stub.h", 
             "L1Trigger/TrackerDTC/interface/TTDTCConverter.h", 
             "L1Trigger/TrackerDTC/plugins/BuildFile.xml", 
@@ -968,14 +970,15 @@
             "L1Trigger/TrackerDTC/src/DTC.cc", 
             "L1Trigger/TrackerDTC/src/Module.cc", 
             "L1Trigger/TrackerDTC/src/Settings.cc", 
+            "L1Trigger/TrackerDTC/src/SettingsHybrid.cc", 
+            "L1Trigger/TrackerDTC/src/SettingsTMTT.cc", 
             "L1Trigger/TrackerDTC/src/Stub.cc", 
-            "L1Trigger/TrackerDTC/src/TTDTCConverter.cc", 
             "L1Trigger/TrackerDTC/test/test_cfg.py"
         ], 
         "created_at": 1583747097, 
         "number": 29151, 
         "state": "open", 
-        "updated_at": 1584139051
+        "updated_at": 1584875709
     }, 
     "29154": {
         "base_branch": "master", 
