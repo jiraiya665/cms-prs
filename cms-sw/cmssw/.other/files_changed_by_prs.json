@@ -1066,16 +1066,6 @@
         "state": "open", 
         "updated_at": 1583931826
     }, 
-    "29183": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FastSimulation/Calorimetry/BuildFile.xml"
-        ], 
-        "created_at": 1583932459, 
-        "number": 29183, 
-        "state": "open", 
-        "updated_at": 1583942313
-    }, 
     "29194": {
         "base_branch": "master", 
         "changed_files_names": [
