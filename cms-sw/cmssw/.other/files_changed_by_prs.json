@@ -1389,18 +1389,6 @@
         "state": "open", 
         "updated_at": 1584920103
     }, 
-    "29255": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Alignment/OfflineValidation/python/TkAlAllInOneTool/helperFunctions.py", 
-            "Alignment/OfflineValidation/test/testValidate.ini", 
-            "Alignment/OfflineValidation/test/test_all.sh"
-        ], 
-        "created_at": 1584719017, 
-        "number": 29255, 
-        "state": "open", 
-        "updated_at": 1584719052
-    }, 
     "29256": {
         "base_branch": "CMSSW_11_0_X", 
         "changed_files_names": [
