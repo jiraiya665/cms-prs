@@ -1018,35 +1018,6 @@
         "state": "open", 
         "updated_at": 1583860485
     }, 
-    "29170": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "EgammaAnalysis/ElectronTools/plugins/BuildFile.xml", 
-            "EgammaAnalysis/ElectronTools/test/BuildFile.xml", 
-            "RecoBTag/FeatureTools/plugins/BuildFile.xml", 
-            "TrackPropagation/Geant4e/BuildFile.xml", 
-            "TrackPropagation/Geant4e/plugins/BuildFile.xml", 
-            "TrackPropagation/RungeKutta/BuildFile.xml", 
-            "TrackPropagation/SteppingHelixPropagator/BuildFile.xml", 
-            "TrackingTools/DetLayers/BuildFile.xml", 
-            "TrackingTools/GsfTools/BuildFile.xml", 
-            "TrackingTools/IPTools/BuildFile.xml", 
-            "TrackingTools/MaterialEffects/BuildFile.xml", 
-            "TrackingTools/Producers/BuildFile.xml", 
-            "TrackingTools/Records/BuildFile.xml", 
-            "TrackingTools/TrackAssociator/BuildFile.xml", 
-            "TrackingTools/TrackAssociator/plugins/BuildFile.xml", 
-            "TrackingTools/TrackFitters/BuildFile.xml", 
-            "TrackingTools/TrackRefitter/BuildFile.xml", 
-            "TrackingTools/TrajectoryCleaning/BuildFile.xml", 
-            "TrackingTools/TransientTrack/BuildFile.xml", 
-            "TrackingTools/TransientTrackingRecHit/BuildFile.xml"
-        ], 
-        "created_at": 1583862866, 
-        "number": 29170, 
-        "state": "open", 
-        "updated_at": 1584450331
-    }, 
     "29172": {
         "base_branch": "master", 
         "changed_files_names": [
