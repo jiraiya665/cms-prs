@@ -1529,16 +1529,6 @@
         "state": "open", 
         "updated_at": 1584726321
     }, 
-    "29260": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1Trigger/L1TMuonEndCap/src/TrackFinder.cc"
-        ], 
-        "created_at": 1584730282, 
-        "number": 29260, 
-        "state": "open", 
-        "updated_at": 1584730332
-    }, 
     "29262": {
         "base_branch": "master", 
         "changed_files_names": [
