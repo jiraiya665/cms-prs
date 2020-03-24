@@ -2657,5 +2657,18 @@
         "number": 29286, 
         "state": "open", 
         "updated_at": 1585054465
+    }, 
+    "29287": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "Configuration/Eras/python/Era_Run2_2016_cff.py", 
+            "Configuration/Eras/python/Era_Run2_2017_cff.py", 
+            "Configuration/Eras/python/Modifier_stage2L1Trigger_EMTF2016_cff.py", 
+            "L1Trigger/L1TMuonEndCap/python/simEmtfDigis_cfi.py"
+        ], 
+        "created_at": 1585064329, 
+        "number": 29287, 
+        "state": "open", 
+        "updated_at": 1585064371
     }
 }
