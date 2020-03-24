@@ -2449,18 +2449,6 @@
         "state": "open", 
         "updated_at": 1585050431
     }, 
-    "29285": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D47.xml", 
-            "Geometry/ForwardCommonData/data/hfnose/v3/hfnose.xml", 
-            "Geometry/ForwardCommonData/data/hfnoseLayer/v1/hfnoseLayer.xml"
-        ], 
-        "created_at": 1585054369, 
-        "number": 29285, 
-        "state": "open", 
-        "updated_at": 1585054413
-    }, 
     "29286": {
         "base_branch": "master", 
         "changed_files_names": [
