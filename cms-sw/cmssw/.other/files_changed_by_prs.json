@@ -1571,19 +1571,6 @@
         "state": "open", 
         "updated_at": 1584989023
     }, 
-    "29278": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondTools/Geometry/test/writehelpers/splitExtended2021Database.sh", 
-            "Validation/Geometry/test/dddvsdb/runDDDvsDBGeometryValidation.sh", 
-            "Validation/Geometry/test/dddvsdb/sortCompositeMaterials.py", 
-            "Validation/Geometry/test/dddvsdb/sortXML.sh"
-        ], 
-        "created_at": 1584992538, 
-        "number": 29278, 
-        "state": "open", 
-        "updated_at": 1584992558
-    }, 
     "29279": {
         "base_branch": "master", 
         "changed_files_names": [
