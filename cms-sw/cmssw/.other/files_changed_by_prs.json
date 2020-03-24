@@ -2507,5 +2507,15 @@
         "number": 29291, 
         "state": "open", 
         "updated_at": 1585074414
+    }, 
+    "29292": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Fireworks/Core/interface/FWHLTTriggerTableView.h"
+        ], 
+        "created_at": 1585081480, 
+        "number": 29292, 
+        "state": "open", 
+        "updated_at": 1585081521
     }
 }
