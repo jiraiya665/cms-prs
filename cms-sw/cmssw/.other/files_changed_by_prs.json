@@ -1104,17 +1104,6 @@
         "state": "open", 
         "updated_at": 1584629371
     }, 
-    "29246": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "PhysicsTools/ONNXRuntime/test/BuildFile.xml", 
-            "PhysicsTools/ONNXRuntime/test/plot_load_and_predict.py"
-        ], 
-        "created_at": 1584650393, 
-        "number": 29246, 
-        "state": "open", 
-        "updated_at": 1584650432
-    }, 
     "29247": {
         "base_branch": "master", 
         "changed_files_names": [
