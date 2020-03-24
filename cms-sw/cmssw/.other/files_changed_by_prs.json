@@ -1093,17 +1093,6 @@
         "state": "open", 
         "updated_at": 1584621521
     }, 
-    "29243": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "PhysicsTools/MXNet/test/BuildFile.xml", 
-            "PhysicsTools/MXNet/test/test_mxnet.py"
-        ], 
-        "created_at": 1584629319, 
-        "number": 29243, 
-        "state": "open", 
-        "updated_at": 1584629371
-    }, 
     "29247": {
         "base_branch": "master", 
         "changed_files_names": [
