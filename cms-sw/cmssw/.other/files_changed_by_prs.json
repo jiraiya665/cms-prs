@@ -1575,25 +1575,6 @@
         "state": "open", 
         "updated_at": 1584969510
     }, 
-    "29275": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Validation/Configuration/python/mtdSimValid_cff.py", 
-            "Validation/MtdValidation/plugins/BtlLocalRecoValidation.cc", 
-            "Validation/MtdValidation/plugins/BtlRecoHarvester.cc", 
-            "Validation/MtdValidation/plugins/BtlRecoValidation.cc", 
-            "Validation/MtdValidation/plugins/EtlLocalRecoValidation.cc", 
-            "Validation/MtdValidation/plugins/EtlRecoHarvester.cc", 
-            "Validation/MtdValidation/plugins/EtlRecoValidation.cc", 
-            "Validation/MtdValidation/plugins/MtdGlobalRecoHarvester.cc", 
-            "Validation/MtdValidation/plugins/MtdGlobalRecoValidation.cc", 
-            "Validation/MtdValidation/python/MtdPostProcessor_cff.py"
-        ], 
-        "created_at": 1584980166, 
-        "number": 29275, 
-        "state": "open", 
-        "updated_at": 1584980207
-    }, 
     "29276": {
         "base_branch": "CMSSW_10_2_X", 
         "changed_files_names": [
