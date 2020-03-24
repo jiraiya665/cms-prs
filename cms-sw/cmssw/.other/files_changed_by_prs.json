@@ -1170,16 +1170,6 @@
         "state": "open", 
         "updated_at": 1584629371
     }, 
-    "29244": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondCore/Utilities/scripts/getPayloadData.py"
-        ], 
-        "created_at": 1584633038, 
-        "number": 29244, 
-        "state": "open", 
-        "updated_at": 1584633080
-    }, 
     "29246": {
         "base_branch": "master", 
         "changed_files_names": [
